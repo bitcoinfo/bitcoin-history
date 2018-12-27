@@ -1,4 +1,4 @@
-# Historical info related to Bitcoin, Blockchain, and Crypto-networks
+# Historical view of Bitcoin, Blockchain, and Crypto-networks
 **Cryptography, Cypherpunks, P2P Networking, Distributed Systems, Virtual Currencies, Open Source Software, and Smart Contracts.**
 
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
