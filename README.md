@@ -16,3 +16,10 @@ A place to gather all kinds of info about crypto history,
 
 * [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
+
+* [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8)
+
+
+* [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf)
+
+* [NSA: HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH](http://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm) - Written in 1996, References two articles written by "Tatsuaki Okamoto" from 1991. [[**ϟ**](https://twitter.com/Thrillmex/status/1061583930724253697)]
