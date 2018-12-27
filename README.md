@@ -9,8 +9,7 @@ A place to gather all kinds of info about crypto history,
 
 
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
-Encryption;
-  - Phil Zimmerman creates PGP, the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as speech.
+  - Phil Zimmerman creates PGP, the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech.
   - Open Source software development
   - Peer to peer sharing
 
