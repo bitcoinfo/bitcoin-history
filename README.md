@@ -1,5 +1,5 @@
-# Historical information surrounding Bitcoin, Blockchain, and Cryptoassets
-**Cryptography, the Cypherpunks, P2P Networking, Distributed Systems, Virtual Currencies, and Open Source Software.**
+# Historical info related to Bitcoin, Blockchain, and Crypto-networks
+**Cryptography, the Cypherpunks, P2P Networking, Distributed Systems, Virtual Currencies, Open Source Software, and Smart Contracts.**
 
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
 
