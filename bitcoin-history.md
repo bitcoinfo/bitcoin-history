@@ -69,3 +69,6 @@ Description = "It took three years and the emergence of serious (and perhaps per
 * [The Bitcoin Knowledge Podcast — Legendary](https://www.bitcoin.kn/legendary/) "These are interviews with legendary guests from the Bitcoin world. Trace Mayer asks Nick Szabo what the highest priority should be for hiring Bitcoin. A Week With Adam Back in September 2015"
 
 * [Blockchain Libarary - Reading Lists - Bitcoin History](https://blockchainlibrary.org/category/reading-lists/bitcoin-history/)
+
+* [A finite monetary supply for Bitcoin](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
+  > "Although it is widely believed that Satoshi was an inflation-hating goldbug he never said this, and in fact programmed Bitcoin's money supply to grow indefinitely, forever. He modeled the monetary supply as 4 gold mines being discovered per mibillenium (1024 years), with equal intervals between them, each one being depleted over the course of 140 years. This poses obvious problems, however. Prominent among them is the discussion on what to call 1 billion Bitcoin, which symbol color to use for it, and when wallet clients should switch to it by default. To combat this, this document proposes a controversial change: making Bitcoin's monetary supply finite."
