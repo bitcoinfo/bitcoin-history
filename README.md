@@ -6,7 +6,7 @@
 
 This is a space to collect any historical information relating to Bitcoin.
 
-This readme currently contains pre-Bitcoin history, and there is a separate file for [Bitcoin History](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md), as well as the [History of Cryptocurrencies](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md). It will probably grow to have separate files for a number of different subsets of information.
+This readme currently contains pre-Bitcoin history, and there is a separate file for [Bitcoin History](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md), as well as the [History of Cryptocurrencies](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md). This repository is likely to grow, eventually to include individual files for various fields of knowledge.
 
 ### Pre Digital Cryptography
 
