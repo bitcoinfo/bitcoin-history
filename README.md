@@ -77,3 +77,4 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 ### Resources
 
 * https://nakamotoinstitute.org/literature/
+* https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History
