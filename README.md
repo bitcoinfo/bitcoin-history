@@ -1,5 +1,12 @@
 # Before Bitcoin
-**Cryptography, Cypherpunks, Open Source Software, History of Money and Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
+**Cryptography, Cypherpunks, Open Source Software, Traditional Money, Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
+
+
+### Introduction
+
+This is a space to collect any historical information relating to Bitcoin.
+
+This readme currently contains pre-Bitcoin history, and there is a separate file for [Bitcoin History](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md), as well as the [History of Cryptocurrencies](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md). It will probably grow to have separate files for a number of different subsets of information.
 
 ### Pre Digital Cryptography
 
