@@ -44,6 +44,8 @@
   * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/)
   * [eCash](https://www.chaum.com/ecash/) - Timeline
 
+* [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf)
+
 * [The untold history of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
 * [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
