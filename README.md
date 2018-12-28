@@ -58,6 +58,10 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 * [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
 
+* [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025", "https://www.facebook.com/flx/warn/?u=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-eureka-moment-that-made-bitcoin-possible-1527268025&h=AT01z4enWp-C1obtu-eTYF1yxmB7LWM9N9GM5vFGWJOuHVW9xuis-tFhcHpSMOshOHAMVWzS8XSPquk_VkFphpN7G5irj39Kp1dzgWurvz5Am_8)
+  > A key insight for the technology came to a physicist almost three decades ago at a Friendly’s restaurant in New Jersey
+
+
 ### Digital Cash and the Cypherpunks [[**^**](#contents)]
 
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8) 
@@ -92,9 +96,15 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 * UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland: Concept Paper on [Technology Driven Universal Currency Improvements and Innovations in Existing Financial Mechanisms](https://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
   > Today close to 90% of our financial transactions have a computer-only reality, no coins, and no bills. But the bits and bytes reflect national currencies defined as paper money equivalent. The next level in the increasing abstraction of credit, risk and value is to mint a currency natively defined as a string of bits. Bitdefined currency features the utmost flexibility in storage and movement, as well as in reflecting value, risk, and credit distribution. 
 
-### Smart Contracts [[**^**](#contents)]
+### Nick Szabo [[**^**](#contents)]
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
+
+* [Nick Szabo's Home Page — Archive (pre-2005)](http://archive.is/H8UGk) "Nick Szabo's Essays, Papers, and Concise Tutorials"
+
+* [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
+  > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
+
 
 ### Video-Audio [[**^**](#contents)]
 
@@ -115,4 +125,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [peercoin- history of Cryptocurrency](https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency)
 * [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
 * [crypto— how the code rebels beat the government— saving privacy in the digital age](http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa)
+* [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
+"The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
+
 
