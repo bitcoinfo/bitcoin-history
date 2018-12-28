@@ -11,6 +11,7 @@
 * [Smart-Contracts](#Smart-Contracts)
 * [Video-Audio](#Video-Audio)
 * [Resources](#Resources)
+* [Brought to you by](#brought-to-you-by-the-crypto-librarysuper-source)
 
 
 ### Introduction [[**^**](#contents)]
@@ -134,7 +135,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 ### Brought to you by The [Crypto Library](crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
-Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)
+Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)\
 <code>infominer <i>at</i> protonmail <i>dot</i> com</code>.
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
