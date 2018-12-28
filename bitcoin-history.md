@@ -64,3 +64,8 @@ Description = "It took three years and the emergence of serious (and perhaps per
 * [Bitcorati Interview Series : Vitalik Buterin - Head Writer, Bitcoin Magazine](https://www.youtube.com/watch?v=EkeCapBOQQ0)
   > "Vitalik Buterin is a former computer science student who dropped out of college to focus on bitcoin projects full-time. He was a very early bitcoin adopter and is currently the head writer at Bitcoin Magazine. Listen as Vitalik discusses his background, how he got involved in bitcoin and why he thinks bitcoin has the potential to change the world! This interview is one in a series captured at the Media Bistro Inside Bitcoins Conference in Las Vegas, Nevada, December 10th and 11th, 2013"
 
+* [Bitcoin History - OXT](https://oxt.me/history) - "This page lists a set of 'famous' events or lesser-known facts which are all part of the history of Bitcoin. Each event is illustrated with data extracted from the blockchain.
+
+* [The Bitcoin Knowledge Podcast — Legendary](https://www.bitcoin.kn/legendary/) "These are interviews with legendary guests from the Bitcoin world. Trace Mayer asks Nick Szabo what the highest priority should be for hiring Bitcoin. A Week With Adam Back in September 2015"
+
+* [Blockchain Libarary - Reading Lists - Bitcoin History](https://blockchainlibrary.org/category/reading-lists/bitcoin-history/)
