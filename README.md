@@ -136,7 +136,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)\
-<code>infominer <i>at</i> protonmail <i>dot</i> com</code>.
+<code>infominer <i>at</i> protonmail <i>dot</i> com</code>
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
