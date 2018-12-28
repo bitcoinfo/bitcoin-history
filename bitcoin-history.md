@@ -29,3 +29,34 @@
 
 * [The three economic eras of Bitcoin](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a)
   > "The way the bitcoin ecosystem will play out is written in the mathematics of its consensus rules; we should all know the three phases it will go through."
+
+
+* [Digital Gold: Bitcoin and the Inside Story of the Misfits and Millionaires Trying to Reinvent Money](https://www.harpercollins.com/9780062572066/digital-gold/)
+  > "Bitcoin, the landmark digital money and financial technology, has spawned a global social movement with utopian ambitions. The notion of a new currency, maintained by the computers of users around the world, has been the butt of many jokes, but that has not stopped it from growing into a technology worth billions of dollars, supported by the hordes of followers who have come to view it as the most important new idea since the creation of the Internet."
+
+* [Bitcoin is not Dead](https://www.forbes.com/sites/michaeldelcastillo/2018/09/06/bitcoin-is-not-dead/#355f465b5bdd)
+  > "The first recorded claim of bitcoin’s demise was in 2010, on a little-known blog that found itself posted on a record of “bitcoin obituaries” collected by 99Bitcoins, a bitcoin information site. While I consider myself among the first wave of bitcoin writers, having written my first article on the subject in 2011, this early claim of bitcoin’s death came when the cryptocurrency was valued at only $0.23. It is now worth almost $7,000."
+
+* [Bitcoin Stumble Shows Bitmain a Ghost of Crises Past](https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past)
+  > "A look at Bitmain Technologies Ltd.’s financials reveal the Chinese company sold a lot of shovels during the crypto gold rush of the past two years. Its mistake was to take digital gold as payment instead of cash. \n\nBut there are two other items that could make matters worse for Bitmain and others in the crypto-mining ecosystem, adding to pressure on the balance sheet."
+
+* [@varun_mathur on RSS history's compared to Bitcoin](https://twitter.com/varun_mathur/status/1038107664868208640)
+  > "Crypto’s RSS Era About 10 yrs ago, before the advent of bitcoin, the tech world was coming to grips with how RSS failed to take off as a consumer tech. I spent 2 yrs of my life building the best (?)feed reader UX, but I was solving for local maxima, not global maximum (industry)"
+
+* [Bitcoin’s Constitutional Crisis & Why I Support the UASF](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6)
+Description = "It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end of the tunnel in this round of the bitcoin scaling debate. Thank god.\n\nThe impending activation of BIP 148, AKA bitcoin’s “user activated soft fork”, due to take effect on August 1, would ensure that SegWit, an optimization feature that increases block capacity, gets activated without strings attached."
+
+* [@francispouliot Looking back on UASF](https://twitter.com/francispouliot_/status/1037379672282152960) [[**ϟ**](https://twitter.com/francispouliot_/status/1037358649029668864)]
+  > 1/ Full text of the article: 'After the one year anniversary of Bitcoin’s iconic User Activated Soft Fork, we had the pleasure of speaking with Francis Pouliot, CEO of Bylls, a major proponent in the campaign to keep Bitcoin under its users’ control.
+ 
+* [SLP23 – Economic Eras of Bitcoin, and Lightning Development](https://stephanlivera.com/2018/09/20/slp23-economic-eras-of-bitcoin-and-lightning-development-with-rusty-russell-of-blockstream/)
+  > "Rusty Russell, a well known and respected Bitcoin Lightning developer at Blockstream  joins me in this episode. We talk about his article, The Three Economic Eras of Bitcoin, and discuss the Lightning Network for Bitcoin. Lastly, Rusty draws from his prior experience as a Linux kernel developer to contrast Linux development with Bitcoin and Lightning development practices and culture."
+
+* [Satoshi on Anonymous Transactions - bitcointalk](https://twitter.com/notgrubles/status/1043569394901602304) [[**ϟ**](https://bitcointalk.org/index.php?topic=770.msg9074)
+  > "As some might have noticed, one of the things that bugs me about bitcoin is that the entire history of transactions is completely public. I totally understand the benefits of how this simplifies things and makes it easy for everyone to prove coins are valid. So this is not a suggestion for a change to bitcoin. Rather it is a question about what could be possible, and what couldn't be possible."
+
+* [Bitcoin's Origins and the Genesis Blockade](https://youtu.be/cagoyF3WePo)
+  > "In this talk, Andreas recounts the origins of Bitcoin, the meaning of the message embedded forever in its genesis block, and how we figured out who the banks truly serve when there was no other choice. He also speaks about what happens when money stops working, why censorship resistance was one of Bitcoin's most valuable characteristics from the start, and what possibilities lay in store with a global, voluntary financial system."
+
+* [@BitcoinErrorLog on the original Bitcoin Foundation](https://twitter.com/BitcoinErrorLog/status/1044207811603943425)
+  > "I was a paying member of the original Bitcoin Foundation. They were mostly a train wreck. I attended their annual meeting at a conference in Amsterdam and met with their accounting person to ask some hard questions. She was actually pretty savvy. /1"
