@@ -7,7 +7,7 @@
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography)
 * [Digital Cryptography](#digital-cryptography)
 * [Distributed Systems](#distributed-systems)
-* [Digital Cash and the Cypherpunks](#Digital-Cash-and-The-Cypherpunks)
+* [Digital Cash and the Cypherpunks](#Digital-Cash-and-The-Cypherpunks-)
 * [Smart-Contracts](#Smart-Contracts)
 * [Video-Audio](#Video-Audio)
 * [Resources](#Resources)
@@ -75,6 +75,8 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 * [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf)
 
 * [The untold history of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
+
+* [More information regarding Cypherpunks](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
 
 * [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
   >Much has been published recently about the awesome promises of electronic commerce and trade on the Internet if only a reliable, secure mechanism for value exchange could be developed. This paper describes the differences between mere encrypted credit card schemes and true digital cash, which presents a revolutionary opportunity to transform payments. The nine key elements of an electronic, digital cash are outlined and a tenth element is proposed which would embody digital cash with a non- political unit of value.
