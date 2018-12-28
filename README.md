@@ -1,6 +1,14 @@
 # Before Bitcoin
 **Cryptography, Cypherpunks, Open Source Software, Traditional Money, Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
 
+### Contents
+
+* [Introduction](#Introduction)
+* [Pre-Digital Cryptogrphay](#pre-digital-cryptography)
+* [Digital Cryptography](#digital-cryptography)
+* [Distributed Systems](#distributed-systems)
+* [Digital Cash and the Cypherpunks](#Digital Cash-and-The-Cypherpunks)
+
 
 ### Introduction
 
@@ -47,7 +55,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 * [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
 
-### Rise of the Internet leads to Digital Cash, and The Cypherpunks
+### Digital Cash and the Cypherpunks
 
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8) 
   * [Untracable Electronic Cash](http://www.alessandromasciadri.com/wise/wp-content/uploads/2018/01/David_Chaum-1982-Electronic_Cash.pdf)
