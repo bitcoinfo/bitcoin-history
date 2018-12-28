@@ -5,7 +5,7 @@
 
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
 
-* [Crypto Is For Everyone—and American History Proves It](EFF - Crypto Is For Everyone—and American History Proves It)
+* [EFF - Crypto Is For Everyone—and American History Proves It](https://www.eff.org/deeplinks/2015/10/crypto-everyone-and-american-history-proves-it)
 
 ![](http://i.imgur.com/RZafVvV.png)
 * ["GET READY FOR A WORLD CURRENCY"](http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf)
