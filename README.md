@@ -1,4 +1,4 @@
-# Historical Background: Bitcoin, Blockchain, and Crypto-networks
+# Before Bitcoin
 **Cryptography, Cypherpunks, Open Source Software, Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
 
 ### Pre Digital Cryptography
