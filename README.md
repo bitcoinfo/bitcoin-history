@@ -1,5 +1,5 @@
 # Before Bitcoin
-**Cryptography, Cypherpunks, Open Source Software, Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
+**Cryptography, Cypherpunks, Open Source Software, History of Money and Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
 
 ### Pre Digital Cryptography
 
@@ -10,6 +10,8 @@
 ![](http://i.imgur.com/RZafVvV.png)
 * ["GET READY FOR A WORLD CURRENCY"](http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf)
   Get Ready for the Phoenix- Economist; 01/9/88, Vol. 306, pp 9-10
+
+* [Before Babylon, Beyond Bitcoin: From Money that We Understand to Money that Understands Us](https://the-eye.eu/public/concen.org/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29%20%28Pdf%29%20Gooner/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29.pdf)
 
 ### Digital Cryptography
 
