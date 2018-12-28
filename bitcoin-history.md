@@ -1,4 +1,6 @@
-<img src="https://www.thetimes03jan2009.com/wp-content/uploads/2015/03/genesis-block-newspaper-bitcoin.jpg"/>
+# Bitcoin History
+
+<img src="http://i.imgur.com/UaSoZf9.png"/>
 
 [Genesis Block Newspaper](https://www.thetimes03jan2009.com/) 
   > "The only two remaining verified complete copies of this newspaper were acquired from the London National Archives on January 14, 2014. The newspapers come in a complete set with both the cover and the entire newspaper included. 
