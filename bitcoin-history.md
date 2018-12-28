@@ -72,3 +72,18 @@ Description = "It took three years and the emergence of serious (and perhaps per
 
 * [A finite monetary supply for Bitcoin](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
   > "Although it is widely believed that Satoshi was an inflation-hating goldbug he never said this, and in fact programmed Bitcoin's money supply to grow indefinitely, forever. He modeled the monetary supply as 4 gold mines being discovered per mibillenium (1024 years), with equal intervals between them, each one being depleted over the course of 140 years. This poses obvious problems, however. Prominent among them is the discussion on what to call 1 billion Bitcoin, which symbol color to use for it, and when wallet clients should switch to it by default. To combat this, this document proposes a controversial change: making Bitcoin's monetary supply finite."
+
+### Brought to you by The [Crypto Library](crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
+[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
+
+Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)\
+<code>infominer <i>at</i> protonmail <i>dot</i> com</code>
+
+BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
+
+![](http://imgur.com/yXLLm9Bl.png) 
+
+DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
+
+![](https://i.imgur.com/0zBLoUP.png) 
+
