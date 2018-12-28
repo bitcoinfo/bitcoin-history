@@ -1,13 +1,14 @@
 # Historical Background: Bitcoin, Blockchain, and Crypto-networks
-**Cryptography, Cypherpunks, Open Source Software, P2P Networking, Distributed Systems, Virtual Currencies and Smart Contracts.**
+**Cryptography, Cypherpunks, Open Source Software, Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
 
-<a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
 
 
 * http://www.merkle.com/1974/ 
   >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
 
 * https://crypto.stackexchange.com/questions/56404/what-was-the-first-hash-and-what-problem-was-it-supposed-to-solve
+
+<a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
 
 
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
@@ -22,13 +23,14 @@
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8)
   * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf)
   * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/)
+  * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/)
 
 * [The untold history of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
 * [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
   >Much has been published recently about the awesome promises of electronic commerce and trade on the Internet if only a reliable, secure mechanism for value exchange could be developed. This paper describes the differences between mere encrypted credit card schemes and true digital cash, which presents a revolutionary opportunity to transform payments. The nine key elements of an electronic, digital cash are outlined and a tenth element is proposed which would embody digital cash with a non- political unit of value.
-  
 
+* [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
 
 * [NSA: HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH](http://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm) - Written in 1996, References two articles written by "Tatsuaki Okamoto" from 1991. [[**ϟ**](https://twitter.com/Thrillmex/status/1061583930724253697)]
 
@@ -39,3 +41,6 @@
   * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
   
   
+### Resources
+
+* https://nakamotoinstitute.org/literature/
