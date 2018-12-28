@@ -30,6 +30,10 @@
 * [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
 
+### Distributed Systems
+
+* [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
+
 ### Rise of the Internet leads to Digital Cash, and The Cypherpunks
 
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8)
@@ -41,6 +45,8 @@
 
 * [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
   >Much has been published recently about the awesome promises of electronic commerce and trade on the Internet if only a reliable, secure mechanism for value exchange could be developed. This paper describes the differences between mere encrypted credit card schemes and true digital cash, which presents a revolutionary opportunity to transform payments. The nine key elements of an electronic, digital cash are outlined and a tenth element is proposed which would embody digital cash with a non- political unit of value.
+
+* [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b)
 
 * [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
 
@@ -60,8 +66,8 @@
 
 * [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
 Princeton - Bitcoin and Cryptocurrency Technologies Online Course
-* []()
-
+* [The Bitcoin Game #59: Dr. Adam Back](https://letstalkbitcoin.com/blog/post/the-bitcoin-game-59-dr-adam-back)
+  >  Dr. Back talks about topics such as his first computers, his early privacy-oriented work, Hashcash vs. other proof-of-work, various early electronic money systems, and his work on Bitcoin Confidential Transactions. Get ready to soak in some history from one of the people whose "work" became an integral part of Bitcoin.
   
 ### Resources
 
