@@ -80,6 +80,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 
 ### Resources
 
+* [P2P Foundation Wiki](http://wiki.p2pfoundation.net/)
 * https://nakamotoinstitute.org/literature/
 * https://nakamotoinstitute.org/
 * [Pre-Blockchain Digital Currencies](https://github.com/bellaj/Blockchain/blob/master/Bitcoin%20History%20%20Pre-Blockchain%20Digital%20Currencies.pdf)
