@@ -1,5 +1,7 @@
 # Cypherpunks Information
 
+Continued from [bitcoin-history.md](https://github.com/infominer33/bitcoin-history#digital-cash-and-the-cypherpunks-)
+
 * [Cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt) [[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
 THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyright Timothy C. May
 
