@@ -60,3 +60,7 @@ Description = "It took three years and the emergence of serious (and perhaps per
 
 * [@BitcoinErrorLog on the original Bitcoin Foundation](https://twitter.com/BitcoinErrorLog/status/1044207811603943425)
   > "I was a paying member of the original Bitcoin Foundation. They were mostly a train wreck. I attended their annual meeting at a conference in Amsterdam and met with their accounting person to ask some hard questions. She was actually pretty savvy. /1"
+  
+* [Bitcorati Interview Series : Vitalik Buterin - Head Writer, Bitcoin Magazine](https://www.youtube.com/watch?v=EkeCapBOQQ0)
+  > "Vitalik Buterin is a former computer science student who dropped out of college to focus on bitcoin projects full-time. He was a very early bitcoin adopter and is currently the head writer at Bitcoin Magazine. Listen as Vitalik discusses his background, how he got involved in bitcoin and why he thinks bitcoin has the potential to change the world! This interview is one in a series captured at the Media Bistro Inside Bitcoins Conference in Las Vegas, Nevada, December 10th and 11th, 2013"
+
