@@ -7,16 +7,19 @@
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography)
 * [Digital Cryptography](#digital-cryptography)
 * [Distributed Systems](#distributed-systems)
-* [Digital Cash and the Cypherpunks](#Digital Cash-and-The-Cypherpunks)
+* [Digital Cash and the Cypherpunks](#Digital-Cash-and-The-Cypherpunks)
+* [Smart-Contracts](#Smart-Contracts)
+* [Video-Audio](#Video-Audio)
+* [Resources](#Resources)
 
 
-### Introduction
+### Introduction [[**^**](#contents)]
 
 This is a space to collect any historical information relating to Bitcoin.
 
 This readme currently contains pre-Bitcoin history, and there is a separate file for [Bitcoin History](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md), as well as the [History of Cryptocurrencies](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md). This repository is likely to grow, eventually to include individual files for various fields of knowledge.
 
-### Pre Digital Cryptography
+### Pre Digital Cryptography [[**^**](#contents)]
 
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
 
@@ -28,7 +31,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 * [Before Babylon, Beyond Bitcoin: From Money that We Understand to Money that Understands Us](https://the-eye.eu/public/concen.org/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29%20%28Pdf%29%20Gooner/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29.pdf)
 
-### Digital Cryptography
+### Digital Cryptography [[**^**](#contents)]
 
 * [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) - "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
 
@@ -51,11 +54,11 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 
 
-### Distributed Systems
+### Distributed Systems [[**^**](#contents)]
 
 * [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
 
-### Digital Cash and the Cypherpunks
+### Digital Cash and the Cypherpunks [[**^**](#contents)]
 
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8) 
   * [Untracable Electronic Cash](http://www.alessandromasciadri.com/wise/wp-content/uploads/2018/01/David_Chaum-1982-Electronic_Cash.pdf)
@@ -86,11 +89,11 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
   * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
 
-### Smart Contract History
+### Smart Contracts [[**^**](#contents)]
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
 
-### Video-Audio
+### Video-Audio [[**^**](#contents)]
 
 * [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
 Princeton - Bitcoin and Cryptocurrency Technologies Online Course
