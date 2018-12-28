@@ -1,7 +1,17 @@
 # Historical Background: Bitcoin, Blockchain, and Crypto-networks
 **Cryptography, Cypherpunks, Open Source Software, Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
 
+### Pre Digital Cryptography
 
+* [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
+
+* [Crypto Is For Everyone—and American History Proves It](EFF - Crypto Is For Everyone—and American History Proves It)
+
+![](http://i.imgur.com/RZafVvV.png)
+* ["GET READY FOR A WORLD CURRENCY"](http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf)
+  Get Ready for the Phoenix- Economist; 01/9/88, Vol. 306, pp 9-10
+
+### Digital Cryptography
 
 * http://www.merkle.com/1974/ 
   >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
@@ -19,6 +29,8 @@
 
 * [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
+
+### Rise of the Internet, Digital Cash, and The Cypherpunks
 
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8)
   * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf)
@@ -39,7 +51,17 @@
 * [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm)
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
   * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
-  
+
+### Smart Contract History
+
+* [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
+
+### Video-Audio
+
+* [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
+Princeton - Bitcoin and Cryptocurrency Technologies Online Course
+* []()
+
   
 ### Resources
 
