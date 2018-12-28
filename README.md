@@ -73,10 +73,13 @@
 Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [The Bitcoin Game #59: Dr. Adam Back](https://letstalkbitcoin.com/blog/post/the-bitcoin-game-59-dr-adam-back)
   >  Dr. Back talks about topics such as his first computers, his early privacy-oriented work, Hashcash vs. other proof-of-work, various early electronic money systems, and his work on Bitcoin Confidential Transactions. Get ready to soak in some history from one of the people whose "work" became an integral part of Bitcoin.
-  
+* [Bitcoin Prehistory](https://www.youtube.com/watch?v=v_DmtLsTsp4)
+* [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
+
 ### Resources
 
 * https://nakamotoinstitute.org/literature/
 * [Pre-Blockchain Digital Currencies](https://github.com/bellaj/Blockchain/blob/master/Bitcoin%20History%20%20Pre-Blockchain%20Digital%20Currencies.pdf)
 * https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History
 * [peercoin- history of Cryptocurrency](https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency)
+* [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
