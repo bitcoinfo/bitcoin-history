@@ -93,5 +93,5 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History
 * [peercoin- history of Cryptocurrency](https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency)
 * [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
-* [crypto— how the code rebels beat the government— saving privacy in the digital age](http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa
+* [crypto— how the code rebels beat the government— saving privacy in the digital age](http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa)
 
