@@ -89,6 +89,9 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
   * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
 
+* UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland: Concept Paper on [Technology Driven Universal Currency Improvements and Innovations in Existing Financial Mechanisms](https://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
+  > Today close to 90% of our financial transactions have a computer-only reality, no coins, and no bills. But the bits and bytes reflect national currencies defined as paper money equivalent. The next level in the increasing abstraction of credit, risk and value is to mint a currency natively defined as a string of bits. Bitdefined currency features the utmost flexibility in storage and movement, as well as in reflecting value, risk, and credit distribution. 
+
 ### Smart Contracts [[**^**](#contents)]
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
