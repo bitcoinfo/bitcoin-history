@@ -14,14 +14,14 @@
 * [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
 
 
-### Introduction [[**^**](#contents)]
+### Introduction [**^**](#contents)
 
 This repository is a space to gather any historical information about Bitcoin and related fields.
 
 This readme currently contains pre-Bitcoin history, and there is a separate file for [cypherpunks](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) info, [Bitcoin History](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md), as well as the [History of Cryptocurrencies](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md). This repository is likely to grow, eventually to include individual files for various fields of knowledge.
 
 
-### Pre Digital Cryptography [[**^**](#contents)]
+### Pre Digital Cryptography [**^**](#contents)
 
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
 
@@ -33,7 +33,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 * [Before Babylon, Beyond Bitcoin: From Money that We Understand to Money that Understands Us](https://the-eye.eu/public/concen.org/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29%20%28Pdf%29%20Gooner/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29.pdf)
 
-### Digital Cryptography [[**^**](#contents)]
+### Digital Cryptography [**^**](#contents)
 
 * [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) - "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
 
@@ -56,7 +56,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 
 
-### Distributed Systems [[**^**](#contents)]
+### Distributed Systems [**^**](#contents)
 
 * [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
 
@@ -64,7 +64,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   > A key insight for the technology came to a physicist almost three decades ago at a Friendly’s restaurant in New Jersey
 
 
-### Digital Cash and the Cypherpunks [[**^**](#contents)]
+### Digital Cash and the Cypherpunks [**^**](#contents)
 
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8) 
   * [Untracable Electronic Cash](http://www.alessandromasciadri.com/wise/wp-content/uploads/2018/01/David_Chaum-1982-Electronic_Cash.pdf)
@@ -104,7 +104,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 * [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) 
   > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
 
-### Nick Szabo [[**^**](#contents)]
+### Nick Szabo [**^**](#contents)
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
 
@@ -114,7 +114,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
 
 
-### Video-Audio [[**^**](#contents)]
+### Video-Audio [**^**](#contents)
 
 * [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
 Princeton - Bitcoin and Cryptocurrency Technologies Online Course
@@ -123,7 +123,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [Bitcoin Prehistory](https://www.youtube.com/watch?v=v_DmtLsTsp4)
 * [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
 
-### Resources [[**^**](#contents)]
+### Resources [**^**](#contents)
 
 * [P2P Foundation Wiki](http://wiki.p2pfoundation.net/)
 * https://nakamotoinstitute.org/literature/
@@ -136,7 +136,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
 "The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
 
-### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [[**^**](#contents)]
+### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)\
