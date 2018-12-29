@@ -11,7 +11,7 @@
 * [Nick Szabo](#Nick-Szabo-)
 * [Video-Audio](#Video-Audio-)
 * [Resources](#Resources)
-* [Brought to you by](#brought-to-you-by-the-crypto-librarysuper-source)
+* [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
 
 
 ### Introduction [[**^**](#contents)]
