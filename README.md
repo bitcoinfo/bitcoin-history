@@ -73,6 +73,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/)
   * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/)
   * [eCash](https://www.chaum.com/ecash/) - Timeline
+  * [THE FATHER OF ONLINE ANONYMITY HAS A PLAN TO END THE CRYPTO WAR](https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/)
 
 * [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf)
 
