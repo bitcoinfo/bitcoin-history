@@ -60,7 +60,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 * [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
 
-* [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025", "https://www.facebook.com/flx/warn/?u=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-eureka-moment-that-made-bitcoin-possible-1527268025&h=AT01z4enWp-C1obtu-eTYF1yxmB7LWM9N9GM5vFGWJOuHVW9xuis-tFhcHpSMOshOHAMVWzS8XSPquk_VkFphpN7G5irj39Kp1dzgWurvz5Am_8)
+* [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025) [**ϟ**](https://www.facebook.com/flx/warn/?u=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-eureka-moment-that-made-bitcoin-possible-1527268025&h=AT01z4enWp-C1obtu-eTYF1yxmB7LWM9N9GM5vFGWJOuHVW9xuis-tFhcHpSMOshOHAMVWzS8XSPquk_VkFphpN7G5irj39Kp1dzgWurvz5Am_8)
   > A key insight for the technology came to a physicist almost three decades ago at a Friendly’s restaurant in New Jersey
 
 
