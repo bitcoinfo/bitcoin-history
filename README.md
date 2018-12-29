@@ -5,7 +5,7 @@
 
 * [Introduction](#Introduction)
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography-)
-* [Digital Cryptography](#digital-cryptography=)
+* [Digital Cryptography](#digital-cryptography-)
 * [Distributed Systems](#distributed-systems-)
 * [Digital Cash and the Cypherpunks](#Digital-Cash-and-The-Cypherpunks-)
 * [Smart-Contracts](#Smart-Contracts)
