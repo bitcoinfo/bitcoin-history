@@ -8,7 +8,7 @@
 * [Digital Cryptography](#digital-cryptography-)
 * [Distributed Systems](#distributed-systems-)
 * [Digital Cash and the Cypherpunks](#Digital-Cash-and-The-Cypherpunks-)
-* [Smart-Contracts](#Smart-Contracts-)
+* [Nick Szabo](#Nick-Szabo-)
 * [Video-Audio](#Video-Audio-)
 * [Resources](#Resources)
 * [Brought to you by](#brought-to-you-by-the-crypto-librarysuper-source)
