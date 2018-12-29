@@ -8,8 +8,8 @@
 * [Digital Cryptography](#digital-cryptography-)
 * [Distributed Systems](#distributed-systems-)
 * [Digital Cash and the Cypherpunks](#Digital-Cash-and-The-Cypherpunks-)
-* [Smart-Contracts](#Smart-Contracts)
-* [Video-Audio](#Video-Audio)
+* [Smart-Contracts](#Smart-Contracts-)
+* [Video-Audio](#Video-Audio-)
 * [Resources](#Resources)
 * [Brought to you by](#brought-to-you-by-the-crypto-librarysuper-source)
 
@@ -120,7 +120,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [Bitcoin Prehistory](https://www.youtube.com/watch?v=v_DmtLsTsp4)
 * [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
 
-### Resources
+### Resources [[**^**](#contents)]
 
 * [P2P Foundation Wiki](http://wiki.p2pfoundation.net/)
 * https://nakamotoinstitute.org/literature/
@@ -133,7 +133,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
 "The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
 
-### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
+### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [[**^**](#contents)]
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)\
