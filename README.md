@@ -99,6 +99,10 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
     * Philip Zimmermann: Creator of PGP 1.0
   * In 1997, Dr Adam Back created Hashcash
   * Later in 1998, Wei Dai published a proposal for “b-money”,
+
+* [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code)
+  * Reading list: 1984, The Shockwave Rider, True Names, “Security without Identification: Transaction Systems to Make Big Brother Obsolete,” and Atlas Shrugged.
+
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
