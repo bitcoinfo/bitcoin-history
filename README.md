@@ -58,6 +58,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   * [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
   * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/) - 2018
   * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/) - 2018
+ 
 
 
 
@@ -77,8 +78,6 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 ### Cypherpunks [**^**](#contents)
 
-* [Back to the Future: Adam Back Remembers the Cypherpunk Revolution and the Origins of Bitcoin](https://bitcoinmagazine.com/articles/back-future-adam-back-remembers-cypherpunk-revolution-origins-bitcoin-1441741053/)
-  * https://www.bitcoin.kn/2015/09/why-dr-adam-back-so-legendary/
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
   - Phil Zimmerman creates PGP, the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech.
   - Open Source software development
@@ -110,18 +109,11 @@ of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
   * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
 
-* UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland: Concept Paper on [Technology Driven Universal Currency Improvements and Innovations in Existing Financial Mechanisms](https://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
-  > Today close to 90% of our financial transactions have a computer-only reality, no coins, and no bills. But the bits and bytes reflect national currencies defined as paper money equivalent. The next level in the increasing abstraction of credit, risk and value is to mint a currency natively defined as a string of bits. Bitdefined currency features the utmost flexibility in storage and movement, as well as in reflecting value, risk, and credit distribution. 
-
-* [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) 
-  > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
 
 ### Nick Szabo [**^**](#contents)
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
-
 * [Nick Szabo's Home Page — Archive (pre-2005)](http://archive.is/H8UGk) "Nick Szabo's Essays, Papers, and Concise Tutorials"
-
 * [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
   > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
 
@@ -130,6 +122,7 @@ of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of
 
 * [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
 Princeton - Bitcoin and Cryptocurrency Technologies Online Course
+* [Back to the Future: Adam Back Remembers the Cypherpunk Revolution and the Origins of Bitcoin](https://www.bitcoin.kn/2015/09/why-dr-adam-back-so-legendary/)[[**ϟ**](https://bitcoinmagazine.com/articles/back-future-adam-back-remembers-cypherpunk-revolution-origins-bitcoin-1441741053/)]
 * [The Bitcoin Game #59: Dr. Adam Back](https://letstalkbitcoin.com/blog/post/the-bitcoin-game-59-dr-adam-back)
   >  Dr. Back talks about topics such as his first computers, his early privacy-oriented work, Hashcash vs. other proof-of-work, various early electronic money systems, and his work on Bitcoin Confidential Transactions. Get ready to soak in some history from one of the people whose "work" became an integral part of Bitcoin.
 * [Bitcoin Prehistory](https://www.youtube.com/watch?v=v_DmtLsTsp4)
@@ -145,7 +138,12 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
   * Bit Gold - Nick Szabo
 * [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
 "The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
+  * DigiCash (1989)
+  * Hashcash (1997)
+  * B-money proposal (1998)
+  * The Bit Gold proposal (1998)
 * [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
+  * History of digital currencies of the 90's with DigiCash as the primary example
 
 ### Additional Resources [**^**](#contents)
 
@@ -156,6 +154,11 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History
 * [peercoin- history of Cryptocurrency](https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency)
 * [crypto— how the code rebels beat the government— saving privacy in the digital age](http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa)
+* [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) - 2008
+  > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
+* UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland:  [Technology Driven Universal Currency Improvements and Innovations in Existing Financial Mechanisms](https://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
+  > Today close to 90% of our financial transactions have a computer-only reality, no coins, and no bills. But the bits and bytes reflect national currencies defined as paper money equivalent. The next level in the increasing abstraction of credit, risk and value is to mint a currency natively defined as a string of bits. Bitdefined currency features the utmost flexibility in storage and movement, as well as in reflecting value, risk, and credit distribution. 
+
 
 ### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
