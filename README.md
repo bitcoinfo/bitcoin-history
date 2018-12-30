@@ -79,31 +79,21 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 ### Cypherpunks [**^**](#contents)
 
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
-  - Phil Zimmerman creates PGP, the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech.
+  - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
   - Peer to peer sharing
-* [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice)
+* [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
 of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
 * [More information regarding Cypherpunks](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
 
-* [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
-  >Much has been published recently about the awesome promises of electronic commerce and trade on the Internet if only a reliable, secure mechanism for value exchange could be developed. This paper describes the differences between mere encrypted credit card schemes and true digital cash, which presents a revolutionary opportunity to transform payments. The nine key elements of an electronic, digital cash are outlined and a tenth element is proposed which would embody digital cash with a non- political unit of value.
 
-* [Digital Money: A divine gift or Satan's malicious tool?](https://web.archive.org/web/20020414173029/http://lglwww.epfl.ch/~jkienzle/old/Digital_Money/digital_money.html)
-
-* [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b)
-
-* [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
-
-* [NSA: HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH](http://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm) - Written in 1996, References two articles written by "Tatsuaki Okamoto" from 1991. [[**ϟ**](https://twitter.com/Thrillmex/status/1061583930724253697)]
 
 * [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
 
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
 
-<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
 
 * [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm)
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
@@ -111,27 +101,27 @@ of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of
 
 
 ### Nick Szabo [**^**](#contents)
+<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
 * [Nick Szabo's Home Page — Archive (pre-2005)](http://archive.is/H8UGk) "Nick Szabo's Essays, Papers, and Concise Tutorials"
 * [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
   > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
 
+### Literature
+* [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
+* [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
+  >Much has been published recently about the awesome promises of electronic commerce and trade on the Internet if only a reliable, secure mechanism for value exchange could be developed. This paper describes the differences between mere encrypted credit card schemes and true digital cash, which presents a revolutionary opportunity to transform payments. The nine key elements of an electronic, digital cash are outlined and a tenth element is proposed which would embody digital cash with a non- political unit of value.
+* [Digital Money: A divine gift or Satan's malicious tool?](https://web.archive.org/web/20020414173029/http://lglwww.epfl.ch/~jkienzle/old/Digital_Money/digital_money.html) 1996 paper, oft cited for early history of virtual currencies
+* [NSA: HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH](http://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm) 
+  - Written in 1996, References two articles written by "Tatsuaki Okamoto" from 1991. [[**ϟ**](https://twitter.com/Thrillmex/status/1061583930724253697)] -  [Tatsuaki References](https://cryptographersworld.com/a.php?a=21)
+* [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf) - 2013 Princeton University
+  * Crypto-history starting from the 80s
 
-### Video-Audio [**^**](#contents)
-
-* [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
-Princeton - Bitcoin and Cryptocurrency Technologies Online Course
-* [Back to the Future: Adam Back Remembers the Cypherpunk Revolution and the Origins of Bitcoin](https://www.bitcoin.kn/2015/09/why-dr-adam-back-so-legendary/)[[**ϟ**](https://bitcoinmagazine.com/articles/back-future-adam-back-remembers-cypherpunk-revolution-origins-bitcoin-1441741053/)]
-* [The Bitcoin Game #59: Dr. Adam Back](https://letstalkbitcoin.com/blog/post/the-bitcoin-game-59-dr-adam-back)
-  >  Dr. Back talks about topics such as his first computers, his early privacy-oriented work, Hashcash vs. other proof-of-work, various early electronic money systems, and his work on Bitcoin Confidential Transactions. Get ready to soak in some history from one of the people whose "work" became an integral part of Bitcoin.
-* [Bitcoin Prehistory](https://www.youtube.com/watch?v=v_DmtLsTsp4)
-* [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
 
 ### Articles
 
-* [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf) - 2013 Princeton University
-  * Crypto-history starting from the 80s
+* [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b) ϟϟϟ Digi-Cash—eGold—Bitcoin
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin)
   * eCash (DigiCash) - David Chaum
   * HashCash - Adam Back
@@ -144,6 +134,19 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
   * The Bit Gold proposal (1998)
 * [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
   * History of digital currencies of the 90's with DigiCash as the primary example
+
+
+
+### Video-Audio [**^**](#contents)
+
+* [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
+Princeton - Bitcoin and Cryptocurrency Technologies Online Course
+* [Back to the Future: Adam Back Remembers the Cypherpunk Revolution and the Origins of Bitcoin](https://www.bitcoin.kn/2015/09/why-dr-adam-back-so-legendary/)[[**ϟ**](https://bitcoinmagazine.com/articles/back-future-adam-back-remembers-cypherpunk-revolution-origins-bitcoin-1441741053/)]
+* [The Bitcoin Game #59: Dr. Adam Back](https://letstalkbitcoin.com/blog/post/the-bitcoin-game-59-dr-adam-back)
+  >  Dr. Back talks about topics such as his first computers, his early privacy-oriented work, Hashcash vs. other proof-of-work, various early electronic money systems, and his work on Bitcoin Confidential Transactions. Get ready to soak in some history from one of the people whose "work" became an integral part of Bitcoin.
+* [Bitcoin Prehistory](https://www.youtube.com/watch?v=v_DmtLsTsp4)
+* [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
+
 
 ### Additional Resources [**^**](#contents)
 
