@@ -81,6 +81,8 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 * [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf)
 
+* [Back to the Future: Adam Back Remembers the Cypherpunk Revolution and the Origins of Bitcoin](https://bitcoinmagazine.com/articles/back-future-adam-back-remembers-cypherpunk-revolution-origins-bitcoin-1441741053/)
+
 * [The untold history of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
 * [More information regarding Cypherpunks](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
