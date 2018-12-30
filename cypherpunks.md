@@ -1,6 +1,6 @@
 # Cypherpunks Information
 
-Continued from [bitcoin-history.md](https://github.com/infominer33/bitcoin-history#digital-cash-and-the-cypherpunks-)
+Continued from [/bitcoin-history#cypherpunks-](https://github.com/infominer33/bitcoin-history#cypherpunks-)
 
 * [Cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt) [[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
 THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyright Timothy C. May
@@ -19,6 +19,9 @@ EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION
 * [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) "Cypherpunks write code."
 
 * [cypherpunks.to - archive](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to) a center for research and development of cypherpunk projects such as remailers, anonymous peer-to-peer services, secure network tunnels, mobile voice encryption, untraceable electronic cash, secure operating environments, etc.
+
+* [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
+
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
   > "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note."
