@@ -45,24 +45,6 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
 
 
-* [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
-  - Phil Zimmerman creates PGP, the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech.
-  - Open Source software development
-  - Peer to peer sharing
-
-
-* [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice)
-  >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
-
-
-
-### Distributed Systems [**^**](#contents)
-
-* [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
-
-* [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025) [**ϟ**](https://www.facebook.com/flx/warn/?u=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-eureka-moment-that-made-bitcoin-possible-1527268025&h=AT01z4enWp-C1obtu-eTYF1yxmB7LWM9N9GM5vFGWJOuHVW9xuis-tFhcHpSMOshOHAMVWzS8XSPquk_VkFphpN7G5irj39Kp1dzgWurvz5Am_8)
-  > A key insight for the technology came to a physicist almost three decades ago at a Friendly’s restaurant in New Jersey
-
 
 ### David Chaum [**^**](#contents)
 
@@ -76,12 +58,38 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   * [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
   * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/) - 2018
   * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/) - 2018
-  
+
+
+
+### Distributed Systems [**^**](#contents)
+
+* [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
+  * FLP Impossibility (1985)
+  * CAP Theorem (1999)
+  * Paxos (1989)
+  * Practical BFT (1999)
+  * Byzantine Paxos (2010)
+  * Raft (2014)
+  * PoW - Bitcoin
+* [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025) [[**ϟ**](https://www.facebook.com/flx/warn/?u=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-eureka-moment-that-made-bitcoin-possible-1527268025&h=AT01z4enWp-C1obtu-eTYF1yxmB7LWM9N9GM5vFGWJOuHVW9xuis-tFhcHpSMOshOHAMVWzS8XSPquk_VkFphpN7G5irj39Kp1dzgWurvz5Am_8)]
+  * "[How to Time-Stamp a Digital Document](https://link.springer.com/content/pdf/10.1007%2F3-540-38424-3_32.pdf)” 1991
+
+
 ### Cypherpunks [**^**](#contents)
 
 * [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf)
 
 * [Back to the Future: Adam Back Remembers the Cypherpunk Revolution and the Origins of Bitcoin](https://bitcoinmagazine.com/articles/back-future-adam-back-remembers-cypherpunk-revolution-origins-bitcoin-1441741053/)
+
+* [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
+  - Phil Zimmerman creates PGP, the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech.
+  - Open Source software development
+  - Peer to peer sharing
+
+
+* [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice)
+  >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
+
 
 * [The untold history of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
