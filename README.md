@@ -78,6 +78,26 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 ### Cypherpunks [**^**](#contents)
 
+* [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
+  * 1980s, Dr David Chaum 
+  * late 1992, Eric Hughes, Timothy C May, and John Gilmore founded cypherpunks
+  * The Cypherpunks mailing list was formed, and a few months later, Eric Hughes published “A Cypherpunk’s Manifesto“.
+    > “Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.”
+  * Notable Cypherpunks:
+    * Jacob Appelbaum: Tor developer
+    * Julian Assange: Founder of WikiLeaks
+    * Dr Adam Back: Inventor of Hashcash, co-founder of Blockstream
+    * Bram Cohen: Creator of BitTorrent
+    * Hal Finney: Main author of PGP 2.0, creator of Reusable Proof of Work
+    * Tim Hudson: Co-author of SSLeay, the precursor to OpenSSL
+    * Paul Kocher: Co-author of SSL 3.0
+    * Moxie Marlinspike: Founder of Open Whisper Systems (developer of Signal)
+    * Steven Schear: Creator of the concept of the “warrant canary”
+    * Bruce Schneier: Well-known security author
+    * Zooko Wilcox-O’Hearn: DigiCash developer, Founder of Zcash
+    * Philip Zimmermann: Creator of PGP 1.0
+  * In 1997, Dr Adam Back created Hashcash
+  * Later in 1998, Wei Dai published a proposal for “b-money”,
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
@@ -86,12 +106,6 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
 of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
-* [More information regarding Cypherpunks](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
-
-
-
-* [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
-
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
 
 
@@ -99,6 +113,7 @@ of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
   * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
 
+* [More information regarding Cypherpunks](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
 
 ### Nick Szabo [**^**](#contents)
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
