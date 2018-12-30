@@ -53,12 +53,9 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   * [Untracable Electronic Cash](http://www.alessandromasciadri.com/wise/wp-content/uploads/2018/01/David_Chaum-1982-Electronic_Cash.pdf) - 1982
   * [Blind Signatures for Untracable Payments](http://www.hit.bme.hu/~buttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF) - 1982
   * [SECURITY WITHOUT IDENTIFICATION: TRANSACTION SYSTEMS TO MAKE BIG BROTHER OBSOLETE ](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - 1985
-  * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
-  * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
-  * [THE FATHER OF ONLINE ANONYMITY HAS A PLAN TO END THE CRYPTO WAR](https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/) 2016
-  * [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
-  * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/) - 2018
-  * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/) - 2018
+* [THE FATHER OF ONLINE ANONYMITY HAS A PLAN TO END THE CRYPTO WAR](https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/) 2016
+* [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/) - 2018
+* [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/) - 2018
  
 
 
@@ -99,46 +96,58 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
     * Philip Zimmermann: Creator of PGP 1.0
   * In 1997, Dr Adam Back created Hashcash
   * Later in 1998, Wei Dai published a proposal for “b-money”,
-
 * [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code)
   * Reading list: 1984, The Shockwave Rider, True Names, “Security without Identification: Transaction Systems to Make Big Brother Obsolete,” and Atlas Shrugged.
-
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
   - Peer to peer sharing
 * [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
-of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
-* [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
-* [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm)
-  >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
-  * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
-* [More information regarding Cypherpunks >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
+* [Additional Cypherpunk Resources >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
 
-### Nick Szabo [**^**](#contents)
-<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
-
-* [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
-* [Nick Szabo's Home Page — Archive (pre-2005)](http://archive.is/H8UGk) "Nick Szabo's Essays, Papers, and Concise Tutorials"
-* [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
-  > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
-
-### Articles
-
+### DigiCash and the Birth of Virtual Currencies
+* [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
+* [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
+* [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
+* [How DigiCash Blew Everything](https://satoshiwatch.com/hall-of-fame/dr-david-chaum/in-depth/digicash-blew-everything-david-chaums/)
+* [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
+  * History of digital currencies of the 90's with DigiCash as the primary example
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b) ϟϟϟ Digi-Cash—eGold—Bitcoin
-* [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin)
-  * eCash (DigiCash) - David Chaum
-  * HashCash - Adam Back
-  * Bit Gold - Nick Szabo
 * [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
 "The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
   * DigiCash (1989)
   * Hashcash (1997)
   * B-money proposal (1998)
   * The Bit Gold proposal (1998)
-* [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
-  * History of digital currencies of the 90's with DigiCash as the primary example
+* [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin)
+  * eCash (DigiCash) - David Chaum
+  * HashCash - Adam Back
+  * Bit Gold - Nick Szabo
+
+#### Hashcash
+* [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm)
+  >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
+  * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
+
+#### e-Gold
+* [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
+
+#### B-money 
+
+#### Bit Gold
+<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
+
+
+### Nick Szabo [**^**](#contents)
+
+
+* [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
+* [Nick Szabo's Home Page — Archive (pre-2005)](http://archive.is/H8UGk) "Nick Szabo's Essays, Papers, and Concise Tutorials"
+* [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
+  > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
+
+
 
 
 ### Literature
