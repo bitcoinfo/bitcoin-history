@@ -64,16 +64,20 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   > A key insight for the technology came to a physicist almost three decades ago at a Friendly’s restaurant in New Jersey
 
 
-### Digital Cash and the Cypherpunks [**^**](#contents)
+### David Chaum [**^**](#contents)
 
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8) 
-  * [Untracable Electronic Cash](http://www.alessandromasciadri.com/wise/wp-content/uploads/2018/01/David_Chaum-1982-Electronic_Cash.pdf)
-  * [Blind Signatures for Untracable Payments](http://www.hit.bme.hu/~buttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF)
-  * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf)
-  * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/)
-  * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/)
-  * [eCash](https://www.chaum.com/ecash/) - Timeline
-  * [THE FATHER OF ONLINE ANONYMITY HAS A PLAN TO END THE CRYPTO WAR](https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/)
+  * [Untracable Electronic Cash](http://www.alessandromasciadri.com/wise/wp-content/uploads/2018/01/David_Chaum-1982-Electronic_Cash.pdf) - 1982
+  * [Blind Signatures for Untracable Payments](http://www.hit.bme.hu/~buttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF) - 1982
+  * [SECURITY WITHOUT IDENTIFICATION: TRANSACTION SYSTEMS TO MAKE BIG BROTHER OBSOLETE ](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - 1985
+  * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
+  * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
+  * [THE FATHER OF ONLINE ANONYMITY HAS A PLAN TO END THE CRYPTO WAR](https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/) 2016
+  * [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
+  * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/) - 2018
+  * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/) - 2018
+  
+### Cypherpunks [**^**](#contents)
 
 * [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf)
 
@@ -84,11 +88,15 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 * [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
   >Much has been published recently about the awesome promises of electronic commerce and trade on the Internet if only a reliable, secure mechanism for value exchange could be developed. This paper describes the differences between mere encrypted credit card schemes and true digital cash, which presents a revolutionary opportunity to transform payments. The nine key elements of an electronic, digital cash are outlined and a tenth element is proposed which would embody digital cash with a non- political unit of value.
 
+* [Digital Money: A divine gift or Satan's malicious tool?](https://web.archive.org/web/20020414173029/http://lglwww.epfl.ch/~jkienzle/old/Digital_Money/digital_money.html)
+
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b)
 
 * [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
 
 * [NSA: HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH](http://groups.csail.mit.edu/mac/classes/6.805/articles/money/nsamint/nsamint.htm) - Written in 1996, References two articles written by "Tatsuaki Okamoto" from 1991. [[**ϟ**](https://twitter.com/Thrillmex/status/1061583930724253697)]
+
+* [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
 
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
 
@@ -123,7 +131,14 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [Bitcoin Prehistory](https://www.youtube.com/watch?v=v_DmtLsTsp4)
 * [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
 
-### Resources [**^**](#contents)
+### Articles
+
+* [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin)
+* [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
+"The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
+* [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
+
+### Additional Resources [**^**](#contents)
 
 * [P2P Foundation Wiki](http://wiki.p2pfoundation.net/)
 * https://nakamotoinstitute.org/literature/
@@ -131,10 +146,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [Pre-Blockchain Digital Currencies](https://github.com/bellaj/Blockchain/blob/master/Bitcoin%20History%20%20Pre-Blockchain%20Digital%20Currencies.pdf)
 * https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History
 * [peercoin- history of Cryptocurrency](https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency)
-* [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
 * [crypto— how the code rebels beat the government— saving privacy in the digital age](http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa)
-* [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
-"The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
 
 ### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
