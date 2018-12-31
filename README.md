@@ -3,12 +3,6 @@
 
 This repository is a space to gather any historical information related to Bitcoin.
 
-**See Also:**
-* [/cypherpunks.md](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
-* [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md)
-* [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
-
-
 ### Contents
 
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography-)
@@ -30,6 +24,10 @@ This repository is a space to gather any historical information related to Bitco
 * [Resources](#Resources-)
 * [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
 
+**See Also:**
+* [/cypherpunks.md](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
+* [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md)
+* [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
 
 
 <a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="http://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
