@@ -32,6 +32,9 @@ EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION
 * [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
 A specter is haunting the modern world, the specter of crypto anarchy.\nComputer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. -Timothy C. May
 
+<a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/uprsZM7.png"/></a>
+<sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
+
 
 ### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
