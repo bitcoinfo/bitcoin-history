@@ -21,7 +21,7 @@ EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION
 * [cypherpunks.to - archive](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to) a center for research and development of cypherpunk projects such as remailers, anonymous peer-to-peer services, secure network tunnels, mobile voice encryption, untraceable electronic cash, secure operating environments, etc.
 
 * [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
-
+  * 
 * [No more secrets! Cypherpunks, WikiLeaks, and the new era of total surveillance](https://www.theverge.com/2013/1/17/3759618/no-more-secrets-andy-greenberg-on-wikileaks-cypherpunks)
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
