@@ -22,6 +22,7 @@ EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION
 
 * [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
+* [No more secrets! Cypherpunks, WikiLeaks, and the new era of total surveillance](https://www.theverge.com/2013/1/17/3759618/no-more-secrets-andy-greenberg-on-wikileaks-cypherpunks)
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
   > "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note."
