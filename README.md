@@ -32,7 +32,6 @@ This repository is a space to gather any historical information related to Bitco
 
 <a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="http://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
 
-
 <a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="http://i.imgur.com/RZafVvV.png" align="right"></a>
 
 ### Pre Digital Cryptography [**^**](#contents)
@@ -63,6 +62,7 @@ by Ralph C. Merkle</a>
   * [Blind Signatures for Untracable Payments](http://www.hit.bme.hu/~buttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF) - 1982
   * [SECURITY WITHOUT IDENTIFICATION: TRANSACTION SYSTEMS TO MAKE BIG BROTHER OBSOLETE ](https://www.cs.ru.nl/~jhh/pub/secsem/chaum1985bigbrother.pdf) - 1985
 * [THE FATHER OF ONLINE ANONYMITY HAS A PLAN TO END THE CRYPTO WAR](https://www.wired.com/2016/01/david-chaum-father-of-online-anonymity-plan-to-end-the-crypto-wars/) 2016
+* [What Everybody Misunderstands About Privacy Pioneer David Chaum's Controversial Crypto Plan](http://fortune.com/2016/01/14/encryption-wars-crypto-david-chaum/)
 * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/) - 2018
 * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/) - 2018
  
@@ -105,7 +105,7 @@ by Ralph C. Merkle</a>
     * Philip Zimmermann: Creator of PGP 1.0
   * In 1997, Dr Adam Back created Hashcash
   * Later in 1998, Wei Dai published a proposal for “b-money”,
-* [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code)
+* [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) ϟ
   * Reading list: 1984, The Shockwave Rider, True Names, “Security without Identification: Transaction Systems to Make Big Brother Obsolete,” and Atlas Shrugged.
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
@@ -155,6 +155,9 @@ https://www.goodreads.com/book/show/984428.Crypto
 Flooz had a similar name and similar model to Beenz: Users were rewarded for activity with flooz, which served as a medium of exchange among its network of partners. Like Beenz, also, Flooz went bust in the dot-com crash.
 
 #### InternetCash [**^**](#contents)
+
+
+
 
 #### B-money [**^**](#contents)
 
