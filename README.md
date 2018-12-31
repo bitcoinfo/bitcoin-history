@@ -24,10 +24,9 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 <a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="http://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
 
-### Pre Digital Cryptography [**^**](#contents)
 
 <a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="http://i.imgur.com/RZafVvV.png" align="right"></a>
-
+### Pre Digital Cryptography [**^**](#contents)
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
 * [EFF - Crypto Is For Everyone—and American History Proves It](https://www.eff.org/deeplinks/2015/10/crypto-everyone-and-american-history-proves-it)
 * ["GET READY FOR A WORLD CURRENCY"](http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf)
