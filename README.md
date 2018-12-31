@@ -11,7 +11,6 @@ This repository is a space to gather any historical information related to Bitco
 
 ### Contents
 
-* [Introduction](#Introduction-)
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography-)
 * [Digital Cryptography](#digital-cryptography-)
 * [David Chaum](#David-Chaum-)
