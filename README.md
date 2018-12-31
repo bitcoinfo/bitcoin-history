@@ -26,14 +26,12 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 ### Pre Digital Cryptography [**^**](#contents)
 
+<a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="http://i.imgur.com/RZafVvV.png" align="right"></a>
+
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
-
 * [EFF - Crypto Is For Everyone—and American History Proves It](https://www.eff.org/deeplinks/2015/10/crypto-everyone-and-american-history-proves-it)
-
-![](http://i.imgur.com/RZafVvV.png)
 * ["GET READY FOR A WORLD CURRENCY"](http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf)
   Get Ready for the Phoenix- Economist; 01/9/88, Vol. 306, pp 9-10
-
 * [Before Babylon, Beyond Bitcoin: From Money that We Understand to Money that Understands Us](https://the-eye.eu/public/concen.org/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29%20%28Pdf%29%20Gooner/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29.pdf)
 
 ### Digital Cryptography [**^**](#contents)
@@ -208,6 +206,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * https://nakamotoinstitute.org/literature/
 * https://nakamotoinstitute.org/
 * https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History
+* [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
 * [crypto— how the code rebels beat the government— saving privacy in the digital age](http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa)
 * [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) - 2008
   > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
