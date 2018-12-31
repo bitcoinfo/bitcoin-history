@@ -9,7 +9,16 @@
 * [David Chaum](#David-Chaum-)
 * [Distributed Systems](#distributed-systems-)
 * [Cypherpunks](#cypherpunks)
+* [DigiCash and the Birth of Virtual Currencies](#digicash-and-the-birth-of-virtual-currencies)
+  * [eGold](#eGold)
+  * [HashCash](#HashCash)
+  * [Beanz.com](#beanzcom)
+  * [Flooz.com](#floozcom)
+  * [InternetCash](#internetcash)
+  * [B-money](#b-money)
+  * [Bit Gold](#Bit-Gold)
 * [Nick Szabo](#Nick-Szabo-)
+* [Reusable Proof of Work](#reusable-proof-of-work)
 * [Video-Audio](#Video-Audio-)
 * [Resources](#Resources)
 * [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
@@ -26,6 +35,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 
 <a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="http://i.imgur.com/RZafVvV.png" align="right"></a>
+
 ### Pre Digital Cryptography [**^**](#contents)
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
 * [EFF - Crypto Is For Everyone—and American History Proves It](https://www.eff.org/deeplinks/2015/10/crypto-everyone-and-american-history-proves-it)
@@ -35,11 +45,12 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 
 ### Digital Cryptography [**^**](#contents)
 
-* [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) - "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
-
-* http://www.merkle.com/1974/ 
+* [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323)
+  > "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
+* <a href="http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa">CRYPTO— how the code rebels beat the government— saving privacy in the digital age</a> -Steven Levy
+* <a href="http://www.merkle.com/1974/">Publishing a new idea
+by Ralph C. Merkle</a>
   >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
-
 * https://crypto.stackexchange.com/questions/56404/what-was-the-first-hash-and-what-problem-was-it-supposed-to-solve
 
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
@@ -144,7 +155,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 #### Flooz.com
 Flooz had a similar name and similar model to Beenz: Users were rewarded for activity with flooz, which served as a medium of exchange among its network of partners. Like Beenz, also, Flooz went bust in the dot-com crash.
 
-#### InternetCash.com
+#### InternetCash
 
 #### B-money 
 
@@ -206,7 +217,6 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * https://nakamotoinstitute.org/
 * https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History
 * [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
-* [crypto— how the code rebels beat the government— saving privacy in the digital age](http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa)
 * [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) - 2008
   > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
 * UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland:  [Technology Driven Universal Currency Improvements and Innovations in Existing Financial Mechanisms](https://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
