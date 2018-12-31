@@ -122,6 +122,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   * Hashcash (1997)
   * B-money proposal (1998)
   * The Bit Gold proposal (1998)
+  * Reusable Proof of Work (2004)
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin)
   * eCash (DigiCash) - David Chaum
   * HashCash - Adam Back
