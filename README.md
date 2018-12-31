@@ -22,6 +22,8 @@ This repository is a space to gather any historical information about Bitcoin an
 This readme currently contains pre-Bitcoin history, and there is a separate file for [cypherpunks](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) info, [Bitcoin History](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md), as well as the [History of Cryptocurrencies](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md). This repository is likely to grow, eventually to include individual files for various fields of knowledge.
 
 
+<a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="http://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
+
 ### Pre Digital Cryptography [**^**](#contents)
 
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
@@ -110,7 +112,7 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
 * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
 * [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
-* [How DigiCash Blew Everything](https://satoshiwatch.com/hall-of-fame/dr-david-chaum/in-depth/digicash-blew-everything-david-chaums/)
+* [How DigiCash Blew Everything](https://satoshiwatch.com/hall-of-fame/dr-david-chaum/in-depth/digicash-blew-everything-david-chaums/) [[**ϟ**](https://cryptome.org/jya/digicrash.htm)]
 * [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
   * History of digital currencies of the 90's with DigiCash as the primary example
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b) ϟϟϟ Digi-Cash—eGold—Bitcoin
@@ -124,20 +126,37 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
   * eCash (DigiCash) - David Chaum
   * HashCash - Adam Back
   * Bit Gold - Nick Szabo
-
-#### Hashcash
-* [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm)
-  >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
-  * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
+* [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies)
+  * Digicash
+  * eGold
+  * Beenz
+  * Flooz
+  * Internetcash
 
 #### e-Gold
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
 
+#### Hashcash
+* [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
+
+#### Beanz.com
+
+
+
+#### Flooz.com
+Flooz had a similar name and similar model to Beenz: Users were rewarded for activity with flooz, which served as a medium of exchange among its network of partners. Like Beenz, also, Flooz went bust in the dot-com crash.
+
+#### InternetCash.com
+
 #### B-money 
+
+* [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
+
 
 #### Bit Gold
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
 
+* [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
 
 ### Nick Szabo [**^**](#contents)
 
@@ -146,6 +165,13 @@ This readme currently contains pre-Bitcoin history, and there is a separate file
 * [Nick Szabo's Home Page — Archive (pre-2005)](http://archive.is/H8UGk) "Nick Szabo's Essays, Papers, and Concise Tutorials"
 * [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
   > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
+
+
+#### Reusable Proof of Work
+
+* [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) -03
+  >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
+* [Use me Baby one more Time](https://medium.com/blockwhat/04-use-me-baby-one-more-time-d0dd599c8357)
 
 
 
@@ -180,9 +206,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [P2P Foundation Wiki](http://wiki.p2pfoundation.net/)
 * https://nakamotoinstitute.org/literature/
 * https://nakamotoinstitute.org/
-* [Pre-Blockchain Digital Currencies](https://github.com/bellaj/Blockchain/blob/master/Bitcoin%20History%20%20Pre-Blockchain%20Digital%20Currencies.pdf)
 * https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History
-* [peercoin- history of Cryptocurrency](https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency)
 * [crypto— how the code rebels beat the government— saving privacy in the digital age](http://www.academia.edu/4903458/Crypto_-_How_the_Code_Rebels_Beat_the_Government_-_Sa)
 * [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) - 2008
   > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
