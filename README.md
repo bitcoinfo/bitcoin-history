@@ -60,6 +60,7 @@ by Ralph C. Merkle</a>
 * [Chaum.com](https://www.chaum.com)
   * [Chaum.com - List of Publications](https://www.chaum.com/publications/publications.html)
 * [Everipedia - David Chaum](https://everipedia.org/wiki/lang_en/Cypherpunk/)
+* [Cryptography Legend - David Chaum](https://satoshiwatch.com/hall-of-fame/dr-david-chaum/)
 * [The Birth of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8) 
   * [Untracable Electronic Cash](http://www.alessandromasciadri.com/wise/wp-content/uploads/2018/01/David_Chaum-1982-Electronic_Cash.pdf) - 1982
   * [Blind Signatures for Untracable Payments](http://www.hit.bme.hu/~buttyan/courses/BMEVIHIM219/2009/Chaum.BlindSigForPayment.1982.PDF) - 1982
@@ -117,7 +118,6 @@ by Ralph C. Merkle</a>
 * [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
 * [Additional Cypherpunk Resources >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
-https://www.goodreads.com/book/show/984428.Crypto
 
 ### DigiCash and the Dawn of Virtual Currency [**^**](#contents)
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
