@@ -9,7 +9,7 @@
 * [David Chaum](#David-Chaum-)
 * [Distributed Systems](#distributed-systems-)
 * [Cypherpunks](#cypherpunks)
-* [DigiCash and the Birth of Virtual Currencies](#digicash-and-the-birth-of-virtual-currencies-)
+* [DigiCash and the Dawn of Virtual Currency](#digicash-and-the-dawn-of-virtual-currencies-)
   * [eGold](#eGold-)
   * [HashCash](#HashCash-)
   * [Beanz.com](#beanzcom-)
@@ -116,7 +116,7 @@ by Ralph C. Merkle</a>
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
 * [Additional Cypherpunk Resources >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
 
-### DigiCash and the Birth of Virtual Currencies [**^**](#contents)
+### DigiCash and the Dawn of Virtual Currency [**^**](#contents)
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
 * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
 * [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
