@@ -5,12 +5,14 @@ This repository is a space to gather any historical information related to Bitco
 
 ### Contents
 
+* [Timelines](#timelines-)
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography-)
 * [Digital Cryptography](#digital-cryptography-)
 * [David Chaum](#David-Chaum-)
 * [Distributed Systems](#distributed-systems-)
 * [Cypherpunks](#cypherpunks)
 * [DigiCash and the Dawn of Virtual Currency](#digicash-and-the-dawn-of-virtual-currency-)
+* [Virtual Currencies](#Virtual-Currencies-)
   * [eGold](#eGold-)
   * [HashCash](#HashCash-)
   * [Beanz.com](#beanzcom-)
@@ -18,9 +20,11 @@ This repository is a space to gather any historical information related to Bitco
   * [InternetCash](#internetcash-)
   * [B-money](#b-money-)
   * [Bit Gold](#Bit-Gold-)
-* [Nick Szabo](#Nick-Szabo-)
-* [Reusable Proof of Work](#reusable-proof-of-work-)
-* [Video-Audio](#Video-Audio-)
+    * [Nick Szabo](#Nick-Szabo-)
+  * [Peppercoin](P#eppercoin-)
+  * [Reusable Proof of Work](#reusable-proof-of-work-)
+  * [Literature](#Literature-)
+  * [Video-Audio](#Video-Audio-)
 * [Resources](#Resources-)
 * [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
 
@@ -29,8 +33,13 @@ This repository is a space to gather any historical information related to Bitco
 * [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md)
 * [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
 
+### Timelines [**^**](#contents)
 
 <a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="http://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
+
+* [Bitcoin and Markets - Bitcoin History](https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History) - Timeline of important research and events since 1970.
+* [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
+
 
 <a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="http://i.imgur.com/RZafVvV.png" align="right"></a>
 
@@ -148,6 +157,10 @@ by Ralph C. Merkle</a>
   * 1994 - FirstVirtual - Pre-PayPal payment processor.
   * 1994 - CyberCash - utilizing SET architecture to provide micro-payments
 
+### Virtual Currencies [**^**](#contents)
+
+Exploring each pre-bitcoin digital currency individually.
+
 #### e-Gold [**^**](#contents)
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
 
@@ -176,7 +189,7 @@ Flooz had a similar name and similar model to Beenz: Users were rewarded for act
 
 * [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
 
-### Nick Szabo [**^**](#contents)
+##### Nick Szabo [**^**](#contents)
 
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
@@ -184,7 +197,7 @@ Flooz had a similar name and similar model to Beenz: Users were rewarded for act
 * [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
   > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
 
-#### Peppercoin
+#### Peppercoin [**^**](#contents)
 
 * [About Digicash and Peppercoin](https://www.theguardian.com/technology/2003/feb/25/comment.comment) - Micropayments
 
@@ -227,8 +240,6 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [P2P Foundation Wiki](http://wiki.p2pfoundation.net/)
 * https://nakamotoinstitute.org/literature/
 * https://nakamotoinstitute.org/
-* [Bitcoin and Markets - Bitcoin History](https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History) - Timeline of important research and events since 1970.
-* [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
 * [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) - 2008
   > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
 * UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland:  [Technology Driven Universal Currency Improvements and Innovations in Existing Financial Mechanisms](https://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
