@@ -1,6 +1,14 @@
 # Before Bitcoin
 **Cryptography, Cypherpunks, Open Source Software, Traditional Money, Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
 
+This repository is a space to gather any historical information related to Bitcoin.
+
+**See Also:**
+* [/cypherpunks.md](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
+* [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md)
+* [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
+
+
 ### Contents
 
 * [Introduction](#Introduction-)
@@ -23,12 +31,6 @@
 * [Resources](#Resources-)
 * [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
 
-
-### Introduction [**^**](#contents)
-
-This repository is a space to gather any historical information about Bitcoin and related fields.
-
-This readme currently contains pre-Bitcoin history, and there is a separate file for [cypherpunks](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) info, [Bitcoin History](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md), as well as the [History of Cryptocurrencies](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md). This repository is likely to grow, eventually to include individual files for various fields of knowledge.
 
 
 <a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="http://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
