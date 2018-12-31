@@ -222,10 +222,10 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
   > Today close to 90% of our financial transactions have a computer-only reality, no coins, and no bills. But the bits and bytes reflect national currencies defined as paper money equivalent. The next level in the increasing abstraction of credit, risk and value is to mint a currency natively defined as a string of bits. Bitdefined currency features the utmost flexibility in storage and movement, as well as in reflecting value, risk, and credit distribution. 
 
 
-### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents)
+#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
-Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)!!
+Check out some of my [other projects](https://github.com/infominer33/Bitcoin-History/blob/master/projects.md)!!
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
