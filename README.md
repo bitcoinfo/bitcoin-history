@@ -116,7 +116,7 @@ by Ralph C. Merkle</a>
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
 * [Additional Cypherpunk Resources >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
 
-### DigiCash and the Birth of Virtual Currencies
+### DigiCash and the Birth of Virtual Currencies [**^**](#contents)
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
 * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
 * [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
@@ -142,27 +142,27 @@ by Ralph C. Merkle</a>
   * Flooz
   * Internetcash
 
-#### e-Gold
+#### e-Gold [**^**](#contents)
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
 
-#### Hashcash
+#### Hashcash [**^**](#contents)
 * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
 
-#### Beanz.com
+#### Beanz.com [**^**](#contents)
 
 
 
-#### Flooz.com
+#### Flooz.com [**^**](#contents)
 Flooz had a similar name and similar model to Beenz: Users were rewarded for activity with flooz, which served as a medium of exchange among its network of partners. Like Beenz, also, Flooz went bust in the dot-com crash.
 
-#### InternetCash
+#### InternetCash [**^**](#contents)
 
-#### B-money 
+#### B-money [**^**](#contents)
 
 * [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
 
 
-#### Bit Gold
+#### Bit Gold [**^**](#contents)
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
 
 * [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
@@ -185,7 +185,7 @@ Flooz had a similar name and similar model to Beenz: Users were rewarded for act
 
 
 
-### Literature
+### Literature [**^**](#contents)
 * [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
 * [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
   >Much has been published recently about the awesome promises of electronic commerce and trade on the Internet if only a reliable, secure mechanism for value exchange could be developed. This paper describes the differences between mere encrypted credit card schemes and true digital cash, which presents a revolutionary opportunity to transform payments. The nine key elements of an electronic, digital cash are outlined and a tenth element is proposed which would embody digital cash with a non- political unit of value.
