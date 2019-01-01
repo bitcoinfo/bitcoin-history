@@ -20,6 +20,10 @@
   > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
 * [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
+* [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
+  >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
+
+
 
 ### Cypherpunk Mailinglist [**^**](#cypherpunks) 
 
@@ -27,32 +31,34 @@
   >The Cypherpunks began properly in 1992 when Tim May, Eric Hughes and John Gilmore, started the Cypherpunks’ mailing list. But Jim Bell, David Chaum, Phil Zimmerman, Julian Assange, Adam Back, Wei-Dai and Hal Finney are just a few of the ciphers on the mailing list who are just now becoming luminaries, because they’ve all contributed something so uniquely valuable to us through their efforts to protect our privacy in the new information economy, particularly against the encroaching financial surveillance complex (typified by FATCA).\
   >Other names, like Tim-Berners Lee, John Perry Barlow and Nick Szabo also feature in this essay, as ‘Cypherpunks by proxy’ because of their contributions and their philosophy.
 * [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) 
-A specter is haunting the modern world, the specter of crypto anarchy.\nComputer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. -Timothy C. May ('92)
+  - A specter is haunting the modern world, the specter of crypto anarchy.\
+  Computer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. -Timothy C. May ('92)
 * [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) Eric Hughes ('93)
   > Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world."
   * [CRYPTOQUIKREAD_163 - A CYPHERPUNK’S MANIFESTO](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
 * [Wired - Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) ('93) - Deep Cut
-* [Cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt) [[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
-THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyright Timothy C. May
+* [THE CYPHERNOMICON: Cypherpunks FAQ and More - 1994 - Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)[[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
+  <a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="https://i.imgur.com/nJFuEFV.png"/></a>\
+  <sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
+    > May's Recommended readings, from cyphernomicon.
+    >
+    >- "Applied Cryptography" by Bruce Schneier, 1993
+    >- True Names by Vernor Vinge
+    >- The Shockwave Rider
+    >- Atlas Shrugged
+    >- 1984
+    >- Chaum article on making Big Brother obsolete (1985, Communications of the ACM)
+    >- Machinery of Freedom by David Friedman
 
-<a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="https://i.imgur.com/nJFuEFV.png"/></a>\
-<sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
-  > May's Recommended readings, from cyphernomicon.
-  >
-  >- "Applied Cryptography" by Bruce Schneier, 1993
-  >- True Names by Vernor Vinge
-  >- The Shockwave Rider
-  >- Atlas Shrugged
-  >- 1984
-  >- Chaum article on making Big Brother obsolete (1985, Communications of the ACM)
-  >- Machinery of Freedom by David Friedman
-* [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
-  >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
+* [The Crypto-Anarchists by Brian Zuzga](https://groups.csail.mit.edu/mac/classes/6.805/student-papers/fall94-papers/brian-zuzga.html) ('94)
 
 * [Privacy-enhancing technologies for the Internet](https://www.cypherpunks.ca/~iang/pubs/privacy-compcon97.pdf) by Ian Goldberg David Wagner Eric Brewer ('96)
   > The increased use of the Internet for everyday activities is bringing new threats to personal privacy. This paper gives an overview of existing and potential privacy enhancing technologies for the Internet, as well as motivation and challenges for future work in this field
 
 * [R.I.P. Cypherpunks](https://www.securityfocus.com/news/294) ('01)
+
+* [Crypto Anarchy, Cyberstates, and Pirate
+Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstates_and_Pirate_Utopias.pdf)
 
 * [Cypherpunk rising: WikiLeaks, encryption, and the coming surveillance dystopia](https://www.theverge.com/2013/3/7/4036040/cypherpunks-julian-assange-wikileaks-encryption-surveillance-dystopia)
   - EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION FOR SOCIAL CHANGE AND A FUN SUBCULTURE DEDICATED TO MAKING IT HAPPEN
@@ -60,7 +66,11 @@ THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrigh
 
 * [No more secrets! Cypherpunks, WikiLeaks, and the new era of total surveillance](https://www.theverge.com/2013/1/17/3759618/no-more-secrets-andy-greenberg-on-wikileaks-cypherpunks)
 
+* [RU Sirius on the history of cypherpunk](https://boingboing.net/2013/03/07/ru-sirius-on-the-history-of-cy.html)
+
 * [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) ϟ ('15)
+
+* [An Introduction to the Cypherpunk Tale](https://news.bitcoin.com/introduction-cypherpunk-tale/)
 
 * [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks) by Jameson Lopp ('16)
   * 1980s, Dr David Chaum 
