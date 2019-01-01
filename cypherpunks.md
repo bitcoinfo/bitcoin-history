@@ -1,4 +1,4 @@
-# Cypherpunks Information
+# Cypherpunks 
 **Continued from [/bitcoin-history#cypherpunks-](https://github.com/infominer33/bitcoin-history#cypherpunks-)**
 
 ### Contents
@@ -9,7 +9,7 @@
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="http://i.imgur.com/EzcISZz.png"/></a>
 
-### Crypto Wars [**^**](#contents)
+### Crypto Wars [**^**](#cypherpunks)
 
 * [wiki.openrightsgroup.org/wiki/Crypto_Wars](https://wiki.openrightsgroup.org/wiki/Crypto_Wars)
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
@@ -21,7 +21,11 @@
 * [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 
-### Cypherpunk Mailinglist [**^**](#contents)
+### Cypherpunk Mailinglist [**^**](#cypherpunks) 
+
+* [Cypherpunks, Bitcoin & the Myth of Satoshi Nakamoto](http://cybersalon.org/cypherpunk/) ('13)
+  >The Cypherpunks began properly in 1992 when Tim May, Eric Hughes and John Gilmore, started the Cypherpunks’ mailing list. But Jim Bell, David Chaum, Phil Zimmerman, Julian Assange, Adam Back, Wei-Dai and Hal Finney are just a few of the ciphers on the mailing list who are just now becoming luminaries, because they’ve all contributed something so uniquely valuable to us through their efforts to protect our privacy in the new information economy, particularly against the encroaching financial surveillance complex (typified by FATCA).\
+  >Other names, like Tim-Berners Lee, John Perry Barlow and Nick Szabo also feature in this essay, as ‘Cypherpunks by proxy’ because of their contributions and their philosophy.
 * [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) 
 A specter is haunting the modern world, the specter of crypto anarchy.\nComputer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. -Timothy C. May ('92)
 * [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) Eric Hughes ('93)
@@ -49,9 +53,6 @@ THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrigh
   > The increased use of the Internet for everyday activities is bringing new threats to personal privacy. This paper gives an overview of existing and potential privacy enhancing technologies for the Internet, as well as motivation and challenges for future work in this field
 
 * [R.I.P. Cypherpunks](https://www.securityfocus.com/news/294) ('01)
-
-* [Cypherpunks, Bitcoin & the Myth of Satoshi Nakamoto](http://cybersalon.org/cypherpunk/) ('13)
-  - Speaks from the perspective of a cyberpunk turned cypherpunk, explains early history.
 
 * [Cypherpunk rising: WikiLeaks, encryption, and the coming surveillance dystopia](https://www.theverge.com/2013/3/7/4036040/cypherpunks-julian-assange-wikileaks-encryption-surveillance-dystopia)
   - EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION FOR SOCIAL CHANGE AND A FUN SUBCULTURE DEDICATED TO MAKING IT HAPPEN
@@ -86,14 +87,14 @@ THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrigh
 * [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
 
-### Modern Crypto Wars [**^**](#contents)
+### Modern Crypto Wars [**^**](#cypherpunks)
 
 * [The Crypto Wars Are Over!](https://www.fipr.org/press/050525crypto.html) ('05)
 * [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/) ('13)
 * [The NSA is Making Us All Less Safe](https://www.eff.org/deeplinks/2013/10/nsa-making-us-less-safe)
 * [A complete guide to the new ‘Crypto Wars’](https://www.dailydot.com/layer8/encryption-crypto-wars-backdoors-timeline-security-privacy/)
 
-### Resources [**^**](#contents)
+### Resources [**^**](#cypherpunks)
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
   > "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note."
@@ -103,8 +104,8 @@ THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrigh
 * [https://en.m.bitcoinwiki.org/wiki/Cypherpunk](https://en.m.bitcoinwiki.org/wiki/Cypherpunk)
 ---
 
-#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
-[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
+#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#cypherpunks)
+[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library) 
 
 Check out some of my [other projects](projects.md)!!!
 

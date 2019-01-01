@@ -29,7 +29,7 @@ This repository is a space to gather any historical information related to Bitco
 * [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
 
 **See Also:**
-* [/cypherpunks.md](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
+* [/cypherpunks.md](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) and the Crypto Wars
 * [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md)
 * [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
 
