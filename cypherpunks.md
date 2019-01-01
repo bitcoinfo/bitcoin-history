@@ -99,7 +99,7 @@ THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrigh
 * [cryptoanarchy.wiki - archive](https://mailing-list-archive.cryptoanarchy.wiki/) Crypto Anarchy: Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments.
 * [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) "Cypherpunks write code."
 * [cypherpunks.to - archive](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to) a center for research and development of cypherpunk projects such as remailers, anonymous peer-to-peer services, secure network tunnels, mobile voice encryption, untraceable electronic cash, secure operating environments, etc.
-
+* [https://en.m.bitcoinwiki.org/wiki/Cypherpunk](https://en.m.bitcoinwiki.org/wiki/Cypherpunk)
 ---
 
 #### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
