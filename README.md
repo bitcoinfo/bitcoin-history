@@ -61,10 +61,12 @@ by Ralph C. Merkle</a>
 * [History of Hash Algo's - StackExchange](https://crypto.stackexchange.com/questions/56404/what-was-the-first-hash-and-what-problem-was-it-supposed-to-solve)
 * [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) '76
 * [DATA ENCRYPTION STANDARD (DES)](http://www.cs.haifa.ac.il/~orrd/IntroToCrypto/online/fips46-3.pdf) approved as a federal standard in ['76](https://en.wikipedia.org/wiki/Data_Encryption_Standard#History_of_DES)
+* [THE OPEN SECRET](https://www.wired.com/1999/04/crypto/) 
+  —Public key cryptography - the breakthrough that revolutionized email and ecommerce - was first discovered by American geeks. Right? Wrong.
+  > The story of the invention of public key cryptography is a cypherpunk sacred text: In 1976, an iconoclastic young hacker named Whitfield Diffie hooked up with Stanford professor Martin Hellman, and together they devised what experts hailed as the most important development in crypto since the invention of polyalphabetic ciphers during the Renaissance. The duo produced a system that allowed an unlimited number of people to communicate with total privacy.
+
 
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
-
-
 
 ### David Chaum [**^**](#contents)
 
@@ -121,13 +123,6 @@ by Ralph C. Merkle</a>
   * In 1997, Dr Adam Back created Hashcash
   * Later in 1998, Wei Dai published a proposal for “b-money”,
 * [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) ϟ
-  * Reading list: 1984, The Shockwave Rider, True Names, “Security without Identification: Transaction Systems to Make Big Brother Obsolete,” and Atlas Shrugged.
-* [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
-  - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
-  - Open Source software development
-  - Peer to peer sharing
-* [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
-  >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
 * [Additional Cypherpunk Resources >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
 
 ### DigiCash and the Dawn of Virtual Currency [**^**](#contents)
