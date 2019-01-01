@@ -58,7 +58,8 @@ This repository is a space to gather any historical information related to Bitco
 * <a href="http://www.merkle.com/1974/">Publishing a new idea
 by Ralph C. Merkle</a>
   >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
-* https://crypto.stackexchange.com/questions/56404/what-was-the-first-hash-and-what-problem-was-it-supposed-to-solve
+* [History of Hash Algo's - StackExchange](https://crypto.stackexchange.com/questions/56404/what-was-the-first-hash-and-what-problem-was-it-supposed-to-solve)
+* [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) '76
 
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
 
