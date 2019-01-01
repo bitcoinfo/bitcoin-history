@@ -10,7 +10,7 @@ This repository is a space to gather any historical information related to Bitco
 * [Digital Cryptography](#digital-cryptography-)
 * [David Chaum](#David-Chaum-)
 * [Distributed Systems](#distributed-systems-)
-* [Cypherpunks](#cypherpunks)
+* [Cypherpunks](#cypherpunks-)
 * [DigiCash and the Dawn of Virtual Currency](#digicash-and-the-dawn-of-virtual-currency-)
 * [Virtual Currencies](#Virtual-Currencies-)
   * [eGold](#eGold-)
