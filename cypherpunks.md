@@ -1,25 +1,34 @@
 # Cypherpunks Information
-
-Continued from [/bitcoin-history#cypherpunks-](https://github.com/infominer33/bitcoin-history#cypherpunks-)
+**Continued from [/bitcoin-history#cypherpunks-](https://github.com/infominer33/bitcoin-history#cypherpunks-)**
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="http://i.imgur.com/EzcISZz.png"/></a>
 
-#### in chronological order
+### Contents
 
+* [Crypto Wars](#crypto-wars-)
+* [Cypherpunk Mailing-list](#Cypherpunk-Mailing-list-)
+* [Modern Crypto Wars](#modern-crypto-wars-)
+* [Resources](#resources-)
+
+### Crypto Wars [**^**](#contents)
+
+* [wiki.openrightsgroup.org/wiki/Crypto_Wars](https://wiki.openrightsgroup.org/wiki/Crypto_Wars)
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
   - Peer to peer sharing
+* [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars)
+  > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
+* [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)
+  >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 
+### Cypherpunk Mailinglist [**^**](#contents)
 * [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) 
 A specter is haunting the modern world, the specter of crypto anarchy.\nComputer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. -Timothy C. May ('92)
-
 * [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) Eric Hughes ('93)
   > Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world."
   * [CRYPTOQUIKREAD_163 - A CYPHERPUNK’S MANIFESTO](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
-
 * [Wired - Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) ('93) - Deep Cut
-
 * [Cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt) [[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
 THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyright Timothy C. May
 
@@ -46,7 +55,8 @@ THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrigh
   - Speaks from the perspective of a cyberpunk turned cypherpunk, explains early history.
 
 * [Cypherpunk rising: WikiLeaks, encryption, and the coming surveillance dystopia](https://www.theverge.com/2013/3/7/4036040/cypherpunks-julian-assange-wikileaks-encryption-surveillance-dystopia)
-EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION FOR SOCIAL CHANGE AND A FUN SUBCULTURE DEDICATED TO MAKING IT HAPPEN\nFlashback: Berkeley, California 1992. I pick up the ringing phone. My writing partner, St. Jude Milhon, is shouting down the line: 'I’ve got it! Cypherpunk!'
+  - EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION FOR SOCIAL CHANGE AND A FUN SUBCULTURE DEDICATED TO MAKING IT HAPPEN
+    >Flashback: Berkeley, California 1992. I pick up the ringing phone. My writing partner, St. Jude Milhon, is shouting down the line: 'I’ve got it! Cypherpunk!'
 
 * [No more secrets! Cypherpunks, WikiLeaks, and the new era of total surveillance](https://www.theverge.com/2013/1/17/3759618/no-more-secrets-andy-greenberg-on-wikileaks-cypherpunks)
 
@@ -77,13 +87,12 @@ EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION
 * [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
 
-
-### Modern Crypto Wars [**^**](#contents)
+### Modern Crypto Wars [**^**](#contents) [**^**](#contents)
 
 * [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/)
 * [A complete guide to the new ‘Crypto Wars’](https://www.dailydot.com/layer8/encryption-crypto-wars-backdoors-timeline-security-privacy/)
 
-### Resources
+### Resources [**^**](#contents)
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
   > "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note."
@@ -91,8 +100,8 @@ EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION
 * [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) "Cypherpunks write code."
 * [cypherpunks.to - archive](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to) a center for research and development of cypherpunk projects such as remailers, anonymous peer-to-peer services, secure network tunnels, mobile voice encryption, untraceable electronic cash, secure operating environments, etc.
 
-
-### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
+---
+#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#contents)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 Check out some of my [other projects](https://github.com/infominer33/Crypto-Library/blob/master/projects.md)!!!
