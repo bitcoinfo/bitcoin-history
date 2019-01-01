@@ -102,6 +102,7 @@ by Ralph C. Merkle</a>
 
 ### Cypherpunks [**^**](#contents)
 
+
 * [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
   * 1980s, Dr David Chaum 
   * late 1992, Eric Hughes, Timothy C May, and John Gilmore founded cypherpunks
@@ -123,6 +124,10 @@ by Ralph C. Merkle</a>
   * In 1997, Dr Adam Back created Hashcash
   * Later in 1998, Wei Dai published a proposal for “b-money”,
 * [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) ϟ
+* [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
+  - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
+  - Open Source software development
+  - Peer to peer sharing
 * [Additional Cypherpunk Resources >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
 
 ### DigiCash and the Dawn of Virtual Currency [**^**](#contents)
