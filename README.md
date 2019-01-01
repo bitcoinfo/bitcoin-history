@@ -128,7 +128,7 @@ by Ralph C. Merkle</a>
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
   - Peer to peer sharing
-* [Additional Cypherpunk Resources >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md)
+* [>> More information on Cypherpunks and the Crypto Wars >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
 
 ### DigiCash and the Dawn of Virtual Currency [**^**](#contents)
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
