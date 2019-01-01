@@ -88,7 +88,8 @@ THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyrigh
 
 ### Modern Crypto Wars [**^**](#contents) [**^**](#contents)
 
-* [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/)
+* [The Crypto Wars Are Over!](https://www.fipr.org/press/050525crypto.html) ('05)
+* [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/) ('13)
 * [A complete guide to the new ‘Crypto Wars’](https://www.dailydot.com/layer8/encryption-crypto-wars-backdoors-timeline-security-privacy/)
 
 ### Resources [**^**](#contents)
