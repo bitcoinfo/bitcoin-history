@@ -31,7 +31,7 @@ A specter is haunting the modern world, the specter of crypto anarchy.\nComputer
 * [Cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt) [[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
 THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyright Timothy C. May
 
-<a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="https://i.imgur.com/nJFuEFV.png"/></a>
+<a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="https://i.imgur.com/nJFuEFV.png"/></a>\
 <sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
   > May's Recommended readings, from cyphernomicon.
   >
