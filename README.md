@@ -60,6 +60,7 @@ by Ralph C. Merkle</a>
   >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
 * [History of Hash Algo's - StackExchange](https://crypto.stackexchange.com/questions/56404/what-was-the-first-hash-and-what-problem-was-it-supposed-to-solve)
 * [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) '76
+* [DATA ENCRYPTION STANDARD (DES)](http://www.cs.haifa.ac.il/~orrd/IntroToCrypto/online/fips46-3.pdf) approved as a federal standard in ['76](https://en.wikipedia.org/wiki/Data_Encryption_Standard#History_of_DES)
 
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
 

@@ -2,39 +2,59 @@
 
 Continued from [/bitcoin-history#cypherpunks-](https://github.com/infominer33/bitcoin-history#cypherpunks-)
 
+<a href="https://twitter.com/lopp/status/1026139157125640192"><img src="http://i.imgur.com/EzcISZz.png"/></a>
+
+#### in chronological order
+
+* [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) 
+A specter is haunting the modern world, the specter of crypto anarchy.\nComputer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. -Timothy C. May ('92)
+
+* [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) Eric Hughes ('93)
+  > Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world."
+  * [CRYPTOQUIKREAD_163 - A CYPHERPUNK’S MANIFESTO](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
+
+* [Wired - Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) ('93) - Deep Cut
+
 * [Cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt) [[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
 THE CYPHERNOMICON: Cypherpunks FAQ and More, Version 0.666, 1994-09-10, Copyright Timothy C. May
 
-* [@lopp on Cypherpunks](https://twitter.com/lopp/status/1026139157125640192)
-  > "The cost of maintaining one's privacy continues to rise as the cost of surveillance technology continues to fall. Most folks have neither the time nor the money to properly protect their privacy these days. Cypherpunks are the intolerant minority, the Spartans defending the pass."
+<a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/uprsZM7.png"/></a>
+<sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
+  > May's Recommended readings, from cyphernomicon.
+  >
+  >- "Applied Cryptography" by Bruce Schneier, 1993
+  >- True Names by Vernor Vinge
+  >- The Shockwave Rider
+  >- Atlas Shrugged
+  >- 1984
+  >- Chaum article on making Big Brother obsolete (1985, Communications of the ACM)
+  >- Machinery of Freedom by David Friedman
 
-* [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html)
-  > Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world."
+* [R.I.P. Cypherpunks](https://www.securityfocus.com/news/294) ('01)
+
+* [Cypherpunks, Bitcoin & the Myth of Satoshi Nakamoto](http://cybersalon.org/cypherpunk/) ('13)
+  - Speaks from the perspective of a cyberpunk turned cypherpunk, explains early history.
 
 * [Cypherpunk rising: WikiLeaks, encryption, and the coming surveillance dystopia](https://www.theverge.com/2013/3/7/4036040/cypherpunks-julian-assange-wikileaks-encryption-surveillance-dystopia)
 EARLY CYPHERPUNK IN FACT AND FICTION. CYPHERPUNK WAS BOTH AN EXCITING NEW VISION FOR SOCIAL CHANGE AND A FUN SUBCULTURE DEDICATED TO MAKING IT HAPPEN\nFlashback: Berkeley, California 1992. I pick up the ringing phone. My writing partner, St. Jude Milhon, is shouting down the line: 'I’ve got it! Cypherpunk!'
 
-* [cryptoanarchy.wiki - archive](https://mailing-list-archive.cryptoanarchy.wiki/) Crypto Anarchy: Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments.
-
-* [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) "Cypherpunks write code."
-
-* [cypherpunks.to - archive](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to) a center for research and development of cypherpunk projects such as remailers, anonymous peer-to-peer services, secure network tunnels, mobile voice encryption, untraceable electronic cash, secure operating environments, etc.
-
-* [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
-  * 
 * [No more secrets! Cypherpunks, WikiLeaks, and the new era of total surveillance](https://www.theverge.com/2013/1/17/3759618/no-more-secrets-andy-greenberg-on-wikileaks-cypherpunks)
+* [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
+
+
+
+### Modern Crypto Wars [**^**](#contents)
+
+* [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/)
+* [A complete guide to the new ‘Crypto Wars’](https://www.dailydot.com/layer8/encryption-crypto-wars-backdoors-timeline-security-privacy/)
+
+### Resources
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
   > "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note."
-
-* [CRYPTOQUIKREAD_163 - A CYPHERPUNK’S MANIFESTO](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
-'Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world.' - Eric Hughes
-
-* [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html)
-A specter is haunting the modern world, the specter of crypto anarchy.\nComputer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. -Timothy C. May
-
-<a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/uprsZM7.png"/></a>
-<sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
+* [cryptoanarchy.wiki - archive](https://mailing-list-archive.cryptoanarchy.wiki/) Crypto Anarchy: Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments.
+* [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) "Cypherpunks write code."
+* [cypherpunks.to - archive](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to) a center for research and development of cypherpunk projects such as remailers, anonymous peer-to-peer services, secure network tunnels, mobile voice encryption, untraceable electronic cash, secure operating environments, etc.
 
 
 ### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
