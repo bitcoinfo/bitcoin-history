@@ -1,4 +1,4 @@
-# Cypherpunks 
+# Cypherpunks and the Crypto Wars
 **Continued from [/bitcoin-history#cypherpunks-](https://github.com/infominer33/bitcoin-history#cypherpunks-)**
 
 ### Contents
