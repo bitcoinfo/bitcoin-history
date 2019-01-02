@@ -46,17 +46,17 @@ http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
   * [CRYPTOQUIKREAD_163 - A CYPHERPUNK’S MANIFESTO](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
 * [Wired - Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) ('93) - Deep Cut
 * [THE CYPHERNOMICON: Cypherpunks FAQ and More - 1994 - Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)[[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
-  <a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/mSL72Pd.png"/></a>\
+*  <a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/mSL72Pd.png"/></a>\
   <sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
-    > May's Recommended readings, from cyphernomicon.
-    >
-    >- "Applied Cryptography" by Bruce Schneier, 1993
-    >- True Names by Vernor Vinge
-    >- The Shockwave Rider
-    >- Atlas Shrugged
-    >- 1984
-    >- Chaum article on making Big Brother obsolete (1985, Communications of the ACM)
-    >- Machinery of Freedom by David Friedman
+  > May's Recommended readings, from cyphernomicon.
+  >
+  >- "Applied Cryptography" by Bruce Schneier, 1993
+  >- True Names by Vernor Vinge
+  >- The Shockwave Rider
+  >- Atlas Shrugged
+  >- 1984
+  >- Chaum article on making Big Brother obsolete (1985, Communications of the ACM)
+  >- Machinery of Freedom by David Friedman
 
 * [The Crypto-Anarchists by Brian Zuzga](https://groups.csail.mit.edu/mac/classes/6.805/student-papers/fall94-papers/brian-zuzga.html) ('94)
 
