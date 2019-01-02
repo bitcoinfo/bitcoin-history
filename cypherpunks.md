@@ -3,7 +3,7 @@
 
 ### Contents
 * [Crypto Wars](#crypto-wars-)
-* [Cypherpunk Mailing-list](#Cypherpunk-Mailing-list-)
+* [Cypherpunk Mailing-list](#cypherpunk-mailinglist-)
 * [Modern Crypto Wars](#modern-crypto-wars-)
 * [Resources](#resources-)
 
@@ -12,6 +12,7 @@
 ### Crypto Wars [**^**](#cypherpunks)
 
 * [wiki.openrightsgroup.org/wiki/Crypto_Wars](https://wiki.openrightsgroup.org/wiki/Crypto_Wars)
+* [wikipedia.org/wiki/Crypto_Wars](https://en.wikipedia.org/wiki/Crypto_Wars)
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
@@ -22,8 +23,10 @@
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 * [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
+* [Code Wars — How 'Ultra' and 'Magic' Led to Allied Victory](https://www.overdrive.com/media/900802/code-wars)
+  > When the top secret code breaking activities at Bletchley Park were revealed in the 1970s, much of the history of the Second World War had to be rewritten. Code Wars examines the role of ULTRA (the intelligence derived from breaking secret enemy signals) on major events of the Second World War. It examines how it influenced the outcome of key battles such as D-Day, El Alamein, Crete, key naval battles, the controversy surrounding Churchill and Coventry, the shadowing of Hitler's V1 pilotless aircraft and the V2 rocket.
 
-
+http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
 
 ### Cypherpunk Mailinglist [**^**](#cypherpunks) 
 
@@ -96,6 +99,11 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 
 * [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
+* [Cypherpunks and the failure of the Centralized Web](https://wiki.p2pfoundation.net/Cypherpunk_Movement)
+
+* This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World’s Information. by Andy Greenberg. Virgin Books, London, 2012 [Book Review by Harry Halpin](http://wiki.p2pfoundation.net/How_WikiLeakers,_Cypherpunks,_and_Hacktivists_Aim_to_Free_the_World%E2%80%99s_Information)
+
+* [Tim May, Father of 'Crypto Anarchy,' Passes Away](https://www.indybay.org/newsitems/2018/12/23/18819945.php)
 
 ### Modern Crypto Wars [**^**](#cypherpunks)
 
@@ -111,7 +119,10 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 * [cryptoanarchy.wiki - archive](https://mailing-list-archive.cryptoanarchy.wiki/) Crypto Anarchy: Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments.
 * [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) "Cypherpunks write code."
 * [cypherpunks.to - archive](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to) a center for research and development of cypherpunk projects such as remailers, anonymous peer-to-peer services, secure network tunnels, mobile voice encryption, untraceable electronic cash, secure operating environments, etc.
-* [https://en.m.bitcoinwiki.org/wiki/Cypherpunk](https://en.m.bitcoinwiki.org/wiki/Cypherpunk)
+* [bitcoinwiki.org/wiki/Cypherpunk](https://en.m.bitcoinwiki.org/wiki/Cypherpunk)
+* [citizendium.org/wiki/Cypherpunk](http://en.citizendium.org/wiki/Cypherpunk)
+* [Mirror of Cypherpunkd radio series](https://www.organicdesign.com.br/files/cypherpunkd/index.php)
+
 ---
 
 #### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#cypherpunks)

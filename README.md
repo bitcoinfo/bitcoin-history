@@ -54,7 +54,7 @@ This repository is a space to gather any historical information related to Bitco
 
 * [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323)
   > "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
-* <a href="https://www.goodreads.com/book/show/984428.Crypto">CRYPTO— how the code rebels beat the government— saving privacy in the digital age</a> -Steven Levy
+* <a href="https://www.goodreads.com/book/show/984428.Crypto">CRYPTO— how the code rebels beat the government— saving privacy in the digital age</a> -Steven Levy 
 * <a href="http://www.merkle.com/1974/">Publishing a new idea
 by Ralph C. Merkle</a>
   >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
