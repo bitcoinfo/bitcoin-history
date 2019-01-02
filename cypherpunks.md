@@ -14,6 +14,7 @@ Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-
 
 ### Crypto Wars [**^**](#cypherpunks)
 
+* [Birth of Cypherpunks: Short](http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
 * [wiki.openrightsgroup.org/wiki/Crypto_Wars](https://wiki.openrightsgroup.org/wiki/Crypto_Wars)
 * [wikipedia.org/wiki/Crypto_Wars](https://en.wikipedia.org/wiki/Crypto_Wars)
 * [Untold History of Blockchain](https://www.linkedin.com/pulse/untold-history-blockchain-petri-basson/)
