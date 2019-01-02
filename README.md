@@ -1,7 +1,7 @@
 # Before Bitcoin
-**Cryptography, Cypherpunks, Open Source Software, Traditional Money, Virtual Currencies, Electronic Payments, P2P Networking, Distributed Systems and Smart Contracts.**
+**Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
-This repository is a space to gather any historical information related to Bitcoin.
+This repository is a space to gather any historical information related to Bitcoin. Above subtitle reflects the eventual intent for this repository. For now, I have a good start for pre-bitcoin and cypherpunk resources. I expect to be busy with some [other projects](/projects.md).
 
 ### Contents
 
@@ -128,7 +128,7 @@ by Ralph C. Merkle</a>
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
   - Peer to peer sharing
-* [>> More information on Cypherpunks and the Crypto Wars >>](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
+* [**>> More information >> Cypherpunks and the Crypto Wars >>**](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
 
 ### DigiCash and the Dawn of Virtual Currency [**^**](#contents)
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
