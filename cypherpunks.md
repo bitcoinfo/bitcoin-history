@@ -1,13 +1,16 @@
 # Cypherpunks 
 **Continued from [/bitcoin-history#cypherpunks-](https://github.com/infominer33/bitcoin-history#cypherpunks-)**
 
+<img src="http://i.imgur.com/qgVn6sU.png"/>\
+Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf">EVhAck_-_Cypherpunk</a> Criptografia rebelde.
+
 ### Contents
 * [Crypto Wars](#crypto-wars-)
 * [Cypherpunk Mailing-list](#cypherpunk-mailinglist-)
 * [Modern Crypto Wars](#modern-crypto-wars-)
 * [Resources](#resources-)
 
-<a href="https://twitter.com/lopp/status/1026139157125640192"><img src="http://i.imgur.com/EzcISZz.png"/></a>
+<a href="https://twitter.com/lopp/status/1026139157125640192"><img src="http://i.imgur.com/2d44hTP.png"/></a>
 
 ### Crypto Wars [**^**](#cypherpunks)
 
