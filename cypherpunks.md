@@ -32,6 +32,7 @@ Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-
 http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
 
 ### Cypherpunk Mailinglist [**^**](#cypherpunks) 
+\* Resources roughly in historical order, either by date of publication or story told.
 
 * [Cypherpunks, Bitcoin & the Myth of Satoshi Nakamoto](http://cybersalon.org/cypherpunk/) ('13)
   >The Cypherpunks began properly in 1992 when Tim May, Eric Hughes and John Gilmore, started the Cypherpunks’ mailing list. But Jim Bell, David Chaum, Phil Zimmerman, Julian Assange, Adam Back, Wei-Dai and Hal Finney are just a few of the ciphers on the mailing list who are just now becoming luminaries, because they’ve all contributed something so uniquely valuable to us through their efforts to protect our privacy in the new information economy, particularly against the encroaching financial surveillance complex (typified by FATCA).\
