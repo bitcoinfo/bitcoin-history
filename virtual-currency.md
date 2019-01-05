@@ -101,6 +101,7 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ### Peppercoin [**^**](#contents)
 
+* [Peppercoin Whitepaper](https://people.csail.mit.edu/rivest/pubs/Riv04c.pdf), by Ronald L. Rivest Computer Science and Artificial Intelligence Laboratory
 * [About Digicash and Peppercoin](https://www.theguardian.com/technology/2003/feb/25/comment.comment) - Micropayments
 * [Peppercoin Micropayment Slides](https://people.csail.mit.edu/rivest/pubs/Riv04c.slides.slides.pdf)
 * [Peppercoin Sold, and Almost Noone Noticed](https://www.techdirt.com/articles/20070417/012124.shtml)
