@@ -191,15 +191,18 @@ by Ralph C. Merkle</a>
 * [Homepage](http://www.cypherspace.org/adam/) [[**T**](https://twitter.com/adam3us)]
 * [Who is Adam Back? About the Blockstream CEO](https://thebitcoinnews.com/who-is-adam-back-about-the-blockstream-ceo/)
 
-### Beenz.com [**^**](#contents)
+### Beenz and Flooz [**^**](#contents)
 
-* https://www.ecommercetimes.com/story/12892.html
-* https://www.computerworld.com/article/2596386/financial-it/what-it-s-like-to-work-at-beenz-com-inc-.html
-* https://thehustle.co/beenz-pre-bitcoin-digital-currency
-
-
-### Flooz.com [**^**](#contents)
-Flooz had a similar name and similar model to Beenz: Users were rewarded for activity with flooz, which served as a medium of exchange among its network of partners. Like Beenz, also, Flooz went bust in the dot-com crash.
+An early clickworking site that rewarded users with its own digital currency.
+* [A decade before crypto, one digital currency conquered the world — then failed spectacularly](https://thehustle.co/beenz-pre-bitcoin-digital-currency)
+* [What It's Like to Work at Beenz.com Inc.](https://www.computerworld.com/article/2596386/financial-it/what-it-s-like-to-work-at-beenz-com-inc-.html)
+* [Beenz.com Closes Internet Currency Business](https://www.ecommercetimes.com/story/12892.html)
+* [bitcoinwiki - Beenz](https://en.bitcoinwiki.org/wiki/Beenz.com)
+>Flooz had a similar name, model, and was a direct competitor with Beenz: Users were rewarded for activity with flooz, which served as a medium of exchange among its network of partners. Like Beenz, also, Flooz went bust in the dot-com crash.
+* [The Rise and Fall of Flooz](http://mentalfloss.com/article/517911/bitcoin-rise-and-fall-flooz-e-currency)
+* [bitcoinwiki - Flooz](https://en.bitcoinwiki.org/wiki/Flooz.com)
+* [Internet Currency Site Flooz Suspends Operations](https://www.ecommercetimes.com/story/12704.html)
+* [What we can Learn from Flooz and Beenz](https://medium.com/@ParolaAnalytics/bitcoin-etc-what-can-we-learn-from-flooz-and-beenz-73566f140932)
 
 ### InternetCash [**^**](#contents)
 
