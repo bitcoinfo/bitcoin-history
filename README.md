@@ -1,7 +1,7 @@
 # Before Bitcoin
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
-This repository is a space to gather any historical information related to Bitcoin. Above subtitle reflects the eventual intent for this repository. For now, I have a good start for pre-bitcoin and cypherpunk resources. I expect to be busy with some [other projects](/projects.md).
+This repository is a space to gather any historical information related to Bitcoin. Above subtitle reflects the eventual intent for this repository. For now, I have a good start for pre-bitcoin and cypherpunk resources. I expect to be busy with some [other projects](/projects.md) for the next month or so. I don't think I'll have a ton of time to devote to this for the time being. But who knows what might happen if I get inspired.
 
 ### Contents
 
