@@ -164,7 +164,10 @@ by Ralph C. Merkle</a>
 Exploring each pre-bitcoin digital currency individually.
 
 #### e-Gold [**^**](#contents)
-* [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880) Founded in 1996
+* [e-Gold](https://cs.stanford.edu/people/eroberts/cs201/projects/2010-11/Bitcoins/e-gold.html) Founded in 1996
+* [Bullion and Bandits: The Improbable Rise and Fall of E-Gold](https://www.wired.com/2009/06/e-gold/)
+* [E-GOLD FOUNDER PLEADS GUILTY TO MONEY LAUNDERING](https://www.wired.com/2008/07/e-gold-founder/)
+* [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880)
 
 #### Hashcash [**^**](#contents)
 * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
