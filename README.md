@@ -15,6 +15,7 @@ This repository is a space to gather any historical information related to Bitco
 * [Virtual Currencies](#Virtual-Currencies-)
   * [eGold](#eGold-)
   * [HashCash](#HashCash-)
+    * [Adam Back](#adam-back)
   * [Beanz.com](#beanzcom-)
   * [Flooz.com](#floozcom-)
   * [InternetCash](#internetcash-)
@@ -181,6 +182,10 @@ Exploring each pre-bitcoin digital currency individually.
 * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
 * [The Genesis Files: Hashcash or How Adam Back Designed Bitcoin’s Motor Block](https://bitcoinmagazine.com/articles/genesis-files-hashcash-or-how-adam-back-designed-bitcoins-motor-block/)
 * [bitcoin.it/wiki/Hashcash](https://en.bitcoin.it/wiki/Hashcash)
+* [Proof of Work Proves not to Work](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
+* https://security.stackexchange.com/questions/14262/hashcash-is-this-really-used
+
+##### Adam Back [**^**](#contents)
 
 #### Beanz.com [**^**](#contents)
 
