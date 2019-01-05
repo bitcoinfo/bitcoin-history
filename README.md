@@ -13,11 +13,11 @@ This repository is a space to gather any historical information related to Bitco
 * [Cypherpunks](#cypherpunks-)
 * [DigiCash](#digicash-)
 * [The Dawn of Virtual Currency](#The-Dawn-of-Virtual-Currencies-)
+* [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash-)
 * [eGold](#eGold-)
 * [HashCash](#HashCash-)
   * [Adam Back](#adam-back)
-* [Beanz.com](#beanzcom-)
-* [Flooz.com](#floozcom-)
+* [Beanz and Flooz](#beenz-and-flooz-)
 * [InternetCash](#internetcash-)
 * [B-money](#b-money-)
 * [Bit Gold](#Bit-Gold-)
@@ -149,16 +149,11 @@ by Ralph C. Merkle</a>
   * B-money proposal (1998)
   * The Bit Gold proposal (1998)
   * Reusable Proof of Work (2004)
-* [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin)
-  * eCash (DigiCash) - David Chaum
-  * HashCash - Adam Back
-  * Bit Gold - Nick Szabo
-* [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies)
-  * Digicash
-  * eGold
-  * Beenz
-  * Flooz
-  * Internetcash
+* [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
+* [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
+
+### FirstVirtual and CyberCash [[**^**](#contents)]
+
 * [Early History of Digital Cash and Cryptocurrency](https://medium.com/@danielsfskim/the-early-history-of-digital-cash-and-cryptocurrency-b87436711de0)
   * 1994 - FirstVirtual - Pre-PayPal payment processor.
   * 1994 - CyberCash - utilizing SET architecture to provide micro-payments
