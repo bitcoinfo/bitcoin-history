@@ -153,9 +153,7 @@ by Ralph C. Merkle</a>
 
 * [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
 Princeton - Bitcoin and Cryptocurrency Technologies Online Course
-* [Back to the Future: Adam Back Remembers the Cypherpunk Revolution and the Origins of Bitcoin](https://www.bitcoin.kn/2015/09/why-dr-adam-back-so-legendary/)[[**ϟ**](https://bitcoinmagazine.com/articles/back-future-adam-back-remembers-cypherpunk-revolution-origins-bitcoin-1441741053/)]
-* [The Bitcoin Game #59: Dr. Adam Back](https://letstalkbitcoin.com/blog/post/the-bitcoin-game-59-dr-adam-back)
-  >  Dr. Back talks about topics such as his first computers, his early privacy-oriented work, Hashcash vs. other proof-of-work, various early electronic money systems, and his work on Bitcoin Confidential Transactions. Get ready to soak in some history from one of the people whose "work" became an integral part of Bitcoin.
+
 * [Bitcoin Prehistory](https://www.youtube.com/watch?v=v_DmtLsTsp4)
 * [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
 
