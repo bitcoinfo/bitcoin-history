@@ -48,16 +48,16 @@ http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
 * [THE CYPHERNOMICON: Cypherpunks FAQ and More - 1994 - Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)[[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
 *  <a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/mSL72Pd.png"/></a>\
   <sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
-  > May's Recommended readings, from cyphernomicon.
-  >
-  >- "Applied Cryptography" by Bruce Schneier, 1993
-  >- True Names by Vernor Vinge
-  >- The Shockwave Rider
-  >- Atlas Shrugged
-  >- 1984
-  >- Chaum article on making Big Brother obsolete (1985, Communications of the ACM)
-  >- Machinery of Freedom by David Friedman
-
+  * May's Recommended readings, from cyphernomicon.
+    * "Applied Cryptography" by Bruce Schneier, 1993
+    * Advances in Cryptology by Gilles Brassard
+    * True Names by Vernor Vinge
+    * The Shockwave Rider
+    * Atlas Shrugged
+    * 1984
+    * Chaum article on making Big Brother obsolete (1985, Communications of the ACM)
+    * Machinery of Freedom by David Friedman
+  
 * [The Crypto-Anarchists by Brian Zuzga](https://groups.csail.mit.edu/mac/classes/6.805/student-papers/fall94-papers/brian-zuzga.html) ('94)
 
 * [Privacy-enhancing technologies for the Internet](https://www.cypherpunks.ca/~iang/pubs/privacy-compcon97.pdf) by Ian Goldberg David Wagner Eric Brewer ('96)
