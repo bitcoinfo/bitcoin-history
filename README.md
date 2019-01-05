@@ -11,21 +11,21 @@ This repository is a space to gather any historical information related to Bitco
 * [David Chaum](#David-Chaum-)
 * [Distributed Systems](#distributed-systems-)
 * [Cypherpunks](#cypherpunks-)
-* [DigiCash and the Dawn of Virtual Currency](#digicash-and-the-dawn-of-virtual-currency-)
-* [Virtual Currencies](#Virtual-Currencies-)
-  * [eGold](#eGold-)
-  * [HashCash](#HashCash-)
-    * [Adam Back](#adam-back)
-  * [Beanz.com](#beanzcom-)
-  * [Flooz.com](#floozcom-)
-  * [InternetCash](#internetcash-)
-  * [B-money](#b-money-)
-  * [Bit Gold](#Bit-Gold-)
-    * [Nick Szabo](#Nick-Szabo-)
-  * [Peppercoin](P#eppercoin-)
-  * [Reusable Proof of Work](#reusable-proof-of-work-)
-  * [Literature](#Literature-)
-  * [Video-Audio](#Video-Audio-)
+* [DigiCash](#digicash-)
+* [The Dawn of Virtual Currency](#The-Dawn-of-Virtual-Currencies-)
+* [eGold](#eGold-)
+* [HashCash](#HashCash-)
+  * [Adam Back](#adam-back)
+* [Beanz.com](#beanzcom-)
+* [Flooz.com](#floozcom-)
+* [InternetCash](#internetcash-)
+* [B-money](#b-money-)
+* [Bit Gold](#Bit-Gold-)
+  * [Nick Szabo](#Nick-Szabo-)
+* [Peppercoin](P#eppercoin-)
+* [Reusable Proof of Work](#reusable-proof-of-work-)
+* [Literature](#Literature-)
+* [Video-Audio](#Video-Audio-)
 * [Resources](#Resources-)
 * [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
 
@@ -131,13 +131,16 @@ by Ralph C. Merkle</a>
   - Peer to peer sharing
 * [**>> More information >> Cypherpunks and the Crypto Wars >>**](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
 
-### DigiCash and the Dawn of Virtual Currency [**^**](#contents)
+### DigiCash [**^**](#contents)
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
 * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
 * [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
 * [How DigiCash Blew Everything](https://satoshiwatch.com/hall-of-fame/dr-david-chaum/in-depth/digicash-blew-everything-david-chaums/) [[**ϟ**](https://cryptome.org/jya/digicrash.htm)]
 * [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
   * History of digital currencies of the 90's with DigiCash as the primary example
+
+### The Dawn of Virtual Currency [[**^**](#contents)]
+
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b) ϟϟϟ Digi-Cash—eGold—Bitcoin
 * [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
 "The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
@@ -160,11 +163,8 @@ by Ralph C. Merkle</a>
   * 1994 - FirstVirtual - Pre-PayPal payment processor.
   * 1994 - CyberCash - utilizing SET architecture to provide micro-payments
 
-### Virtual Currencies [**^**](#contents)
 
-Exploring each pre-bitcoin digital currency individually.
-
-#### e-Gold [**^**](#contents)
+### e-Gold [**^**](#contents)
 * [e-Gold](https://cs.stanford.edu/people/eroberts/cs201/projects/2010-11/Bitcoins/e-gold.html) Founded in 1996
 * [Bullion and Bandits: The Improbable Rise and Fall of E-Gold](https://www.wired.com/2009/06/e-gold/)
 * [E-GOLD FOUNDER PLEADS GUILTY TO MONEY LAUNDERING](https://www.wired.com/2008/07/e-gold-founder/)
@@ -174,7 +174,7 @@ Exploring each pre-bitcoin digital currency individually.
 
 >In April 2007, the US government ordered e-gold administration to lock approximately 58 e-gold accounts, including ones owned by The Bullion Exchange, AnyGoldNow, IceGold, GitGold, The Denver Gold Exchange, GoldPouch Express, 1MDC (a Digital Gold Currency, based on e-gold), and forced OmniPay's owner, G&SR, to liquidate the seized assets.-[Bitcoiners: Remember what happened to eGold](http://www.economicpolicyjournal.com/2013/04/bitcoiners-remember-what-happened-to.html)
 
-#### Hashcash [**^**](#contents)
+### Hashcash [**^**](#contents)
 
 * [Hashcash](http://www.hashcash.org/) is a proof-of-work algorithm, invented by Adam Back in 1997
 * [What is Hashcash?](https://www.bitcoinmining.com/what-is-hashcash/)
@@ -185,30 +185,33 @@ Exploring each pre-bitcoin digital currency individually.
 * [Proof of Work Proves not to Work](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
 * https://security.stackexchange.com/questions/14262/hashcash-is-this-really-used
 
-##### Adam Back [**^**](#contents)
+#### Adam Back [**^**](#contents)
 
 * Founder and CEO of [Blockstream](https://blockstream.com/)
 * [Homepage](http://www.cypherspace.org/adam/) [[**T**](https://twitter.com/adam3us)]
 * [Who is Adam Back? About the Blockstream CEO](https://thebitcoinnews.com/who-is-adam-back-about-the-blockstream-ceo/)
 
-#### Beanz.com [**^**](#contents)
+### Beenz.com [**^**](#contents)
+
+* https://www.ecommercetimes.com/story/12892.html
+* https://www.computerworld.com/article/2596386/financial-it/what-it-s-like-to-work-at-beenz-com-inc-.html
+* https://thehustle.co/beenz-pre-bitcoin-digital-currency
 
 
-
-#### Flooz.com [**^**](#contents)
+### Flooz.com [**^**](#contents)
 Flooz had a similar name and similar model to Beenz: Users were rewarded for activity with flooz, which served as a medium of exchange among its network of partners. Like Beenz, also, Flooz went bust in the dot-com crash.
 
-#### InternetCash [**^**](#contents)
+### InternetCash [**^**](#contents)
 
 
 
 
-#### B-money [**^**](#contents)
+### B-money [**^**](#contents)
 
 * [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
 
 
-#### Bit Gold [**^**](#contents)
+### Bit Gold [**^**](#contents)
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
 
 * [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
@@ -221,11 +224,11 @@ Flooz had a similar name and similar model to Beenz: Users were rewarded for act
 * [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
   > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
 
-#### Peppercoin [**^**](#contents)
+### Peppercoin [**^**](#contents)
 
 * [About Digicash and Peppercoin](https://www.theguardian.com/technology/2003/feb/25/comment.comment) - Micropayments
 
-#### Reusable Proof of Work [**^**](#contents)
+### Reusable Proof of Work [**^**](#contents)
 
 * [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) -03
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
