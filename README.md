@@ -168,11 +168,19 @@ Exploring each pre-bitcoin digital currency individually.
 * [Bullion and Bandits: The Improbable Rise and Fall of E-Gold](https://www.wired.com/2009/06/e-gold/)
 * [E-GOLD FOUNDER PLEADS GUILTY TO MONEY LAUNDERING](https://www.wired.com/2008/07/e-gold-founder/)
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880)
+* [’96 | Oncologist + Gold = Revolution?](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880)
+* https://en.bitcoinwiki.org/wiki/E-gold
 
 >In April 2007, the US government ordered e-gold administration to lock approximately 58 e-gold accounts, including ones owned by The Bullion Exchange, AnyGoldNow, IceGold, GitGold, The Denver Gold Exchange, GoldPouch Express, 1MDC (a Digital Gold Currency, based on e-gold), and forced OmniPay's owner, G&SR, to liquidate the seized assets.-[Bitcoiners: Remember what happened to eGold](http://www.economicpolicyjournal.com/2013/04/bitcoiners-remember-what-happened-to.html)
 
 #### Hashcash [**^**](#contents)
+
+* [Hashcash](http://www.hashcash.org/) is a proof-of-work algorithm, invented by Adam Back in 1997
+* [What is Hashcash?](https://www.bitcoinmining.com/what-is-hashcash/)
+* [The History of Bitcoin Part 1: What is Hashcash?](https://btcmanager.com/the-history-of-bitcoin-part-1-what-is-hashcash/)
 * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
+* [The Genesis Files: Hashcash or How Adam Back Designed Bitcoin’s Motor Block](https://bitcoinmagazine.com/articles/genesis-files-hashcash-or-how-adam-back-designed-bitcoins-motor-block/)
+* [bitcoin.it/wiki/Hashcash](https://en.bitcoin.it/wiki/Hashcash)
 
 #### Beanz.com [**^**](#contents)
 
