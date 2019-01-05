@@ -187,6 +187,10 @@ Exploring each pre-bitcoin digital currency individually.
 
 ##### Adam Back [**^**](#contents)
 
+* Founder and CEO of [Blockstream](https://blockstream.com/)
+* [Homepage](http://www.cypherspace.org/adam/) [[**T**](https://twitter.com/adam3us)]
+* [Who is Adam Back? About the Blockstream CEO](https://thebitcoinnews.com/who-is-adam-back-about-the-blockstream-ceo/)
+
 #### Beanz.com [**^**](#contents)
 
 
