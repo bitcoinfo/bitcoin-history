@@ -169,6 +169,8 @@ Exploring each pre-bitcoin digital currency individually.
 * [E-GOLD FOUNDER PLEADS GUILTY TO MONEY LAUNDERING](https://www.wired.com/2008/07/e-gold-founder/)
 * [e-Gold](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880)
 
+>In April 2007, the US government ordered e-gold administration to lock approximately 58 e-gold accounts, including ones owned by The Bullion Exchange, AnyGoldNow, IceGold, GitGold, The Denver Gold Exchange, GoldPouch Express, 1MDC (a Digital Gold Currency, based on e-gold), and forced OmniPay's owner, G&SR, to liquidate the seized assets.-[Bitcoiners: Remember what happened to eGold](http://www.economicpolicyjournal.com/2013/04/bitcoiners-remember-what-happened-to.html)
+
 #### Hashcash [**^**](#contents)
 * [Anybody interested in some Hash Cash?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
 
