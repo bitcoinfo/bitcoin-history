@@ -1,5 +1,9 @@
 # Before Bitcoin
 
+This section is for all history preceeding, and related to the develpment of Bitcoin, including Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
+
+* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
+
 ### Contents
 
 * [Timelines](#timelines-)
@@ -14,18 +18,15 @@
 * [Resources](#Resources-)
 * [Closing](#brought-to-you-by-the-crypto-librarysuper-source-)
 
-**See Also:**
-* [/cypherpunks.md](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) and the Crypto Wars
-* [/virtual-currency.md](/virtual-currency.md) - Pre-Bitcoin
-* [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md) 
-* [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
+
 
 ### Timelines [**^**](#contents)
 
 <a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="http://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
 
-* [Bitcoin and Markets - Bitcoin History](https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History) - Timeline of important research and events since 1970.
+* [Hobbes' Blockchain Timeline 0.1](https://www.zakon.org/robert/blockchain/timeline/) — Blockchain, Bitcoin, Distributed Ledgers, Smart Contracts and Cryptocurrencies
 * [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
+* [Bitcoin and Markets - Bitcoin History](https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History) - Timeline of important research and events since 1970.
 
 
 <a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="http://i.imgur.com/RZafVvV.png" align="right"></a>
