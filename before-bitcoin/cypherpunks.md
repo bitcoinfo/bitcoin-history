@@ -1,5 +1,8 @@
 # Cypherpunks and the Crypto Wars
-**Continued from [/bitcoin-history#cypherpunks-](https://github.com/infominer33/bitcoin-history#cypherpunks-)**
+
+
+* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
+
 
 ### Contents
 * [Crypto Wars](#crypto-wars-)
@@ -55,15 +58,17 @@ http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
 *  <a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/mSL72Pd.png"/></a>\
   <sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
   * May's Recommended readings, from cyphernomicon.
-    * "Applied Cryptography" by Bruce Schneier, 1993
-    * Advances in Cryptology by Gilles Brassard
-    * True Names by Vernor Vinge
-    * The Shockwave Rider
-    * Atlas Shrugged
-    * 1984
-    * Chaum article on making Big Brother obsolete (1985, Communications of the ACM)
-    * Machinery of Freedom by David Friedman
-  
+    * Applied Cryptography by Bruce Schneier '93
+    * Advances in Cryptology by Gilles Brassard '90
+    * 1984 by George Orwell '49 
+    * The Shockwave Rider by John Brunner '75
+    * True Names by Vernor Vinge '81
+    * Atlas Shrugged by Ayn Rand '57
+    * Security without Identification: Transaction Systems to Make Big Brother Obsolete '85
+    * Machinery of Freedom by David Friedman '73
+
+If you're interested, add the Cryptonomicon, by Neil Stevenson '99 to your list.
+
 * [The Crypto-Anarchists by Brian Zuzga](https://groups.csail.mit.edu/mac/classes/6.805/student-papers/fall94-papers/brian-zuzga.html) ('94)
 
 * [Privacy-enhancing technologies for the Internet](https://www.cypherpunks.ca/~iang/pubs/privacy-compcon97.pdf) by Ian Goldberg David Wagner Eric Brewer ('96)

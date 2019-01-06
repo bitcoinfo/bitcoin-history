@@ -116,7 +116,8 @@ by Ralph C. Merkle</a>
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
   - Peer to peer sharing
-* [**>> More information >> Cypherpunks and the Crypto Wars >>**](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) 
+
+#### [**>> More information >> Cypherpunks and the Crypto Wars >>**](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/cypherpunks.md) 
 
 ### Pre-Bitcoin Digital Currency [[**^**](#contents)]
 
@@ -130,7 +131,8 @@ by Ralph C. Merkle</a>
   * Reusable Proof of Work (2004)
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
 * [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
-* [>> More Information >> Virtual Currencies >>](/virtual-currencies.md)
+
+#### [**>> More Information >> Virtual Currencies >>**](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/virtual-currencies.md)
 
 
 ### Literature [**^**](#contents)
@@ -168,7 +170,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 
 ---
 
-#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
+#### Brought to you by The [Crypto Super Source](http://crypt0library.net):
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 Check out some of my [other projects](projects.md)!!!
