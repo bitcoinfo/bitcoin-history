@@ -127,3 +127,14 @@ An early clickworking site that rewarded users with its own digital currency.
 
 #### Hal Finney [**^**](#contents)
 
+### Resources
+
+* [Network Payment Mechanisms and Digital Cash](http://ganges.cs.tcd.ie//mepeirce/project.html)
+* [Electronic Payment Schemes](https://www.w3.org/Payments/roadmap.html) by Dr Phillip M. Hallam-Baker, of the World Wide Web Consortium.
+* [Evolution of Network Payment and E-Commerce Technologies](http://www.bcneuman.com/ecommerce/)
+* [Electronic Payment Systems](http://www.ra.ethz.ch/WWW/WWW8/tutorial_5.html) from the eighth World Wide Web conference in toronto, canada
+* [Electronic Cash Payment Protocols and Systems](http://www.dmi.unipg.it/bista/didattica/sicurezza-pg/sistemi-pagamento/e-cash-payment.v1.10.20.pdf) '00
+  * Ecash (Digital Cash)
+  - NetCash
+  - Modex
+  - Project CAFÉ
