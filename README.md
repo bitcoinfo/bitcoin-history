@@ -4,7 +4,7 @@ This repository is a space to gather any historical information related to Bitco
 
 ### Contents
 
-* [/before-bitcoin](#before-bitcoin)
+* [**/before-bitcoin**](#before-bitcoin)
   * [Timelines](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/#timelines-)
   * [Pre-Digital Cryptogrphay](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/#pre-digital-cryptography-)
   * [Digital Cryptography](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/#digital-cryptography-)
@@ -13,12 +13,12 @@ This repository is a space to gather any historical information related to Bitco
   * [Literature](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/#Literature-)
   * [Video-Audio](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/#Video-Audio-)
   * [Resources](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/#Resources-)
-* [/cypherpunks.md](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/cypherpunks.md) and the Crypto Wars
+* [**/cypherpunks.md**](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/cypherpunks.md) and the Crypto Wars
   * [Crypto Wars](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/cypherpunks.md#crypto-wars-)
   * [Cypherpunk Mailing-list](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/cypherpunks.md#cypherpunk-mailinglist-)
   * [Modern Crypto Wars](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/cypherpunks.md#modern-crypto-wars-)
   * [Resources](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/cypherpunks.md#resources-)
-* [/virtual-currency.md](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/virtual-currency.md) - Pre-Bitcoin
+* [**/virtual-currency.md**](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/virtual-currency.md) - Pre-Bitcoin
   * [DigiCash](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/virtual-currency.md#digicash-)
   * [The Dawn of Virtual Currency](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/virtual-currency.md#The-Dawn-of-Virtual-Currencies-)
   * [FirstVirtual and CyberCash](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/virtual-currency.md#FirstVirtual-and-CyberCash-)
@@ -34,8 +34,8 @@ This repository is a space to gather any historical information related to Bitco
   * [Peppercoin](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/virtual-currency.md#peppercoin-)
   * [Reusable Proof of Work](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/virtual-currency.md#reusable-proof-of-work-)
     * [Hal Finney](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/virtual-currency.md#hal-finney-)
-* [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md) 
-* [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
+* [**/bitcoin-history.md**](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md) 
+* [**/cryptocurrencies.md**](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
 
 ---
 

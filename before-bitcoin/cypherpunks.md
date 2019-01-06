@@ -10,12 +10,6 @@
 * [Modern Crypto Wars](#modern-crypto-wars-)
 * [Resources](#resources-)
 
-**See Also:**
-* [/readme.md](/readme.md) - Before Bitcoin (Home)
-* [/virtual-currency.md](/virtual-currency.md) - Pre-Bitcoin
-* [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md) 
-* [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
-
 <img src="http://i.imgur.com/qgVn6sU.png"/>\
 Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf">EVhAck_-_Cypherpunk</a> 
 
@@ -67,7 +61,7 @@ http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
     * Security without Identification: Transaction Systems to Make Big Brother Obsolete '85
     * Machinery of Freedom by David Friedman '73
 
-If you're interested, add the Cryptonomicon, by Neil Stevenson '99 to your list.
+For more cypherpunk books [check out](https://www.goodreads.com/shelf/show/cypherpunk) goodreads.
 
 * [The Crypto-Anarchists by Brian Zuzga](https://groups.csail.mit.edu/mac/classes/6.805/student-papers/fall94-papers/brian-zuzga.html) ('94)
 
