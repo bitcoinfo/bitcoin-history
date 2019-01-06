@@ -1,10 +1,13 @@
-# Pre-Bitcoin Digital Currency Schemes
+# Pre-Bitcoin Digital Payments and Electronic Cash
+
+* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 
 ### Contents
 
 * [DigiCash](#digicash-)
 * [The Dawn of Virtual Currency](#The-Dawn-of-Virtual-Currencies-)
 * [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash-)
+* [NetCash](#netcash-)
 * [eGold](#eGold-)
 * [HashCash](#HashCash-)
   * [Adam Back](#adam-back)
@@ -18,13 +21,6 @@
 * [Reusable Proof of Work](#reusable-proof-of-work-)
   * [Hal Finney](#hal-finney-)
 
-**See Also:**
-* [/readme.md](/readme.md) - Before Bitcoin (Home)
-* [/cypherpunks.md](https://github.com/infominer33/bitcoin-history/blob/master/cypherpunks.md) and the Crypto Wars
-* [/bitcoin-history.md](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md) 
-* [/cryptocurrencies.md](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
-
-
 ### DigiCash [**^**](#contents)
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
 * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
@@ -34,12 +30,19 @@
   * History of digital currencies of the 90's with DigiCash as the primary example
 
 
-### FirstVirtual and CyberCash [[**^**](#contents)]
+### FirstVirtual and CyberCash [**^**](#contents)
 
 * [Early History of Digital Cash and Cryptocurrency](https://medium.com/@danielsfskim/the-early-history-of-digital-cash-and-cryptocurrency-b87436711de0)
-  * 1994 - FirstVirtual - Pre-PayPal payment processor.
+  * In 1994, FirstVirtual offered online payments, like paypal, via e-mail.
   * 1994 - CyberCash - utilizing SET architecture to provide micro-payments
+    > Secure electronic transaction (SET) was an early protocol for electronic credit card payments. As the name implied, SET was used to facilitate the secure transmission of consumer credit card information via electronic avenues, such as the Internet. SET blocked out the details of credit card information, thus preventing merchants, hackers and electronic thieves from accessing this information. -[investopedia](https://www.investopedia.com/terms/s/secure-electronic-transaction-set.asp)
 
+* [CyberCash Credit Card Protocol Version 0.8](https://tools.ietf.org/html/rfc1898)
+
+### NetCash [**^**](#contents)
+
+* [NetCheque, NetCash, and the Characteristics of Internet Payment Services](https://quod.lib.umich.edu/j/jep/3336451.0001.126?view=text;rgn=main) '95
+  > Secure methods of payment are needed before we will see widespread commercial use of the Internet. Recently proposed and implemented payment methods follow one of three models: electronic currency, credit-debit, and secure credit card transactions. Such payment services have different strengths and weaknesses with respect to the requirements of security, reliability, scalability, anonymity, acceptability, customer base, reliability, convertibility, efficiency, ease of integration with applications, and ease of use. NetCheque and NetCash are payment systems under development at the Information Sciences Institute of the University of Southern California. NetCheque and NetCash are described and their strengths with respect to these requirements are discussed.
 
 ### e-Gold [**^**](#contents)
 * [e-Gold](https://cs.stanford.edu/people/eroberts/cs201/projects/2010-11/Bitcoins/e-gold.html) Founded in 1996
