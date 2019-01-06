@@ -5,7 +5,6 @@
 ### Contents
 
 * [DigiCash](#digicash-)
-* [The Dawn of Virtual Currency](#The-Dawn-of-Virtual-Currencies-)
 * [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash-)
 * [NetCash](#netcash-)
 * [eGold](#eGold-)

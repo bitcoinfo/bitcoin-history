@@ -20,7 +20,6 @@ This repository is a space to gather any historical information related to Bitco
   * [Resources](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/cypherpunks.md#resources-)
 * [**/electronic-cash.md**](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/electronic-cash.md) - Pre-Bitcoin
   * [DigiCash](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/electronic-cash.md#digicash-)
-  * [The Dawn of Virtual Currency](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/electronic-cash.md#The-Dawn-of-Virtual-Currencies-)
   * [FirstVirtual and CyberCash](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/electronic-cash.md#FirstVirtual-and-CyberCash-)
   * [eGold](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/electronic-cash.md#eGold-)
   * [HashCash](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/electronic-cash.md#HashCash-)
