@@ -129,6 +129,7 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ### Resources
 
+* [Digital vs Virtual Currencies](https://bitcoinmagazine.com/articles/digital-vs-virtual-currencies-1408735507/)
 * [Network Payment Mechanisms and Digital Cash](http://ganges.cs.tcd.ie//mepeirce/project.html)
 * [Electronic Payment Schemes](https://www.w3.org/Payments/roadmap.html) by Dr Phillip M. Hallam-Baker, of the World Wide Web Consortium.
 * [Evolution of Network Payment and E-Commerce Technologies](http://www.bcneuman.com/ecommerce/)
