@@ -132,7 +132,7 @@ by Ralph C. Merkle</a>
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
 * [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
 
-#### [**>> More Information >> Virtual Currencies >>**](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/virtual-currencies.md)
+#### [**>> More Information >> Virtual Currencies >>**](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/electronic-cash.md)
 
 
 ### Literature [**^**](#contents)
