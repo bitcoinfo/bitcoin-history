@@ -1,9 +1,8 @@
 # Pre-Bitcoin Digital Payments and Electronic Cash
 
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 
 ### Contents
-
+* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 * [DigiCash](#digicash-)
 * [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash-)
 * [NetCash](#netcash-)
