@@ -172,6 +172,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
   > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
 * UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland:  [Technology Driven Universal Currency Improvements and Innovations in Existing Financial Mechanisms](https://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
   > Today close to 90% of our financial transactions have a computer-only reality, no coins, and no bills. But the bits and bytes reflect national currencies defined as paper money equivalent. The next level in the increasing abstraction of credit, risk and value is to mint a currency natively defined as a string of bits. Bitdefined currency features the utmost flexibility in storage and movement, as well as in reflecting value, risk, and credit distribution. 
+* [btcmanager.com/tag/history](https://btcmanager.com/tag/history/)
 
 ---
 
