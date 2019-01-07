@@ -43,6 +43,7 @@ This repository is a space to gather any historical information related to Bitco
   * [Nick Szabo](https://github.com/infominer33/bitcoin-history/blob/master/nick-szabo.md)
   * [Wei Dai](https://github.com/infominer33/bitcoin-history/blob/master/wei-dai.md)
   * [Adam Back](https://github.com/infominer33/bitcoin-history/blob/master/adam-back.md)
+  
 ---
 
 #### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
