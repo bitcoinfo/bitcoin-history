@@ -8,3 +8,4 @@ https://en.bitcoin.it/wiki/Wei_Dai
 
 https://en.bitcoinwiki.org/wiki/Wei_Dai
 
+* [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
