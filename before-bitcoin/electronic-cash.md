@@ -78,12 +78,6 @@
 * https://www.investopedia.com/terms/b/bmoney.asp
 * [**>> More Information on Wei Dai >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/wei-dai.md)
 
-### Bit Gold [**^**](#contents)
-<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
-
-* [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
-
-* [**>> More Information on Nick Szabo >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/nick-szabo.md)
 
 ### Beenz and Flooz [**^**](#contents)
 
@@ -118,6 +112,19 @@ An early clickworking site that rewarded users with its own digital currency.
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
 * [Use me Baby one more Time](https://medium.com/blockwhat/04-use-me-baby-one-more-time-d0dd599c8357)
 * [**>> More Information on Hal Finney >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/wei-dai.md)
+
+### Bit Gold [**^**](#contents)
+<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
+
+* [Original - 2005 - Bit Gold Proposal](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
+* [The History of Bitcoin - Part 2 - Bit Gold](https://btcmanager.com/the-history-of-bitcoin-part-2-bit-gold/)
+* [Genesis Files: Bit Gold - Szabo was Inches Away from Inventing Bitcoin](https://bitcoinmagazine.com/articles/genesis-files-bit-gold-szabo-was-inches-away-inventing-bitcoin/)
+* [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
+* [Re: They want to delete the Wikipedia article](https://bitcointalk.org/index.php?topic=342.msg4508#msg4508) - satoshi
+  >Bitcoin is an implementation of Wei Dai's b-money proposal http://weidai.com/bmoney.txt on Cypherpunks http://en.wikipedia.org/wiki/Cypherpunks in 1998 and Nick Szabo's Bitgold proposal http://unenumerated.blogspot.com/2005/12/bit-gold.html
+* [What is Bit Gold? The Brainchild of Blockchain Pioneer - Nick Szabo](https://coincentral.com/what-is-bit-gold-the-brainchild-of-blockchain-pioneer-nick-szabo/)
+* [**>> More Information on Nick Szabo >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/nick-szabo.md)
+
 
 ### Liberty Reserve [**^**](#contents)
 
