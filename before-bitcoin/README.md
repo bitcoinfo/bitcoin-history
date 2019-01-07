@@ -1,6 +1,6 @@
 # Before Bitcoin
 
-This section is for all history preceeding, and related to the develpment of Bitcoin, including Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
+This section is for all history preceeding, and related to the develpment of Bitcoin. To include background information regarding Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
 
 * [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 
@@ -40,7 +40,7 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 ### Digital Cryptography [**^**](#contents)
 
-* [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323)
+* [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) [[**ϟ**](https://simonsingh.net/cryptography/crypto-cd-rom/)]
   > "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
 * <a href="http://www.merkle.com/1974/">Publishing a new idea
 by Ralph C. Merkle</a>
