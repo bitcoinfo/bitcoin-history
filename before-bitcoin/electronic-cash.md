@@ -8,19 +8,19 @@
 * [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash-)
 * [NetCash](#netcash-)
 * [Modex](#Modex-)
-* [Project CAFE](#Project-Cafe-)
-* [eGold](#eGold-)
+* [Project CAFE](#Project-CAFÉ-)
+* [eGold](#e-Gold-)
 * [HashCash](#HashCash-)
+* [B-money](#b-money-)
 * [Beenz and Flooz](#beenz-and-flooz-)
 * [InternetCash](#internetcash-)
 * [E-Bullion](#E-Bullion-)
 * [Dexit](#Dexit-)
-* [B-money](#b-money-)
-* [Bit Gold](#Bit-Gold-)
-  * [Nick Szabo](#Nick-Szabo-)
-* [Peppercoin](P#eppercoin-)
+* [Peppercoin](#Peppercoin-)
 * [Reusable Proof of Work](#reusable-proof-of-work-)
-  * [Hal Finney](#hal-finney-)
+* [Bit Gold](#Bit-Gold-)
+* [Liberty Reserve](#liberty-reserve-)
+* [Resources](#resources)
 
 ### DigiCash [**^**](#contents)
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
@@ -45,9 +45,9 @@
 * [NetCheque, NetCash, and the Characteristics of Internet Payment Services](https://quod.lib.umich.edu/j/jep/3336451.0001.126?view=text;rgn=main) '95
   > Secure methods of payment are needed before we will see widespread commercial use of the Internet. Recently proposed and implemented payment methods follow one of three models: electronic currency, credit-debit, and secure credit card transactions. Such payment services have different strengths and weaknesses with respect to the requirements of security, reliability, scalability, anonymity, acceptability, customer base, reliability, convertibility, efficiency, ease of integration with applications, and ease of use. NetCheque and NetCash are payment systems under development at the Information Sciences Institute of the University of Southern California. NetCheque and NetCash are described and their strengths with respect to these requirements are discussed.
 
-### Modex
+### Modex [**^**](#contents)
 
-### Project CAFÉ
+### Project CAFÉ [**^**](#contents)
 
 ### e-Gold [**^**](#contents)
 * [e-Gold](https://cs.stanford.edu/people/eroberts/cs201/projects/2010-11/Bitcoins/e-gold.html) Founded in 1996
@@ -116,7 +116,8 @@ An early clickworking site that rewarded users with its own digital currency.
 ### Bit Gold [**^**](#contents)
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
 
-* [Original - 2005 - Bit Gold Proposal](https://unenumerated.blogspot.com/2005/12/bit-gold.html)
+* [2005 - Bit Gold Proposal](https://unenumerated.blogspot.com/2005/12/bit-gold.html) [[**ϟ**](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)]
+* [Bit Gold and Bitcoin](https://medium.com/@insearchofsatoshi/bit-gold-and-bitcoin-9357176cd420)
 * [The History of Bitcoin - Part 2 - Bit Gold](https://btcmanager.com/the-history-of-bitcoin-part-2-bit-gold/)
 * [Genesis Files: Bit Gold - Szabo was Inches Away from Inventing Bitcoin](https://bitcoinmagazine.com/articles/genesis-files-bit-gold-szabo-was-inches-away-inventing-bitcoin/)
 * [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
@@ -131,6 +132,7 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ### Resources [**^**](#contents)
 
+* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 * [Digital vs Virtual Currencies](https://bitcoinmagazine.com/articles/digital-vs-virtual-currencies-1408735507/)
 * [Network Payment Mechanisms and Digital Cash](http://ganges.cs.tcd.ie//mepeirce/project.html)
 * [Electronic Payment Schemes](https://www.w3.org/Payments/roadmap.html) by Dr Phillip M. Hallam-Baker, of the World Wide Web Consortium.
@@ -153,6 +155,7 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ![](https://i.imgur.com/NkoiO1M.jpg)
 [Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)
+
 
 ---
 
