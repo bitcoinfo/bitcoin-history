@@ -140,6 +140,8 @@ An early clickworking site that rewarded users with its own digital currency.
 ---
 
 ![](https://i.imgur.com/NkoiO1M.jpg)
+[Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)
+
 
 ### Resources [**^**](#contents)
 
