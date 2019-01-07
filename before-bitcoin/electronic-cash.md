@@ -137,6 +137,10 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ### Liberty Reserve [**^**](#contents)
 
+---
+
+![](https://i.imgur.com/NkoiO1M.jpg)
+
 ### Resources [**^**](#contents)
 
 * [Digital vs Virtual Currencies](https://bitcoinmagazine.com/articles/digital-vs-virtual-currencies-1408735507/)
