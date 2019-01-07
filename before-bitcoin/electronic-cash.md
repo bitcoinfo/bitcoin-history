@@ -71,6 +71,20 @@
 * https://security.stackexchange.com/questions/14262/hashcash-is-this-really-used
 * [**>> More Information on Adam Back >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/adam-back.md)
   
+### B-money [**^**](#contents)
+
+* [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
+* [If Bitcoin had a first Draft - B-money was it](https://bitcoinmagazine.com/articles/genesis-files-if-bitcoin-had-first-draft-wei-dais-b-money-was-it/)
+* https://www.investopedia.com/terms/b/bmoney.asp
+* [**>> More Information on Wei Dai >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/wei-dai.md)
+
+### Bit Gold [**^**](#contents)
+<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
+
+* [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
+
+* [**>> More Information on Nick Szabo >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/nick-szabo.md)
+
 ### Beenz and Flooz [**^**](#contents)
 
 An early clickworking site that rewarded users with its own digital currency.
@@ -89,22 +103,6 @@ An early clickworking site that rewarded users with its own digital currency.
 ### E-Bullion [**^**](#contents)
 
 ### Dexit [**^**](#contents)
-
-### B-money [**^**](#contents)
-
-* [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
-
-https://www.investopedia.com/terms/b/bmoney.asp
-
-* [**>> More Information on Wei Dai >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/wei-dai.md)
-
-### Bit Gold [**^**](#contents)
-<a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
-
-* [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
-
-* [**>> More Information on Nick Szabo >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/nick-szabo.md)
-
 
 ### Peppercoin [**^**](#contents)
 
