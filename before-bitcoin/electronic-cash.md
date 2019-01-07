@@ -123,11 +123,6 @@ https://www.investopedia.com/terms/b/bmoney.asp
 
 ### Liberty Reserve [**^**](#contents)
 
----
-
-![](https://i.imgur.com/NkoiO1M.jpg)
-[Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)
-
 
 ### Resources [**^**](#contents)
 
@@ -150,3 +145,25 @@ https://www.investopedia.com/terms/b/bmoney.asp
   * E-Bullion
   * E-Gold
   * Dexit
+
+![](https://i.imgur.com/NkoiO1M.jpg)
+[Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)
+
+---
+
+#### Brought to you by The [Crypto Super Source](http://crypt0library.net):
+[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
+
+Check out some of my [other projects](projects.md)!!!
+
+**Tips Appreciated**:
+
+BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
+
+![](http://imgur.com/yXLLm9Bl.png) 
+
+DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
+
+![](https://i.imgur.com/0zBLoUP.png) 
+
+
