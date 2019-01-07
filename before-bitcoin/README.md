@@ -42,20 +42,24 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 * [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) [[**ϟ**](https://simonsingh.net/cryptography/crypto-cd-rom/)]
   > "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
-* <a href="http://www.merkle.com/1974/">Publishing a new idea
-by Ralph C. Merkle</a>
-  >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
+
+**Hash Algorithms**
 * [History of Hash Algo's - StackExchange](https://crypto.stackexchange.com/questions/56404/what-was-the-first-hash-and-what-problem-was-it-supposed-to-solve)
 * [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) '76
 * [DATA ENCRYPTION STANDARD (DES)](http://www.cs.haifa.ac.il/~orrd/IntroToCrypto/online/fips46-3.pdf) approved as a federal standard in ['76](https://en.wikipedia.org/wiki/Data_Encryption_Standard#History_of_DES)
+
+**Public Key Cryptography**
+* <a href="http://www.merkle.com/1974/">Publishing a new idea
+by Ralph C. Merkle</a>
+  >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
+<a href="https://www.youtube.com/watch?v=_ZTWLAqYf9c"><img src="http://i.imgur.com/hIMMThY.png"/></a>
+* [Part 1](https://www.youtube.com/watch?v=_ZTWLAqYf9c) — [Part 2](https://www.youtube.com/watch?v=oR0_LPbWxe4) about the development of public-key cryptography.\
+  For a more complete version, read:
+* <a href="https://www.goodreads.com/book/show/984428.Crypto">CRYPTO— how the code rebels beat the government— saving privacy in the digital age</a> -Steven Levy 
 * [THE OPEN SECRET](https://www.wired.com/1999/04/crypto/) 
   —Public key cryptography - the breakthrough that revolutionized email and ecommerce - was first discovered by American geeks. Right? Wrong.
   > The story of the invention of public key cryptography is a cypherpunk sacred text: In 1976, an iconoclastic young hacker named Whitfield Diffie hooked up with Stanford professor Martin Hellman, and together they devised what experts hailed as the most important development in crypto since the invention of polyalphabetic ciphers during the Renaissance. The duo produced a system that allowed an unlimited number of people to communicate with total privacy.
 
-
-<a href="https://www.youtube.com/watch?v=_ZTWLAqYf9c"><img src="http://i.imgur.com/hIMMThY.png"/></a>
-https://www.youtube.com/watch?v=_ZTWLAqYf9c — 10 minute video about the non-classified development of public-key cryptography. For a more complete version, read:
-* <a href="https://www.goodreads.com/book/show/984428.Crypto">CRYPTO— how the code rebels beat the government— saving privacy in the digital age</a> -Steven Levy 
 
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
 
@@ -73,8 +77,6 @@ https://www.youtube.com/watch?v=_ZTWLAqYf9c — 10 minute video about the non-cl
 * [What Everybody Misunderstands About Privacy Pioneer David Chaum's Controversial Crypto Plan](http://fortune.com/2016/01/14/encryption-wars-crypto-david-chaum/)
 * [How David Chaum's eCash spawned a Cypherpunk Dream](https://bitcoinmagazine.com/articles/genesis-files-how-david-chaums-ecash-spawned-cypherpunk-dream/) - 2018
 * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/) - 2018
-
-
 
 
 ### Distributed Systems [**^**](#contents)
