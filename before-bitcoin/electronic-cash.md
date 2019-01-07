@@ -7,11 +7,15 @@
 * [DigiCash](#digicash-)
 * [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash-)
 * [NetCash](#netcash-)
+* [Modex](#Modex-)
+* [Project CAFE](#Project-Cafe-)
 * [eGold](#eGold-)
 * [HashCash](#HashCash-)
   * [Adam Back](#adam-back)
 * [Beanz and Flooz](#beenz-and-flooz-)
 * [InternetCash](#internetcash-)
+* [E-Bullion](#E-Bullion-)
+* [Dexit](#Dexit-)
 * [B-money](#b-money-)
   * [Wai-Dai](#wai-dai-)
 * [Bit Gold](#Bit-Gold-)
@@ -42,6 +46,10 @@
 
 * [NetCheque, NetCash, and the Characteristics of Internet Payment Services](https://quod.lib.umich.edu/j/jep/3336451.0001.126?view=text;rgn=main) '95
   > Secure methods of payment are needed before we will see widespread commercial use of the Internet. Recently proposed and implemented payment methods follow one of three models: electronic currency, credit-debit, and secure credit card transactions. Such payment services have different strengths and weaknesses with respect to the requirements of security, reliability, scalability, anonymity, acceptability, customer base, reliability, convertibility, efficiency, ease of integration with applications, and ease of use. NetCheque and NetCash are payment systems under development at the Information Sciences Institute of the University of Southern California. NetCheque and NetCash are described and their strengths with respect to these requirements are discussed.
+
+### Modex
+
+### Project CAFÉ
 
 ### e-Gold [**^**](#contents)
 * [e-Gold](https://cs.stanford.edu/people/eroberts/cs201/projects/2010-11/Bitcoins/e-gold.html) Founded in 1996
@@ -88,8 +96,9 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ### InternetCash [**^**](#contents)
 
+### E-Bullion [**^**](#contents)
 
-
+### Dexit [**^**](#contents)
 
 ### B-money [**^**](#contents)
 
@@ -126,7 +135,9 @@ An early clickworking site that rewarded users with its own digital currency.
 
 #### Hal Finney [**^**](#contents)
 
-### Resources
+### Liberty Reserve [**^**](#contents)
+
+### Resources [**^**](#contents)
 
 * [Digital vs Virtual Currencies](https://bitcoinmagazine.com/articles/digital-vs-virtual-currencies-1408735507/)
 * [Network Payment Mechanisms and Digital Cash](http://ganges.cs.tcd.ie//mepeirce/project.html)
@@ -138,3 +149,12 @@ An early clickworking site that rewarded users with its own digital currency.
   - NetCash
   - Modex
   - Project CAFÉ
+* [Does Virtual Currency's Past Dictate its Future?](https://www.mobilepaymentstoday.com/blogs/does-virtual-currencys-past-dictate-its-future-3/)
+  * digicash
+  * cybercash
+  * Beenz
+  * Flooz
+  * Internetcash
+  * E-Bullion
+  * E-Gold
+  * Dexit
