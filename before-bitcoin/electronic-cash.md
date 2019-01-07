@@ -11,13 +11,11 @@
 * [Project CAFE](#Project-Cafe-)
 * [eGold](#eGold-)
 * [HashCash](#HashCash-)
-  * [Adam Back](#adam-back)
 * [Beenz and Flooz](#beenz-and-flooz-)
 * [InternetCash](#internetcash-)
 * [E-Bullion](#E-Bullion-)
 * [Dexit](#Dexit-)
 * [B-money](#b-money-)
-  * [Wei-Dei](#wei-dei-)
 * [Bit Gold](#Bit-Gold-)
   * [Nick Szabo](#Nick-Szabo-)
 * [Peppercoin](P#eppercoin-)
@@ -71,8 +69,7 @@
 * [bitcoin.it/wiki/Hashcash](https://en.bitcoin.it/wiki/Hashcash)
 * [Proof of Work Proves not to Work](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
 * https://security.stackexchange.com/questions/14262/hashcash-is-this-really-used
-
-* [**>> More Information on Adam Back >>**]()
+* [**>> More Information on Adam Back >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/adam-back.md)
   
 ### Beenz and Flooz [**^**](#contents)
 
@@ -99,20 +96,15 @@ An early clickworking site that rewarded users with its own digital currency.
 
 https://www.investopedia.com/terms/b/bmoney.asp
 
-#### Wei Dai [**^**](#contents)
+* [**>> More Information on Wei Dai >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/wei-dai.md)
 
 ### Bit Gold [**^**](#contents)
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
 
 * [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
 
-##### Nick Szabo [**^**](#contents)
+* [**>> More Information on Nick Szabo >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/nick-szabo.md)
 
-
-* [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
-* [Nick Szabo's Home Page — Archive (pre-2005)](http://archive.is/H8UGk) "Nick Szabo's Essays, Papers, and Concise Tutorials"
-* [Trusted Third Parties Are Security Holes - Nick Szabo (2001)](https://nakamotoinstitute.org/trusted-third-parties/)
-  > "Commercial security is a matter of solving the practical problems of business relationships such as privacy, integrity, protecting property, or detecting breach of contract. A security hole is any weakness that increases the risk of violating these goals. In this real world view of security, a problem does not dissapear because a designer assumes it away. The invocation or assumption in a security protocol design of a 'trusted third party' (TTP) or a 'trusted computing base' (TCB) controlled by a third party constitutes the introduction of a security hole into that design. The security hole will then need to be plugged by other means."
 
 ### Peppercoin [**^**](#contents)
 
@@ -127,8 +119,7 @@ https://www.investopedia.com/terms/b/bmoney.asp
 * [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) -03
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
 * [Use me Baby one more Time](https://medium.com/blockwhat/04-use-me-baby-one-more-time-d0dd599c8357)
-
-#### Hal Finney [**^**](#contents)
+* [**>> More Information on Hal Finney >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/wei-dai.md)
 
 ### Liberty Reserve [**^**](#contents)
 
