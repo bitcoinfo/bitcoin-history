@@ -4,7 +4,8 @@
 
 
 <img src="http://i.imgur.com/UaSoZf9.png"/>
-
+* [Bitcoin's Origins and the Genesis Blockade](https://youtu.be/cagoyF3WePo)
+  > "In this talk, Andreas recounts the origins of Bitcoin, the meaning of the message embedded forever in its genesis block, and how we figured out who the banks truly serve when there was no other choice. He also speaks about what happens when money stops working, why censorship resistance was one of Bitcoin's most valuable characteristics from the start, and what possibilities lay in store with a global, voluntary financial system."
 * [Genesis Block Newspaper](https://www.thetimes03jan2009.com/) 
   > "The only two remaining verified complete copies of this newspaper were acquired from the London National Archives on January 14, 2014. The newspapers come in a complete set with both the cover and the entire newspaper included. 
   
@@ -23,6 +24,8 @@
 
 * [Bitcoin History: Timeline, Origins and Founder](https://www.thestreet.com/investing/bitcoin/bitcoin-history-14686578)
   > "The history of Bitcoin has been a turbulent one to say the least, and right now we're in one of the most turbulent periods in its history, as it has spent the entirety of 2018 falling further and further from its peak value of nearly $20,000 in December 2017.\n\nBut something as uncertain as Bitcoin (and cryptocurrency in general) was never going to be smooth sailing. Many tried a cryptographed digital currency before it, and they weren't able to fully crack it. Since Bitcoin became a reality nearly a decade ago, there have been some high highs and some low lows. For some Bitcoin owners, that's part of the appeal.\n\nBut how did we get to where we are today with Bitcoin? How did it begin, what were its forebearers, and what have been the unexpected turns of the Bitcoin journey? Let's take a walk through the timeline and find out."
+
+* https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate
 
 * [Bitcoin History — p2pfoundation](http://wiki.p2pfoundation.net/Bitcoin#History)
 * [Visions of Bitcoin—How major Bitcoin narratives changed over time](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c)
@@ -58,8 +61,6 @@ Description = "It took three years and the emergence of serious (and perhaps per
 * [Satoshi on Anonymous Transactions - bitcointalk](https://twitter.com/notgrubles/status/1043569394901602304) [[**ϟ**](https://bitcointalk.org/index.php?topic=770.msg9074)
   > "As some might have noticed, one of the things that bugs me about bitcoin is that the entire history of transactions is completely public. I totally understand the benefits of how this simplifies things and makes it easy for everyone to prove coins are valid. So this is not a suggestion for a change to bitcoin. Rather it is a question about what could be possible, and what couldn't be possible."
 
-* [Bitcoin's Origins and the Genesis Blockade](https://youtu.be/cagoyF3WePo)
-  > "In this talk, Andreas recounts the origins of Bitcoin, the meaning of the message embedded forever in its genesis block, and how we figured out who the banks truly serve when there was no other choice. He also speaks about what happens when money stops working, why censorship resistance was one of Bitcoin's most valuable characteristics from the start, and what possibilities lay in store with a global, voluntary financial system."
 
 * [@BitcoinErrorLog on the original Bitcoin Foundation](https://twitter.com/BitcoinErrorLog/status/1044207811603943425)
   > "I was a paying member of the original Bitcoin Foundation. They were mostly a train wreck. I attended their annual meeting at a conference in Amsterdam and met with their accounting person to ask some hard questions. She was actually pretty savvy. /1"
@@ -67,14 +68,17 @@ Description = "It took three years and the emergence of serious (and perhaps per
 * [Bitcorati Interview Series : Vitalik Buterin - Head Writer, Bitcoin Magazine](https://www.youtube.com/watch?v=EkeCapBOQQ0)
   > "Vitalik Buterin is a former computer science student who dropped out of college to focus on bitcoin projects full-time. He was a very early bitcoin adopter and is currently the head writer at Bitcoin Magazine. Listen as Vitalik discusses his background, how he got involved in bitcoin and why he thinks bitcoin has the potential to change the world! This interview is one in a series captured at the Media Bistro Inside Bitcoins Conference in Las Vegas, Nevada, December 10th and 11th, 2013"
 
-* [Bitcoin History - OXT](https://oxt.me/history) - "This page lists a set of 'famous' events or lesser-known facts which are all part of the history of Bitcoin. Each event is illustrated with data extracted from the blockchain.
 
 * [The Bitcoin Knowledge Podcast — Legendary](https://www.bitcoin.kn/legendary/) "These are interviews with legendary guests from the Bitcoin world. Trace Mayer asks Nick Szabo what the highest priority should be for hiring Bitcoin. A Week With Adam Back in September 2015"
-
-* [Blockchain Libarary - Reading Lists - Bitcoin History](https://blockchainlibrary.org/category/reading-lists/bitcoin-history/)
-
 * [A finite monetary supply for Bitcoin](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
   > "Although it is widely believed that Satoshi was an inflation-hating goldbug he never said this, and in fact programmed Bitcoin's money supply to grow indefinitely, forever. He modeled the monetary supply as 4 gold mines being discovered per mibillenium (1024 years), with equal intervals between them, each one being depleted over the course of 140 years. This poses obvious problems, however. Prominent among them is the discussion on what to call 1 billion Bitcoin, which symbol color to use for it, and when wallet clients should switch to it by default. To combat this, this document proposes a controversial change: making Bitcoin's monetary supply finite."
+
+### Resources
+
+* https://en.bitcoinwiki.org/wiki/Bitcoin_history
+* [Blockchain Libarary - Reading Lists - Bitcoin History](https://blockchainlibrary.org/category/reading-lists/bitcoin-history/)
+* [Bitcoin History - OXT](https://oxt.me/history) - "This page lists a set of 'famous' events or lesser-known facts which are all part of the history of Bitcoin. Each event is illustrated with data extracted from the blockchain.
+
 
 * [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 

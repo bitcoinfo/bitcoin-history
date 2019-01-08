@@ -107,10 +107,12 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ### Reusable Proof of Work [**^**](#contents)
 
-* [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) -03
+* [Subject: RPOW - Reusable Proofs of Work](https://cryptome.org/rpow.htm) -03 [[**ϟ**](https://nakamotoinstitute.org/finney/rpow/world.html)]
   >This system receives hashcash as a Proof of Work (POW) token, and in exchange creates RSA-signed tokens which I call Reusable Proof of Work (RPOW) tokens.  RPOWs can then be transferred from person to person and exchanged for new RPOWs at each step.  Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person.
 * [Use me Baby one more Time](https://medium.com/blockwhat/04-use-me-baby-one-more-time-d0dd599c8357)
-* [**>> More Information on Hal Finney >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/wei-dai.md)
+* https://github.com/NakamotoInstitute/RPOW
+* https://slashdot.org/story/04/08/18/1345258/rpow---reusable-proofs-of-work
+* [**>> More Information on Hal Finney >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/hal-finney.md)
 
 ### Bit Gold [**^**](#contents)
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
@@ -128,6 +130,10 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ### Liberty Reserve [**^**](#contents)
 
+* https://www.aol.com/on/digital-currency-liberty-reserve-money-laundering/
+* https://www.bbc.com/news/technology-36247289
+* https://www.justice.gov/opa/pr/founder-liberty-reserve-pleads-guilty-laundering-more-250-million-through-his-digital
+* https://www.reuters.com/article/net-us-cybercrime-digital-currency-idUSBRE9780GM20130809
 
 ### Resources [**^**](#contents)
 
