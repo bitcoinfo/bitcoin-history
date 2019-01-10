@@ -107,6 +107,7 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
   * In 1997, Dr Adam Back created Hashcash
   * Later in 1998, Wei Dai published a proposal for “b-money”,
 
+* [Cypherpunk the Origin of Wikileaks](https://goldenageofgaia.com/2010/12/30/cypherpunk-the-origin-of-wikileaks/)
 
 * [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
 
