@@ -164,10 +164,10 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ---
 
-#### Brought to you by The [Crypto Super Source](http://crypt0library.net):
+### Brought to you by The [Crypto Super Source](http://crypt0library.net):
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
-Check out some of my [other projects](projects.md)!!!
+[infominer.id](https://infominer.id/) —Check out some of my [other projects](projects.md)!!!
 
 **Tips Appreciated**:
 
