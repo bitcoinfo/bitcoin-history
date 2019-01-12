@@ -135,6 +135,10 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 * [citizendium.org/wiki/Cypherpunk](http://en.citizendium.org/wiki/Cypherpunk)
 * [Mirror of Cypherpunkd radio series](https://www.organicdesign.com.br/files/cypherpunkd/index.php)
 
+### Other languages
+
+* [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
+
 ---
 
 #### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#cypherpunks)

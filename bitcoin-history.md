@@ -87,7 +87,8 @@ Description = "It took three years and the emergence of serious (and perhaps per
 #### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
-Check out some of my [other projects](projects.md)!!!
+[infominer.id](https://infominer.id/) —Check out some of my [other projects](projects.md)!!!
+
 
 **Tips Appreciated**:
 
