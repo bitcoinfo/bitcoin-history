@@ -1,7 +1,7 @@
 # Bitcoin History
+<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
-This repository is a space to gather any historical information related to Bitcoin. Above subtitle reflects the eventual intent for this repository. For now, I'm focused on all of the history [/before-bitcoin](/before-bitcoin), but this repository will expand to include as much history surrounding Bitcoin as I can manage, along with any of your contributions. I expect to be busy with some [other projects](/projects.md) for the next month or so. I don't think I'll have a ton of time to devote to this for the time being. But who knows what might happen if I get inspired.
 
 ### Contents
 
