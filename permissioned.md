@@ -12,12 +12,7 @@ https://www.healthit.gov/sites/default/files/11-74-ablockchainforhealthcare.pdf
 
 
 ### Contents
-* 2009
-  * Bitcoin
-* 2012
-* 2013
   * Ripple
-  * Ethereum
   * "Distributed Ledger"
 * 2014
   * Eris - Monax - Begins development of what becomes Burrow
