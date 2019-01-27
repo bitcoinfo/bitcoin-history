@@ -48,14 +48,13 @@
 
 ## NOTES
 
--inspired by a dicord conversation I decided to save and flesh-out my thoughts.
+-inspired by a dicord conversation I decided to save and flesh-out my thoughts. The result is more of a general response to the entire ecosystem, than specifically to those in chat that participated in its inspiration
 
-recap:
+**recap:**
 I was hearing some harsh criticism of other crypto projects from some who favor Ethereum, so I brought up how ethereum ignored like 20 years of research leading to smart contracts, similarly to how they ignored OG consensus research for the first few years of working on a, [so-called](https://medium.com/coinmonks/a-primer-on-blockchain-design-89605b287a5a), consensus mechanism — PoS. 
 
-at this point it came up about Bitcoin's resistance to all types of improvements.
+at this point it came up about Bitcoin's resistance to all types of improvements:
 
----
 
 Colored Coins paper, the rejection of which led to ethereum
 http://bitpaper.info/paper/5722646637445120
