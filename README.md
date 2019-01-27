@@ -69,7 +69,7 @@ Response:
 >>Zooko, founder of Zcash indeed acknowledges that “Zcash is built on new, risky, unproven technology. It could have fatal flaws that we as scientists and engineers just haven’t discovered yet.”
 
 Indeed i do 😹
-* https://twitter.com/peterktodd/status/1062847331949699072
+* https://twitter.com/peterktodd/status/1062847331949699072\
   <img src="http://i.imgur.com/ShlYTGw.png">
 * The Dark Side of Zero Knowledge: Masking the initial setup in Zk-SNARK
   * https://news.ycombinator.com/item?id=18884566
