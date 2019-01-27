@@ -114,6 +114,12 @@ DPoS. for example, involves a measure of centralization that leaves them less ce
 
 Cause you're using Microsoft Windows right now, and discord, and twitter, and *the social network that shall not be named* along with each of their subsidiaries.
 
+Those supporting projects you don't like happen to also have some major personality disfuctions (just like everyone in the world):
+
+>[@SarahJamieLewis](https://twitter.com/SarahJamieLewis/status/1074072327585816576) - Tim May was a racist, sexist, homophobic asshole who also captured the emergence of the crypto anarchist zeitgeist, and a testament to the principle that ideas should be judged on their merits and not on their authorship.
+
+---
+
 we got a good 10-15 years before the dust begins to settle
 
 but from my perspective, all of these waves are occuring within the bitcoin ecosystem
