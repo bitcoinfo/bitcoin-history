@@ -110,7 +110,7 @@ Now there are numerous projects, the pursuit of each supporting the education of
 
 And before you say its all shit please tell me how you've done a deep dive on the entire ecosystem and the resulting encyclopedia you produced shows 0 value in any of that work but that came from one of your favored projects.
 
-DPoS. for example, involves a measure of centralization that leaves them less centralized than the systems they seek to replace, and imo empowering anyone and everyone other than the establishment is super-cool.. decentralized corruption is better than centralized corruption.
+DPoS. for example, involves a measure of centralization that leaves them less centralized than the systems they seek to replace, and imo empowering anyone and everyone other than the establishment is super-cool.. less centralized corruption is better than more centralized corruption.
 
 Cause you're using Microsoft Windows right now, and discord, and twitter, and *the social network that shall not be named* along with each of their subsidiaries.
 
