@@ -126,9 +126,7 @@ but from my perspective, all of these waves are occuring within the bitcoin ecos
 
 ethereum and *everything* else is so much less mature.
 
----
-
-in conclusion.. I am kinda happy there is one solid crypto that we all know won't change too much in the forseeable future.. we need a reliable way to short the fed.
+I'm kinda happy there is one solid crypto that we all know won't change too much in the forseeable future.. we need a reliable way to short the fed.
 
 and there is DOGE too, just in case the bitcoin apocalypse :stuck_out_tongue:
 
