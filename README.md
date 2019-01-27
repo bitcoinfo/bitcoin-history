@@ -128,7 +128,7 @@ ethereum and *everything* else is so much less mature.
 
 I'm kinda happy there is one solid crypto that we all know won't change too much in the forseeable future.. we need a reliable way to short the fed.
 
-and there is DOGE too, just in case the bitcoin apocalypse :stuck_out_tongue:
+and there is DOGE too, just in case the bitcoin apocalypse 😜
 
 **See Also**: [Against Szabo’s Law, For A New Crypto Legal System – Vlad Zamfir](https://medium.com/@Vlad_Zamfir/against-szabos-law-for-a-new-crypto-legal-system-d00d0f3d3827)
 
