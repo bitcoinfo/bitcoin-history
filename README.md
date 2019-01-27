@@ -57,7 +57,7 @@ at this point it came up about Bitcoin's resistance to all types of improvements
 
 ---
 
-Colored Coins paper.
+Colored Coins paper, the rejection of which led to ethereum
 http://bitpaper.info/paper/5722646637445120
 
 
