@@ -122,6 +122,8 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 
 What follows is a list of books that were influential upon early cypherpunks. As time goes on, I'll add more modern material. Also, Cypherpunk is an offshoot of Cyberpunk, as such, there is much overlapp in the culture and cyberpunk literature should be of interest to those trying to delve into the cypherpunk mythos.
 
+* [Crypto](https://www.goodreads.com/book/show/984428.Crypto), by Steven Levy - Pre-History from the 50's up to the cypherpunk era.
+
 * May's Recommended readings, from [cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt).
   * 1984 by George Orwell '49 
   * Atlas Shrugged by Ayn Rand '57
@@ -140,14 +142,25 @@ What follows is a list of books that were influential upon early cypherpunks. As
 * https://nakamotoinstitute.org/literature/ 
   >Bitcoin was not forged in a vacuum. These works serve to contextualize Bitcoin into the broader story of cryptography and freedom.
 
-* https://github.com/reiver/blockchain-reading-list
-
-* [This Machine Kills Secrets:](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets) How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information,
-by Andy Greenberg
-
-* [Crypto](https://www.goodreads.com/book/show/984428.Crypto), by Steven Levy
+* [This Machine Kills Secrets:](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets) How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information, by Andy Greenberg '12
 
 * [The Essential Cyberpunk Reading List](https://io9.gizmodo.com/the-essential-cyberpunk-reading-list-1714180001) '15
+  * Neuromancer by William Gibson
+
+* [Cryptonomicon](https://www.goodreads.com/book/show/816.Cryptonomicon) - Neil Stephenson
+* [The Diamond Age](https://www.goodreads.com/book/show/827.The_Diamond_Age) - Neil Stephenson
+
+* https://github.com/reiver/blockchain-reading-list - this list has a bunch of the early essential blockchain reading
+
+* https://www.reddit.com/r/ethereum/comments/a98mam/cypherpunk_book_recommendations/
+
+* [A History of Cryptography and the Rise of the CypherPunks #Reading_list](https://blockonomi.com/cryptography-cypherpunks/#Reading_list)
+>An excellent history of public-key cryptography and the Cypherpunk Phenomena appears in The cypherpunk revolution a Christian Science Monitor project from July 2016.
+>
+>The best history of digital cash is Cryptocurrency: How Bitcoin and the Blockchain Are Challenging the Global Economic Order by Michael J. Casey and Paul Vigna. Sadly that book; which appeared in 2015 is already dated, but it is still an eye opener.
+>
+>There are many excellent books about cryptography and codebreaking in World War II. One of the best is Code Girls by Liza Mundy, which explores the origins of the NSA and American cryptography. Still worth reading is Ronald Lewin’s Ultra Goes to War: The Secret Story; which first publicized the role encryption played in World War II back in 1977.
+
 
 ### Resources [**^**](#contents)
 
