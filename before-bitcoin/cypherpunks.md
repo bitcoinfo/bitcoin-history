@@ -147,6 +147,8 @@ by Andy Greenberg
 
 * [Crypto](https://www.goodreads.com/book/show/984428.Crypto), by Steven Levy
 
+* [The Essential Cyberpunk Reading List](https://io9.gizmodo.com/the-essential-cyberpunk-reading-list-1714180001) '15
+
 ### Resources [**^**](#contents)
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
