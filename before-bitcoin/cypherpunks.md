@@ -1,21 +1,22 @@
 # Cypherpunks and the Crypto Wars
+Gathering and organizing information related to the Cypherpunk movement.
 
+<img src="http://i.imgur.com/qgVn6sU.png"/>\
+<sup>Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf">EVhAck_-_Cypherpunk</a></sup>
 
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
+I made this in part while researching [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin).
 
-
-### Contents
+## Contents
 * [Crypto Wars](#crypto-wars-)
 * [Cypherpunk Mailing-list](#cypherpunk-mailinglist-)
 * [Modern Crypto Wars](#modern-crypto-wars-)
+* [Recommended Reading](#recommended-reading-)
 * [Resources](#resources-)
-
-<img src="http://i.imgur.com/qgVn6sU.png"/>\
-Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf">EVhAck_-_Cypherpunk</a> 
+* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="http://i.imgur.com/2d44hTP.png"/></a>
 
-### Crypto Wars [**^**](#cypherpunks)
+## Crypto Wars [**^**](#contents)
 
 * [Birth of Cypherpunks: Short](http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
 * [wiki.openrightsgroup.org/wiki/Crypto_Wars](https://wiki.openrightsgroup.org/wiki/Crypto_Wars)
@@ -36,7 +37,7 @@ Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-
 
 http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
 
-### Cypherpunk Mailinglist [**^**](#cypherpunks) 
+## Cypherpunk Mailinglist [**^**](#contents)
 \* Resources roughly in historical order, either by date of publication or story told.
 
 * [Cypherpunks, Bitcoin & the Myth of Satoshi Nakamoto](http://cybersalon.org/cypherpunk/) ('13)
@@ -52,15 +53,7 @@ http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
 * [THE CYPHERNOMICON: Cypherpunks FAQ and More - 1994 - Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)[[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
 *  <a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/mSL72Pd.png"/></a>\
   <sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
-  * May's Recommended readings, from cyphernomicon.
-    * Applied Cryptography by Bruce Schneier '93
-    * Advances in Cryptology by Gilles Brassard '90
-    * 1984 by George Orwell '49 
-    * The Shockwave Rider by John Brunner '75
-    * True Names by Vernor Vinge '81
-    * Atlas Shrugged by Ayn Rand '57
-    * Security without Identification: Transaction Systems to Make Big Brother Obsolete '85
-    * Machinery of Freedom by David Friedman '73
+ 
 
 For more cypherpunk books [check out](https://www.goodreads.com/shelf/show/cypherpunk) goodreads.
 
@@ -117,14 +110,36 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 
 * [Tim May, Father of 'Crypto Anarchy,' Passes Away](https://www.indybay.org/newsitems/2018/12/23/18819945.php)
 
-### Modern Crypto Wars [**^**](#cypherpunks)
+### Modern Crypto Wars [**^**](#contents)
 
 * [The Crypto Wars Are Over!](https://www.fipr.org/press/050525crypto.html) ('05)
 * [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/) ('13)
 * [The NSA is Making Us All Less Safe](https://www.eff.org/deeplinks/2013/10/nsa-making-us-less-safe)
 * [A complete guide to the new ‘Crypto Wars’](https://www.dailydot.com/layer8/encryption-crypto-wars-backdoors-timeline-security-privacy/)
 
-### Resources [**^**](#cypherpunks)
+### Recommended Reading [**^**](#contents)
+
+What follows is a list of books that were influential upon early cypherpunks. As time goes on, I'll 
+
+* May's Recommended readings, from [cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt).
+  * 1984 by George Orwell '49 
+  * Atlas Shrugged by Ayn Rand '57
+  * Machinery of Freedom by David Friedman '73
+  * The Shockwave Rider by John Brunner '75
+  * True Names by Vernor Vinge '81
+  * Security without Identification: Transaction Systems to Make Big Brother Obsolete '85
+  * Advances in Cryptology by Gilles Brassard '90
+  * Snow Crash, Neil Stephenson '92
+  * Applied Cryptography by Bruce Schneier '93
+  
+
+>many of us have found Vernor Vinge's "[True Names](https://www.goodreads.com/book/show/1280983.True_Names)" to be an excellent (and quickly readable) treatment of how things could work in a world of fast, cheap, and secure communication. Other writers have seen things differently (e.g., "[Shockwave Rider](https://www.goodreads.com/book/show/41070.The_Shockwave_Rider)," "1984,","[Snow Crash](https://www.goodreads.com/book/show/40651883-snow-crash)"). \
+  — Tim May [Cyberspace Crypto-Anarchy and Pushing Limits](https://nakamotoinstitute.org/static/docs/cyberspace-crypto-anarchy-and-pushing-limits.txt)
+
+* https://nakamotoinstitute.org/literature/ 
+  >Bitcoin was not forged in a vacuum. These works serve to contextualize Bitcoin into the broader story of cryptography and freedom.
+
+### Resources [**^**](#contents)
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
   > "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note."
@@ -135,7 +150,7 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 * [citizendium.org/wiki/Cypherpunk](http://en.citizendium.org/wiki/Cypherpunk)
 * [Mirror of Cypherpunkd radio series](https://www.organicdesign.com.br/files/cypherpunkd/index.php)
 
-### Other languages
+### Non-English [**^**](#contents)
 
 * [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
 
