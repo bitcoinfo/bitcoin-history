@@ -14,9 +14,9 @@ This section is for all history preceeding, and related to the develpment of Bit
 * [Cypherpunks](#cypherpunks-)
 * [Pre-Bitcoin Digital Currency](#Pre-Bitcoin-Digital-Currency=)
 * [Literature](#Literature-)
-* [Video-Audio](#Video-Audio-)
-* [Resources](#Resources-)
-* [Closing](#—infominer-id-)
+* [Video-Audio](#video-audio-)
+* [Resources](#additional-resources-)
+* [Closing](#infominerid--)
 
 
 
