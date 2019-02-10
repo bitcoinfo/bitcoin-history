@@ -6,6 +6,7 @@ Gathering and organizing information related to the Cypherpunk movement.
 
 I made this in part while researching [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin).
 
+
 ## Contents
 * [Crypto Wars](#crypto-wars-)
 * [Cypherpunk Mailing-list](#cypherpunk-mailinglist-)
@@ -119,7 +120,7 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 
 ### Recommended Reading [**^**](#contents)
 
-What follows is a list of books that were influential upon early cypherpunks. As time goes on, I'll 
+What follows is a list of books that were influential upon early cypherpunks. As time goes on, I'll add more modern material. Also, Cypherpunk is an offshoot of Cyberpunk, as such, there is much overlapp in the culture and cyberpunk literature should be of interest to those trying to delve into the cypherpunk mythos.
 
 * May's Recommended readings, from [cyphernomicon](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt).
   * 1984 by George Orwell '49 
@@ -138,6 +139,13 @@ What follows is a list of books that were influential upon early cypherpunks. As
 
 * https://nakamotoinstitute.org/literature/ 
   >Bitcoin was not forged in a vacuum. These works serve to contextualize Bitcoin into the broader story of cryptography and freedom.
+
+* https://github.com/reiver/blockchain-reading-list
+
+* [This Machine Kills Secrets:](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets) How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information,
+by Andy Greenberg
+
+* [Crypto](https://www.goodreads.com/book/show/984428.Crypto), by Steven Levy
 
 ### Resources [**^**](#contents)
 
