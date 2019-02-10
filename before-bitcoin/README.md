@@ -16,7 +16,7 @@ This section is for all history preceeding, and related to the develpment of Bit
 * [Literature](#Literature-)
 * [Video-Audio](#video-audio-)
 * [Resources](#additional-resources-)
-* [Closing](#infominerid--)
+* [Tips Welcome](#infominerid--)
 
 
 
@@ -122,7 +122,7 @@ by Ralph C. Merkle</a>
   - Open Source software development
   - Peer to peer sharing
 
-#### [**>> More information >> Cypherpunks and the Crypto Wars >>**](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/cypherpunks.md) 
+#### [**>> More information >> Cypherpunks and the Crypto Wars >>**](/before-bitcoin/cypherpunks.md) 
 
 ### Pre-Bitcoin Digital Currency [[**^**](#contents)]
 
