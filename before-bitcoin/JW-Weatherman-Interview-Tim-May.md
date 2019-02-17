@@ -114,96 +114,41 @@ and when you say card tables, are we talking about just general education or lik
 
 wow thanks 
 
->it's written in an outline form you probably noticed my cyphernomicon is humongous outline, written in the earliest outline processor called More, which was by the guy who later invented the term blog, and also invented RSS, Dave Winer. so I tend to think that way then I can attach ideas to different themes it
-makes for a messy structure but it's better than just trying to write some
-fully well you know what I'm saying yeah yeah it was sort of a bullet point
-structure so that you got a systematic layout of ideas rather than trying to
-you know put all the verbage around it
-paragraph form right right yeah yeah so
-uh what happened is I started developing
-these ideas and I was meeting with a
-libertarian acquaintance of mine from
-college who had reconnected with in
-early eighty eight I guess it was and we
-were moaning the fact that there had
-been no good libertarian novel along the
-lines of Atlas Shrugged nothing that
-incorporated new information ran for
-example had the stranger
-you could get a bunch of
-anarcho-capitalists would move to a
-valley in Colorado someplace which had
-some sort of science fictiony electronic
-screen over the top that would prevent
-planes from seeing down what was
-happening and people would walk around
-trading gold pieces with each other and
-you know all the big shots the John Galt
-sand Hank Rearden's all all the
-characters from Rand's novel would be
-essentially anarcho-capitalist ik
-trading with each other right and
-somehow managed it really clearly they
-didn't have problems with private
-defense and trade embargoes and
-everything just worked right but it
-seemed possible that that it would be
-feasible to create a kind of Galt's
-Gulch in cyberspace right so very much
-in the air at that time was for example
-Neuromancer William Gibson true names
-Vernor Vinge II Anders gain Orson Scott
-Card which was made into a fairly lousy
-movie a few years ago it involves
-characters students pseudonymous late
-communicating with each other so anyway
-these ideas were current so Eric Hughes
-very brilliant mathematician younger
-than me was maybe 30 years at the time I
-was maybe 36 38 at the time ah came out
-to Santa Cruz he was considering
-enrolling as a grad student at UC Santa
-Cruz so we wanted to look over the
-rental market and see if how feasible it
-would be any stayed at my place his
-brother was with him but Eric and I
-ended up spending three days instead of
-him looking for a place to rent we
-talked about all these things he had
-just spent several months working for
-David Chow in Holland it seemed it was a
-rite of passage nick szabo did the same
-thing Eric Hughes did the same thing and
-a third guy I forget who it was but he
-also worked as a intern for Tom's
-company digit cash so Eric and I talked
-about everything everything about
-computational feasibility about
-np-complete problems about cryptography
-etc and we both sort of had the same
-I can't remember whose idea it was that
-we should call together some of the
-smartest people we knew in the Bay Area
-and we knew a lot of these people
-because there were three or four
-intersecting groups a science-fiction
-group a a group connected with mondo
-2000 and the early or early work on the
-well which turned into Wired magazine
-and so we knew a lot of these people and
-the hackers conference we knew some of
-the people from this so we ended up
-having a meeting in September and about
-25 people showed up and it was all
-all-day type of thing at that time I
-happen to know more about cryptography
-than most of the people in the room
-because it wasn't as ocorant as it is
-today so I would describe how hashes
-worked how remailers worked the shaman
-Alice to Bob to Charles to David
-etcetera etc series of nested envelopes
-and we even played a thing called the
+>it's written in an outline form you probably noticed my cyphernomicon is humongous outline, written in the earliest outline processor called More, which was by the guy who later invented the term blog, and also invented RSS, Dave Winer. I tend to think that way, then I can attach ideas to different themes. It makes for a messy structure but it's better than just trying to write some fully, well... you know what I'm saying? It was sort of a bullet point structure so that you got a systematic layout of ideas rather than trying to you know put all the verbage around it paragraph form.
+
+>what happened is I started developing these ideas and I was meeting with a libertarian acquaintance of mine from college who I had reconnected with in early eighty eight, I guess it was, and we were bemoaning the fact that there had been no good libertarian novel along the lines of Atlas Shrugged. Nothing that incorporated new information. Rand, for example, had the strange idea that you could get a bunch of anarcho-capitalists, who would move to a valley in Colorado, someplace, which had some sort of science fictiony electronic screen over the top that would prevent planes from seeing down what was happening and people would walk around trading gold pieces with each other and you know all the big shots the John Galt sand Hank Rearden's all all the characters from Rand's novel would be essentially anarcho-capitalistic trading with each other, and somehow managed it. 
+
+clearly they didn't have problems with private defense and trade embargoes and everything just worked. 
+
+
+22:40
+>but it seemed possible that that it would be feasible to create a kind of Galt's Gulch in cyberspace right so very much
+in the air at that time was for example Neuromancer William Gibson true names
+Vernor Vinge II Anders gain Orson Scott Card which was made into a fairly lousy
+movie a few years ago it involves characters students pseudonymous late
+communicating with each other so anyway these ideas were current so Eric Hughes
+very brilliant mathematician younger than me was maybe 30 years at the time I
+was maybe 36 38 at the time ah came out to Santa Cruz he was considering enrolling as a grad student at UC Santa
+Cruz so we wanted to look over the rental market and see if how feasible it
+would be any stayed at my place his brother was with him but Eric and I
+ended up spending three days instead of him looking for a place to rent we
+talked about all these things he had just spent several months working for
+David Chow in Holland it seemed it was a rite of passage nick szabo did the same
+thing Eric Hughes did the same thing and a third guy I forget who it was but he
+also worked as a intern for Tom's company digit cash so Eric and I talked
+about everything everything about computational feasibility about
+np-complete problems about cryptography etc and we both sort of had the same
+I can't remember whose idea it was that we should call together some of the
+smartest people we knew in the Bay Area and we knew a lot of these people
+because there were three or four intersecting groups a science-fiction
+group a a group connected with mondo 2000 and the early or early work on the
+well which turned into Wired magazine and so we knew a lot of these people and
+the hackers conference we knew some of the people from this so we ended up
+having a meeting in September and about 25 people showed up and it was all
+all-day type of thing at that time I happen to know more about cryptography
+than most of the people in the room because it wasn't as ocorant as it is
+today so I would describe how hashes worked how remailers worked the shaman
+Alice to Bob to Charles to David etcetera etc series of nested envelopes and we even played a thing called the
 crypto anarchy game which is I had
 already written manifesto by that time
 so I passed that out the meeting crypto
