@@ -98,54 +98,26 @@ not to put words in your mouth, but is how much is that sort of your feel? that 
 
 Have you stayed in touch with, well I guess first I'll ask how connected were you with David Chaum and Adam Back and Wai Dai and Nick Szabo and all those guys that would kind of associate with the history of electronic cash? Where you guys all friends hanging out regularly or was a little more disconnected than that.
 
->for example in around 1988 when when I was first working on these ideas I spent a lot of time talking with Phil Salen as I told you. We actually arranged a road trip, up to Berkeley, to meet with David Chaum, and this is in 1988.. yeah so I've met Chaum at the the crypto conference, and I'd also met him in person up in Berkeley, and then on a panel with him in 95 and Monte Carlo... He lives down in Southern California, he lived in Holland at the time but he now lives in Woodland Hills which is a suburb of LA, yeah he came to a couple of cypherpunks meetings... also David Friedman came to a couple 
+>for example in around 1988 when when I was first working on these ideas I spent a lot of time talking with Phil Salon as I told you. We actually arranged a road trip, up to Berkeley, to meet with David Chaum, and this is in 1988.. yeah so I've met Chaum at the the crypto conference, and I'd also met him in person up in Berkeley, and then on a panel with him in 95 and Monte Carlo... He lives down in Southern California, he lived in Holland at the time but he now lives in Woodland Hills which is a suburb of LA, yeah he came to a couple of cypherpunks meetings... also David Friedman came to a couple 
 
->we were I've covered this before we were in a grubby rented apartment in Oakland that Eric Hughes was renting unfurnished at the time and Friedman came, and I think he was pretty skeptical of the ideas he was sort of bemused by the
-enthusiasm a lot of us he came around though and and he probably have seen
-he's dedicated some of his books to these ideas yeah and it says Tim Tim
-stole ideas for me I stole ideas from him that's the way it works right right
-I would say Friedman was a bigger influence on me than Rothbard example okay that's a trial as with Jim Bell you
-know the machinery of freedom that's a more core value than say for a new
-Liberty which was just you know preaching to the converted
-right interesting like a lot of books of that time like it Jerome to Co wrote a
-book called he usually begins with iron rant yeah there were several of these
-books that were out at the time Anna libertarian party formally started in
-1972 I voted for the first libertarian candidate John Hosparus even before the
-libertarian party formerly existed right now that was another kind of a line of
-questions that I had for you was it seems like one of the things that the
-cyberpunk movement did is it it really focused on technology and tools how
-right how do you feel like that is still the best strategy as compared to like politics yes or general education or economic yeah yeah we used to have people periodically in the cypherpunks list who were enthusiastic about setting
-up card tables at conferences and I was sort of seen as the great skeptic I
-would say knock yourself out I'm not gonna sit at a card table in San Jose
-and harangue people I'd seen that at at Santa Barbara where people would set up
-card tables and try to can persuade people and they're never
-persuaded and when you say ever our card tables are we talking about just general
-education or like a political campaign political campaign I don't mean for
-candidates but I mean sitting at a card table handing out libertarian propaganda
-right you know getting into the same arguments about the limits of personal
-liberty it cetera what uh what happened in eighty eight with with meeting with
-Phil sale and as I sketched out the ideas that became the crypto anarchist
-manifesto and I was on a roll at this time because I had all the time in the
-world to sit and think about these things
-and there were no distractions there was no Twitter no Facebook no Bitcoin
-conferences every week you know none of that
-where people are constantly in an in an echo chamber bouncing ideas back and
-forth bouncing one line representing forth I have plenty of time to
-contemplate this and like you did I read your Bitcoin threats outline or I
-skimmed it wow thanks it's written in an outline
-form you probably noticed my cyphernomicon is humongous outline yep you
-know written in the earliest outline
-processor but called more which was by
-the guy who later invented the term blog
-and also invented RSS nice Dave Winer so
-I tend to think that way then I can
-attach ideas to different themes it
-makes for a messy structure but it's
-better than just trying to write some
-fully well you know what I'm saying yeah
-yeah it was sort of a bullet point
-structure so that you got a systematic
-layout of ideas rather than trying to
+>we were, I've covered this before, we were in a grubby rented apartment in Oakland that Eric Hughes was renting unfurnished at the time and Friedman came, and I think he was pretty skeptical of the ideas. He was sort of bemused by the enthusiasm. He came around though, and probably you've seen he's dedicated some of his books to these ideas, and it says Tim stole ideas for me I stole ideas from him, that's the way it works.
+
+>I would say Friedman was a bigger influence on me than Rothbard, for example, as with Jim Bell. The Machinery of Freedom, that's a more core value than, For a New Liberty, which was just you know preaching to the converted. like a lot of books of that time, Jerome Tuccille wrote a book called It Usually Begins With Ayn Rand. There were several of these books that were out at the time. The libertarian party formally started in 1972. I voted for the first libertarian candidate John Hosparus, even before the libertarian party formerly existed.
+
+That was another kind of a line of questions that I had for you. It seems like one of the things that the cypherpunk movement did, is it really focused on technology and tools. How do you feel, like that is still the best strategy? as compared to politics or general education or economic
+
+>yes! yeah yeah, we used to have people periodically in the cypherpunks list who were enthusiastic about setting up card tables at conferences, and I was sort of seen as the great skeptic. I would say knock yourself out, I'm not gonna sit at a card table in San Jose and harangue people. I'd seen that at at Santa Barbara where people would set up card tables and try to persuade people, and they're never persuaded.
+
+and when you say card tables, are we talking about just general education or like a political campaign? 
+
+>political campaign. I don't mean for candidates but I mean sitting at a card table handing out libertarian propaganda, getting into the ame arguments about the limits of personal liberty et cetera. What happened in '88 with with meeting with Phil Salon, and as I sketched out the ideas that became the crypto anarchist manifesto, and I was on a roll at this time because I had all the time in the world to sit and think about these things and there were no distractions there was no Twitter no Facebook no Bitcoin conferences every week... none of that, where people are constantly in an in an echo chamber bouncing ideas back and forth bouncing one line reparte back and forth. I had plenty of time to contemplate this, like you did. I read your Bitcoin threats outline, or I skimmed it.
+
+wow thanks 
+
+>it's written in an outline form you probably noticed my cyphernomicon is humongous outline, written in the earliest outline processor called More, which was by the guy who later invented the term blog, and also invented RSS, Dave Winer. so I tend to think that way then I can attach ideas to different themes it
+makes for a messy structure but it's better than just trying to write some
+fully well you know what I'm saying yeah yeah it was sort of a bullet point
+structure so that you got a systematic layout of ideas rather than trying to
 you know put all the verbage around it
 paragraph form right right yeah yeah so
 uh what happened is I started developing
