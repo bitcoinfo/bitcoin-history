@@ -70,224 +70,70 @@ fair enough. that's a good a good enough answer
 
 At that point you were pretty confident that we were going to have a sort of a libertarian world inside cyberspace within the next 10 20 years. Was that fair to say?
 
->yeah I had a huge amount of spare time on my hand. I would go down to the beach almost every day, sit in my beach chair with a beer and read. Yeah, and I had read James Bamford's [The Puzzle Palace](https://www.goodreads.com/book/show/804860.The_Puzzle_Palace), came out in about 1983 or thereabouts. It was essentially an encyclopedic work on the history of the NSA, and most of us had not even heard of the NSA at that time, we barely heard about it. My father was in the Navy and I talked to him at the time and said dad did you know of a thing called the National Security Agency. He said oh yeah we just couldn't talk about it "No Such Agency" 
+>yeah I had a huge amount of spare time on my hand. I would go down to the beach almost every day, sit in my beach chair with a beer and read. Yeah, and I had read James Bamford's [The Puzzle Palace](https://www.goodreads.com/book/show/804860.The_Puzzle_Palace), came out in about 1983 or thereabouts. It was essentially an encyclopedic work on the history of the NSA, and most of us had not even heard of the NSA at that time, we barely heard about it. My father was in the Navy and I talked to him at the time and said dad did you know of a thing called the National Security Agency. He said oh yeah we just couldn't talk about it "No Such Agency" it was already a huge surveillance operation by then 
 
->it was already a huge surveillance operation by then so Bamford describes and it's on the inside cover quotations the blurbs saying if a Russian general is meeting with his mistress in a car NSA can hear what they're talking about if a broker in Switzerland is phoning London to make a
-transaction NSA knows about it so this got my gears turning I was I began to
-think about what if for example the NSA was running essentially a large private
-hedge fund with intercepted communications right we now know they
-did in fact this is during the iran-contra thing we're all over north
-and company Admiral point extra Oliver
-North were centrally trading drugs to
-fund the Contras in Nicaragua right so I
-began to think about the implications of
-widespread surveillance and it happened
-that a friend of mine this is covered in
-a lot of detail was putting together a
-company sort of like an eBay for
-information the American information
-exchange Phil sale in the late Phil sale
-and he died in the early 1990s around 91
-was a student of Friedrich Hayek and had
-met Hayek had framed photos of himself
-and Hayek and he was always reading
-these Austrian economics sorts of things
-and was he was involved with the George
-Mason University people there's a whole
-Institute of individual liberty there
-there still is
-a lot of leading Austrian economics
-people so Phil was in contact with them
-and he invited me to drive over to his
-his his place he and his wife rented a
-place in Menlo Park or Redwood City
-whatever so I went over there and he
-outlined the idea for the American
-information exchange the idea would be
-that someone would request information
-on say the best type of sailboat to bide
-to do a certain thing and said I'll pay
-$50 for this they could have been eBay
-essentially a big did the same thing
-except they were selling Pez dispensers
-and toys and knickknacks right so Phil's
-idea was to buy and sell information
-information of a question-and-answer
-sort which is sort of never really taken
-off there are a few minor little efforts
-to do these things but they haven't
-really gone too far
-and it's not hard to see why it's hard
-to frame question properly it's hard to
-know the quality of answer one is
-getting from random people in the
-Internet
-and at that time the internet was crude
-I had to dial in after midnight with
-with a 1200 baud modem to get someplace
-right so it was very primitive in those
-days yeah it was a an idea ahead of its
-time and then Autodesk the AutoCAD
-company funded Amex as well as Xanadu
-the hypertext company they funded - two
-of these companies and both failed and
-dissipated and people scattered to other
-projects but I went over there in
-December in 1987 I've been retired from
-Intel for a little over a year and a
-half at that point until outlined his
-his his company this is covered in the
-Prague conference a year ago yeah so
-you've probably already heard those
-stuff and I immediately began to see
-flaws in this namely people would buy
-and sell the most valuable information
-there is which is corporate information
-right secrets things that are illegal
-not not stuff that not you know consumer
-reports magazine or you're gonna go
-ratty 20 Brettler and Phil said well you
-know well then we would ban this from
-people using it at work I said well then
-they'll go home and use America online
-or whatever and do it that way it says
-well then we'd require identity I said
-well people we use pseudonyms
-right-oh etc etc and then the sticking
-point was how do you pay for this and
-this had was the unsolved problem
-squaring the circle is not solved until
-the solution of the Byzantine generals
-problem with Bitcoin Nakamoto consensus
-things that I kind of wondered about was
-things like reputation and all the
-problems that would prevent buying and
-selling of information admit into work
-really I mean even even simple problems
-like spam they really were wired
-electronic cash and now that we have a
-functional electronic cash system it by
-the way what I was expecting you to say
-is it got very frustrating because it
-seemed like things paused from you know
-early 2000 maybe late 90s all the way up
-till 2008 but then there was a
-breakthrough it and how we're feeling
-more optimistic that's the linchpin but
-not not to put words in your mouth but
-is how much is that sort of your feel
-that this really is a key moment that's
-gonna unlock the other stuff or how much
-of it is just you know it's another
-piece of the puzzle and we still have a
-lot of work to do I think we have a lot
-of work to do but I certainly think 2008
-to 2010 was a big turning point and
-obviously there are now a zillion
-alternate forms of ecash like Z cash
-Manero etc right which of those will win
-out I don't know yep are you have you
-stayed in touch with well I guess first
-I'll ask how how connected were you with
-like David Chama and Adam back and Wade
-I and nick szabo and all those guys that
-would kind of associate with the history
-of electronic cash where you guys all
-friends hanging out regularly or was a
-little more disc about than that for
-example in around 1988 when when I was
-first working on these ideas I spent a
-lot of time talking with Phil sailin as
-I told you right and we actually
-arranged a road trip up to Berkeley to
-meet with David Chow and this is in 1988
-yeah so I've met Tom at the rich alum at
-the crypto conference and I'd also met
-him in person up in Berkeley and then
-on a panel with him in 95 and Monte
-Carlo so I mean he lives down in
-Southern California he lived in Holland
-at the time but he now lives in Woodland
-Hills which is a suburb of La yeah he
-came to a couple of cypherpunks meetings
-also David Friedman came to a couple we
-were I've covered this before we were in
-a grubby rented apartment in Oakland
-that Eric Hughes was renting unfurnished
-at the time and Friedman came and I
-think he was pretty skeptical of the
-ideas he was sort of bemused by the
-enthusiasm a lot of us he came around
-though and and he probably have seen
-he's dedicated some of his books to
-these ideas yeah and it says Tim Tim
-stole ideas for me I stole ideas from
-him that's the way it works right right
-I would say Friedman was a bigger
-influence on me than Rothbard example
-okay that's a trial as with Jim Bell you
-know the machinery of freedom that's a
-more core value than say for a new
-Liberty which was just you know
-preaching to the converted
-right interesting like a lot of books of
-that time like it Jerome to Co wrote a
-book called he usually begins with iron
-rant yeah there were several of these
-books that were out at the time Anna
-libertarian party formally started in
-1972 I voted for the first libertarian
-candidate John Hosparus even before the
-libertarian party formerly existed right
-now that was another kind of a line of
-questions that I had for you was it
-seems like one of the things that the
-cyberpunk movement did is it it really
-focused on technology and tools how
-right how do you feel like that is still
-the best strategy as compared to like
-politics yes or general education or
-economic yeah yeah we used to have
-people periodically in the cypherpunks
-list who were enthusiastic about setting
-up card tables at conferences and I was
-sort of seen as the great skeptic I
-would say knock yourself out I'm not
-gonna sit at a card table in San Jose
-and harangue people I'd seen that at at
-Santa Barbara where people would set up
-card tables and try to can persuade
-people and they're never
-persuaded and when you say ever our card
-tables are we talking about just general
-education or like a political campaign
-political campaign I don't mean for
-candidates but I mean sitting at a card
-table handing out libertarian propaganda
-right you know getting into the same
-arguments about the limits of personal
-liberty it cetera what uh what happened
-in eighty eight with with meeting with
-Phil sale and as I sketched out the
-ideas that became the crypto anarchist
-manifesto and I was on a roll at this
-time because I had all the time in the
-world to sit and think about these
-things
-and there were no distractions there was
-no Twitter no Facebook no Bitcoin
-conferences every week you know none of
-that
-where people are constantly in an in an
-echo chamber bouncing ideas back and
-forth bouncing one line representing
-forth I have plenty of time to
-contemplate this and like you did I read
-your Bitcoin threats outline or I
-skimmed it
-wow thanks it's written in an outline
-form you probably noticed my cypher
-nomicon is humongous outline yep you
+>so Bamford describes, and it's on the inside cover quotations the blurbs... saying if a Russian general is meeting with his mistress in a car, NSA can hear what they're talking about. If a broker in Switzerland is phoning London to make a
+transaction, NSA knows about it. So this got my gears turning. I began to think about... what if, for example, the NSA was running, essentially, a large private hedge fund with intercepted communications? We now know they did. In fact, this is during the Iran-contra thing. Oliver North and company.. Admiral Poindexter and Oliver North were centrally trading drugs to fund the Contras in Nicaragua. 
+
+>so I began to think about the implications of widespread surveillance and it happened that a friend of mine, this is covered in a lot of detail, was putting together a company sort of like an eBay for information the American information
+exchange. Phil Salon, the late Phil Salon, he died in the early 1990s around 91, was a student of Friedrich Hayek and had met Hayek had framed photos of himself and Hayek... and he was always reading these Austrian economics sorts of things
+and was he was involved with the George Mason University people... there's a whole Institute of Individual Liberty, there still is, a lot of leading Austrian economics people. 
+
+>so Phil was in contact with them, and he invited me to drive over to his place. He and his wife rented a place in Menlo Park or Redwood City... so I went over there and he outlined the idea for the American Information Exchange, the idea would be that someone would request information on say the best type of sailboat to buy to do a certain thing, and said I'll pay $50 for this. They could have been eBay, essentially. eBay did the same thing except they were selling Pez dispensers and toys and knickknacks.
+
+>so Phil's idea was to buy and sell information, information of a question-and-answer sort. Which has never really taken off. There are a few minor little efforts to do these things but they haven't really gone too far, and it's not hard to see why. It's hard to frame question properly, it's hard to know the quality of answer one is getting from random people on the
+Internet, and at that time the internet was crude. I had to dial in after midnight with a 1200 baud modem to get someplace.  It was very primitive in those days. It was an idea ahead of its time, and then Autodesk the AutoCAD company funded Amex as well as Xanadu the hypertext company they funded - two of these companies and both failed and dissipated and people scattered to other projects.
+
+>but I went over there in December in 1987. I've been retired from Intel for a little over a year and a half at that point. Phil outlined his company, this is covered in the Prague conference a year ago... and I immediately began to see flaws in this, namely people would buy and sell the most valuable information there is, which is corporate information
+
+right, secrets, things that are illegal, not [...] consumer reports magazine... 
+
+>and Phil said, then we would ban this from people using it at work. I said well then they'll go home and use America online or whatever and do it that way. he says, well then we'd require identity. I said well people will pseudonyms ... etc etc... and then the sticking point was how do you pay for this? and this was the unsolved problem, squaring the circle is not solved until the solution of the Byzantine generals problem with Bitcoin, Nakamoto consensus.
+
+things that I wondered about was things like reputation and all the problems that would prevent buying and selling of information to work, I mean even even simple problems like spam, they really required electronic cash and now that we have a functional electronic cash system... by the way what I was expecting you to say is it got very frustrating because it seemed like things paused from early 2000 maybe late 90s all the way up till 2008... but then there was a breakthrough and how we're feeling more optimistic, that's the linchpin. 
+
+not to put words in your mouth, but is how much is that sort of your feel? that this really is a key moment that's gonna unlock the other stuff? or how much of it is just another piece of the puzzle, and we still have a lot of work to do?
+
+>I think we have a lot of work to do but I certainly think 2008 to 2010 was a big turning point and obviously there are now a zillion alternate forms of ecash like Z-cash, Monero, etc.. right which of those will win out? I don't know.
+
+Have you stayed in touch with, well I guess first I'll ask how connected were you with David Chaum and Adam Back and Wai Dai and Nick Szabo and all those guys that would kind of associate with the history of electronic cash? Where you guys all friends hanging out regularly or was a little more disconnected than that.
+
+>for example in around 1988 when when I was first working on these ideas I spent a lot of time talking with Phil Salen as I told you. We actually arranged a road trip, up to Berkeley, to meet with David Chaum, and this is in 1988.. yeah so I've met Chaum at the the crypto conference, and I'd also met him in person up in Berkeley, and then on a panel with him in 95 and Monte Carlo... He lives down in Southern California, he lived in Holland at the time but he now lives in Woodland Hills which is a suburb of LA, yeah he came to a couple of cypherpunks meetings... also David Friedman came to a couple 
+
+>we were I've covered this before we were in a grubby rented apartment in Oakland that Eric Hughes was renting unfurnished at the time and Friedman came, and I think he was pretty skeptical of the ideas he was sort of bemused by the
+enthusiasm a lot of us he came around though and and he probably have seen
+he's dedicated some of his books to these ideas yeah and it says Tim Tim
+stole ideas for me I stole ideas from him that's the way it works right right
+I would say Friedman was a bigger influence on me than Rothbard example okay that's a trial as with Jim Bell you
+know the machinery of freedom that's a more core value than say for a new
+Liberty which was just you know preaching to the converted
+right interesting like a lot of books of that time like it Jerome to Co wrote a
+book called he usually begins with iron rant yeah there were several of these
+books that were out at the time Anna libertarian party formally started in
+1972 I voted for the first libertarian candidate John Hosparus even before the
+libertarian party formerly existed right now that was another kind of a line of
+questions that I had for you was it seems like one of the things that the
+cyberpunk movement did is it it really focused on technology and tools how
+right how do you feel like that is still the best strategy as compared to like politics yes or general education or economic yeah yeah we used to have people periodically in the cypherpunks list who were enthusiastic about setting
+up card tables at conferences and I was sort of seen as the great skeptic I
+would say knock yourself out I'm not gonna sit at a card table in San Jose
+and harangue people I'd seen that at at Santa Barbara where people would set up
+card tables and try to can persuade people and they're never
+persuaded and when you say ever our card tables are we talking about just general
+education or like a political campaign political campaign I don't mean for
+candidates but I mean sitting at a card table handing out libertarian propaganda
+right you know getting into the same arguments about the limits of personal
+liberty it cetera what uh what happened in eighty eight with with meeting with
+Phil sale and as I sketched out the ideas that became the crypto anarchist
+manifesto and I was on a roll at this time because I had all the time in the
+world to sit and think about these things
+and there were no distractions there was no Twitter no Facebook no Bitcoin
+conferences every week you know none of that
+where people are constantly in an in an echo chamber bouncing ideas back and
+forth bouncing one line representing forth I have plenty of time to
+contemplate this and like you did I read your Bitcoin threats outline or I
+skimmed it wow thanks it's written in an outline
+form you probably noticed my cyphernomicon is humongous outline yep you
 know written in the earliest outline
 processor but called more which was by
 the guy who later invented the term blog
