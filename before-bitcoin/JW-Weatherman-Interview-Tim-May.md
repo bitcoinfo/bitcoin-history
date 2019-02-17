@@ -2,303 +2,81 @@
 
 <a href="https://www.youtube.com/watch?v=MrGLraSiRZk"><img src="https://i.imgur.com/janGoN1.png"/></a>
 
-<code>Editors note: I'm sure I'm not the only one who'd like to be able to scroll through and reference the transcript to this vid. Much appreciation to JW Weatherman for arranging the interview, and obvs, much appreciation to Tim May for helping to get this all started.</code>
+<code>Editors note: I'm sure I'm not the only one who'd like to be able to scroll through and reference the transcript to this vid. Much appreciation to JW Weatherman for arranging the interview, and obvs, much appreciation to Tim May for helping to get this all started. Lightly edited.</code>
 
 <img src="http://i.imgur.com/DUbkr1e.png"/>
 
-alright thanks for joining me for another episode of under the microscope
-with JW weathermen today I'm joined by
-the the famous and awesome Timothy see
-may couldn't be more excited to have him
-as a quick introduction by the mid 80s
-Tim was already famous for solving
-something called the alpha particle
-problem when he was working at Intel and
-then in the early nineties he and a few
-friends founded the cyberpunk movement
-and that's responsible for a lot of the
-freedom that we enjoy today they you
-know really fought and won the crypto
-Wars in the 90s and for me and a lot of
-other folks that's really a turning
-point in history where we headed from
-you know what was probably gonna be a
-fairly dystopian future to it one where
-I can see a lot of individual liberty on
-the horizon so I've been looking forward
-to talking to Tim for more than a few
-years now and I can't thank you enough
-for joining me here
-so good to be here good deal so a lot of
-my audience will have saw the talk that
-you gave in hackers Congress last year
-so I kind of see this as a follow up to
-that in that you referenced and R and
-what were kind of the major influences
-that brought you would you would you
-consider yourself an endcap I think
-you've used that term right right I yeah
-I don't really call it call myself an
-ancap or anything like that I was
-influenced by Rand obviously even before
-Rand I was influenced by Robert Heinlein
-things like moon is a harsh mistress
-very very libertarian oriented often
-talked about free zones Larry Niven also
-wrote about this too in the late 1960s
-but I'd heard of mine ran for a long
-time everybody I mean it was very much
-in the air in the 1960s every college
-student was reading Atlas Shrugged at
-that time far cry from today with the V
-for Vendetta type people but uh so in
-the summer of 1968 I guess I was 16
-years old at the time I found a copy of
-Atlas Shrugged at the library and
-checked it out and read it in three days
-so I I did skip
-the 60 pages of john galt speech
-somewhere in there and ironically I mean
-I have a copy a couple hardback copy
-someplace but I've been unable to read
-it since yeah so that's a long long time
-but I can't get past page three I mean
-it's just prose
-so it's awful is it awful it's just the
-worst I've tried to read that book
-probably four times and I just can't get
-through more than a chapter to the
-characters are so wooden and unrelatable
-yes but that's the contain year old it
-was very exciting Ren and I read it
-straight through like I said three days
-and that's all I could think about and
-when I returned to school the following
-September I had a teacher political
-science teacher who was somewhat
-Republican libertarian this is before
-the name libertarian really took hold
-and she patiently listened to my rants
-ahead I would write essays about gold
-and economic freedom and whatnot heavily
-influenced by Rand and obviously then I
-read The Fountainhead capitalism the
-unknown ideal bunch of stuff like that
-and say that was a big influence but
-then by the time I was in college a
-bunch of us lived in a shared suite
-eight of us seven of us were
-libertarians a couple of them became
-famous mathematicians professors that
-sort of thing they're all about my age
-of course but we would talk about all
-these things we would hatch over the the
-tired old themes of what if you're
-falling from a an apartment building and
-you need to land on someone's balcony
-but you don't have permission to land on
-that balcony are you obligated to fall
-to your death or can you trespassing
-that property you know the right
-lifeboat type things you know exploring
-the fringes of private property and when
-you where you where you can write them
-and not yeah right right right and you
-said something in a couple of your
-pieces that I was heavily influenced by
-Murray Rothbard
-I may have mentioned Rothbart I for a
-new Liberty was out at that time I think
-I skimmed a few chapters of it and it's
-like a lot of things
-it's preaching to the converted
-I had a reason subscription I had a
-Liberty magazine defunct now for about
-one year but it's all just preaching to
-the to the already converted didn't tell
-me anything I didn't already know right
-same thing with von Mises and Hayek
-certainly important stuff Karl Popper
-you know whole circle of these people
-but at some point it just gets very very
-repetitive right and I became much more
-interested in practically implementing
-some of these ideas we can get to that
-in a few minutes if you want to yeah
-yeah I'm very excited to talk about that
-I can't I can't remember if it was the
-hackers Congress where you referenced
-him or not and I that's one of the
-reasons I've been looking forward to
-talking to you especially after talking
-with Jim Bell I think looking back over
-history I assume that it's a lot more
-clean and linear and I look back at guys
-like Murray Rothbard is being kind of a
-pivot point where people really picked
-up on the idea of a private law and
-private security uh but you know looking
-back I may I may be overestimating it
-maybe it was a lot more in the air and
-there were a lot of folks more folks
-talking about it I don't feel like an R
-and really covered that very well except
-for ones you know we're helping with
-Murray Rothbard oh yeah yeah I don't
-know the details I know that in the
-early 1970s when when we were debating
-this stuff in our college dorm there was
-a all sorts of goings-on with Nathaniel
-Branden and splits in the Objectivist
-movement and I never considered myself
-an Objectivist rah
-I don't even accept the logic of a is a
-but that's an extreme subtlety that I
-won't get into having to do with
-non-standard logic but there's been my
-interest for about 10 years now quantum
-mechanics that's what does stuff but
-yeah so I worked for Intel for a while
-and then I left and I've never worried
-too much about inflation of the dollar I
-know you talk about that a lot
-fundamentally I keep my assets in in
-assets namely stocks bonds that sort of
-thing and so the dollar dropped in value
-but these assets keep on rising people
-you
-in Weimar Germany for example who had
-their money in real estate art stocks
-and bonds tended to do okay but by the
-night late 1940s they had recovered the
-real disaster was people and fixed
-incomes pensions for example or who had
-their money just sitting in a bank
-account and and the Reichsmark became
-essentially worthless over time right
-yep yeah if you if you have the time and
-the expertise to make investment
-decisions you can navigate it but but
-there's a lot of a lot of people that
-are especially you know less wealthy
-people those are the ones that get hurt
-the hardest by my face Dave leaves you
-yeah they do yeah not to mention that
-just the disaster on the economy of the
-boom and bust cycle that were more
-constantly going through 2008 so yeah no
-that's for or passing this 1.3 trillion
-dollar omnibus bill with all sorts of
-bad things in it that wasn't even
-written until the day before it was
-signed great and as somehow I think
-there's probably some war spending
-that's coming our way too that's the
-reality so back when you were when you
-were in college there was a lot of a lot
-of folks talking about this you went to
-Intel you you were obviously a very
-competent technologist and became well
-known from that and then and then in the
-early 90s you you really got interested
-in reading a bunch of science fiction
-and other stuff about trying to
-implement a libertarian you know reality
-in cyberspace and you know eventually
-maybe that could bleed into the real
-world what how do you feel kind of
-looking back on it I mean it's been a
-long time I I talk to people now that
-are they're either very optimistic or
-very pessimistic in general and it seems
-like the younger they are the more
-pessimistic they are they've grown up
-with the revelations of Snowden and the
-NSA and they just feel like things are
-just constantly getting worse how do you
-how do you kind of feel about it at this
-point
-I'm phlegmatic about it I'm I'm very
-much a believer in Greek philosophy
-stoicism
-skepticism etc etc what will be will be
-it just is what it is some things are
-getting better some things are getting
-worse right do you do you feel like if
-you were to predict you know the next 30
-years do you think that do you think
-we're looking at more of a 1984 with you
-know the argument for that is that
-everything is recorded all the time now
-everything's right I've you know we're a
-turnkey totalitarian state but the other
-hand we have stuff like Bitcoin that
-looks promising do you do you feel like
-it's leaning one way or the other at
-this point you know I don't get
-interviewed all that often but one of
-the last interviews I did someone said
-can you you were so precious and seeing
-things
-from the 1990s that would come about and
-many of those things have come about
-what do you think will happen in the
-future and I said you know I have
-absolutely no idea whatsoever my crystal
-ball is dark fair enough that's that's a
-that's a good a good enough answer to
-yes no I don't know what's going to
-happen right things seems so clear in
-1988 to 94 they're buffs yeah and I mean
-it was clear where several technological
-trends would happen I was very active on
-the Internet of course I had my first
-primitive DARPA account in 1973 it was
-very primitive my campus was one of the
-first nodes on the ARPANET so yeah
-I had an account very primitive but by
-the time I left Intel in 86 the seeds of
-the modern Internet were being born and
-I got my first commercial account in
-1988 I guess it was when the ARPANET was
-opened up to civilians and ISPs began to
-form right so and and at that point you
-you you were pretty confident that we
-were going to have a sort of a
-libertarian world inside cyberspace
-within the next
-10 20 years was that fair to say yeah I
-had a huge amount of spare time on my
-hand I would go down to the beach almost
-every day sit in my beach chair with a
-beer and read yeah and I had read James
-Bamford's the puzzle palace came out in
-about 1983 or thereabouts it was
-essentially an encyclopedic work on the
-history of the NSA and most of us had
-not even heard of the kind of say at
-that time had barely we barely heard
-about my father was in the Navy
-and I talked to him at the time he said
-dad did you know of a thing called the
-National Security Agency he said oh yeah
-we just couldn't talk about it no such
-agency it was already a huge
-surveillance operation by then so
-Bamford describes and it's on the inside
-cover quotations the blurbs saying if a
-Russian general is meeting with his
-mistress in a car NSA can hear what
-they're talking about if a broker in
-Switzerland is phoning London to make a
-transaction NSA knows about it so this
-got my gears turning I was I began to
-think about what if for example the NSA
-was running essentially a large private
-hedge fund with intercepted
-communications right we now know they
-did in fact this is during the
-iran-contra thing we're all over north
+## Transcript:
+
+Alright! Thanks for joining me for another episode of under the microscope with JW weathermen. Today, I'm joined by the the famous and awesome Timothy C May, couldn't be more excited to have him. 
+
+As a quick introduction: by the mid 80s Tim was already famous for solving something called the alpha particle problem when he was working at Intel and then in the early nineties he and a few friends founded the cypherpunk movement, and that's responsible for a lot of the freedom that we enjoy today. 
+
+They really fought and won the crypto Wars in the 90s and for me and a lot of other folks that's really a turning point in history where we headed from you know what was probably gonna be a fairly dystopian future, to one where I can see a lot of individual liberty on the horizon. 
+
+I've been looking forward to talking to Tim for more than a few years now and I can't thank you enough for joining me here
+
+> so good to be here 
+
+Good deal. A lot of my audience will have seen the talk that you gave in hackers congress last year, so I kind of see this as a follow up to that, in that you referenced Ayn Rand and what were the major influences that brought you... would you consider yourself an ancap [anarcho-capitalist]?  I think you've used that term...
+
+>I don't really call it call myself an ancap or anything like that. I was influenced by Rand, obviously. Even before Rand, I was influenced by Robert Heinlein, things like The Moon is a Harsh Mistress. Very libertarian oriented, often talked about free zones. Larry Niven also wrote about this too in the late 1960s, but I'd heard of Ayn [pronounded like "Eye"-n] Rand for a long time. 
+
+>Everybody, I mean, it was very much in the air in the 1960s every college student was reading Atlas Shrugged at that time far cry from today with the V for Vendetta type people. In the summer of 1968 I guess I was 16 years old at the time I found a copy of Atlas Shrugged at the library, and checked it out, and read it in three days.  I did skip the 60 pages of John Galt speech, somewhere in there, and ironically... I mean I have a couple of hardback copys someplace, but I've been unable to read it since. 
+
+>yeah so that's a long long time but I can't get past page three. I mean it's just prose...
+
+It's awful. It's just the worst. I've tried to read that book probably four times and I just can't get through more than a chapter to the characters are so wooden and unrelatable 
+
+>yes but to a 16 year old it was very exciting... and I read it straight through, like I said, three days... and that's all I could think about and when I returned to school the following September. I had a teacher, political science teacher, who was somewhat Republican, libertarian, this is before the name libertarian really took hold... and she patiently listened to my rants. 
+
+>I would write essays about gold and economic freedom and what not... heavily influenced by Rand, and obviously, then I read The Fountainhead, Capitalism and the Unknown Ideal, bunch of stuff like that... and that was a big influence, but then by the time I was in college a bunch of us lived in a shared suite... eight of us, seven of us, were libertarians, a couple of them became famous mathematicians, professors, that sort of thing. 
+
+>They're all about my age of course but we would talk about all these things we would hatch over the the tired old themes of, what if you're falling from a an apartment building and you need to land on someone's balcony but you don't have permission to land on that balcony. Are you obligated to fall to your death, or can you trespass on that property. You know, the lifeboat type things, 
+
+exploring the fringes of private property, and where can violate them and not
+
+>yeah right right right... and you said something in a couple of your pieces that I was heavily influenced by Murray Rothbard. I may have mentioned Rothbart. For a New Liberty was out at that time, I think I skimmed a few chapters of it and it's like a lot of things. it's preaching to the converted I had a Reason subscription I had a Liberty Magazine, defunct now for about one year, but it's all just preaching to the to the already converted... didn't tell me anything I didn't already know
+
+>same thing with Von Mises and Hayek, certainly important stuff. Karl Popper, you know, the whole circle of these people but at some point it just gets very very repetitive and I became much more interested in practically implementing some of these ideas. we can get to that in a few minutes if you want to...
+
+Yeah I'm very excited to talk about that. I can't I can't remember if it was the hackers Congress where you referenced him or not and I that's one of the reasons I've been looking forward to talking to you especially after talking with Jim Bell. I think looking back over history, I assume that it's a lot more clean and linear and I look back at guys like Murray Rothbard, as being kind of a pivot point where people really picked up on the idea of a private law and private security 
+
+>but you know, looking back I may I may be overestimating it maybe it was a lot more in the air and there were a lot of folks more folks talking about it. I don't feel like Ayn Rand really covered that very well except for when she was interacting with Murray Rothbard.
+
+>Yeah I don't know the details. I know that in the early 1970s when when we were debating this stuff in our college dorm there was a all sorts of goings-on with Nathaniel Branden,and splits in the Objectivist movement, and I never considered myself an Objectivist. I don't even accept the logic of "a is a" but that's an extreme subtlety that I won't get into, having to do with non-standard logic which has been my interest for about 10 years now. Quantum mechanics and that sort of stuff.
+
+>yeah so I worked for Intel for a while, and then I left, and I've never worried too much about inflation of the dollar. I know you talk about that a lot. Fundamentally I keep my assets in *assets*, namely stocks, bonds, that sort of thing and so the dollar dropped in value.. but these assets keep on rising.
+
+>People in Weimar Germany, for example, who had their money in real estate art stocks and bonds tended to do okay, but by the late 1940s they had recovered. The real disaster was people on fixed incomes, pensions for example, or who had their money just sitting in a bank account and and the Reichsmark became essentially worthless over time right?
+
+yep yeah if you if you have the time and the expertise to make investment decisions you can navigate it, but there's a lot of people that are... especially less wealthy people, those are the ones that get hurt the hardest... not to mention that... just the disaster on the economy, of the boom and bust cycle that were constantly going through.. 2008..
+
+>or passing this 1.3 trillion dollar omnibus bill with all sorts of bad things in it, that wasn't even written until the day before it was signed.
+
+I think there's probably some war spending that's coming our way too that's the reality.. so back when you were when you were in college there was a lot of folks talking about this, you went to Intel you you were obviously a very competent technologist and became well known from that... and then in the early 90s you really got interested from reading a bunch of science fiction and other stuff, about trying to implement a libertarian reality in cyberspace and eventually maybe that could bleed into the real world. 
+
+How do you feel looking back on it? I mean it's been a long time. I talk to people now that are they're either very optimistic or very pessimistic in general, and it seems like the younger they are the more pessimistic they are. They've grown up with the revelations of Snowden and the NSA, and they just feel like things are just constantly getting worse. how do you how do you feel about it? 
+
+>at this point I'm phlegmatic about it. I'm very much a believer in Greek philosophy, stoicism, skepticism etc etc... what will be will be. It just is what it is. Some things are getting better, some things are getting worse. 
+
+Do you feel like if you were to predict the next 30 years, do you think that we're looking at more of a 1984? The argument for that, is that everything is recorded all the time. We're a turnkey totalitarian state, but the other hand, we have stuff like Bitcoin that looks promising. Do you do you feel like it's leaning one way or the other, at this point?
+
+>you know I don't get interviewed all that often, but one of the last interviews I did, someone said "you were so precient and seeing things from the 1990s that would come about and many of those things have come about, what do you think will happen in the future?" and I said I have absolutely no idea whatsoever. My crystal ball is dark. 
+
+fair enough. that's a good a good enough answer
+
+>no I don't know what's going to happen. Things seems so clear in 1988 to 94, thereabouts.. and I mean it was clear where several technological trends would happen. I was very active on the Internet of course I had my first primitive DARPA account in 1973. It was very primitive. My campus was one of the first nodes on the ARPANET, so yeah I had an account. Very primitive, but by the time I left Intel in 86, the seeds of the modern Internet were being born and I got my first commercial account in 1988. I guess it was when the ARPANET was opened up to civilians and ISPs began to form.
+
+At that point you were pretty confident that we were going to have a sort of a libertarian world inside cyberspace within the next 10 20 years. Was that fair to say?
+
+>yeah I had a huge amount of spare time on my hand. I would go down to the beach almost every day, sit in my beach chair with a beer and read. Yeah, and I had read James Bamford's [The Puzzle Palace](https://www.goodreads.com/book/show/804860.The_Puzzle_Palace), came out in about 1983 or thereabouts. It was essentially an encyclopedic work on the history of the NSA, and most of us had not even heard of the NSA at that time, we barely heard about it. My father was in the Navy and I talked to him at the time and said dad did you know of a thing called the National Security Agency. He said oh yeah we just couldn't talk about it "No Such Agency" 
+
+>it was already a huge surveillance operation by then so Bamford describes and it's on the inside cover quotations the blurbs saying if a Russian general is meeting with his mistress in a car NSA can hear what they're talking about if a broker in Switzerland is phoning London to make a
+transaction NSA knows about it so this got my gears turning I was I began to
+think about what if for example the NSA was running essentially a large private
+hedge fund with intercepted communications right we now know they
+did in fact this is during the iran-contra thing we're all over north
 and company Admiral point extra Oliver
 North were centrally trading drugs to
 fund the Contras in Nicaragua right so I
