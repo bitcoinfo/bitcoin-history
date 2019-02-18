@@ -6,9 +6,9 @@ I used this space to prep for writing this article:
 
 * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
 
-I don't really feel like spending much more time on this.. I'll get around to making this a real space eventually, but preparing that article ^^^ satisfied my curiosity.. I'm just not interested enough in permissioned blockchain to focus a ton of energy here.
+I'll get around to making this a real space eventually, but working on the above article satisfied my curiosity.. I'm just not interested enough in permissioned blockchain to focus much energy here.
 
-However, if you are looking at this, and the above article, thinking: "I really would love a more detailed report on this" feel free to [contact me](https://infominer.id), I do that.
+However, if you are looking at this, and the above article, thinking: "I really would love a more detailed report" feel free to [contact me](https://infominer.id) so we can discuss your needs. 
 
 ---
 
