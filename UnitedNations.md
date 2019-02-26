@@ -1,11 +1,15 @@
 # Blockchain and the United Nations
 **A Reasonably Comprehensive History of the United Nation's Involvement with Blockchain Tech**
 
-The organizations are listed in order of when they were enstated, and then are chronological within each segment as well.
+The organizations are listed in order of when they got involved with blockchain.were enstated, and then are chronological within each segment as well.
+
+Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Eventually each will have its own section, as well.
 
 ## Contents
 * [Early History](#early-history-)
-* [Agenda for Sustainable Development and Bitnation](#agenda-for-sustainable-development-and-bitnation-)
+* [UN Human Rights Council - Encryption is Free Speech](#un-human-rights-council---encryption-is-free-speech-)
+* [Agenda for Sustainable Development](#agenda-for-sustainable-development-)
+* [Bitnation](#bitnation-)
 * [UNRISD Report](#unrisd-report-)
 * [ID2020](#id2020-)
 * [UNDP](#undp-)
@@ -24,7 +28,15 @@ The organizations are listed in order of when they were enstated, and then are c
 
 ![](https://i.imgur.com/BleIVxr.png)
 
-## Agenda for Sustainable Development and Bitnation [**^**](#contents)
+## UN Human Rights Council - Encryption is Free Speech [**^**](#contents)
+
+* 5/15 — [Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including the right to development.](https://www.docdroid.net/13p3a/ahrc2932-aev.doc)
+* 6/15 — [news.bitcoin.com - Bitcoin and Encryption are Protected by Freedom of Speech](https://news.bitcoin.com/bitcoin-and-encryption-are-protected-by/)
+  > May 22, 2015 was a special day in the tug-of-war of Between government, Bitcoin, and other encryption-related issues. On that day, the United Nations issued a report declaring encryption as a form of free speech.
+* [UN Human Rights Council](https://www.ohchr.org)
+
+
+## Agenda for Sustainable Development [**^**](#contents)
 
 ![](https://i.imgur.com/BCvW8kp.png)
 
@@ -35,14 +47,10 @@ The organizations are listed in order of when they were enstated, and then are c
 
 While the Agenda doesn't explicitly mention the words blockchain or distributed ledger, the SDGs have been at the heart of the UN's interest in blockchain. 
  
+## Bitnation
+
 * 9/15 — [Bitnation Registers First Refugees on the Blockchain](https://cointelegraph.com/news/bitnation-registers-first-refugees-on-the-blockchain)
     * In 2014, [Bitnation](https://bitnation.co/) became the world’s first Decentralized Borderless Voluntary Nation (DBVN) and hosted the first blockchain ID and Public Notary.
-
-## UN Human Rights Council - Report
-
-
-* 6/15 [news.bitcoin.com - Bitcoin and Encryption are Protected by Freedom of Speech](https://news.bitcoin.com/bitcoin-and-encryption-are-protected-by/)
-
 
 ## UNRISD Report [**^**](#contents)
 
@@ -84,6 +92,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 
 <img src="http://i.imgur.com/yxWMqKB.png"/>
 
+* 6/15 — [UNICEF is using a new cryptocurrency to help impoverished kids](https://www.newsbtc.com/2015/06/12/this-is-very-beautiful-unicef-is-using-a-new-cryptocurrency-to-help-impoverished-kids/)
 * 2/16 — [UNICEF Innovation Fund Invites Blockchain Startups](https://www.ccn.com/unicef-innovation-fund-courts-blockchain-startups)
   * [UNICEF Innovation Fund](http://www.unicefinnovationfund.org/) raised $9 million to invest in open source technologies for children. 
   * Funding innovators in developing countries to help them bring tested projects to a bigger market. 
