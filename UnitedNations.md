@@ -10,7 +10,8 @@ The organizations are listed in order of when they were enstated, and then are c
 * [ID2020](#id2020-)
 * [UNDP](#undp-)
 * [UNICEF](#unicef-)
-* [UN Blockchain Group](#un-blockchain-group-)
+* [UN Women](#un-women-)
+* [UNOPS - UN Blockchain Group](#unops---un-blockchain-group-)
 * [WFP - World Food Programme](#wfp---world-food-programme-)
 * [BFI - Blockchain for Impact](#bfi---blockchain-for-impact)
 * [Humanitarian Blockchain Summit](#humanitarian-blockchain-summit-)
@@ -37,7 +38,14 @@ While the Agenda doesn't explicitly mention the words blockchain or distributed 
 * 9/15 — [Bitnation Registers First Refugees on the Blockchain](https://cointelegraph.com/news/bitnation-registers-first-refugees-on-the-blockchain)
     * In 2014, [Bitnation](https://bitnation.co/) became the world’s first Decentralized Borderless Voluntary Nation (DBVN) and hosted the first blockchain ID and Public Notary.
 
+## UN Human Rights Council - Report
+
+
+* 6/15 [news.bitcoin.com - Bitcoin and Encryption are Protected by Freedom of Speech](https://news.bitcoin.com/bitcoin-and-encryption-are-protected-by/)
+
+
 ## UNRISD Report [**^**](#contents)
+
 
 In February of 2016, the United Nations Research Institute for Social Development (UNRISD) published a report titled “[How Can Cryptocurrency and Blockchain Technology Play a Role in Building Social and Solidarity Finance?](http://www.unrisd.org/brett-scott)” The report discusses how Bitcoin could empower those in developing nations:
 >* Bitcoin as a means to facilitate low-cost remittances for those seeking to transfer small amounts of money internationally.
@@ -66,9 +74,11 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 5/16 - [Development 2.0: Innovating cash deliveries with the Bitcoin Blockchain](http://www.eurasia.undp.org/content/rbec/en/home/blog/2016/5/5/Development-2-0-Innovating-cash-deliveries-with-the-Bitcoin-Blockchain.html)
 * 9/16 - [UNDP Alternative Financing Lab - the next big thing is a lot of small things!](https://web.archive.org/web/20160926103138/http://www.hr.undp.org/content/croatia/en/home/blog/2016/9/19/UNDP-Alternative-Financing-Lab-the-next-big-thing-is-a-lot-of-small-and-smart-things-.html)
   * The [Alternative Finance (AltFin) Lab](http://altfinlab.org/), via UNDP Istanbul Regional Hub for Europe and CIS, is exploring new financial technologies for achieving the Sustainable Development Goals (SDGs) and have worked with AIDTech, Blockchain.com, and Bitspark.
-* 9/16 - [United Nations Will Adopt Emercoin For Its Car Fleet Management Project](https://cointelegraph.com/news/united-nations-will-adopt-emercoin-for-its-car-fleet-management-project) - [[EmerCoin](http://emercoin.com/)]
-* 10/16 - [The UNDP And Its Bitcoin And Blockchain Initiatives](https://bitcoinchaser.com/undp-bitcoin-blockchain-initiatives)
-* 10/16 - [AID:Tech offers blockchain solutions to help United Nations and European Commission with refugee problems](https://bravenewcoin.com/insights/aidtech-offers-blockchain-solutions-to-help-united-nations-and-european-commission-with-refugee-problems) - [[Aid:Tech](https://tge.aid.technology/)]
+* 9/16 — [United Nations Will Adopt Emercoin For Its Car Fleet Management Project](https://cointelegraph.com/news/united-nations-will-adopt-emercoin-for-its-car-fleet-management-project) - [[EmerCoin](http://emercoin.com/)]
+* 9/16 — [UN goes all in on blockchain, lists various initiatives](http://www.econotimes.com/UN-goes-all-in-on-blockchain-lists-various-initiatives-324507)
+* 10/16 — [The UNDP And Its Bitcoin And Blockchain Initiatives](https://bitcoinchaser.com/undp-bitcoin-blockchain-initiatives)
+* 10/16 — [AID:Tech offers blockchain solutions to help United Nations and European Commission with refugee problems](https://bravenewcoin.com/insights/aidtech-offers-blockchain-solutions-to-help-united-nations-and-european-commission-with-refugee-problems) - [[Aid:Tech](https://tge.aid.technology/)]
+* 10/16 — [UNDP Develop Blockchain As Payment Instruments](https://un-blockchain.org/2016/10/30/undp-develop-blockchain-as-payment-instruments/)
 
 ## UNICEF [**^**](#contents)
 
@@ -80,6 +90,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
   * Blockchain one of three key investment areas the innovation fund is targeting. 
 * 3/16 — [UNICEF Seeks Developer for Innovation Projects including Blockchain’s Humanitarian Uses](https://www.ccn.com/unicef-seeks-developer-for-innovation-projects-including-blockchains-humanitarian-uses/)
 * 3/16 — [How mobile money is providing access to basic services to the most disadvantaged communities](http://unicefstories.org/2016/03/24/how-mobile-money-is-providing-access-to-basic-services-to-the-most-disadvantaged-communities/)
+* 7/16 — [UNICEF Welcomes it's Fourth Investor to the Innovation Fund.](http://unicefstories.org/2016/07/19/unicef-welcomes-its-fourth-investor-to-the-innovation-fund/)
 * 11/16 — [Trustlab – Connected Development : Building Amply, a web of trust for children](http://unicefstories.org/2016/11/14/9needs-connected-development-building-amply-a-web-of-trust-for-children/)
 * 11/16 — [Unicef is funding blockchain and health tech to solve the world’s biggest problems](https://www.wired.co.uk/article/unicef-fund-companies-innovation-fund)
 * 2/17 — [London Blockchain Week Shone With the Promise of Woodstock](https://www.ibtimes.co.uk/london-blockchain-week-shone-promise-woodstock-1604514)
@@ -88,19 +99,37 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 5/18 — [UNICEF’s First Blockchain Investment Amply Ensures South African Early Childhood Development Centres Get the Funding They Need](https://www.techbullion.com/unicefs-first-blockchain-investment-amply-ensures-south-african-early-childhood-development-centres-get-the-funding-they-need) — [AMPly](https://twitter.com/amplyscale)
 * 12/18 — [IXO-Cosmos](https://medium.com/ixo-blog/the-ixo-cosmos-blockchain-for-sustainability-69c64bc5b505)
 
+## UN Women — [**^**](#contents)
 
-## UN Blockchain Group [**^**](#contents)
+* 9/16 — [SDGs Made with Code: Giving women and girls the power to change the world](http://blogs.worldbank.org/ic4d/sdgs-made-code-giving-young-women-power-change-world)
+* [UN Women's innovation and technology projects](http://www.unwomen.org/en/how-we-work/innovation-and-technology/un-womens-innovation-and-technology-projects)
+* 3/17 — [UN Women and Innovation Norway sign momentous partnership agreement to advance gender equality and women’s empowerment](http://www.unwomen.org/en/news/stories/2017/3/announcer-innovation-norway-partnership)
+* 7/17 — [Oslo Hackathon explores new technology to empower women in humanitarian crisis](http://www.unwomen.org/en/news/stories/2017/6/feature-oslo-hackathon-explores-new-technology-to-empower-women-in-humanitarian-crisis)
+* 8/17 — [UN Women and SAP collaborate to accelerate the advancement of women and girls in innovation, technology and entrepreneurship](http://www.unwomen.org/en/news/stories/2017/8/announcer-un-women-and-sap-collaborate-to-accelerate-advancement-of-women-and-girls-in-innovation)
+* 2/18 — [UN Women and partners to pilot blockchain technology in humanitarian action](http://www.unwomen.org/en/news/stories/2018/2/news-event-blockchain-technology-and-humanitarian-action)
+* 4/18 — [From where I stand: Using blockchain technology to empower women](http://www.unwomen.org/en/news/stories/2018/2/from-where-i-stand-olivier-mukuta)
+* 9/18 — [Press release: UN Women and WFP harness innovation for women’s economic empowerment in crisis situations](http://www.unwomen.org/en/news/stories/2018/9/press-release-un-women-and-wfp-harness-innovation-for-economic-empowerment-in-crisis)
+* 9/18 — [Press release: UN Women’s Global Innovation Coalition for Change launches the Gender Innovation Principles](http://www.unwomen.org/en/news/stories/2018/9/press-release-gicc-launches-gender-innovation-principles)
+
+
+
+## UNOPS - UN Blockchain Group [**^**](#contents)
 
 ![](https://i.imgur.com/XZsZu0A.png)
 
-In early 2017, discussions grew around blockchain, informal meetings among members of a number of UN organizations led to the appointment of Yoshiyuki Yamamoto to be a UNOPS special advisor for [UN engagement and blockchain technology](https://www.reuters.com/article/us-un-refugees-blockchain/u-n-glimpses-into-blockchain-future-with-eye-scan-payments-for-refugees-idUSKBN19C0BB), that July. 
+* 4/17 — [Request for Information for Blockchain-based International Assistance](https://un-blockchain.org/2017/04/24/request-for-information-for-blockchain-based-international-assistance/)
+* 4/17 — [ETHNews — United Nations Thinking Big About Blockchain](https://www.ethnews.com/united-nations-thinking-big-about-blockchain)
+* 6/17 — Early 2017 informal meetings among members of a number of UN organizations around blockchain, leads to the appointment of Yoshiyuki Yamamoto to be a UNOPS special advisor for [UN engagement and blockchain technology](https://www.reuters.com/article/us-un-refugees-blockchain/u-n-glimpses-into-blockchain-future-with-eye-scan-payments-for-refugees-idUSKBN19C0BB), that July. 
 
 That collaborative continued to grow, as Yamamoto met with members of various UN agencies to explore the idea of uniting the organizations on a blockchain. Among the agencies working in the [UN blockchain group](https://un-blockchain.org/) are the WFP, UNDP, UNICEF, UN Women, the UN High Commissioner for Refugees (UNHCR) and the UN Development Group (UNDG).
+
+* 4/17 — https://un-blockchain.org/2017/04/24/request-for-information-for-blockchain-based-international-assistance/
 
 ## WFP - World Food Programme [**^**](#contents)
 
 ![](https://i.imgur.com/HrwRYjc.png)
 
+* 10/16 — [Empowering women farmers of Rwanda through mobile technology](http://www.unwomen.org/en/news/stories/2016/10/empowering-women-farmers-of-rwanda-through-mobile-technology) - UNWomen.org & WFP
 * 1/17 — [Blockchain 'Crypto' Assistance at WFP](https://innovation.wfp.org/blog/blockchain-crypto-assistance-wfp)
 * 4/17 — [What is ‘blockchain’ and how is it connected to fighting hunger?](https://insight.wfp.org/what-is-blockchain-and-how-is-it-connected-to-fighting-hunger-7f1b42da9fe)
 * 5/17 — [Building Blocks – How the World Food Programme is harnessing Blockchain technology to deliver humanitarian assistance ](https://datarella.com/building-blocks-how-the-world-food-programme-harnesses-blockchain-technology-ro-deliver-aid/) 
@@ -210,8 +239,7 @@ Vivi Lin, Global Managing Partner—Mars Finance; Daniel Xia Sijian, Head of Asi
 
 ## Additional Resources [**^**](#contents)
 
-* https://www.blockchainforsocialimpact.com/incubator/
-
+* [UN Blockchain](https://un-blockchain.org)
 
 
 
@@ -219,7 +247,9 @@ Vivi Lin, Global Managing Partner—Mars Finance; Daniel Xia Sijian, Head of Asi
 ## Sorted By Date
 
 * 10/16 - Bitcoin Magazine - "[New UN Chief Can Tackle World Problems by Promoting Bitcoin](https://news.bitcoin.com/new-un-chief-world-problems-bitcoin)"
-* 12/16 [From Barcelona to Legambiente, 365 days of Helperbit](https://blog.helperbit.com/en/2016/12/30/from-barcelona-to-legambiente-365-days-of-helperbit/) - (World Humanitarian Summit)* 5/17 - [How Blockchain Could Finally Unite the United Nations](https://www.coindesk.com/blockchain-finally-unite-united-nations/)
+* 12/16 [From Barcelona to Legambiente, 365 days of Helperbit](https://blog.helperbit.com/en/2016/12/30/from-barcelona-to-legambiente-365-days-of-helperbit/) - (World Humanitarian Summit)
+* 2/17 — [The UN Needs Blockchain to Achieve Its Goals](https://media.consensys.net/the-un-needs-blockchain-to-achieve-its-goals-46ab5c46b8af)
+* 5/17 - [How Blockchain Could Finally Unite the United Nations](https://www.coindesk.com/blockchain-finally-unite-united-nations/)
 * 8/17 - [11 Blockchain Startups in Alignment with United Nations SDGS](https://www.influencive.com/11-blockchain-startups-alignment-united-nations-sdgs/)
 * 8/17 - [Usage of Blockchain in the UN System A DESK REVIEW](https://unite.un.org/sites/unite.un.org/files/session_3_b_blockchain_un_initiatives_final.pdf)
 * 11/17 — [Bitfury Group Presents Georgia Land-Titling Project at Harvard, United Nations](https://medium.com/meetbitfury/bitfury-group-presents-georgia-land-titling-project-at-harvard-united-nations-6469f6b69b70)
