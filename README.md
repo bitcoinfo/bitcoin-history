@@ -5,7 +5,6 @@
 
 ### Contents
 
-* [**—Notes**](#Notes)
 * [**/before-bitcoin**](#before-bitcoin)
   * [Timelines](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/#timelines-)
   * [Pre-Digital Cryptogrphay](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/#pre-digital-cryptography-)
