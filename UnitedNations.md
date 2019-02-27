@@ -2,7 +2,7 @@
 **depreciated**
 
 
-***All further work on this is happening at [infominer.id/reserach/UnitedNations.html](infominer.id/reserach/UnitedNations.html)***
+***All further work on this is happening at [infominer.id/reserach/UnitedNations.html](https://infominer.id/reserach/UnitedNations.html)***
 
 
 
