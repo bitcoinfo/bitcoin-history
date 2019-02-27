@@ -11,16 +11,21 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 * [Agenda for Sustainable Development](#agenda-for-sustainable-development-)
 * [Bitnation](#bitnation-)
 * [UNRISD Report](#unrisd-report-)
-* [ID2020](#id2020-)
+* [ID2020 - UNHCR](#id2020---unhcr-)
 * [UNDP](#undp-)
 * [UNICEF](#unicef-)
 * [UN Women](#un-women-)
+* [UN Conference on Trade and Development](#un-conference-on-trade-and-development-)
 * [UNOPS - UN Blockchain Group](#unops---un-blockchain-group-)
 * [WFP - World Food Programme](#wfp---world-food-programme-)
 * [BFI - Blockchain for Impact](#bfi---blockchain-for-impact)
 * [Humanitarian Blockchain Summit](#humanitarian-blockchain-summit-)
 * [WIN - World Identity Network](#win---world-identity-network-)
+* [UN Climate Conference](#un-climate-conference-)
 * [Additional Resources](#additional-resources-)
+  * [2016](#2016-)
+  * [2017](#2017-)
+  * [2018](#2018-)
 
 ## Early History [**^**](#contents)
 
@@ -29,6 +34,8 @@ Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Ev
 ![](https://i.imgur.com/BleIVxr.png)
 
 ## UN Human Rights Council - Encryption is Free Speech [**^**](#contents)
+
+![](https://i.imgur.com/9FHdFr0.png)
 
 * 5/15 — [Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including the right to development.](https://www.docdroid.net/13p3a/ahrc2932-aev.doc)
 * 6/15 — [news.bitcoin.com - Bitcoin and Encryption are Protected by Freedom of Speech](https://news.bitcoin.com/bitcoin-and-encryption-are-protected-by/)
@@ -60,7 +67,7 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 >* Bitcoin as a means for an otherwise excluded individual to have a decentralized global bank account, accessible simply by downloading an open source wallet from the internet, rather than having to set up with a formal financial institution.
 >* Bitcoin—or the technology that underpins it—subsequently providing the basis for a richer set of financial services.
 
-## ID2020 [**^**](#contents)
+## ID2020 - UNHCR [**^**](#contents)
 
 <img src="https://i.imgur.com/7qMUr22.png"/>
 
@@ -73,6 +80,9 @@ In February of 2016, the United Nations Research Institute for Social Developmen
    >1.1 Billion people live without an officially recognized identity — This lack of recognized identification deprives them of protection, access to services, and basic rights. ID2020 is a public-private partnership dedicated to solving the challenges of identity for these people through technology. - id2020.org
 * [Identity Crisis: Clear Identity through Correlation](https://github.com/WebOfTrustInfo/ID2020DesignWorkshop/blob/master/final-documents/identity-crisis.pdf)
 * 6/16 — [Microsoft Building Open Blockchain-Based Identity System With Blockstack, ConsenSys](https://bitcoinmagazine.com/articles/microsoft-building-open-blockchain-based-identity-system-with-blockstack-consensys-1464968713/)
+* 10/16 — [AID:Tech offers blockchain solutions to help United Nations and European Commission with refugee problems](https://bravenewcoin.com/insights/aidtech-offers-blockchain-solutions-to-help-united-nations-and-european-commission-with-refugee-problems) - [[Aid:Tech](https://tge.aid.technology/)]
+* 10/17 — [Bridging the identity divide – Is Portable User-Centric Identity Management the Answer?](https://www.unhcr.org/blogs/bridging-identity-divide-portable-user-centric-identity-management-answer/)
+* 6/18 Aid:Tech assisted in the first [birth recorded on the blockchain](https://medium.com/aid-tech/the-first-baby-born-on-the-blockchain-e457abd90b49), with two more only days later. Partnered with PharmAccess, Aid:tech brings charitable donations to pregnant women in Tanzania, uses blockchain records to ensure the women get proper pre-natal care; tracking the progress of their pregnancies.
 
 
 ## UNDP [**^**](#contents)
@@ -85,7 +95,6 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 9/16 — [United Nations Will Adopt Emercoin For Its Car Fleet Management Project](https://cointelegraph.com/news/united-nations-will-adopt-emercoin-for-its-car-fleet-management-project) - [[EmerCoin](http://emercoin.com/)]
 * 9/16 — [UN goes all in on blockchain, lists various initiatives](http://www.econotimes.com/UN-goes-all-in-on-blockchain-lists-various-initiatives-324507)
 * 10/16 — [The UNDP And Its Bitcoin And Blockchain Initiatives](https://bitcoinchaser.com/undp-bitcoin-blockchain-initiatives)
-* 10/16 — [AID:Tech offers blockchain solutions to help United Nations and European Commission with refugee problems](https://bravenewcoin.com/insights/aidtech-offers-blockchain-solutions-to-help-united-nations-and-european-commission-with-refugee-problems) - [[Aid:Tech](https://tge.aid.technology/)]
 * 10/16 — [UNDP Develop Blockchain As Payment Instruments](https://un-blockchain.org/2016/10/30/undp-develop-blockchain-as-payment-instruments/)
 
 ## UNICEF [**^**](#contents)
@@ -106,12 +115,16 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 10/17 — [Introduction to the Ixo Protocol](https://medium.com/ixo-blog/introduction-to-the-ixo-protocol-55f98e34de01)
 * 12/17 — [IXO Protocol - Whitepaper Draft](https://webcache.googleusercontent.com/search?q=cache:G0ZR1fiAoWMJ:https://ixo.foundation/wp-content/uploads/2017/12/The-ixo-Protocol-Draft-White-Paper-3.0-for-technical-review-12_8_2017.pdf+&cd=1&hl=en&ct=clnk&gl=us)
 * 5/18 — [UNICEF’s First Blockchain Investment Amply Ensures South African Early Childhood Development Centres Get the Funding They Need](https://www.techbullion.com/unicefs-first-blockchain-investment-amply-ensures-south-african-early-childhood-development-centres-get-the-funding-they-need) — [AMPly](https://twitter.com/amplyscale)
+* 9/18 — [UNICEF France Accepts Donations in 9 Cryptocurrencies](https://news.bitcoin.com/unicef-france-accepts-donations-in-9-cryptocurrencies/)
 * 12/18 — [IXO-Cosmos](https://medium.com/ixo-blog/the-ixo-cosmos-blockchain-for-sustainability-69c64bc5b505)
 
-## UN Women — [**^**](#contents)
+## UN Women [**^**](#contents)
+
+<img src="http://i.imgur.com/vtqk3QZ.png"/>
 
 * 9/16 — [SDGs Made with Code: Giving women and girls the power to change the world](http://blogs.worldbank.org/ic4d/sdgs-made-code-giving-young-women-power-change-world)
-* [UN Women's innovation and technology projects](http://www.unwomen.org/en/how-we-work/innovation-and-technology/un-womens-innovation-and-technology-projects)
+* 9/16 — [UN Women's innovation and technology projects](http://www.unwomen.org/en/how-we-work/innovation-and-technology/un-womens-innovation-and-technology-projects)
+* 10/16 — [Empowering women farmers of Rwanda through mobile technology](http://www.unwomen.org/en/news/stories/2016/10/empowering-women-farmers-of-rwanda-through-mobile-technology) 
 * 3/17 — [UN Women and Innovation Norway sign momentous partnership agreement to advance gender equality and women’s empowerment](http://www.unwomen.org/en/news/stories/2017/3/announcer-innovation-norway-partnership)
 * 7/17 — [Oslo Hackathon explores new technology to empower women in humanitarian crisis](http://www.unwomen.org/en/news/stories/2017/6/feature-oslo-hackathon-explores-new-technology-to-empower-women-in-humanitarian-crisis)
 * 8/17 — [UN Women and SAP collaborate to accelerate the advancement of women and girls in innovation, technology and entrepreneurship](http://www.unwomen.org/en/news/stories/2017/8/announcer-un-women-and-sap-collaborate-to-accelerate-advancement-of-women-and-girls-in-innovation)
@@ -121,13 +134,14 @@ In February of 2016, the United Nations Research Institute for Social Developmen
 * 9/18 — [Press release: UN Women’s Global Innovation Coalition for Change launches the Gender Innovation Principles](http://www.unwomen.org/en/news/stories/2018/9/press-release-gicc-launches-gender-innovation-principles)
 
 
-
 ## UNOPS - UN Blockchain Group [**^**](#contents)
 
 ![](https://i.imgur.com/XZsZu0A.png)
 
+* 3/17 — [Update on the UN Blockchain Group](https://un-blockchain.org/2017/03/28/update/)
 * 4/17 — [Request for Information for Blockchain-based International Assistance](https://un-blockchain.org/2017/04/24/request-for-information-for-blockchain-based-international-assistance/)
 * 4/17 — [ETHNews — United Nations Thinking Big About Blockchain](https://www.ethnews.com/united-nations-thinking-big-about-blockchain)
+* 5/17 — [UNOPS NY Office Happy Hour accepts Bitcoin for Drinks](https://un-blockchain.org/2017/05/21/unops-ny-office-happy-hour/)
 * 6/17 — Early 2017 informal meetings among members of a number of UN organizations around blockchain, leads to the appointment of Yoshiyuki Yamamoto to be a UNOPS special advisor for [UN engagement and blockchain technology](https://www.reuters.com/article/us-un-refugees-blockchain/u-n-glimpses-into-blockchain-future-with-eye-scan-payments-for-refugees-idUSKBN19C0BB), that July. 
 
 That collaborative continued to grow, as Yamamoto met with members of various UN agencies to explore the idea of uniting the organizations on a blockchain. Among the agencies working in the [UN blockchain group](https://un-blockchain.org/) are the WFP, UNDP, UNICEF, UN Women, the UN High Commissioner for Refugees (UNHCR) and the UN Development Group (UNDG).
@@ -138,9 +152,10 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ![](https://i.imgur.com/HrwRYjc.png)
 
-* 10/16 — [Empowering women farmers of Rwanda through mobile technology](http://www.unwomen.org/en/news/stories/2016/10/empowering-women-farmers-of-rwanda-through-mobile-technology) - UNWomen.org & WFP
 * 1/17 — [Blockchain 'Crypto' Assistance at WFP](https://innovation.wfp.org/blog/blockchain-crypto-assistance-wfp)
+* 3/17 [World Food Programme hails blockchain test a success](https://www.blockchaintechnology-news.com/2017/03/23/un-world-food-programme-hails-blockchain-test-success/)
 * 4/17 — [What is ‘blockchain’ and how is it connected to fighting hunger?](https://insight.wfp.org/what-is-blockchain-and-how-is-it-connected-to-fighting-hunger-7f1b42da9fe)
+* 4/17 — [The UN Wants to Adopt Bitcoin And Ethereum – And Soon](https://www.coindesk.com/the-united-nations-wants-to-accept-ethereum-and-bitcoin-and-soon)
 * 5/17 — [Building Blocks – How the World Food Programme is harnessing Blockchain technology to deliver humanitarian assistance ](https://datarella.com/building-blocks-how-the-world-food-programme-harnesses-blockchain-technology-ro-deliver-aid/) 
 * 5/17 — [Blockchain Against Hunger: Harnessing Technology In Support Of Syrian Refugees](https://www.wfp.org/news/news-release/blockchain-against-hunger-harnessing-technology-support-syrian-refugees)
 * 6/17 — [United Nations World Food Programme Uses Ethereum to Aid Syrian Refugees](https://www.ethnews.com/united-nations-world-food-programme-uses-ethereum-to-aid-syrian-refugees)
@@ -159,6 +174,8 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ## Humanitarian Blockchain Summit [**^**](#contents)
 
+<img src="http://i.imgur.com/wTttKvH.png"/>
+
 * 11/17 — [Humanitarian Blockchain Summit](https://un-blockchain.org/2017/11/07/humanitarian-blockchain-summit/)
   * [Blockchain for the United Nations - humanitarian and other applications @ TechNovation Talks](https://unite.un.org/techevents/humanitarian-blockchain) brought experts, scholars, and humanitarian practitioners together at the United Nations Headquarters; enlarging the discussion around using blockchain technology for pursuit of the Sustainable Development Goals. 
   * [HUMANITARIAN BLOCKCHAIN SUMMIT AT FORDHAM UNIVERSITY](http://ventricelam.com/2017/11/10/humanitarian-blockchain-summit-fordham/)
@@ -170,6 +187,8 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ## WIN - World Identity Network
 
+<img src="http://i.imgur.com/3I70Wdy.png"/>
+
 * 7/17 — [World Identity Network launched on Sir Richard Branson's Necker Island this week](https://www.prnewswire.com/news-releases/world-identity-network-launched-on-sir-richard-bransons-necker-island-this-week-300496195.html)), the UN Office for Project Services (UNOPS) and the UN Office of Information and Communications Technology (UN-OICT) announced a partnership to launch a pilot using blockchain to provide identification to children at risk for child trafficking. 
 * 11/17 — [World Identity Network - United Nations - Pilot to Prevent Child Trafficking](https://www.prnewswire.com/news-releases/world-identity-network-and-united-nations-team-up-to-launch-innovative-blockchain-pilot-to-help-prevent-child-trafficking-300553921.html)
 
@@ -177,10 +196,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ## UN Climate Conference [**^**](#contents)
 
-Late 2017, UN Climate Conference hosted a [blockchain hackathon](https://blockchainatberkeley.blog/a-bitcoin-miner-and-an-environmentalist-walk-into-a-bar-bbdfb06a5232) where developers worked to build demos and explore solutions for tracking carbon emissions, carbon pricing, distributed energy infrastructure, monitoring land use, and more.
-
-## UN CCC
-
+* 11/17, UN Climate Conference hosted a [blockchain hackathon](https://blockchainatberkeley.blog/a-bitcoin-miner-and-an-environmentalist-walk-into-a-bar-bbdfb06a5232) where developers worked to build demos and explore solutions for tracking carbon emissions, carbon pricing, distributed energy infrastructure, monitoring land use, and more.
 * 1/18 — [UN Supports Blockchain Technology for Climate Action](https://unfccc.int/news/un-supports-blockchain-technology-for-climate-action) the Climate Chain Coalition (CCC), composed of 25 organizations committed to the use of DLT for the benefit of the climate. 
 * 1/18 — [UN Forms Blockchain Coalition to Fight Climate Change](https://www.coindesk.com/un-forms-blockchain-coalition-to-help-tackle-climate-change/) 
 
@@ -222,7 +238,6 @@ A few days prior to the BFI summit, Consensys held its 2nd Blockchain for Social
 UN Secretary-General António Guterres assembled a [group of experts](https://news.un.org/en/story/2018/07/1014511) from technology, science, policy, and academia. Their focus is the impact of blockchain, AI, and other innovations on global economies and societies; with the aim of applying their benefits and protecting against unwanted consequences. 
   >“it’s time that someone at this level takes this initiative, to begin a global policy discussion on the increasingly digital world that we are living in.”
 
-* Aid:Tech assisted in the first [birth recorded on the blockchain](https://medium.com/aid-tech/the-first-baby-born-on-the-blockchain-e457abd90b49), with two more only days later. Partnered with PharmAccess, Aid:tech brings charitable donations to pregnant women in Tanzania, uses blockchain records to ensure the women get proper pre-natal care; tracking the progress of their pregnancies.
 
 
 The Blockchain Charity Foundation, [established by Binance](https://www.newsbtc.com/2018/07/25/binance-teams-up-with-malta-to-create-the-blockchain-charity-foundation/) 7/18, in collaboration with the President of Malta. 
@@ -250,20 +265,27 @@ Vivi Lin, Global Managing Partner—Mars Finance; Daniel Xia Sijian, Head of Asi
 
 * [UN Blockchain](https://un-blockchain.org)
 
+### 2016 [**^**](#contents)
 
+* Bitcoin Magazine - "[New UN Chief Can Tackle World Problems by Promoting Bitcoin](https://news.bitcoin.com/new-un-chief-world-problems-bitcoin)"
+* [From Barcelona to Legambiente, 365 days of Helperbit](https://blog.helperbit.com/en/2016/12/30/from-barcelona-to-legambiente-365-days-of-helperbit/) - (World Humanitarian Summit)
 
-
-## Sorted By Date
-
-* 10/16 - Bitcoin Magazine - "[New UN Chief Can Tackle World Problems by Promoting Bitcoin](https://news.bitcoin.com/new-un-chief-world-problems-bitcoin)"
-* 12/16 [From Barcelona to Legambiente, 365 days of Helperbit](https://blog.helperbit.com/en/2016/12/30/from-barcelona-to-legambiente-365-days-of-helperbit/) - (World Humanitarian Summit)
+### 2017 [**^**](#contents)
 * 2/17 — [The UN Needs Blockchain to Achieve Its Goals](https://media.consensys.net/the-un-needs-blockchain-to-achieve-its-goals-46ab5c46b8af)
-* 5/17 - [How Blockchain Could Finally Unite the United Nations](https://www.coindesk.com/blockchain-finally-unite-united-nations/)
-* 8/17 - [11 Blockchain Startups in Alignment with United Nations SDGS](https://www.influencive.com/11-blockchain-startups-alignment-united-nations-sdgs/)
-* 8/17 - [Usage of Blockchain in the UN System A DESK REVIEW](https://unite.un.org/sites/unite.un.org/files/session_3_b_blockchain_un_initiatives_final.pdf)
+* 4/17 — [UN, Alibaba’s Jack Ma forge startup assistance program with Estonia’s e-Residency](https://oneworldidentity.com/un-alibabas-jack-ma-forge-startup-assistance-program-estonias-e-residency/) 
+  * [ID Card Security Flaw](https://www.mccarthy.ca/en/insights/blogs/cyberlex/estonian-blockchain-based-id-card-security-flaw-raises-issues-about-identity)
+* 5/17 — [UNODC launches training to tackle cryptocurrency-enabled Organized Crime](https://un-blockchain.org/2017/05/08/unodc-launches-training-to-tackle-cryptocurrency-enabled-organized-crime/)
+* 5/17 — [UN Commission: Blockchain Can Help Struggling Banks in Latin America](https://un-blockchain.org/2017/05/02/un-commission-blockchain-can-help-struggling-banks-in-latin-america/)
+  * Economic Commission for Latin America and the Caribbean (ECLAC) — [Prospects for blockchain-based settlement frameworks as a resolution to the threat of de-risking to Caribbean financial systems](https://repositorio.cepal.org/bitstream/handle/11362/41139/1/LCCAR2017_2_en.pdf)
+* 5/17 — [How Blockchain Could Finally Unite the United Nations](https://www.coindesk.com/blockchain-finally-unite-united-nations/)
+* 6/17 — [Bitcoin, Blockchain Payments Startups Win RemTECH Awards at United Nations](https://www.ccn.com/blockchain-startups-win-remtech-awards-at-united-nations)
+* 8/17 — [11 Blockchain Startups in Alignment with United Nations SDGS](https://www.influencive.com/11-blockchain-startups-alignment-united-nations-sdgs/)
+* 8/17 — [Usage of Blockchain in the UN System A DESK REVIEW](https://unite.un.org/sites/unite.un.org/files/session_3_b_blockchain_un_initiatives_final.pdf)
 * 11/17 — [Bitfury Group Presents Georgia Land-Titling Project at Harvard, United Nations](https://medium.com/meetbitfury/bitfury-group-presents-georgia-land-titling-project-at-harvard-united-nations-6469f6b69b70)
-* 12/17 - [10 Great Examples Of How The UN Is Using Blockchain Technology For Social Good](https://cryptocoin.news/news/10-great-examples-of-how-the-un-is-using-blockchain-technology-for-social-good-4846/)
+* 12/17 — [10 Great Examples Of How The UN Is Using Blockchain Technology For Social Good](https://cryptocoin.news/news/10-great-examples-of-how-the-un-is-using-blockchain-technology-for-social-good-4846/)
+
+### 2018 [**^**](#contents)
 * 4/18 - [Blockchain & Cryptocurrencies. What are they? Potential Applications for the United Nations @ TechNovation UNITAR](https://unite.un.org/techevents/blockchain_and_cryptocurrencies)
 * 6/18 — [BLOCKCHAIN –WHAT DOES IT MEAN FOR THE UN](https://web.archive.org/web/20181101202840/https://unite.un.org/sites/unite.un.org/files/docs/emerging-tech-series-blockchain.pdf)
-* 7/18 - [What I learned from my day at the United Nations](https://www.sineadbovell.com/blog/2018/7/1/what-i-learned-from-my-day-at-the-united-nations)
-* 8/18 [Programming a Sustainable World](https://blockchainhub.net/blog/blog/blockchain-sustainability-programming-a-sustainable-world/)
+* 7/18 — [What I learned from my day at the United Nations](https://www.sineadbovell.com/blog/2018/7/1/what-i-learned-from-my-day-at-the-united-nations)
+* 8/18 — [Programming a Sustainable World](https://blockchainhub.net/blog/blog/blockchain-sustainability-programming-a-sustainable-world/)
