@@ -1,5 +1,5 @@
 # Bitcoin History
-<a href="https://infominer.id"><img src="https://raw.githubusercontent.com/infominer33/infominer33.github.io/master/infominer.png" align="right" width="150" height="140"></a>
+<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
 
@@ -39,7 +39,7 @@
   * [Liberty Reserve](https://github.com/infominer33/bitcoin-history/tree/master/before-bitcoin/electronic-cash.md#liberty-reserve-)
 * [**/bitcoin-history.md**](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md) 
 * [**/cryptocurrencies.md**](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
-* [**/UnitedNations.md**](/UnitedNations.md)
+* [**/UnitedNations.md**](/UnitedNations.md) - History of Blockchain in the United Nations.
 * [**/people**](https://github.com/infominer33/bitcoin-history/tree/master/people)
   * [David Chaum](https://github.com/infominer33/bitcoin-history/blob/master/david-chaum.md)
   * [Hal Finney](https://github.com/infominer33/bitcoin-history/blob/master/hal-finney.md)
