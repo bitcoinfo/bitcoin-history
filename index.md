@@ -77,7 +77,7 @@ image: "https://i.imgur.com/UnfJmvG.png"
   * <a href="{{ site.url }}/DLT/permissioned.html#iroha-">Iroha</a>
   * <a href="{{ site.url }}/DLT/permissioned.html#evernym-sovrin-">Evernym-Sovrin</a>
   * <a href="{{ site.url }}/DLT/permissioned.html#quorum-">Quorum</a>
-  * <a href="{{ site.url }}/DLT/permissioned.html#r3-corda-">R3 Corda</a>
+  * <a href="{{ site.url }}/DLT/permissioned.html#r3---corda-">R3 Corda</a>
   * <a href="{{ site.url }}/DLT/permissioned.html#misc-2016-">Misc-2016</a>
   * <a href="{{ site.url }}/DLT/permissioned.html#2017-">2017</a>
   * <a href="{{ site.url }}/DLT/permissioned.html#2018-">2018</a>
