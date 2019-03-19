@@ -3,7 +3,7 @@
 * [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 
 
-<img src="http://i.imgur.com/UaSoZf9.png"/>
+<img src="https://i.imgur.com/UaSoZf9.png"/>
 
 * [Bitcoin's Origins and the Genesis Blockade](https://youtu.be/cagoyF3WePo)
   > "In this talk, Andreas recounts the origins of Bitcoin, the meaning of the message embedded forever in its genesis block, and how we figured out who the banks truly serve when there was no other choice. He also speaks about what happens when money stops working, why censorship resistance was one of Bitcoin's most valuable characteristics from the start, and what possibilities lay in store with a global, voluntary financial system."

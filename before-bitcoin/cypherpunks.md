@@ -1,7 +1,7 @@
 # Cypherpunks and the Crypto Wars
 Gathering and organizing information related to the Cypherpunk movement.
 
-<img src="http://i.imgur.com/qgVn6sU.png"/>\
+<img src="https://i.imgur.com/qgVn6sU.png"/>\
 <sup>Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf">EVhAck_-_Cypherpunk</a></sup>
 
 I made this in part while researching [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin).
@@ -15,7 +15,7 @@ I made this in part while researching [*Electronic Currency, Before Bitcoin*](ht
 * [Resources](#resources-)
 * [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 
-<a href="https://twitter.com/lopp/status/1026139157125640192"><img src="http://i.imgur.com/2d44hTP.png"/></a>
+<a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>
 
 ## Crypto Wars [**^**](#contents)
 
@@ -52,7 +52,7 @@ http://en.citizendium.org/wiki/Computers,_Freedom_and_Privacy
   * [CRYPTOQUIKREAD_163 - A CYPHERPUNK’S MANIFESTO](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
 * [Wired - Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) ('93) - Deep Cut
 * [THE CYPHERNOMICON: Cypherpunks FAQ and More - 1994 - Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)[[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
-*  <a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="http://i.imgur.com/mSL72Pd.png"/></a>\
+*  <a href="https://threadreaderapp.com/thread/1060234474892361728.html"><img src="https://i.imgur.com/mSL72Pd.png"/></a>\
   <sup><a href="https://twitter.com/Adam_Tache/status/1060234474892361728">https://twitter.com/Adam_Tache/status/1060234474892361728</a></sup>
  
 
