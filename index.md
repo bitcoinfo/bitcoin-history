@@ -1,6 +1,6 @@
 ---
 title: Bitcoin History
-description: A Growing Catalog of Resources Surrounding the History of Bitcoin.
+description: A Growing Catalog of Resources Related to the History Surrounding Bitcoin.
 image: "https://i.imgur.com/rJGaKPk.png"
 ---
 
