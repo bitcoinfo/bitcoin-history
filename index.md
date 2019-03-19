@@ -6,7 +6,7 @@
 
 ### Contents
 
-* <a href="/before-bitcoin">Before Bitcoin</a>
+* <a href="{{ site.url }}/before-bitcoin">Before Bitcoin</a>
   * [Timelines]({{ site.url }}/before-bitcoin/#timelines-)
   * [Pre-Digital Cryptography]({{ site.url }}/before-bitcoin/#pre-digital-cryptography-)
   * [Digital Cryptography]({{ site.url }}/before-bitcoin/#digital-cryptography-)
