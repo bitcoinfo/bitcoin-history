@@ -14,7 +14,7 @@
   * [Literature](/before-bitcoin/#Literature-)
   * [Video-Audio](/before-bitcoin/#Video-Audio-)
   * [Resources](/before-bitcoin/#Resources-)
-* [**/cypherpunks.md**](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/cypherpunks.md) and the Crypto Wars
+* [**/cypherpunks.md**](/people/before-bitcoin/cypherpunks.md) and the Crypto Wars
   * [Crypto Wars](/before-bitcoin/cypherpunks.md#crypto-wars-)
   * [Cypherpunk Mailing-list](/before-bitcoin/cypherpunks.md#cypherpunk-mailinglist-)
   * [Modern Crypto Wars](/before-bitcoin/cypherpunks.md#modern-crypto-wars-)
@@ -36,8 +36,8 @@
   * [Peppercoin](/before-bitcoin/electronic-cash.md#peppercoin-)
   * [Reusable Proof of Work](/before-bitcoin/electronic-cash.md#reusable-proof-of-work-)
   * [Liberty Reserve](/before-bitcoin/electronic-cash.md#liberty-reserve-)
-* [**/bitcoin-history.md**](https://github.com/infominer33/bitcoin-history/blob/master/bitcoin-history.md) 
-* [**/cryptocurrencies.md**](https://github.com/infominer33/bitcoin-history/blob/master/cryptocurrencies.md)
+* [**/bitcoin-history.md**](/bitcoin-history.md) 
+* [**/cryptocurrencies.md**](/cryptocurrencies.md)
 * [**/UnitedNations.md**](/UnitedNations.md) - History of Blockchain in the United Nations.
   * [Early History](/UnitedNations.md#early-history-)
   * [UN Human Rights Council - Encryption is Free Speech](/UnitedNations.md#un-human-rights-council---encryption-is-free-speech-)
@@ -63,11 +63,11 @@
     * [2017](/UnitedNations.md#2017-)
     * [2018](/UnitedNations.md#2018-)
 * [**/people**](/people)
-  * [David Chaum](https://github.com/infominer33/bitcoin-history/blob/master/david-chaum.md)
-  * [Hal Finney](https://github.com/infominer33/bitcoin-history/blob/master/hal-finney.md)
-  * [Nick Szabo](https://github.com/infominer33/bitcoin-history/blob/master/nick-szabo.md)
-  * [Wei Dai](https://github.com/infominer33/bitcoin-history/blob/master/wei-dai.md)
-  * [Adam Back](https://github.com/infominer33/bitcoin-history/blob/master/adam-back.md)
+  * [David Chaum](/people/david-chaum.md)
+  * [Hal Finney](/people/hal-finney.md)
+  * [Nick Szabo](/people/nick-szabo.md)
+  * [Wei Dai](/people/wei-dai.md)
+  * [Adam Back](/people/adam-back.md)
 
 ---
 
