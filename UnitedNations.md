@@ -1,9 +1,4 @@
 # Blockchain and the United Nations
-**depreciated**
-
-
-***All further work on this is happening at [infominer.id/research/UnitedNations.html](https://infominer.id/research/UnitedNations.html)***
-
 
 
 The organizations are listed in order of when they got involved with blockchain.were enstated, and then are chronological within each segment as well.
