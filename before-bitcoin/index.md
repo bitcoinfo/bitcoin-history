@@ -2,8 +2,6 @@
 
 This section is for all history preceeding, and related to the develpment of Bitcoin. To include background information regarding Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
 
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
-
 ### Contents
 
 * [Timelines](#timelines-)
@@ -16,6 +14,10 @@ This section is for all history preceeding, and related to the develpment of Bit
 * [Literature](#Literature-)
 * [Video-Audio](#video-audio-)
 * [Resources](#additional-resources-)
+* [Tips Jar](#infominerid--)
+
+---
+
 * [**/cypherpunks.html**]({{ site.url }}/people/before-bitcoin/cypherpunks.html) and the Crypto Wars
   * [Crypto Wars]({{ site.url }}/before-bitcoin/cypherpunks.html#crypto-wars-)
   * [Cypherpunk Mailing-list]({{ site.url }}/before-bitcoin/cypherpunks.html#cypherpunk-mailinglist-)
@@ -38,7 +40,6 @@ This section is for all history preceeding, and related to the develpment of Bit
   * [Peppercoin]({{ site.url }}/before-bitcoin/electronic-cash.html#peppercoin-)
   * [Reusable Proof of Work]({{ site.url }}/before-bitcoin/electronic-cash.html#reusable-proof-of-work-)
   * [Liberty Reserve]({{ site.url }}/before-bitcoin/electronic-cash.html#liberty-reserve-)
-* [Tips Welcome](#infominerid--)
 
 
 
