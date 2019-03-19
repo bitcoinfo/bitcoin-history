@@ -2,7 +2,6 @@
 
 
 ### Contents
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 * [DigiCash](#digicash-)
 * [FirstVirtual and CyberCash](#FirstVirtual-and-CyberCash-)
 * [NetCash](#netcash-)
@@ -68,14 +67,14 @@
 * [bitcoin.it/wiki/Hashcash](https://en.bitcoin.it/wiki/Hashcash)
 * [Proof of Work Proves not to Work](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
 * https://security.stackexchange.com/questions/14262/hashcash-is-this-really-used
-* [**>> More Information on Adam Back >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/adam-back.md)
+* [**>> More Resources for Adam Back >>**](../people/adam-back.md)
   
 ### B-money [**^**](#contents)
 
 * [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
 * [If Bitcoin had a first Draft - B-money was it](https://bitcoinmagazine.com/articles/genesis-files-if-bitcoin-had-first-draft-wei-dais-b-money-was-it/)
 * https://www.investopedia.com/terms/b/bmoney.asp
-* [**>> More Information on Wei Dai >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/wei-dai.md)
+* [**>> More Information on Wei Dai >>**](../people/wei-dai.md)
 
 
 ### Beenz and Flooz [**^**](#contents)
@@ -112,7 +111,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [Use me Baby one more Time](https://medium.com/blockwhat/04-use-me-baby-one-more-time-d0dd599c8357)
 * https://github.com/NakamotoInstitute/RPOW
 * https://slashdot.org/story/04/08/18/1345258/rpow---reusable-proofs-of-work
-* [**>> More Information on Hal Finney >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/hal-finney.md)
+* [**>> More Information on Hal Finney >>**](../people/hal-finney.md)
 
 ### Bit Gold [**^**](#contents)
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="http://imgur.com/sKwIgP4l.png" /></a>
@@ -125,7 +124,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [Re: They want to delete the Wikipedia article](https://bitcointalk.org/index.php?topic=342.msg4508#msg4508) - satoshi
   >Bitcoin is an implementation of Wei Dai's b-money proposal http://weidai.com/bmoney.txt on Cypherpunks http://en.wikipedia.org/wiki/Cypherpunks in 1998 and Nick Szabo's Bitgold proposal http://unenumerated.blogspot.com/2005/12/bit-gold.html
 * [What is Bit Gold? The Brainchild of Blockchain Pioneer - Nick Szabo](https://coincentral.com/what-is-bit-gold-the-brainchild-of-blockchain-pioneer-nick-szabo/)
-* [**>> More Information on Nick Szabo >>**](https://github.com/infominer33/bitcoin-history/blob/master/people/nick-szabo.md)
+* [**>> More Information on Nick Szabo >>**](../people/nick-szabo.md)
 
 
 ### Liberty Reserve [**^**](#contents)
@@ -137,7 +136,6 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ### Resources [**^**](#contents)
 
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 * [Digital vs Virtual Currencies](https://bitcoinmagazine.com/articles/digital-vs-virtual-currencies-1408735507/)
 * [Network Payment Mechanisms and Digital Cash](http://ganges.cs.tcd.ie//mepeirce/project.html)
 * [Electronic Payment Schemes](https://www.w3.org/Payments/roadmap.html) by Dr Phillip M. Hallam-Baker, of the World Wide Web Consortium.
@@ -162,14 +160,7 @@ An early clickworking site that rewarded users with its own digital currency.
 [Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)
 
 
----
-
-### Brought to you by The [Crypto Super Source](http://crypt0library.net):
-[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
-
-[infominer.id](https://infominer.id/) —Check out some of my [other projects](projects.md)!!!
-
-**Tips Appreciated**:
+## Tips Jar:
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
