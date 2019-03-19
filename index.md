@@ -72,9 +72,7 @@
 
 ---
 
-### —[infominer.id](https://infominer.id)
-
-**Tips Appreciated**:
+## Tips Jar:
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
