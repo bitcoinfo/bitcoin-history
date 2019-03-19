@@ -6,69 +6,69 @@
 
 ### Contents
 
-* <a href="{{ site.url }}/before-bitcoin">Before Bitcoin</a>
-  * [Timelines]({{ site.url }}/before-bitcoin/#timelines-)
-  * [Pre-Digital Cryptography]({{ site.url }}/before-bitcoin/#pre-digital-cryptography-)
-  * [Digital Cryptography]({{ site.url }}/before-bitcoin/#digital-cryptography-)
-  * [David Chaum]({{ site.url }}/before-bitcoin/#David-Chaum-)
-  * [Distributed Systems]({{ site.url }}/before-bitcoin/#distributed-systems-)
-  * [Literature]({{ site.url }}/before-bitcoin/#Literature-)
-  * [Video-Audio]({{ site.url }}/before-bitcoin/#Video-Audio-)
-  * [Resources]({{ site.url }}/before-bitcoin/#Resources-)
-  * [Cypherpunks]({{ site.url }}/before-bitcoin/cypherpunks.html) and the Crypto Wars
-    * [Crypto Wars]({{ site.url }}/before-bitcoin/cypherpunks.html#crypto-wars-)
-    * [Cypherpunk Mailing-list]({{ site.url }}/before-bitcoin/cypherpunks.html#cypherpunk-mailinglist-)
-    * [Modern Crypto Wars]({{ site.url }}/before-bitcoin/cypherpunks.html#modern-crypto-wars-)
-    * [Resources]({{ site.url }}/before-bitcoin/cypherpunks.html#resources-)
-  * [Electronic Cash]({{ site.url }}/before-bitcoin/electronic-cash.html)
-    * [DigiCash]({{ site.url }}/before-bitcoin/electronic-cash.html#digicash-)
-    * [FirstVirtual and CyberCash]({{ site.url }}/before-bitcoin/electronic-cash.html#FirstVirtual-and-CyberCash-)
-    * [NetCash]({{ site.url }}/before-bitcoin/electronic-cash.html#netcash-)
-    * [Modex]({{ site.url }}/before-bitcoin/electronic-cash.html#Modex-)
-    * [Project CAFE]({{ site.url }}/before-bitcoin/electronic-cash.html#Project-Cafe-)
-    * [eGold]({{ site.url }}/before-bitcoin/electronic-cash.html#eGold-)
-    * [HashCash]({{ site.url }}/before-bitcoin/electronic-cash.html#HashCash-)
-    * [Beanz and Flooz]({{ site.url }}/before-bitcoin/electronic-cash.html#beenz-and-flooz-)
-    * [InternetCash]({{ site.url }}/before-bitcoin/electronic-cash.html#internetcash-)
-    * [E-Bullion]({{ site.url }}/before-bitcoin/electronic-cash.html#E-Bullion-)
-    * [Dexit]({{ site.url }}/before-bitcoin/electronic-cash.html#Dexit-)
-    * [B-money]({{ site.url }}/before-bitcoin/electronic-cash.html#b-money-)
-    * [Bit Gold]({{ site.url }}/before-bitcoin/electronic-cash.html#Bit-Gold-)
-    * [Peppercoin]({{ site.url }}/before-bitcoin/electronic-cash.html#peppercoin-)
-    * [Reusable Proof of Work]({{ site.url }}/before-bitcoin/electronic-cash.html#reusable-proof-of-work-)
-    * [Liberty Reserve]({{ site.url }}/before-bitcoin/electronic-cash.html#liberty-reserve-)
-* [Bitcoin History]({{ site.url }}/bitcoin-history.html) 
-* [**/cryptocurrencies.html**]({{ site.url }}/cryptocurrencies.html)
-* [**/UnitedNations.html**]({{ site.url }}/UnitedNations.html) - History of Blockchain in the United Nations.
-  * [Early History]({{ site.url }}/UnitedNations.html#early-history-)
-  * [UN Human Rights Council - Encryption is Free Speech]({{ site.url }}/UnitedNations.html#un-human-rights-council---encryption-is-free-speech-)
-  * [Agenda for Sustainable Development]({{ site.url }}/UnitedNations.html#agenda-for-sustainable-development-)
-  * [Bitnation]({{ site.url }}/UnitedNations.html#bitnation-)
-  * [UNRISD Report]({{ site.url }}/UnitedNations.html#unrisd-report-)
-  * [ID2020 - UNHCR]({{ site.url }}/UnitedNations.html#id2020---unhcr-)
-  * [UNDP]({{ site.url }}/UnitedNations.html#undp-)
-  * [UNICEF]({{ site.url }}/UnitedNations.html#unicef-)
-  * [UN Women]({{ site.url }}/UnitedNations.html#un-women-)
-  * [UNOPS - UN Blockchain Group]({{ site.url }}/UnitedNations.html#unops---un-blockchain-group-)
-    * [WIN - World Identity Network]({{ site.url }}/UnitedNations.html#win---world-identity-network-)  
-  * [WFP - World Food Programme]({{ site.url }}/UnitedNations.html#wfp---world-food-programme-)
-  * [BFI - Blockchain for Impact]({{ site.url }}/UnitedNations.html#bfi---blockchain-for-impact)
-  * [Consensys - Blockchain for Social Impact]({{ site.url }}/UnitedNations.html#consensys---blockchain-for-social-impact)
-  * [Humanitarian Blockchain Summit]({{ site.url }}/UnitedNations.html#humanitarian-blockchain-summit-)
-  * [UN/CEFACT - Workshop on Blockchain]({{ site.url }}/UnitedNations.html#un-cefact---workshop-on-blockchain-)
-  * [UN Climate Conference]({{ site.url }}/UnitedNations.html#un-climate-conference-)
-  * [UN Secretary General António Guterres]({{ site.url }}/UnitedNations.html#un-secretary-general-antónio-guterres-)
-  * [Blockchain Charity Foundation]({{ site.url }}/UnitedNations.html#blockchain-charity-foundation-)
-  * [Additional Resources]({{ site.url }}/UnitedNations.html#additional-resources-)
-    * [2016]({{ site.url }}/UnitedNations.html#2016-)
-    * [2017]({{ site.url }}/UnitedNations.html#2017-)
-    * [2018]({{ site.url }}/UnitedNations.html#2018-)
-* [**/people**]({{ site.url }}/people)
-  * [David Chaum]({{ site.url }}/people/david-chaum.html)
-  * [Hal Finney]({{ site.url }}/people/hal-finney.html)
-  * [Nick Szabo]({{ site.url }}/people/nick-szabo.html)
-  * [Wei Dai]({{ site.url }}/people/wei-dai.html)
-  * [Adam Back]({{ site.url }}/people/adam-back.html)
+* <a href="{{ site.rooturl }}">Before Bitcoin</a>
+  * <a href="{{ site.rooturl }}/#timelines-">Timelines</a>
+  * <a href="{{ site.rooturl }}/#pre-digital-cryptography-">Pre-Digital Cryptography</a>
+  * <a href="{{ site.rooturl }}/#digital-cryptography-">Digital Cryptography</a>
+  * <a href="{{ site.rooturl }}/#David-Chaum-">David Chaum</a>
+  * <a href="{{ site.rooturl }}/#distributed-systems-">Distributed Systems</a>
+  * <a href="{{ site.rooturl }}/#Literature-">Literature</a>
+  * <a href="{{ site.rooturl }}/#Video-Audio-">Video-Audio</a>
+  * <a href="{{ site.rooturl }}/#Resources-">Resources</a>
+* <a href="{{ site.rooturl }}/cypherpunks.html">Cypherpunks</a> and the Crypto Wars
+  * <a href="{{ site.rooturl }}/cypherpunks.html#crypto-wars-">Crypto Wars</a>
+  * <a href="{{ site.rooturl }}/cypherpunks.html#cypherpunk-mailinglist-">Cypherpunk Mailing-list</a>
+  * <a href="{{ site.rooturl }}/cypherpunks.html#modern-crypto-wars-">Modern Crypto Wars</a>
+  * <a href="{{ site.rooturl }}/cypherpunks.html#resources-">Resources</a>
+* <a href="{{ site.rooturl }}/electronic-cash.html">Electronic Cash</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#digicash-">DigiCash</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#FirstVirtual-and-CyberCash-">FirstVirtual and CyberCash</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#netcash-">NetCash</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#Modex-">Modex</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#Project-Cafe-">Project CAFE</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#eGold-">eGold</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#HashCash-">HashCash</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#beenz-and-flooz-">Beanz and Flooz</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#internetcash-">InternetCash</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#E-Bullion-">E-Bullion</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#Dexit-">Dexit</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#b-money-">B-money</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#Bit-Gold-">Bit Gold</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#peppercoin-">Peppercoin</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#reusable-proof-of-work-">Reusable Proof of Work</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#liberty-reserve-">Liberty Reserve</a>
+* <a href="{{ site.url }}/bitcoin-history.html">Bitcoin History</a> 
+* <a href="{{ site.url }}/cryptocurrencies.html">**/cryptocurrencies.html**</a>
+* <a href="{{ site.url }}/UnitedNations.html">**/UnitedNations.html**</a> - History of Blockchain in the United Nations.
+  * <a href="{{ site.url }}/UnitedNations.html#early-history-">Early History</a>
+  * <a href="{{ site.url }}/UnitedNations.html#un-human-rights-council---encryption-is-free-speech-">UN Human Rights Council - Encryption is Free Speech</a>
+  * <a href="{{ site.url }}/UnitedNations.html#agenda-for-sustainable-development-">Agenda for Sustainable Development</a>
+  * <a href="{{ site.url }}/UnitedNations.html#bitnation-">Bitnation</a>
+  * <a href="{{ site.url }}/UnitedNations.html#unrisd-report-">UNRISD Report</a>
+  * <a href="{{ site.url }}/UnitedNations.html#id2020---unhcr-">ID2020 - UNHCR</a>
+  * <a href="{{ site.url }}/UnitedNations.html#undp-">UNDP</a>
+  * <a href="{{ site.url }}/UnitedNations.html#unicef-">UNICEF</a>
+  * <a href="{{ site.url }}/UnitedNations.html#un-women-">UN Women</a>
+  * <a href="{{ site.url }}/UnitedNations.html#unops---un-blockchain-group-">UNOPS - UN Blockchain Group</a>
+    * <a href="{{ site.url }}/UnitedNations.html#win---world-identity-network-">WIN - World Identity Network</a>  
+  * <a href="{{ site.url }}/UnitedNations.html#wfp---world-food-programme-">WFP - World Food Programme</a>
+  * <a href="{{ site.url }}/UnitedNations.html#bfi---blockchain-for-impact">BFI - Blockchain for Impact</a>
+  * <a href="{{ site.url }}/UnitedNations.html#consensys---blockchain-for-social-impact">Consensys - Blockchain for Social Impact</a>
+  * <a href="{{ site.url }}/UnitedNations.html#humanitarian-blockchain-summit-">Humanitarian Blockchain Summit</a>
+  * <a href="{{ site.url }}/UnitedNations.html#un-cefact---workshop-on-blockchain-">UN/CEFACT - Workshop on Blockchain</a>
+  * <a href="{{ site.url }}/UnitedNations.html#un-climate-conference-">UN Climate Conference</a>
+  * <a href="{{ site.url }}/UnitedNations.html#un-secretary-general-antónio-guterres-">UN Secretary General António Guterres</a>
+  * <a href="{{ site.url }}/UnitedNations.html#blockchain-charity-foundation-">Blockchain Charity Foundation</a>
+  * <a href="{{ site.url }}/UnitedNations.html#additional-resources-">Additional Resources</a>
+    * <a href="{{ site.url }}/UnitedNations.html#2016-">2016</a>
+    * <a href="{{ site.url }}/UnitedNations.html#2017-">2017</a>
+    * <a href="{{ site.url }}/UnitedNations.html#2018-">2018</a>
+* <a href="{{ site.url }}/people">**/people**</a>
+  * <a href="{{ site.url }}/people/david-chaum.html">David Chaum</a>
+  * <a href="{{ site.url }}/people/hal-finney.html">Hal Finney</a>
+  * <a href="{{ site.url }}/people/nick-szabo.html">Nick Szabo</a>
+  * <a href="{{ site.url }}/people/wei-dai.html">Wei Dai</a>
+  * <a href="{{ site.url }}/people/adam-back.html">Adam Back</a>
 
 ---
 

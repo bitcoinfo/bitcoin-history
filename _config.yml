@@ -14,6 +14,7 @@ author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/og-image.jpg"
 repository    : "infominer33/bitcoin-history"
 github        : [metadata]
+rooturl       : "https://infominer.id/bitcoin-history"
 
 
 twitter:
