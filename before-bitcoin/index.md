@@ -45,14 +45,14 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 ### Timelines [**^**](#contents)
 
-<a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="http://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
+<a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="https://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
 
 * [Hobbes' Blockchain Timeline 0.1](https://www.zakon.org/robert/blockchain/timeline/) — Blockchain, Bitcoin, Distributed Ledgers, Smart Contracts and Cryptocurrencies
 * [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
 * [Bitcoin and Markets - Bitcoin History](https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History) - Timeline of important research and events since 1970.
 
 
-<a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="http://i.imgur.com/RZafVvV.png" align="right"></a>
+<a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="https://i.imgur.com/RZafVvV.png" align="right"></a>
 
 ### Pre Digital Cryptography [**^**](#contents)
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
@@ -75,7 +75,7 @@ This section is for all history preceeding, and related to the develpment of Bit
 * <a href="http://www.merkle.com/1974/">Publishing a new idea
 by Ralph C. Merkle</a>
   >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
-<a href="https://www.youtube.com/watch?v=_ZTWLAqYf9c"><img src="http://i.imgur.com/hIMMThY.png"/></a>
+<a href="https://www.youtube.com/watch?v=_ZTWLAqYf9c"><img src="https://i.imgur.com/hIMMThY.png"/></a>
 * [Part 1](https://www.youtube.com/watch?v=_ZTWLAqYf9c) — [Part 2](https://www.youtube.com/watch?v=oR0_LPbWxe4) about the development of public-key cryptography.\
   For a more complete version, read:
 * <a href="https://www.goodreads.com/book/show/984428.Crypto">CRYPTO— how the code rebels beat the government— saving privacy in the digital age</a> -Steven Levy 
@@ -84,7 +84,7 @@ by Ralph C. Merkle</a>
   > The story of the invention of public key cryptography is a cypherpunk sacred text: In 1976, an iconoclastic young hacker named Whitfield Diffie hooked up with Stanford professor Martin Hellman, and together they devised what experts hailed as the most important development in crypto since the invention of polyalphabetic ciphers during the Renaissance. The duo produced a system that allowed an unlimited number of people to communicate with total privacy.
 
 
-<a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="http://i.imgur.com/cH9VMNn.png"/></a>
+<a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="https://i.imgur.com/cH9VMNn.png"/></a>
 
 ### David Chaum [**^**](#contents)
 
