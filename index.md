@@ -26,7 +26,7 @@ image: "https://i.imgur.com/UnfJmvG.png"
   * <a href="{{ site.rooturl }}/before-bitcoin/cypherpunks.html#resources-">Resources</a>
 * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash.html">Electronic Cash</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash.html#digicash-">DigiCash</a>
-  * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash.html#firstVirtual-and-cyberCash-">FirstVirtual and CyberCash</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash.html#firstvirtual-and-cybercash-">FirstVirtual and CyberCash</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash.html#netcash-">NetCash</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash.html#modex-">Modex</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash.html#project-caf%C3%A9-">Project CAFE</a>
