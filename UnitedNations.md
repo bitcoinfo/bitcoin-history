@@ -247,14 +247,14 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
 ## UN Secretary General António Guterres [**^**](#contents)
 
-<img src="http://i.imgur.com/r6tgban.png"/>
+<img src="https://i.imgur.com/r6tgban.png"/>
 
 UN Secretary-General António Guterres assembled a [group of experts](https://news.un.org/en/story/2018/07/1014511) from technology, science, policy, and academia. Their focus is the impact of blockchain, AI, and other innovations on global economies and societies; with the aim of applying their benefits and protecting against unwanted consequences. 
   >“it’s time that someone at this level takes this initiative, to begin a global policy discussion on the increasingly digital world that we are living in.”
 
 ## Blockchain Charity Foundation [**^**](#contents)
 
-<a href="https://www.binance.charity"><img src="http://i.imgur.com/zWheg8Z.png"/></a>
+<a href="https://www.binance.charity"><img src="https://i.imgur.com/zWheg8Z.png"/></a>
 
 * 7/18 — The [Blockchain Charity Foundation](https://www.binance.charity), established by Binance, in collaboration with the President of Malta. 
   * Helen Hai, goodwill ambassador of UN Industrial Development Organization, was [appointed to head the foundation](https://www.newsbtc.com/2018/07/25/binance-teams-up-with-malta-to-create-the-blockchain-charity-foundation/) and intends for it to contribute to the UNSDGS
