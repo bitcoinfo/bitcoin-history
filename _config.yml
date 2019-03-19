@@ -11,7 +11,7 @@ baseurl       : "/bitcoin-history"
 title         : "Bitcoin Historical Index"
 description   : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
 author        : "⧉ Infominer"
-logo          : "https://infominer.id/images/og-image2.jpg"
+logo          : "https://infominer.id/images/android-chrome-256x256.png"
 repository    : "infominer33/bitcoin-history"
 github        : [metadata]
 rooturl       : "https://infominer.id/bitcoin-history"
