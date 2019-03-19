@@ -5,7 +5,6 @@ image: "https://i.imgur.com/UnfJmvG.png"
 ---
 
 # Bitcoin History
-<a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
 **note:** When someone hires me to write more about the history of Bitcoin and\or Ethereum, it will be easier for me to prioritize building out this repository further.
