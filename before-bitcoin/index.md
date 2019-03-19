@@ -16,6 +16,28 @@ This section is for all history preceeding, and related to the develpment of Bit
 * [Literature](#Literature-)
 * [Video-Audio](#video-audio-)
 * [Resources](#additional-resources-)
+* [**/cypherpunks.html**]({{ site.url }}/people/before-bitcoin/cypherpunks.html) and the Crypto Wars
+  * [Crypto Wars]({{ site.url }}/before-bitcoin/cypherpunks.html#crypto-wars-)
+  * [Cypherpunk Mailing-list]({{ site.url }}/before-bitcoin/cypherpunks.html#cypherpunk-mailinglist-)
+  * [Modern Crypto Wars]({{ site.url }}/before-bitcoin/cypherpunks.html#modern-crypto-wars-)
+  * [Resources]({{ site.url }}/before-bitcoin/cypherpunks.html#resources-)
+* Pre-Bitcoin [**/electronic-cash.html**]({{ site.url }}/before-bitcoin/electronic-cash.html) 
+  * [DigiCash]({{ site.url }}/before-bitcoin/electronic-cash.html#digicash-)
+  * [FirstVirtual and CyberCash]({{ site.url }}/before-bitcoin/electronic-cash.html#FirstVirtual-and-CyberCash-)
+  * [NetCash]({{ site.url }}/before-bitcoin/electronic-cash.html#netcash-)
+  * [Modex]({{ site.url }}/before-bitcoin/electronic-cash.html#Modex-)
+  * [Project CAFE]({{ site.url }}/before-bitcoin/electronic-cash.html#Project-Cafe-)
+  * [eGold]({{ site.url }}/before-bitcoin/electronic-cash.html#eGold-)
+  * [HashCash]({{ site.url }}/before-bitcoin/electronic-cash.html#HashCash-)
+  * [Beanz and Flooz]({{ site.url }}/before-bitcoin/electronic-cash.html#beenz-and-flooz-)
+  * [InternetCash]({{ site.url }}/before-bitcoin/electronic-cash.html#internetcash-)
+  * [E-Bullion]({{ site.url }}/before-bitcoin/electronic-cash.html#E-Bullion-)
+  * [Dexit]({{ site.url }}/before-bitcoin/electronic-cash.html#Dexit-)
+  * [B-money]({{ site.url }}/before-bitcoin/electronic-cash.html#b-money-)
+  * [Bit Gold]({{ site.url }}/before-bitcoin/electronic-cash.html#Bit-Gold-)
+  * [Peppercoin]({{ site.url }}/before-bitcoin/electronic-cash.html#peppercoin-)
+  * [Reusable Proof of Work]({{ site.url }}/before-bitcoin/electronic-cash.html#reusable-proof-of-work-)
+  * [Liberty Reserve]({{ site.url }}/before-bitcoin/electronic-cash.html#liberty-reserve-)
 * [Tips Welcome](#infominerid--)
 
 
@@ -181,7 +203,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 
 
 
-**Tips Appreciated**:
+**Tips Jar**:
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
