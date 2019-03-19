@@ -7,7 +7,7 @@
 * [FirstVirtual and CyberCash](#firstvirtual-and-cybercash-)
 * [NetCash](#netcash-)
 * [Modex](#modex-)
-* [Project CAFE](#project-cafe-)
+* [Project CAFE](#project-caf%C3%A9-)
 * [eGold](#e-gold-)
 * [HashCash](#hashcash-)
 * [B-money](#b-money-)
