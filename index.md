@@ -6,15 +6,15 @@
 
 ### Contents
 
-* <a href="{{ site.rooturl }}">Before Bitcoin</a>
-  * <a href="{{ site.rooturl }}/#timelines-">Timelines</a>
-  * <a href="{{ site.rooturl }}/#pre-digital-cryptography-">Pre-Digital Cryptography</a>
-  * <a href="{{ site.rooturl }}/#digital-cryptography-">Digital Cryptography</a>
-  * <a href="{{ site.rooturl }}/#David-Chaum-">David Chaum</a>
-  * <a href="{{ site.rooturl }}/#distributed-systems-">Distributed Systems</a>
-  * <a href="{{ site.rooturl }}/#Literature-">Literature</a>
-  * <a href="{{ site.rooturl }}/#Video-Audio-">Video-Audio</a>
-  * <a href="{{ site.rooturl }}/#Resources-">Resources</a>
+* <a href="{{ site.rooturl }}/before-bitcoin">Before Bitcoin</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#timelines-">Timelines</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#pre-digital-cryptography-">Pre-Digital Cryptography</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#digital-cryptography-">Digital Cryptography</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#David-Chaum-">David Chaum</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#distributed-systems-">Distributed Systems</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#Literature-">Literature</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#Video-Audio-">Video-Audio</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#Resources-">Resources</a>
 * <a href="{{ site.rooturl }}/cypherpunks.html">Cypherpunks</a> and the Crypto Wars
   * <a href="{{ site.rooturl }}/cypherpunks.html#crypto-wars-">Crypto Wars</a>
   * <a href="{{ site.rooturl }}/cypherpunks.html#cypherpunk-mailinglist-">Cypherpunk Mailing-list</a>
