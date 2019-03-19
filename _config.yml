@@ -1,1 +1,26 @@
+plugins:
+    - jekyll-seo-tag
+    - jekyll-github-metadata
+    - jekyll-redirect-from
+    - jekyll-sitemap
+
 theme: jekyll-theme-minimal
+    
+url           : "https://infominer.id/bitcoin-history"
+baseurl       : "/bitcoin-history"
+title         : "Bitcoin History - Resources"
+description   : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
+author        : "⧉ Infominer"
+logo          : "https://infominer.id/images/crypt0library.png"
+repository    : "infominer33/bitcoin-history"
+github        : [metadata]
+
+
+twitter:
+  site        : "infominer33"
+  title         : "Bitcoin History - Resources"
+  description   : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
+  image       : "https://infominer.id/DIDecentralized/infominer.png"
+  card        : "summary"
+ 
+google_analytics: UA-132558656-1
