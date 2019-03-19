@@ -29,7 +29,7 @@ image: "https://i.imgur.com/UnfJmvG.png"
   * <a href="{{ site.rooturl }}/electronic-cash.html#firstVirtual-and-cyberCash-">FirstVirtual and CyberCash</a>
   * <a href="{{ site.rooturl }}/electronic-cash.html#netcash-">NetCash</a>
   * <a href="{{ site.rooturl }}/electronic-cash.html#modex-">Modex</a>
-  * <a href="{{ site.rooturl }}/electronic-cash.html#project-Cafe-">Project CAFE</a>
+  * <a href="{{ site.rooturl }}/electronic-cash.html#project-caf%C3%A9-">Project CAFE</a>
   * <a href="{{ site.rooturl }}/electronic-cash.html#egold-">eGold</a>
   * <a href="{{ site.rooturl }}/electronic-cash.html#hashcash-">HashCash</a>
   * <a href="{{ site.rooturl }}/electronic-cash.html#beenz-and-flooz-">Beanz and Flooz</a>
