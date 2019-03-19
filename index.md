@@ -1,8 +1,12 @@
+---
+title: Bitcoin History
+description: A Growing Catalog of Resources Surrounding the History of Bitcoin.
+image: "https://i.imgur.com/UnfJmvG.png"
+---
+
 # Bitcoin History
 <a href="https://infominer.id"><img src="https://infominer.id/images/infominer.png" align="right" width="150" height="140"></a>
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
-
-
 
 ### Contents
 
