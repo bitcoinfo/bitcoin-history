@@ -8,7 +8,7 @@ theme: jekyll-theme-minimal
     
 url           : "https://infominer.id/bitcoin-history"
 baseurl       : "/bitcoin-history"
-title         : "Bitcoin History Catalog"
+title         : "Bitcoin Historical Index"
 description   : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
 author        : "⧉ Infominer"
 logo          : "https://infominer.id/images/og-image.jpg"
@@ -18,8 +18,8 @@ github        : [metadata]
 
 twitter:
   site        : "infominer33"
-  title         : "Bitcoin History Catalog"
-  description   : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
+  title       : "Bitcoin Historical Index"
+  description : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
   image       : "https://infominer.id/DIDecentralized/infominer.png"
   card        : "summary"
  
