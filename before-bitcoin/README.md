@@ -2,10 +2,9 @@
 
 This section is for all history preceeding, and related to the develpment of Bitcoin. To include background information regarding Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
 
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
+## Contents
 
-### Contents
-
+* [Short-form Crypto Fundamentals](#short-form-crypto-fundamentals-) 
 * [Timelines](#timelines-)
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography-)
 * [Digital Cryptography](#digital-cryptography-)
@@ -16,8 +15,43 @@ This section is for all history preceeding, and related to the develpment of Bit
 * [Literature](#Literature-)
 * [Video-Audio](#video-audio-)
 * [Resources](#additional-resources-)
-* [Tips Welcome](#infominerid--)
+* [Tips Jar](#infominerid--)
 
+## Directory
+
+* [**/cypherpunks.html**](/people/before-bitcoin/cypherpunks.html) and the Crypto Wars
+  * [Crypto Wars](/before-bitcoin/cypherpunks.html#crypto-wars-)
+  * [Cypherpunk Mailing-list](/before-bitcoin/cypherpunks.html#cypherpunk-mailinglist-)
+  * [Modern Crypto Wars](/before-bitcoin/cypherpunks.html#modern-crypto-wars-)
+  * [Resources](/before-bitcoin/cypherpunks.html#resources-)
+* Pre-Bitcoin [**/electronic-cash.html**](/before-bitcoin/electronic-cash.html) 
+  * [DigiCash](/before-bitcoin/electronic-cash.html#digicash-)
+  * [FirstVirtual and CyberCash](/before-bitcoin/electronic-cash.html#FirstVirtual-and-CyberCash-)
+  * [NetCash](/before-bitcoin/electronic-cash.html#netcash-)
+  * [Modex](/before-bitcoin/electronic-cash.html#Modex-)
+  * [Project CAFE](/before-bitcoin/electronic-cash.html#Project-Cafe-)
+  * [eGold](/before-bitcoin/electronic-cash.html#eGold-)
+  * [HashCash](/before-bitcoin/electronic-cash.html#HashCash-)
+  * [Beanz and Flooz](/before-bitcoin/electronic-cash.html#beenz-and-flooz-)
+  * [InternetCash](/before-bitcoin/electronic-cash.html#internetcash-)
+  * [E-Bullion](/before-bitcoin/electronic-cash.html#E-Bullion-)
+  * [Dexit](/before-bitcoin/electronic-cash.html#Dexit-)
+  * [B-money](/before-bitcoin/electronic-cash.html#b-money-)
+  * [Bit Gold](/before-bitcoin/electronic-cash.html#Bit-Gold-)
+  * [Peppercoin](/before-bitcoin/electronic-cash.html#peppercoin-)
+  * [Reusable Proof of Work](/before-bitcoin/electronic-cash.html#reusable-proof-of-work-)
+  * [Liberty Reserve](/before-bitcoin/electronic-cash.html#liberty-reserve-)
+
+### Short-form Crypto Fundamentals [**^**](#research-index) 
+-by Infominer
+
+* [What's a Cryptographic Primitive?](http://archive.is/Fmjv5)
+* [Cryptographic Hash Functions](http://archive.is/UgiJ9)
+* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
+* [Zero Knowledge Proofs](http://archive.is/6k10u)
+* [David Chaum - The Father of Digital Cash](http://archive.is/lxKiU)
+* [The Birth of the Cypherpunks](http://archive.is/Hi9JQ)
+* [The Rise of the Cypherpunks](http://archive.is/z0wEZ)
 
 
 ### Timelines [**^**](#contents)
@@ -138,7 +172,7 @@ by Ralph C. Merkle</a>
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
 * [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
 
-#### [**>> More Information >> Virtual Currencies >>**](https://github.com/infominer33/bitcoin-history/blob/master/before-bitcoin/electronic-cash.md)
+#### [**>> More Information >> Virtual Currencies >>**](electronic-cash.md)
 
 
 ### Literature [**^**](#contents)
@@ -180,8 +214,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 ### —[infominer.id](https://infominer.id/) [**^**](#contents) [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 
-
-**Tips Appreciated**:
+**Tips Jar**:
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
