@@ -2,8 +2,9 @@
 
 This section is for all history preceeding, and related to the develpment of Bitcoin. To include background information regarding Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
 
-### Contents
+## Contents
 
+* [Short-form Crypto Fundamentals](#short-form-crypto-fundamentals-) 
 * [Timelines](#timelines-)
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography-)
 * [Digital Cryptography](#digital-cryptography-)
@@ -15,6 +16,17 @@ This section is for all history preceeding, and related to the develpment of Bit
 * [Video-Audio](#video-audio-)
 * [Resources](#additional-resources-)
 * [Tips Jar](#infominerid--)
+
+### Short-form Crypto Fundamentals [**^**](#research-index) 
+-by Infominer
+
+* [What's a Cryptographic Primitive?](http://archive.is/Fmjv5)
+* [Cryptographic Hash Functions](http://archive.is/UgiJ9)
+* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
+* [Zero Knowledge Proofs](http://archive.is/6k10u)
+* [David Chaum - The Father of Digital Cash](http://archive.is/lxKiU)
+* [The Birth of the Cypherpunks](http://archive.is/Hi9JQ)
+* [The Rise of the Cypherpunks](http://archive.is/z0wEZ)
 
 ---
 
