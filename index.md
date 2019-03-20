@@ -7,11 +7,12 @@ image: "https://i.imgur.com/rJGaKPk.png"
 # Bitcoin History
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
-**note:** When someone hires me to write more about the history of Bitcoin and\or Ethereum, it will be easier for me to prioritize building out this repository further.
+**note:** I'm looking for clients who will hire me to write more about the history of Bitcoin. As I work out those details this repository will begin to look a lot more like bitcoin.
 
 ### Contents
 
 * <a href="{{ site.rooturl }}/before-bitcoin">Before Bitcoin</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin#short-form-bitcoin-fundamentals-">Shorts-form Bitcoin Fundamentals</a> (by Infominer)
   * <a href="{{ site.rooturl }}/before-bitcoin#timelines-">Timelines</a>
   * <a href="{{ site.rooturl }}/before-bitcoin#pre-digital-cryptography-">Pre-Digital Cryptography</a>
   * <a href="{{ site.rooturl }}/before-bitcoin#digital-cryptography-">Digital Cryptography</a>
