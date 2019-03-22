@@ -7,8 +7,9 @@ github        : [metadata]
 # IMPORTANT: Set the URL of your site.
 # Set to https://<username>.github.io when hosting on GitHub Pages
 # (unless you are using a custom domain).
-url           : "https://infominer.id/"
+url           : "https://infominer.id"
 baseurl       : "/bitcoin-history"
+rooturl       : "https://infominer.id/bitcoin-history"
 lang:                  en
 title         : "Bitcoin Historical Index"
 description   : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
