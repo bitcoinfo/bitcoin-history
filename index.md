@@ -4,11 +4,16 @@ description: A Growing Catalog of Resources Related to the History Surrounding B
 image: "https://i.imgur.com/rJGaKPk.png"
 ---
 
-![](http://i.imgur.com/DCLD6XA.png)
-# Bitcoin History
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
-**note:** I'm looking for clients who will hire me to write more about the history of Bitcoin. As I work out those details this repository will begin to look a lot more like bitcoin.
+<img src="https://infominer.id/bitcoin-history/bitcoin-history.png">
+
+[![](http://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)
+[www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com/)
+
+
+
+**note:** I'm looking for clients who will hire me to write more about the history of Bitcoin. As I work out those details this repository will begin to look a lot more like bitcoin. (it's a lot of work to gather all this info, gotta subsidize it somehow.)
 
 ### Contents
 

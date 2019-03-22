@@ -3,6 +3,7 @@
 
 **note:** I'm looking for clients who will hire me to write more about the history of Bitcoin. As I work out those details this repository will begin to look a lot more like bitcoin.
 
+<img src="https://infominer.id/bitcoin-history/bitcoin-history.png">
 
 ### Contents
 
@@ -86,6 +87,9 @@
   * <a href="/people/nick-szabo.html">Nick Szabo</a>
   * <a href="/people/wei-dai.html">Wei Dai</a>
   * <a href="/people/adam-back.html">Adam Back</a>
+
+![](http://i.imgur.com/DCLD6XA.png)
+[www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com)
 
 ---
 
