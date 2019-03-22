@@ -4,6 +4,7 @@ description: A Growing Catalog of Resources Related to the History Surrounding B
 image: "https://i.imgur.com/rJGaKPk.png"
 ---
 
+![](http://i.imgur.com/DCLD6XA.png)
 # Bitcoin History
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
