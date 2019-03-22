@@ -1,3 +1,7 @@
+---
+layout: page
+---
+
 # Before Bitcoin
 
 This section is for all history preceeding, and related to the develpment of Bitcoin. To include background information regarding Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
@@ -30,7 +34,7 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 ---
 
-* [**/cypherpunks.html**]({{ site.url }}/people/before-bitcoin/cypherpunks.html) and the Crypto Wars
+* [**/cypherpunks.html**]({{ site.url }}/before-bitcoin/cypherpunks.html) and the Crypto Wars
   * [Crypto Wars]({{ site.url }}/before-bitcoin/cypherpunks.html#crypto-wars-)
   * [Cypherpunk Mailing-list]({{ site.url }}/before-bitcoin/cypherpunks.html#cypherpunk-mailinglist-)
   * [Modern Crypto Wars]({{ site.url }}/before-bitcoin/cypherpunks.html#modern-crypto-wars-)
