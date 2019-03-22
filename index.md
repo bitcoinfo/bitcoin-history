@@ -4,13 +4,9 @@ description: A Growing Catalog of Resources Related to the History Surrounding B
 image: "https://i.imgur.com/rJGaKPk.png"
 ---
 
+<img src="https://infominer.id/bitcoin-history/bitcoin-history.png"/>
+
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
-
-<img src="https://infominer.id/bitcoin-history/bitcoin-history.png">
-
-[![](http://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)\
-[www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com/)
-
 
 
 **note:** I'm looking for clients who will hire me to write more about the history of Bitcoin. As I work out those details this repository will begin to look a lot more like bitcoin. (it's a lot of work to gather all this info, gotta subsidize it somehow.)
@@ -97,6 +93,10 @@ image: "https://i.imgur.com/rJGaKPk.png"
   * <a href="{{ site.rooturl }}/people/nick-szabo.html">Nick Szabo</a>
   * <a href="{{ site.rooturl }}/people/wei-dai.html">Wei Dai</a>
   * <a href="{{ site.rooturl }}/people/adam-back.html">Adam Back</a>
+
+[![](https://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)\
+[www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com/)
+
 
 ---
 
