@@ -60,7 +60,7 @@ legal:
 # This text will appear in a `<small>` tag in the footer of every page.
 copyright: >
   [⧉Info⧉](https://infominer.id) —  Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
-  Public Domain — [Edit this page](https://github.com/infominer33/infominer33.github.io/blob/master/{{page.path}}).
+  Public Domain — [<a href="https://github.com/infominer33/infominer33.github.io/blob/master/{{page.path}}">Edit this page</a>].
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
