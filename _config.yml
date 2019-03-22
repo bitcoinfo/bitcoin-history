@@ -69,7 +69,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          "https://infominer.id/learn-crypto-trading/assets/img/background.png"
+accent_image:          "https://infominer.id/bitcoin-history/assets/img/genesis-block-newspaper.jpg"
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
@@ -281,7 +281,7 @@ twitter:
   username:     infominer33
   title:        "Bitcoin Historical Index"
   description:  "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
-  image:        "https://infominer.id/android-chrome-256x256.png"
+  image:        "https://i.imgur.com/rJGaKPk.png"
   card:         summary_large_image
 
 
