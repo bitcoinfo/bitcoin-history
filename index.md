@@ -8,7 +8,7 @@ image: "https://i.imgur.com/rJGaKPk.png"
 
 <img src="https://infominer.id/bitcoin-history/bitcoin-history.png">
 
-[![](http://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)
+[![](http://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)\
 [www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com/)
 
 
