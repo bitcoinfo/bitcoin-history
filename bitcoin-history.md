@@ -1,7 +1,11 @@
-# Bitcoin History
-
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
-
+---
+layout: page
+title: Bitcoin History
+description: >
+  An assorted open-source collection of resources on the history of Bitcoin.
+hide_description: true
+image: /assets/img/chancellor-brink-bailout-banks.jpg
+---
 
 <img src="https://i.imgur.com/UaSoZf9.png"/>
 
