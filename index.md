@@ -94,7 +94,7 @@ image: "https://i.imgur.com/rJGaKPk.png"
   * <a href="{{ site.rooturl }}/people/wei-dai.html">Wei Dai</a>
   * <a href="{{ site.rooturl }}/people/adam-back.html">Adam Back</a>
 
-[![](https://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)\
+[![](https://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)<br/>
 [www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com/)
 
 

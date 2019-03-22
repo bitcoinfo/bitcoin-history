@@ -88,7 +88,7 @@
   * <a href="/people/wei-dai.html">Wei Dai</a>
   * <a href="/people/adam-back.html">Adam Back</a>
 
-![](http://i.imgur.com/DCLD6XA.png)
+![](http://i.imgur.com/DCLD6XA.png)<br>
 [www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com)
 
 ---
