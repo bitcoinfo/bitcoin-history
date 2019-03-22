@@ -44,19 +44,23 @@ menu:
     url:               /permissioned/
   - title:             United Nations
     url:               /UnitedNations/
-  - title:             ⧉InfoMine⧉
-    url:               https://infominer.id/
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
-# legal:
-#   - title:             Impress
-#     url:               /impress/
-#   - title:             Cookies Policy
-#     url:               /cookies-policy/
+legal:
+  - title:             ⧉InfoMine⧉
+    url:               https://infominer.id/
+  - title:             DIDecentral
+    url:               https://infominer.id/DIDecentralized
+  - title:             /learn-crypto-trading
+    url:               https://infominer.id/learn-crypto-trading
+  - title:             ⧉SuperSource
+    url:               https://infominer.id/SuperSource/
 
 # This text will appear in a `<small>` tag in the footer of every page.
-copyright:             CC0 - Public Domain
+copyright: >
+  [⧉Info⧉](https://infominer.id) —  Creative Commons [(CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/)
+  Public Domain — [Edit this page](https://github.com/infominer33/infominer33.github.io/blob/master/{{page.path}}).
 
 # Format of the permalinks
 permalink:             /:categories/:year-:month-:day-:title/
