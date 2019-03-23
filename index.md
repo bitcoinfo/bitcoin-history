@@ -15,7 +15,7 @@ hide_description: true
 
 ### Contents
 
-* <a href="{{ site.rooturl }}/before-bitcoin">Before Bitcoin</a>
+* <a href="{{ site.rooturl }}/before-bitcoin/">Before Bitcoin</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/#short-form-bitcoin-fundamentals-">Shorts-form Bitcoin Fundamentals</a> (by Infominer)
   * <a href="{{ site.rooturl }}/before-bitcoin/#timelines-">Timelines</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/#pre-digital-cryptography-">Pre-Digital Cryptography</a>
