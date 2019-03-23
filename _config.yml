@@ -54,7 +54,7 @@ menu:
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
   - title:             ⧉InfoMine⧉
-    url:               https://infominer.id/
+    url:               https://infominer.id/" target="_parent"
   - title:             DIDecentral
     url:               https://infominer.id/DIDecentralized" target="_parent"
   - title:             /learn-crypto-trading
