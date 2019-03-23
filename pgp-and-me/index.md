@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hands-on PGP -Starter Pack. Practical Cypherpunk Fundamentals.
+title: Hands-on PGP —Practical Cypherpunk Fundamentals.
 description: On Verifying PGP Signatures, BitcoinTalk Escrow, Phil Zimmerman, Various Apps and Resourses. —[pull-requests welcome]
 image: https://i.imgur.com/swEAkJm.png
 hide_description: true
