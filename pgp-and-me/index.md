@@ -6,7 +6,7 @@ image: https://i.imgur.com/kzOMg4o.png
 hide_description: true
 ---
 
-This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin activities. As of this moment there isn't much other than [DeepDotWeb](#deepdotweb), but I think that is plenty to get started with, and I'll keep working on it. Eventually this will become an epic resource, all about PGP.
+This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin activities. 
 
 ```
 pull-requests-welcome
