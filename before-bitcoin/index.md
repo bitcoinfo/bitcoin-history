@@ -6,8 +6,6 @@ hide_description: true
 image: https://i.imgur.com/iPWSy2K.png
 ---
 
-# Before Bitcoin
-
 This section is for all history preceeding, and related to the develpment of Bitcoin. To include background information regarding Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
 
 ![](https://i.imgur.com/rJGaKPk.png)
