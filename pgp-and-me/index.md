@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hands-on PGP —Practical Cypherpunk Fundamentals.
-description: On Verifying PGP Signatures, BitcoinTalk Escrow, Phil Zimmerman, DeepDotWeb, Various Apps and Resourses. —[pull-requests welcome]
+description: On Verifying PGP Signatures, BitcoinTalk Escrow, Phil Zimmerman, DeepDotWeb, Various Apps and Resourses.
 image: https://i.imgur.com/swEAkJm.png
 hide_description: true
 ---
@@ -23,6 +23,10 @@ pull-requests-welcome
 * [Phil Zimmerman](#phil-zimmerman)
 * [Apps](#apps)
 * [Resources](#resources)
+
+
+
+![](https://i.imgur.com/kzOMg4o.png)
 
 ## PGP for Newbs
 
@@ -56,8 +60,6 @@ Gedit is a text editor that has a plugin for verifying pgp.
     
 
 ## deepdotweb
-
-![](https://i.imgur.com/kzOMg4o.png)
 
 * [About DeepDotWeb](https://www.deepdotweb.com/about-deepdotweb/)
 
