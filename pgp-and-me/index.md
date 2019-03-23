@@ -1,12 +1,12 @@
 ---
 layout: page
-title: PGP and ME
-description: On verifying PGP Signatures, BitcoinTalk Escrow, Phil Zimmerman, Various Apps and Resourses. —[pull-requests welcome]
+title: Hands-on PGP -Starter Pack. Practical Cypherpunk Fundamentals.
+description: On Verifying PGP Signatures, BitcoinTalk Escrow, Phil Zimmerman, Various Apps and Resourses. —[pull-requests welcome]
 image: https://i.imgur.com/danqZLd.png
 hide_description: true
 ---
 
-This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin activities. 
+This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin related activities. 
 
 ```
 pull-requests-welcome
@@ -23,6 +23,7 @@ pull-requests-welcome
 * [DeepDotWeb](#deepdotweb)
 * [Bitcointalk Escrow Services](#bitcointalk-escrow-services)
 * [Phil Zimmerman](#phil-zimmerman)
+* [Apps](#apps)
 * [Resources](#resources)
 
 
@@ -101,8 +102,10 @@ Gedit is a text editor that has a plugin for verifying pgp.
 * [metachat.app](https://metachat.app/)
 * [Steven-Ireland/ethmail.tech](https://github.com/Steven-Ireland/ethmail.tech) - PGP\Ethereum Powered Distributed E-mail
 * [mailbox_with_mail YAM (short for 'Yet Another Mailer')](https://github.com/jens-maus/yam)
+* [nurupo/paper-store](https://github.com/nurupo/paper-store) - Cold store small files on paper as QR codes -- PGP keys, Bitcoin keys, Tox keys or any other small files in general.
 
 ## Resources
+* [CyPurr-Collective/cryptoparty-presentation](https://github.com/CyPurr-Collective/cryptoparty-presentation)
 * [modernpgp.github.io/about/](https://modernpgp.github.io/about/)
 * [Documentation and Examples](https://github.com/jonathancross/jc-docs)
 * [ModernPGP/icons](https://github.com/ModernPGP/icons)
