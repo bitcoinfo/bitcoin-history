@@ -44,3 +44,14 @@ So this is an absolute fundamental of cryptography, and should be a part of ever
 * [PGP Tutorial for OSX](http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/)
 * [PGP Tutorial for TAILS](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/)
 
+
+## Bitcoin Talk Escrow Services
+
+	
+* Financisto: [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers ☠](https://bitcointalk.org/index.php?topic=276897.0;all)
+  ![](https://image.ibb.co/fbhMLU/escrow.png)
+* hedgy73: [Recommended bitcointalk escrow services](https://bitcointalk.org/index.php?topic=2439910.0)
+![](https://i.imgur.com/EvuQwxN.png)
+* [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers](https://bitcointalk.org/index.php?topic=276897.0;all)
+* [	\[ANN\] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
+* Lauda: [[ANN] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
