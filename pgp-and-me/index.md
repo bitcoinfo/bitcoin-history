@@ -24,6 +24,8 @@ So this is an absolute fundamental of cryptography, and should be a part of ever
 
 ### Gedit
 
+Gedit is a text editor that has a plugin for verifying pgp.
+
 * [https://wiki.gnome.org/Apps/Gedit#Download](https://wiki.gnome.org/Apps/Gedit#Download)
 * [https://pietrobattiston.it/gedit-crypto](https://pietrobattiston.it/gedit-crypto)
 
