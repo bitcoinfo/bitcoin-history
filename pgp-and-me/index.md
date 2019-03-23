@@ -1,4 +1,10 @@
-# PGP and ME
+---
+published: true
+layout: page
+title: PGP and ME
+description: This page is the result of me trying to figure out how to make PGP a part of my life.
+image: https://i.imgur.com/kzOMg4o.png
+---
 
 This page is the result of me trying to figure out how to make PGP a part of my life. As of this moment there isn't much other than [DeepDotWeb](https://deepdotweb.com), but I think this is plenty to get started with. Eventually this will become an epic resource, all about PGP.
 
