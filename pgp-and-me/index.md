@@ -2,7 +2,7 @@
 layout: page
 title: PGP and ME
 description: This page is the result of me figuring out how to make PGP a part of my life. For BitcoinTalk escrow, and other Bitcoin activities — [pull-requests welcome]
-image: https://i.imgur.com/kzOMg4o.png
+image: https://i.imgur.com/danqZLd.png
 hide_description: true
 twitter:
   card: summary
@@ -14,6 +14,11 @@ This page is the result of me figuring out how to make PGP a part of my life, fo
 pull-requests-welcome
 
 ```
+
+* [How-To-PGP](https://howtopgp.jugendhackt.de/#/)
+* [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
+  > ![](https://i.imgur.com/danqZLd.png)
+
 ## Contents
 * [Verifying PGP Signatures](#verifying-pgp-signatures)
   * [Gedit](#gedit)
@@ -83,4 +88,10 @@ Gedit is a text editor that has a plugin for verifying pgp.
 
 ## Resources
 
-* [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+* [henryboldi/felony](https://github.com/henryboldi/felony)
+* [romanz/trezor-agent](https://github.com/romanz/trezor-agent)
+* [mapmeld/profanity-pgp](https://github.com/mapmeld/profanity-pgp)
+* [jedisct1/minisign](https://github.com/jedisct1/minisign)
+* [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
+  >In addition to using encryption, standing up to surveillance requires fighting politically for a reduction in the amount of data collected on us, but the essential first step is to protect yourself and make surveillance of your communication as difficult as possible. This guide helps you do that. It is designed for beginners, but if you already know the basics of GnuPG or are an experienced free software user, you'll enjoy the advanced tips and the guide to teaching your friends.
+  ![](https://static.fsf.org/nosvn/enc-dev0/img/en/full-infographic.png)
