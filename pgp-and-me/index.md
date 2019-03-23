@@ -1,12 +1,12 @@
 ---
-published: true
 layout: page
 title: PGP and ME
 description: This page is the result of me trying to figure out how to make PGP a part of my life.
 image: https://i.imgur.com/kzOMg4o.png
+hide_description: true
 ---
 
-This page is the result of me trying to figure out how to make PGP a part of my life. As of this moment there isn't much other than [DeepDotWeb](https://deepdotweb.com), but I think this is plenty to get started with. Eventually this will become an epic resource, all about PGP.
+This page is the result of me trying to figure out how to make PGP a part of my life. As of this moment there isn't much other than [DeepDotWeb](#deepdotweb), but I think this is plenty to get started with. Eventually this will become an epic resource, all about PGP.
 
 ## Verifying and making use of PGP signatures.
 
@@ -25,6 +25,13 @@ So this is an absolute fundamental of cryptography, and should be a part of ever
 
 
 ## deepdotweb
+
+![](https://i.imgur.com/kzOMg4o.png)
+
+* [About DeepDotWeb](https://www.deepdotweb.com/about-deepdotweb/)
+
+>We established DeepDotWeb in the wake of our friend being arrested by local authorities, for buying drugs from the original Silk Road marketplace. Our aim is make information about dark net markets accessible to everyone, as well as making the dark net safer by reporting on security risks, scams and operations conducted by law enforcement. 
+
 * [Jolly Roger’s Security Guide for Beginners](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/)
   * [PGP, TAILS, VIRTUAL BOX](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/pgp-tails-virtual-box/)
   * [PGP CONTINUED](http://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/pgp-continued/)

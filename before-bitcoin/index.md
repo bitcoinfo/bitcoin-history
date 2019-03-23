@@ -1,5 +1,9 @@
 ---
+title: Before Bitcoin
+description: For related history preceeding the development of Bitcoin.
 layout: page
+hide_description: true
+image: https://i.imgur.com/iPWSy2K.png
 ---
 
 # Before Bitcoin
@@ -26,13 +30,13 @@ This section is for all history preceeding, and related to the develpment of Bit
 ### Short-form Crypto Fundamentals [**^**](#research-index) 
 -by Infominer
 
-* [What's a Cryptographic Primitive?](http://archive.is/Fmjv5)
-* [Cryptographic Hash Functions](http://archive.is/UgiJ9)
+* [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
+* [Cryptographic Hash Functions](https://archive.is/UgiJ9)
 * [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
-* [Zero Knowledge Proofs](http://archive.is/6k10u)
-* [David Chaum - The Father of Digital Cash](http://archive.is/lxKiU)
-* [The Birth of the Cypherpunks](http://archive.is/Hi9JQ)
-* [The Rise of the Cypherpunks](http://archive.is/z0wEZ)
+* [Zero Knowledge Proofs](https://archive.is/6k10u)
+* [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
+* [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
+* [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
 
 ---
 
