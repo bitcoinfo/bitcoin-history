@@ -2,7 +2,7 @@
 layout: page
 title: Hands-on PGP -Starter Pack. Practical Cypherpunk Fundamentals.
 description: On Verifying PGP Signatures, BitcoinTalk Escrow, Phil Zimmerman, Various Apps and Resourses. —[pull-requests welcome]
-image: https://i.imgur.com/danqZLd.png
+image: https://i.imgur.com/swEAkJm.png
 hide_description: true
 ---
 
@@ -13,12 +13,9 @@ pull-requests-welcome
 
 ```
 
-* [How-To-PGP](https://howtopgp.jugendhackt.de/#/) 
-  >With this interactiv instruction we want to explain you, how to encrypt your e-mails with PGP to protect your communication and help stopping mass surveillance.
-* [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
-  > ![](https://i.imgur.com/danqZLd.png)
 
 ## Contents
+* [PGP for Newbs](#pgp-for-newbs)
 * [Verifying PGP Signatures](#verifying-pgp-signatures)
   * [Gedit](#gedit)
 * [DeepDotWeb](#deepdotweb)
@@ -27,6 +24,12 @@ pull-requests-welcome
 * [Apps](#apps)
 * [Resources](#resources)
 
+## PGP for Newbs
+
+* [How-To-PGP](https://howtopgp.jugendhackt.de/#/) 
+  >With this interactiv instruction we want to explain you, how to encrypt your e-mails with PGP to protect your communication and help stopping mass surveillance.
+* [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
+  > ![](https://i.imgur.com/danqZLd.png)
 
 ## Verifying PGP Signatures
 
