@@ -101,20 +101,20 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
 * [WebOfTrustInfo/rwot2-id2020 - Smarter Signatures](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/draft-documents/smarter-signatures.md)
 * [Smart Signatures—Experiments in Authentication -Christopher Allen](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final) -SlideShare
   [![](https://i.imgur.com/GyQGRpR.png)](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final)
+
+
 * [WebOfTrustInfo/rwot5-boston -Smarm: Requirements for a smart-signatures Scheme](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/draft-documents/smarm.md)
-* [https://blockstream.com/simplicity.pdf](https://blockstream.com/simplicity.pdf)
-  [![](https://i.imgur.com/VNovxKy.png)](https://twitter.com/ChristopherA/status/925023568081010689)
-  > Christopher Allen (@ChristopherA)
-I talked briefly about Simplicity in my #SmartSignatures whitepaper earlier this year. More info available now: https://t.co/jhPCQU2s3o
-
-
   ![](https://pbs.twimg.com/media/DNZYt5VVQAAWWuw.jpg)
 
-  ![](https://pbs.twimg.com/media/DNZbyqMVwAEfp8a.jpg:large)
+![](https://pbs.twimg.com/media/DNZbyqMVwAEfp8a.jpg:large)
+
+* [Simplicity Itself for Blockchains](https://blockstream.com/2017/10/30/simplicity/)
+  * [https://blockstream.com/simplicity.pdf](https://blockstream.com/simplicity.pdf)
+    ![](https://i.imgur.com/YWNr9W3.png)
 
 * [Near Future of Programming Languages](http://dev.stephendiehl.com/nearfuture.pdf)
  - Stephen Diehl (@smdiehl) '17
-  ![](http://i.imgur.com/OK5xmQQ.png)
+  
 
 ### Bitcoin [**^**](#contents)
 
