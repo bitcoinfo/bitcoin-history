@@ -103,6 +103,7 @@ Gedit is a text editor that has a plugin for verifying pgp.
 * [Steven-Ireland/ethmail.tech](https://github.com/Steven-Ireland/ethmail.tech) - PGP\Ethereum Powered Distributed E-mail
 * [mailbox_with_mail YAM (short for 'Yet Another Mailer')](https://github.com/jens-maus/yam)
 * [nurupo/paper-store](https://github.com/nurupo/paper-store) - Cold store small files on paper as QR codes -- PGP keys, Bitcoin keys, Tox keys or any other small files in general.
+* [mozilla/sops](https://github.com/mozilla/sops) - Secrets management stinks, use some sops!
 
 ## Resources
 * [CyPurr-Collective/cryptoparty-presentation](https://github.com/CyPurr-Collective/cryptoparty-presentation)
