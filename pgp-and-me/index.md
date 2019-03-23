@@ -17,6 +17,7 @@ pull-requests-welcome
   * [Gedit](#gedit)
 * [DeepDotWeb](#deepdotweb)
 * [Bitcointalk Escrow Services](#bitcointalk-escrow-services)
+* [Phil Zimmerman](#phil-zimmerman)
 * [Resources](#resources)
 
 
@@ -68,6 +69,15 @@ Gedit is a text editor that has a plugin for verifying pgp.
 * [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers](https://bitcointalk.org/index.php?topic=276897.0;all)
 * [	\[ANN\] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
 * Lauda: [[ANN] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
+
+## Phil Zimmerman
+
+* [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars)
+  > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
+* [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+* [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)
+  >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
+
 
 ## Resources
 
