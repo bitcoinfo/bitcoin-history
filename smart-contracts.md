@@ -112,8 +112,9 @@ I talked briefly about Simplicity in my #SmartSignatures whitepaper earlier this
 
   ![](https://pbs.twimg.com/media/DNZbyqMVwAEfp8a.jpg:large)
 
-
-
+* [Near Future of Programming Languages](http://dev.stephendiehl.com/nearfuture.pdf)
+ - Stephen Diehl (@smdiehl) '17
+  ![](http://i.imgur.com/OK5xmQQ.png)
 
 ### Bitcoin [**^**](#contents)
 
