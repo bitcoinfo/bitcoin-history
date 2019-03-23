@@ -179,12 +179,11 @@ What follows is a list of books that were influential upon early cypherpunks. As
 
 ---
 
-#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library) [**^**](#cypherpunks)
+### Tips Jar [**^**](#contents)
+
 [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library) 
 
-Check out some of my [other projects](projects.md)!!!
 
-**Tips Appreciated**:
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
