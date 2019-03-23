@@ -4,6 +4,8 @@ title: PGP and ME
 description: This page is the result of me figuring out how to make PGP a part of my life. For BitcoinTalk escrow, and other Bitcoin activities — [pull-requests welcome]
 image: https://i.imgur.com/kzOMg4o.png
 hide_description: true
+twitter:
+  card: summary
 ---
 
 This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin activities. 
