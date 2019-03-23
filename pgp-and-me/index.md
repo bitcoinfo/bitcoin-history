@@ -19,9 +19,8 @@ So this is an absolute fundamental of cryptography, and should be a part of ever
 
 ### Gedit
 
-* https://wiki.gnome.org/Apps/Gedit#Download
-
-* https://pietrobattiston.it/gedit-crypto
+* [https://wiki.gnome.org/Apps/Gedit#Download](https://wiki.gnome.org/Apps/Gedit#Download)
+* [https://pietrobattiston.it/gedit-crypto](https://pietrobattiston.it/gedit-crypto)
 
 
 ## deepdotweb
