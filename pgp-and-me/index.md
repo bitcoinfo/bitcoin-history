@@ -44,6 +44,13 @@ Gedit is a text editor that has a plugin for verifying pgp.
 * [https://wiki.gnome.org/Apps/Gedit#Download](https://wiki.gnome.org/Apps/Gedit#Download)
 * [https://pietrobattiston.it/gedit-crypto](https://pietrobattiston.it/gedit-crypto)
 
+### Keybase
+* [https://keybase.io/](https://keybase.io/)
+  >Keybase is a new and free security app for mobile phones and computers. For the geeks among us: it's open source and powered by public-key cryptography.
+  ![](http://i.imgur.com/YJAJSU6.png)<br>
+  >Keybase is for anyone. Imagine a Slack for the whole world, except end-to-end encrypted across all your devices. Or a Team Dropbox where the server can't leak your files or be hacked.
+  
+    
 
 ## deepdotweb
 
@@ -86,12 +93,21 @@ Gedit is a text editor that has a plugin for verifying pgp.
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 
 
-## Resources
+## Apps
 
 * [henryboldi/felony](https://github.com/henryboldi/felony)
 * [romanz/trezor-agent](https://github.com/romanz/trezor-agent)
 * [mapmeld/profanity-pgp](https://github.com/mapmeld/profanity-pgp)
 * [jedisct1/minisign](https://github.com/jedisct1/minisign)
+* [encrypt.to](https://encrypt.to/)
+* [metachat.app](https://metachat.app/)
+* [Steven-Ireland/ethmail.tech](https://github.com/Steven-Ireland/ethmail.tech) - PGP\Ethereum Powered Distributed E-mail
+* [mailbox_with_mail YAM (short for 'Yet Another Mailer')](https://github.com/jens-maus/yam)
+
+## Resources
+* [modernpgp.github.io/about/](https://modernpgp.github.io/about/)
+* [Documentation and Examples](https://github.com/jonathancross/jc-docs)
+* [ModernPGP/icons](https://github.com/ModernPGP/icons)
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   >In addition to using encryption, standing up to surveillance requires fighting politically for a reduction in the amount of data collected on us, but the essential first step is to protect yourself and make surveillance of your communication as difficult as possible. This guide helps you do that. It is designed for beginners, but if you already know the basics of GnuPG or are an experienced free software user, you'll enjoy the advanced tips and the guide to teaching your friends.
   ![](https://static.fsf.org/nosvn/enc-dev0/img/en/full-infographic.png)
