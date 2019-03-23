@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PGP and ME
-description: This page is the result of me figuring out how to make PGP a part of my life. For BitcoinTalk escrow, and other Bitcoin activities—[pull-requests welcome]
+description: This page is the result of me figuring out how to make PGP a part of my life. For BitcoinTalk escrow, and other Bitcoin activities — [pull-requests welcome]
 image: https://i.imgur.com/kzOMg4o.png
 hide_description: true
 ---
@@ -12,8 +12,15 @@ This page is the result of me figuring out how to make PGP a part of my life, fo
 pull-requests-welcome
 
 ```
+## Contents
+* [Verifying PGP Signatures](#verifying-pgp-signatures)
+  * [Gedit](#gedit)
+* [DeepDotWeb](#deepdotweb)
+* [Bitcointalk Escrow Services](#bitcointalk-escrow-services)
+* [Resources](#resources)
 
-## Verifying and making use of PGP signatures.
+
+## Verifying PGP Signatures
 
 So this is an absolute fundamental of cryptography, and should be a part of everyone's skill-set. However, when you start to use PGP from the command-line, the first time... erm. I'll save my rant on that for later.
 
@@ -61,3 +68,7 @@ Gedit is a text editor that has a plugin for verifying pgp.
 * [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers](https://bitcointalk.org/index.php?topic=276897.0;all)
 * [	\[ANN\] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
 * Lauda: [[ANN] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
+
+## Resources
+
+* [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
