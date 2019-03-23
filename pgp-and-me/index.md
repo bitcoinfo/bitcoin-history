@@ -13,7 +13,8 @@ pull-requests-welcome
 
 ```
 
-* [How-To-PGP](https://howtopgp.jugendhackt.de/#/)
+* [How-To-PGP](https://howtopgp.jugendhackt.de/#/) 
+  >With this interactiv instruction we want to explain you, how to encrypt your e-mails with PGP to protect your communication and help stopping mass surveillance.
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   > ![](https://i.imgur.com/danqZLd.png)
 
