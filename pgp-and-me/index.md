@@ -77,13 +77,33 @@ Gedit is a text editor that has a plugin for verifying pgp.
 * [PGP Tutorial for OSX](http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/)
 * [PGP Tutorial for TAILS](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/)
 
+## Escrow Agents
 
-## Bitcoin Talk Escrow Services
+Escrow Agents are impartial and trusted intermediaries who hold custody of buyer's funds until pre-defined conditions are met. They allow parties who don't know or trust each-other to engage in commerce, online.
 
+* [Bitrated.com](https://www.bitrated.com/) 
+  >Using multi-signature ensures that the trust agent never has full control over the funds and cannot take them to himself. In addition, when everything goes well, the funds can be released with no intervention by the trust agent.
+
+```
+ Launched in 2013, Bitrated was the first multi-signature application ever released to the public. Bitrated is operated from Israel and was founded by Nadav Ivgi, a software developer and a long time Bitcoin enthusiast.
+```
+
+* [jobs4btc-escrow.appspot.com](http://jobs4btc-escrow.appspot.com/)
+
+>Traffic on the Jobs4Bitcoins subreddit is picking up, and with it, the number of transactions with anonymous strangers around the internet. One thing that is sorely needed is a simple, trusted escrow system through which to have secure trades of work for bitcoin.
+
+>Commissioned by the admin of the subreddit, /u/matthew_boyd, this app attempts to fill that hole, by providing the service of trusted escrow for a small fee.
+
+>When some work is uploaded, a community-trusted programmer will check through it, to make sure that the project has been successfully completed.
+
+
+## Bitcoin Talk Escrow
+
+These seem to be the only active threads.
 	
-* Financisto: [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers ☠](https://bitcointalk.org/index.php?topic=276897.0;all)
-  ![](https://image.ibb.co/fbhMLU/escrow.png)
-* hedgy73: [Recommended bitcointalk escrow services](https://bitcointalk.org/index.php?topic=2439910.0)
+* Financisto: [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers ☠](https://bitcointalk.org/index.php?topic=276897.0;all) - **(Started `13 — Updated 9/18)**
+  ![](https://image.ibb.co/fbhMLU/escrow.png) 
+* hedgy73: [Recommended bitcointalk escrow services](https://bitcointalk.org/index.php?topic=2439910.0) - **(Started 11/17 — Updated 7/18)**
 ![](https://i.imgur.com/EvuQwxN.png)
 * [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers](https://bitcointalk.org/index.php?topic=276897.0;all)
 * [	\[ANN\] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
