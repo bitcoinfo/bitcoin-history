@@ -48,6 +48,8 @@ menu:
     url:               /smart-contracts/
   - title:             PGP and ME
     url:               /pgp-and-me/
+  - title:             ⧉InfoMine⧉
+    url:               https://infominer.id/" target="_parent"
 
 
 # Add links to the footer.
