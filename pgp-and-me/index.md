@@ -35,29 +35,33 @@ pull-requests-welcome
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   > ![](https://i.imgur.com/danqZLd.png)
 
+
+## Protonmail 
+
+Has built in support for PGP for your e-mails... but doesn't make it super easy to verify messages from outside.
+* [https://protonmail.com/support/knowledge-base/how-to-use-pgp/](https://protonmail.com/support/knowledge-base/how-to-use-pgp/)
+
 ## Verifying PGP Signatures
 
 So this is an absolute fundamental of cryptography, and should be a part of everyone's skill-set. However, when you start to use PGP from the command-line, the first time... erm. I'll save my rant on that for later.
 
+* [HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIC](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/)
+* [VERIFYING SIGNED MESSAGES WITH SIGNATURES AND SIGNING YOUR OWN MESSAGES](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/)
+
+```
+gpg --import singing_key.pub
+gpg --verify signed_file.sig
+```
 
 
-  * [HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIC](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/)
-  * [VERIFYING SIGNED MESSAGES WITH SIGNATURES AND SIGNING YOUR OWN MESSAGES](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/)
-
-### Gedit
-
-Gedit is a text editor that has a plugin for verifying pgp.
-
-* [https://wiki.gnome.org/Apps/Gedit#Download](https://wiki.gnome.org/Apps/Gedit#Download)
-* [https://pietrobattiston.it/gedit-crypto](https://pietrobattiston.it/gedit-crypto)
 
 ### Keybase
 * [https://keybase.io/](https://keybase.io/)
   >Keybase is a new and free security app for mobile phones and computers. For the geeks among us: it's open source and powered by public-key cryptography.
   ![](http://i.imgur.com/YJAJSU6.png)<br>
   >Keybase is for anyone. Imagine a Slack for the whole world, except end-to-end encrypted across all your devices. Or a Team Dropbox where the server can't leak your files or be hacked.
-  
-    
+* [Keybase - PGP Encryption made Easy](https://www.andreagrandi.it/2017/10/21/keybase-pgp-encryption-made-easy/)
+* [https://keybase.io/docs/command_line](https://keybase.io/docs/command_line)
 
 ## deepdotweb
 
