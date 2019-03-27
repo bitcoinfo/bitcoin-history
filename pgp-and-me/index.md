@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: Practical Cypherpunk Essentials
 description: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, Various Apps and Resourses.
 image: https://i.imgur.com/swEAkJm.png
