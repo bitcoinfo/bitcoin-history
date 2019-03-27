@@ -1,40 +1,79 @@
-# PGP and ME
+---
+layout: page
+title: Practical Cypherpunk Essentials
+description: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, Various Apps and Resourses.
+image: https://i.imgur.com/swEAkJm.png
+hide_description: true
+---
 
-This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin activities. 
+This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and Bitcoin related activities. 
 
 ```
 pull-requests-welcome
 
 ```
+
+
 ## Contents
+* [Phil Zimmerman](#phil-zimmerman)
+* [PGP for Newbs](#pgp-for-newbs)
 * [Verifying PGP Signatures](#verifying-pgp-signatures)
   * [Gedit](#gedit)
 * [DeepDotWeb](#deepdotweb)
 * [Bitcointalk Escrow Services](#bitcointalk-escrow-services)
-* [Phil Zimmerman](#phil-zimmerman)
+* [Apps](#apps)
 * [Resources](#resources)
 
+
+
+![](https://i.imgur.com/kzOMg4o.png)
+
+## Phil Zimmerman
+
+* [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+  >It's personal. It's private. And it's no one's business but yours. You may be planning a political campaign, discussing your taxes, or having a secret romance. Or you may be communicating with a political dissident in a repressive country. Whatever it is, you don't want your private electronic mail (email) or confidential documents read by anyone else. There's nothing wrong with asserting your privacy. Privacy is as apple-pie as the Constitution.
+* [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars)
+  > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
+* [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)
+  >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
+
+
+## PGP for Newbs
+
+* [How-To-PGP](https://howtopgp.jugendhackt.de/#/) 
+  >With this interactiv instruction we want to explain you, how to encrypt your e-mails with PGP to protect your communication and help stopping mass surveillance.
+* [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
+  > ![](https://i.imgur.com/danqZLd.png)
+
+
+## Protonmail 
+
+Has built in support for PGP for your e-mails... but doesn't make it super easy to verify messages from outside.
+* [https://protonmail.com/support/knowledge-base/how-to-use-pgp/](https://protonmail.com/support/knowledge-base/how-to-use-pgp/)
 
 ## Verifying PGP Signatures
 
 So this is an absolute fundamental of cryptography, and should be a part of everyone's skill-set. However, when you start to use PGP from the command-line, the first time... erm. I'll save my rant on that for later.
 
+* [HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIC](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/)
+* [VERIFYING SIGNED MESSAGES WITH SIGNATURES AND SIGNING YOUR OWN MESSAGES](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/)
+
+```
+gpg --import singing_key.pub
+gpg --verify signed_file.sig
+```
 
 
-  * [HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIC](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/)
-  * [VERIFYING SIGNED MESSAGES WITH SIGNATURES AND SIGNING YOUR OWN MESSAGES](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/)
 
-### Gedit
-
-Gedit is a text editor that has a plugin for verifying pgp.
-
-* [https://wiki.gnome.org/Apps/Gedit#Download](https://wiki.gnome.org/Apps/Gedit#Download)
-* [https://pietrobattiston.it/gedit-crypto](https://pietrobattiston.it/gedit-crypto)
-
+### Keybase
+* [https://keybase.io/](https://keybase.io/)
+  >Keybase is a new and free security app for mobile phones and computers. For the geeks among us: it's open source and powered by public-key cryptography.
+  ![](http://i.imgur.com/YJAJSU6.png)<br>
+  >Keybase is for anyone. Imagine a Slack for the whole world, except end-to-end encrypted across all your devices. Or a Team Dropbox where the server can't leak your files or be hacked.
+* [Keybase - PGP Encryption made Easy](https://www.andreagrandi.it/2017/10/21/keybase-pgp-encryption-made-easy/)
+* [https://keybase.io/docs/command_line](https://keybase.io/docs/command_line)
 
 ## deepdotweb
-
-![](https://i.imgur.com/kzOMg4o.png)
 
 * [About DeepDotWeb](https://www.deepdotweb.com/about-deepdotweb/)
 
@@ -52,27 +91,58 @@ Gedit is a text editor that has a plugin for verifying pgp.
 * [PGP Tutorial for OSX](http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/)
 * [PGP Tutorial for TAILS](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/)
 
+## Escrow Agents
 
-## Bitcoin Talk Escrow Services
+Escrow Agents are impartial and trusted intermediaries who hold custody of buyer's funds until pre-defined conditions are met. They allow parties who don't know or trust each-other to engage in commerce, online.
 
+* [Bitrated.com](https://www.bitrated.com/) 
+  >Using multi-signature ensures that the trust agent never has full control over the funds and cannot take them to himself. In addition, when everything goes well, the funds can be released with no intervention by the trust agent.
+
+```
+ Launched in 2013, Bitrated was the first multi-signature application ever released to the public. Bitrated is operated from Israel and was founded by Nadav Ivgi, a software developer and a long time Bitcoin enthusiast.
+```
+
+* [jobs4btc-escrow.appspot.com](http://jobs4btc-escrow.appspot.com/)
+
+>Traffic on the Jobs4Bitcoins subreddit is picking up, and with it, the number of transactions with anonymous strangers around the internet. One thing that is sorely needed is a simple, trusted escrow system through which to have secure trades of work for bitcoin.
+
+>Commissioned by the admin of the subreddit, /u/matthew_boyd, this app attempts to fill that hole, by providing the service of trusted escrow for a small fee.
+
+>When some work is uploaded, a community-trusted programmer will check through it, to make sure that the project has been successfully completed.
+
+
+## Bitcoin Talk Escrow
+
+These seem to be the only active threads.
 	
-* Financisto: [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers ☠](https://bitcointalk.org/index.php?topic=276897.0;all)
-  ![](https://image.ibb.co/fbhMLU/escrow.png)
-* hedgy73: [Recommended bitcointalk escrow services](https://bitcointalk.org/index.php?topic=2439910.0)
+* Financisto: [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers ☠](https://bitcointalk.org/index.php?topic=276897.0;all) - **(Started `13 — Updated 9/18)**
+  ![](https://image.ibb.co/fbhMLU/escrow.png) 
+* hedgy73: [Recommended bitcointalk escrow services](https://bitcointalk.org/index.php?topic=2439910.0) - **(Started 11/17 — Updated 7/18)**
 ![](https://i.imgur.com/EvuQwxN.png)
 * [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers](https://bitcointalk.org/index.php?topic=276897.0;all)
 * [	\[ANN\] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
 * Lauda: [[ANN] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
 
-## Phil Zimmerman
 
-* [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars)
-  > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
-* [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
-* [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)
-  >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 
+## Apps
+
+* [henryboldi/felony](https://github.com/henryboldi/felony)
+* [romanz/trezor-agent](https://github.com/romanz/trezor-agent)
+* [mapmeld/profanity-pgp](https://github.com/mapmeld/profanity-pgp)
+* [jedisct1/minisign](https://github.com/jedisct1/minisign)
+* [encrypt.to](https://encrypt.to/)
+* [metachat.app](https://metachat.app/)
+* [Steven-Ireland/ethmail.tech](https://github.com/Steven-Ireland/ethmail.tech) - PGP\Ethereum Powered Distributed E-mail
+* [mailbox_with_mail YAM (short for 'Yet Another Mailer')](https://github.com/jens-maus/yam)
+* [nurupo/paper-store](https://github.com/nurupo/paper-store) - Cold store small files on paper as QR codes -- PGP keys, Bitcoin keys, Tox keys or any other small files in general.
+* [mozilla/sops](https://github.com/mozilla/sops) - Secrets management stinks, use some sops!
 
 ## Resources
-
-* [https://github.com/ziadoz/awesome-php](https://github.com/ziadoz/awesome-php)
+* [CyPurr-Collective/cryptoparty-presentation](https://github.com/CyPurr-Collective/cryptoparty-presentation)
+* [modernpgp.github.io/about/](https://modernpgp.github.io/about/)
+* [Documentation and Examples](https://github.com/jonathancross/jc-docs)
+* [ModernPGP/icons](https://github.com/ModernPGP/icons)
+* [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
+  >In addition to using encryption, standing up to surveillance requires fighting politically for a reduction in the amount of data collected on us, but the essential first step is to protect yourself and make surveillance of your communication as difficult as possible. This guide helps you do that. It is designed for beginners, but if you already know the basics of GnuPG or are an experienced free software user, you'll enjoy the advanced tips and the guide to teaching your friends.
+  ![](https://static.fsf.org/nosvn/enc-dev0/img/en/full-infographic.png)
