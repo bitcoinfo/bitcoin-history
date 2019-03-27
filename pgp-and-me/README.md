@@ -1,12 +1,15 @@
 ---
-layout: page
+layout: single
 title: Practical Cypherpunk Essentials
 description: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, Various Apps and Resourses.
 image: https://i.imgur.com/swEAkJm.png
 hide_description: true
+sidebar:
+  nav: "infonav"
+
 ---
 
-This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and Bitcoin related activities. 
+This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin related activities. 
 
 ```
 pull-requests-welcome
@@ -20,22 +23,23 @@ pull-requests-welcome
 * [Verifying PGP Signatures](#verifying-pgp-signatures)
   * [Gedit](#gedit)
 * [DeepDotWeb](#deepdotweb)
-* [Bitcointalk Escrow Services](#bitcointalk-escrow-services)
+* [Escrow Services](#escrow-services)
+  * [BitcoinTalk Escrow](#bitcointalk-escrow)
 * [Apps](#apps)
 * [Resources](#resources)
 
 
 
-![](https://i.imgur.com/kzOMg4o.png)
-
 ## Phil Zimmerman
-
 * [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
   >It's personal. It's private. And it's no one's business but yours. You may be planning a political campaign, discussing your taxes, or having a secret romance. Or you may be communicating with a political dissident in a repressive country. Whatever it is, you don't want your private electronic mail (email) or confidential documents read by anyone else. There's nothing wrong with asserting your privacy. Privacy is as apple-pie as the Constitution.
+* [https://www.wired.com/1993/02/crypto-rebels/](https://www.wired.com/1993/02/crypto-rebels/)
+  [![](https://i.imgur.com/kzOMg4o.png)](https://www.wired.com/1993/02/crypto-rebels/)
 * [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars)
   > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
 * [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
+* [infominer.id/bitcoin-history/before-bitcoin/cypherpunks/](https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/)
 
 
 ## PGP for Newbs
@@ -66,9 +70,10 @@ gpg --verify signed_file.sig
 
 
 ### Keybase
+![](https://i.imgur.com/YJAJSU6.png)
 * [https://keybase.io/](https://keybase.io/)
-  >Keybase is a new and free security app for mobile phones and computers. For the geeks among us: it's open source and powered by public-key cryptography.
-  ![](http://i.imgur.com/YJAJSU6.png)<br>
+  >Keybase is a new and free security app for mobile phones and computers. For the geeks among us: it's open source and powered by public-key cryptography.<br>
+  >
   >Keybase is for anyone. Imagine a Slack for the whole world, except end-to-end encrypted across all your devices. Or a Team Dropbox where the server can't leak your files or be hacked.
 * [Keybase - PGP Encryption made Easy](https://www.andreagrandi.it/2017/10/21/keybase-pgp-encryption-made-easy/)
 * [https://keybase.io/docs/command_line](https://keybase.io/docs/command_line)
@@ -91,7 +96,7 @@ gpg --verify signed_file.sig
 * [PGP Tutorial for OSX](http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/)
 * [PGP Tutorial for TAILS](https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/)
 
-## Escrow Agents
+## Escrow Services
 
 Escrow Agents are impartial and trusted intermediaries who hold custody of buyer's funds until pre-defined conditions are met. They allow parties who don't know or trust each-other to engage in commerce, online.
 
@@ -111,19 +116,17 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 >When some work is uploaded, a community-trusted programmer will check through it, to make sure that the project has been successfully completed.
 
 
-## Bitcoin Talk Escrow
+### BitcoinTalk Escrow [**^**](#contents)
 
-These seem to be the only active threads.
+These seem to be the currently active bitcointalk threads.
 	
 * Financisto: [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers ☠](https://bitcointalk.org/index.php?topic=276897.0;all) - **(Started `13 — Updated 9/18)**
   ![](https://image.ibb.co/fbhMLU/escrow.png) 
 * hedgy73: [Recommended bitcointalk escrow services](https://bitcointalk.org/index.php?topic=2439910.0) - **(Started 11/17 — Updated 7/18)**
 ![](https://i.imgur.com/EvuQwxN.png)
-* [⛓LIST⛓ BitcoinTalk's Escrow Providers: Ranking & Blacklist ☠ Avoid Scammers](https://bitcointalk.org/index.php?topic=276897.0;all)
-* [	\[ANN\] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
-* Lauda: [[ANN] CET - Crypto Escrow Team](https://bitcointalk.org/index.php?topic=1938190)
-
-
+* [Escrow for anything via discord by Dream (fpga channel mod)
+March 03, 2019](https://bitcointalk.org/index.php?topic=5116510.0)
+![](https://i.imgur.com/DvuqyGh.png)
 
 ## Apps
 
