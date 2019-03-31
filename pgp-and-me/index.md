@@ -29,10 +29,8 @@ pull-requests-welcome
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 * [infominer.id/bitcoin-history/before-bitcoin/cypherpunks/](https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/)
 * [Even the Inventor of PGP Doesn’t Use PGP](https://motherboard.vice.com/en_us/article/vvbw9a/even-the-inventor-of-pgp-doesnt-use-pgp)
-* [GnuPG for Daily Use (a Mini How-To...)](http://moser-isi.ethz.ch/gpg.html)
-* [Configuring Yubikeys, GPG, and Keybase](https://ttmm.io/tech/yubikey/)
 
-## PGP for Newbs
+## PGP for Newbs and Beyond
 
 * [How-To-PGP](https://howtopgp.jugendhackt.de/#/) 
   >With this interactiv instruction we want to explain you, how to encrypt your e-mails with PGP to protect your communication and help stopping mass surveillance.
@@ -41,16 +39,21 @@ pull-requests-welcome
 * [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
 * [Quick'n easy gpg cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
 * [GPG Quickstart Guide 🔒](https://medium.com/@acparas/gpg-quickstart-guide-d01f005ca99)
+* [GPG Tutorial and PGP Public Key for ∀lan ∃liasen](https://futureboy.us/pgp.html)
+* [GnuPG for Daily Use (a Mini How-To...)](http://moser-isi.ethz.ch/gpg.html)
+* [Configuring Yubikeys, GPG, and Keybase](https://ttmm.io/tech/yubikey/)
 
-### SSH [**^**](#contents)
+### SSH 
 
-Also public key encryption, allows you to remotely connect to a server, without typing in your user\name password. test
+Another form of public key encryption, allows you to remotely connect to a server, without typing in your user\name password. 
 
 * <a href="https://help.github.com/en/articles/connecting-to-github-with-ssh" target="_blank">Connecting to GitHub with SSH</a>
 * <a href="https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">Generating a new SSH key and adding it to the SSH agent</a>
 * <a href="https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account" target="_blank">Adding a new SSH key to your GitHub Account</a>
 * <a href="https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca" target="_blank">How to manage multiple GitHub accounts on a single machine with SSH keys</a>
 
+Signing Commits
+* [managing-commit-signature-verification](https://help.github.com/en/articles/managing-commit-signature-verification)
 
 ## Protonmail 
 
@@ -58,8 +61,6 @@ Has built in support for PGP for your e-mails... but doesn't make it super easy 
 * [https://protonmail.com/support/knowledge-base/how-to-use-pgp/](https://protonmail.com/support/knowledge-base/how-to-use-pgp/)
 
 ## Verifying PGP Signatures
-
-So this is an absolute fundamental of cryptography, and should be a part of everyone's skill-set. However, when you start to use PGP from the command-line, the first time... erm. I'll save my rant on that for later.
 
 * [HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIC](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/)
 * [VERIFYING SIGNED MESSAGES WITH SIGNATURES AND SIGNING YOUR OWN MESSAGES](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/)
@@ -154,4 +155,3 @@ March 03, 2019](https://bitcointalk.org/index.php?topic=5116510.0)
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   >In addition to using encryption, standing up to surveillance requires fighting politically for a reduction in the amount of data collected on us, but the essential first step is to protect yourself and make surveillance of your communication as difficult as possible. This guide helps you do that. It is designed for beginners, but if you already know the basics of GnuPG or are an experienced free software user, you'll enjoy the advanced tips and the guide to teaching your friends.
   ![](https://static.fsf.org/nosvn/enc-dev0/img/en/full-infographic.png)
-
