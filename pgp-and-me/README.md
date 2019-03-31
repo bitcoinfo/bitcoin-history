@@ -1,4 +1,4 @@
-This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin related activities. 
+This page is the result of me figuring out how to make public key encryption more a part of my everyday life, including for BitcoinTalk escrow, and other Bitcoin related activities. 
 
 ```
 pull-requests-welcome
@@ -9,14 +9,19 @@ pull-requests-welcome
 ## Contents
 * [Phil Zimmerman](#phil-zimmerman)
 * [PGP for Newbs](#pgp-for-newbs)
+* [SSH](#ssh
+* [ProtonMail](#protonmail)
 * [Verifying PGP Signatures](#verifying-pgp-signatures)
   * [Gedit](#gedit)
+* [Bitcoin and Ethereum Signatures](#bitcoin-and-ethereum-signatures)
+* [Keybase](#keybase)
 * [DeepDotWeb](#deepdotweb)
 * [Escrow Services](#escrow-services)
   * [BitcoinTalk Escrow](#bitcointalk-escrow)
 * [Apps](#apps)
 * [Resources](#resources)
 
+* [freelanceforcoins.com/**Business with Crypto 101—Escrow and Key Signatures**](https://freelanceforcoins.com/article/6-escrow) -infominer
 
 
 ## Phil Zimmerman
@@ -29,7 +34,9 @@ pull-requests-welcome
 * [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 * [infominer.id/bitcoin-history/before-bitcoin/cypherpunks/](https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/)
-
+* [Even the Inventor of PGP Doesn’t Use PGP](https://motherboard.vice.com/en_us/article/vvbw9a/even-the-inventor-of-pgp-doesnt-use-pgp)
+* [GnuPG for Daily Use (a Mini How-To...)](http://moser-isi.ethz.ch/gpg.html)
+* [Configuring Yubikeys, GPG, and Keybase](https://ttmm.io/tech/yubikey/)
 
 ## PGP for Newbs
 
@@ -37,16 +44,26 @@ pull-requests-welcome
   >With this interactiv instruction we want to explain you, how to encrypt your e-mails with PGP to protect your communication and help stopping mass surveillance.
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   > ![](https://i.imgur.com/danqZLd.png)
+* [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
+* [Quick'n easy gpg cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
+* [GPG Quickstart Guide 🔒](https://medium.com/@acparas/gpg-quickstart-guide-d01f005ca99)
+
+### SSH
+
+Also public key encryption, allows you to remotely connect to a server, without typing in your user\name password. 
+
+* <a href="https://help.github.com/en/articles/connecting-to-github-with-ssh" target="_blank">Connecting to GitHub with SSH</a>
+* <a href="https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">Generating a new SSH key and adding it to the SSH agent</a>
+* <a href="https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account" target="_blank">Adding a new SSH key to your GitHub Account</a>
+* <a href="https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca" target="_blank">How to manage multiple GitHub accounts on a single machine with SSH keys</a>
 
 
 ## Protonmail 
 
-Has built in support for PGP for your e-mails... but doesn't make it super easy to verify messages from outside.
+Has built in encryption for your e-mail... but doesn't make it super easy to verify messages from outside.
 * [https://protonmail.com/support/knowledge-base/how-to-use-pgp/](https://protonmail.com/support/knowledge-base/how-to-use-pgp/)
 
 ## Verifying PGP Signatures
-
-So this is an absolute fundamental of cryptography, and should be a part of everyone's skill-set. However, when you start to use PGP from the command-line, the first time... erm. I'll save my rant on that for later.
 
 * [HOW TO VERIFY YOUR DOWNLOADED FILES ARE AUTHENTIC](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/)
 * [VERIFYING SIGNED MESSAGES WITH SIGNATURES AND SIGNING YOUR OWN MESSAGES](https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/)
@@ -55,7 +72,10 @@ So this is an absolute fundamental of cryptography, and should be a part of ever
 gpg --import singing_key.pub
 gpg --verify signed_file.sig
 ```
+### Bitcoin and Ethereum Signatures
 
+* [How do digital signatures in Bitcoin work?](https://www.cryptocompare.com/wallets/guides/how-do-digital-signatures-in-bitcoin-work/)
+* [Signing a message from your Ethereum wallet with MyEtherWallet](https://medium.com/@vinczhain/signing-a-message-from-your-ethereum-wallet-with-myetherwallet-cfef7acd6f6d)
 
 
 ### Keybase
@@ -105,7 +125,7 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 >When some work is uploaded, a community-trusted programmer will check through it, to make sure that the project has been successfully completed.
 
 
-### BitcoinTalk Escrow [**^**](#contents)
+### BitcoinTalk Escrow
 
 These seem to be the currently active bitcointalk threads.
 	
@@ -138,3 +158,4 @@ March 03, 2019](https://bitcointalk.org/index.php?topic=5116510.0)
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   >In addition to using encryption, standing up to surveillance requires fighting politically for a reduction in the amount of data collected on us, but the essential first step is to protect yourself and make surveillance of your communication as difficult as possible. This guide helps you do that. It is designed for beginners, but if you already know the basics of GnuPG or are an experienced free software user, you'll enjoy the advanced tips and the guide to teaching your friends.
   ![](https://static.fsf.org/nosvn/enc-dev0/img/en/full-infographic.png)
+
