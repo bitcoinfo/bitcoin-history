@@ -1,12 +1,13 @@
 ---
-layout: page
+layout: single
 title: Practical Cypherpunk Essentials
-description: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, Various Apps and Resourses.
+description: "Asymmetric Encryption: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, Various Apps and Resourses."
 image: https://i.imgur.com/swEAkJm.png
 hide_description: true
 sidebar:
   nav: "infonav"
-
+share: true
+toc: true
 ---
 
 This page is the result of me figuring out how to make PGP a part of my life, for BitcoinTalk escrow, and other Bitcoin related activities. 
@@ -17,23 +18,10 @@ pull-requests-welcome
 ```
 
 
-## Contents
-* [Phil Zimmerman](#phil-zimmerman)
-* [PGP for Newbs](#pgp-for-newbs)
-* [Verifying PGP Signatures](#verifying-pgp-signatures)
-  * [Gedit](#gedit)
-* [DeepDotWeb](#deepdotweb)
-* [Escrow Services](#escrow-services)
-  * [BitcoinTalk Escrow](#bitcointalk-escrow)
-* [Apps](#apps)
-* [Resources](#resources)
-
-
-
 ## Phil Zimmerman
 * [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
   >It's personal. It's private. And it's no one's business but yours. You may be planning a political campaign, discussing your taxes, or having a secret romance. Or you may be communicating with a political dissident in a repressive country. Whatever it is, you don't want your private electronic mail (email) or confidential documents read by anyone else. There's nothing wrong with asserting your privacy. Privacy is as apple-pie as the Constitution.
-* [https://www.wired.com/1993/02/crypto-rebels/](https://www.wired.com/1993/02/crypto-rebels/)<br>
+* [https://www.wired.com/1993/02/crypto-rebels/](https://www.wired.com/1993/02/crypto-rebels/)
   [![](https://i.imgur.com/kzOMg4o.png)](https://www.wired.com/1993/02/crypto-rebels/)
 * [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars)
   > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
@@ -48,6 +36,7 @@ pull-requests-welcome
   >With this interactiv instruction we want to explain you, how to encrypt your e-mails with PGP to protect your communication and help stopping mass surveillance.
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   > ![](https://i.imgur.com/danqZLd.png)
+* [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
 
 
 ## Protonmail 
@@ -66,7 +55,10 @@ So this is an absolute fundamental of cryptography, and should be a part of ever
 gpg --import singing_key.pub
 gpg --verify signed_file.sig
 ```
+### Bitcoin and Ethereum Signatures
 
+* [How do digital signatures in Bitcoin work?](https://www.cryptocompare.com/wallets/guides/how-do-digital-signatures-in-bitcoin-work/)
+* [Signing a message from your Ethereum wallet with MyEtherWallet](https://medium.com/@vinczhain/signing-a-message-from-your-ethereum-wallet-with-myetherwallet-cfef7acd6f6d)
 
 
 ### Keybase
@@ -116,7 +108,7 @@ Escrow Agents are impartial and trusted intermediaries who hold custody of buyer
 >When some work is uploaded, a community-trusted programmer will check through it, to make sure that the project has been successfully completed.
 
 
-### BitcoinTalk Escrow [**^**](#contents)
+### BitcoinTalk Escrow
 
 These seem to be the currently active bitcointalk threads.
 	
@@ -149,3 +141,4 @@ March 03, 2019](https://bitcointalk.org/index.php?topic=5116510.0)
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   >In addition to using encryption, standing up to surveillance requires fighting politically for a reduction in the amount of data collected on us, but the essential first step is to protect yourself and make surveillance of your communication as difficult as possible. This guide helps you do that. It is designed for beginners, but if you already know the basics of GnuPG or are an experienced free software user, you'll enjoy the advanced tips and the guide to teaching your friends.
   ![](https://static.fsf.org/nosvn/enc-dev0/img/en/full-infographic.png)
+
