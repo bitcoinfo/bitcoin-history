@@ -4,7 +4,7 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 ## Contents
 
-* [Short-form Crypto Fundamentals](#short-form-crypto-fundamentals-) 
+* [Short-form Crypto Fundamentals](#short-form-crypto-fundamentals-)
 * [Timelines](#timelines-)
 * [Pre-Digital Cryptogrphay](#pre-digital-cryptography-)
 * [Digital Cryptography](#digital-cryptography-)
@@ -19,28 +19,28 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 ## Directory
 
-* [**/cypherpunks.html**](/people/before-bitcoin/cypherpunks.html) and the Crypto Wars
-  * [Crypto Wars](/before-bitcoin/cypherpunks.html#crypto-wars-)
-  * [Cypherpunk Mailing-list](/before-bitcoin/cypherpunks.html#cypherpunk-mailinglist-)
-  * [Modern Crypto Wars](/before-bitcoin/cypherpunks.html#modern-crypto-wars-)
-  * [Resources](/before-bitcoin/cypherpunks.html#resources-)
-* Pre-Bitcoin [**/electronic-cash.html**](/before-bitcoin/electronic-cash.html) 
-  * [DigiCash](/before-bitcoin/electronic-cash.html#digicash-)
-  * [FirstVirtual and CyberCash](/before-bitcoin/electronic-cash.html#FirstVirtual-and-CyberCash-)
-  * [NetCash](/before-bitcoin/electronic-cash.html#netcash-)
-  * [Modex](/before-bitcoin/electronic-cash.html#Modex-)
-  * [Project CAFE](/before-bitcoin/electronic-cash.html#Project-Cafe-)
-  * [eGold](/before-bitcoin/electronic-cash.html#eGold-)
-  * [HashCash](/before-bitcoin/electronic-cash.html#HashCash-)
-  * [Beanz and Flooz](/before-bitcoin/electronic-cash.html#beenz-and-flooz-)
-  * [InternetCash](/before-bitcoin/electronic-cash.html#internetcash-)
-  * [E-Bullion](/before-bitcoin/electronic-cash.html#E-Bullion-)
-  * [Dexit](/before-bitcoin/electronic-cash.html#Dexit-)
-  * [B-money](/before-bitcoin/electronic-cash.html#b-money-)
-  * [Bit Gold](/before-bitcoin/electronic-cash.html#Bit-Gold-)
-  * [Peppercoin](/before-bitcoin/electronic-cash.html#peppercoin-)
-  * [Reusable Proof of Work](/before-bitcoin/electronic-cash.html#reusable-proof-of-work-)
-  * [Liberty Reserve](/before-bitcoin/electronic-cash.html#liberty-reserve-)
+* [**/cypherpunks.md**](/people/before-bitcoin/cypherpunks.md) and the Crypto Wars
+  * [Crypto Wars](/before-bitcoin/cypherpunks.md#crypto-wars-)
+  * [Cypherpunk Mailing-list](/before-bitcoin/cypherpunks.md#cypherpunk-mailinglist-)
+  * [Modern Crypto Wars](/before-bitcoin/cypherpunks.md#modern-crypto-wars-)
+  * [Resources](/before-bitcoin/cypherpunks.md#resources-)
+* Pre-Bitcoin [**/electronic-cash.md**](/before-bitcoin/electronic-cash.md) 
+  * [DigiCash](/before-bitcoin/electronic-cash.md#digicash-)
+  * [FirstVirtual and CyberCash](/before-bitcoin/electronic-cash.md#FirstVirtual-and-CyberCash-)
+  * [NetCash](/before-bitcoin/electronic-cash.md#netcash-)
+  * [Modex](/before-bitcoin/electronic-cash.md#Modex-)
+  * [Project CAFE](/before-bitcoin/electronic-cash.md#Project-Cafe-)
+  * [eGold](/before-bitcoin/electronic-cash.md#eGold-)
+  * [HashCash](/before-bitcoin/electronic-cash.md#HashCash-)
+  * [Beanz and Flooz](/before-bitcoin/electronic-cash.md#beenz-and-flooz-)
+  * [InternetCash](/before-bitcoin/electronic-cash.md#internetcash-)
+  * [E-Bullion](/before-bitcoin/electronic-cash.md#E-Bullion-)
+  * [Dexit](/before-bitcoin/electronic-cash.md#Dexit-)
+  * [B-money](/before-bitcoin/electronic-cash.md#b-money-)
+  * [Bit Gold](/before-bitcoin/electronic-cash.md#Bit-Gold-)
+  * [Peppercoin](/before-bitcoin/electronic-cash.md#peppercoin-)
+  * [Reusable Proof of Work](/before-bitcoin/electronic-cash.md#reusable-proof-of-work-)
+  * [Liberty Reserve](/before-bitcoin/electronic-cash.md#liberty-reserve-)
 
 ### Short-form Crypto Fundamentals [**^**](#research-index) 
 -by Infominer
