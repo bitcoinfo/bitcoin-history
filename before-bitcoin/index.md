@@ -95,9 +95,9 @@ This section is for all history preceeding, and related to the develpment of Bit
 * <a href="http://www.merkle.com/1974/">Publishing a new idea
 by Ralph C. Merkle</a>
   >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
-<a href="https://www.youtube.com/watch?v=_ZTWLAqYf9c"><img src="https://i.imgur.com/hIMMThY.png"/></a>
-* [Part 1](https://www.youtube.com/watch?v=_ZTWLAqYf9c) — [Part 2](https://www.youtube.com/watch?v=oR0_LPbWxe4) about the development of public-key cryptography.\
-  For a more complete version, read:
+* [Part 1](https://www.youtube.com/watch?v=_ZTWLAqYf9c) — [Part 2](https://www.youtube.com/watch?v=oR0_LPbWxe4) about the development of public-key cryptography.<br/>
+<a href="https://www.youtube.com/watch?v=_ZTWLAqYf9c"><img src="https://i.imgur.com/hIMMThY.png"/></a> 
+<br/> For a more complete version, read:
 * <a href="https://www.goodreads.com/book/show/984428.Crypto">CRYPTO— how the code rebels beat the government— saving privacy in the digital age</a> -Steven Levy 
 * [THE OPEN SECRET](https://www.wired.com/1999/04/crypto/) 
   —Public key cryptography - the breakthrough that revolutionized email and ecommerce - was first discovered by American geeks. Right? Wrong.
