@@ -22,6 +22,7 @@ name                     : "⧉ Infominer"
 description              : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
 url                      : "https://infominer.id"
 baseurl                  : "/bitcoin-history"
+rooturl                  : "https://infominer.id/bitcoin-history"
 repository               : "infominer33/bitcoin-history"
 github                   : [metadata]
 teaser                   : # "/assets/img/information-discovery.jpg"
