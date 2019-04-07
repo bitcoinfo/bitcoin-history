@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Smart Contract History and Related Resources
 description: From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and the Cambrian Explosion.
 image: http://www.erights.org/elib/distrib/captp/3vat/images/elems10.png

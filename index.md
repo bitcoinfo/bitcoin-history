@@ -1,10 +1,9 @@
 ---
-layout: page
+layout: title
 title: Bitcoin History
 description: A Growing Catalog of Resources Related to the History Surrounding Bitcoin.
 image: "https://i.imgur.com/rJGaKPk.png"
-card: summary
-hide_description: true
+
 ---
 
 <img src="https://infominer.id/bitcoin-history/bitcoin-history.png"/>
