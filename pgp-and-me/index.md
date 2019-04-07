@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Practical Crypto
 description: "Asymmetric Encryption: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, SSL, Various Apps and Resourses."
 image: https://i.imgur.com/swEAkJm.png
@@ -83,6 +83,7 @@ gpg --verify signed_file.sig
   >Keybase is for anyone. Imagine a Slack for the whole world, except end-to-end encrypted across all your devices. Or a Team Dropbox where the server can't leak your files or be hacked.
 * [Keybase - PGP Encryption made Easy](https://www.andreagrandi.it/2017/10/21/keybase-pgp-encryption-made-easy/)
 * [https://keybase.io/docs/command_line](https://keybase.io/docs/command_line)
+* [Keybase chome and firefox extensions](https://keybase.io/docs/extension) - let you communicate with other keybase users via twitter reddit ycombinator and others (wherever you've verified).
 
 ## deepdotweb
 

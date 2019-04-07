@@ -1,9 +1,8 @@
 ---
-layout: page
+layout: single
 title: Bitcoin History
 description: >
   An assorted open-source collection of resources on the history of Bitcoin.
-hide_description: true
 image: /assets/img/chancellor-brink-bailout-banks.jpg
 ---
 

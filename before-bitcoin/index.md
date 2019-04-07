@@ -1,8 +1,7 @@
 ---
 title: Before Bitcoin
 description: For related history preceeding the development of Bitcoin.
-layout: page
-hide_description: true
+layout: single
 image: https://i.imgur.com/iPWSy2K.png
 ---
 
