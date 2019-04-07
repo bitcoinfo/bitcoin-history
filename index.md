@@ -3,6 +3,9 @@ layout: home
 title: Bitcoin History
 description: A Growing Catalog of Resources Related to the History Surrounding Bitcoin.
 image: "https://i.imgur.com/rJGaKPk.png"
+toc        : true
+toc_label  : "My Table of Contents"
+toc_icon   : "cog"
 
 ---
 
