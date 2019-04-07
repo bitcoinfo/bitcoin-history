@@ -1,4 +1,9 @@
-# JW Weatherman Interviews Cypherpunk Legend Timothy C May
+---
+layout: single
+title: "JW Weatherman Interviews Cypherpunk Legend Timothy C May"
+---
+
+
 
 <a href="https://www.youtube.com/watch?v=MrGLraSiRZk"><img src="https://i.imgur.com/janGoN1.png"/></a>
 

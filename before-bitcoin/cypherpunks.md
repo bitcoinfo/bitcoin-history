@@ -1,4 +1,9 @@
-# Cypherpunks and the Crypto Wars
+---
+layout: single
+title: Cypherpunks and the Crypto Wars
+---
+
+
 Gathering and organizing information related to the Cypherpunk movement.
 
 <img src="https://i.imgur.com/qgVn6sU.png"/>\
