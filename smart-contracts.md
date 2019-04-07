@@ -49,7 +49,7 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
 * [A Formal Language for Analyzing Contracts](https://nakamotoinstitute.org/contract-language/) '02
 * [Wet Code and Dry](http://unenumerated.blogspot.com/2006/11/wet-code-and-dry.html) '06
 
-### Elang and other Early Work [**^**](#contents)
+### Elang and other Early Work 
 
 * [erights.org](http://www.erights.org/smart-contracts/)
 * [wiki.c3.com - E Language An ObjectCapabilityLanguage](http://wiki.c2.com/?EeLanguage)
@@ -60,10 +60,10 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
 
 
 
-### Ethereum [**^**](#contents)
+### Ethereum 
 
 
-### DAO [**^**](#contents)
+### DAO 
 
 * [What’s in a Name? — The Disambiguation of Smart Contracts](https://medium.com/@anthonymacey/whats-in-a-name-the-disambiguation-of-smart-contracts-daca8276db4)
   >2014 and Gavin Wood takes the stage at the auditorium in Barclays Whitechapel Accelerator space to describe a brave new world of…
@@ -72,7 +72,7 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
   >In this post, we examine just how prevalent the recently discovered "unchecked-send" bug is in real, live, deployed Ethereum contracts, with the aid of an automated analysis 
 
 
-### After DAO [**^**](#contents)
+### After DAO 
 
 * [The Future of the Blockchain: my DevCon IV talk. – Mattereum - Humanizing the Internet](https://medium.com/humanizing-the-singularity/the-future-of-the-blockchain-my-devcon-iv-talk-f78b4fb9b95c)
   > This year October 31 at the DevCon IV I gave the first talk on the Smart Property Register  —  the Mattereum innovation, which I think is…
@@ -81,9 +81,9 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
 * [Ethereum in BigQuery: a Public Dataset for smart contract analytics](https://cloud.google.com/blog/products/data-analytics/ethereum-bigquery-public-dataset-smart-contract-analytics)
   > Ethereum transactions, like some other cryptocurrencies, are stored in a public ledger. Learn how to analyze that ledger in BigQuery to better understand transaction and even contracts history.
 
-## Resources [**^**](#contents)
+## Resources 
 
-### Ricardian - Legal [**^**](#contents)
+### Ricardian - Legal 
 
 * [On the intersection of Ricardian and Smart Contracts](http://iang.org/papers/intersection_ricardian_smart.html)
 * [Smart Contracts, Dumb Signatures: Why Blockchain-based signatures](https://medium.com/@blockarray/smart-contracts-dumb-signatures-why-blockchain-based-signatures-may-not-be-legal-in-your-efb64bc030c0)
@@ -96,7 +96,7 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
   - Coalition of Automated Legal Applications
 
 
-### Smart Signatures [**^**](#contents)
+### Smart Signatures 
 
 * [WebOfTrustInfo/rwot2-id2020 - Smarter Signatures](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/draft-documents/smarter-signatures.md)
 * [Smart Signatures—Experiments in Authentication -Christopher Allen](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final) -SlideShare
@@ -116,7 +116,7 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
  - Stephen Diehl (@smdiehl) '17
   
 
-### Bitcoin [**^**](#contents)
+### Bitcoin 
 
 * [Yes, Bitcoin Can Do Smart Contracts and Particl Demonstrates How](https://bitcoinmagazine.com/articles/yes-bitcoin-can-do-smart-contracts-and-particl-demonstrates-how/)
 The Bitcoin blockchain is not known for its ability to enable smart contracts. In fact, most developers creating smart contracts use a different blockchain, like Ethereum. But the truth is that the Bitcoin protocol can be used to create smart contracts. Particl.io, the blockc...
@@ -126,7 +126,7 @@ Bitcoin’s capacity is limited. Meanwhile, smart contracts can be resource inte
   >RSK, bitcoin´s smart contract platform.
 
 
-### Languages - Platforms [**^**](#contents)
+### Languages - Platforms 
 
 
 * [Overtorment/awesome-smart-contracts](https://github.com/Overtorment/awesome-smart-contracts)
@@ -139,7 +139,7 @@ Bitcoin’s capacity is limited. Meanwhile, smart contracts can be resource inte
   > Marlowe, a new smart contract language for Cardano aimed primarily at financial contracts on the blockchain was revealed some days ago. The language has been developed by researchers from IOHK, a company that are the main developers and maintainers of the blockchain Cardano. 
 
 
-### Learn-BUIDL [**^**](#contents)
+### Learn-BUIDL 
 
 This page isn't really about learning how to do smart contracts, but more about the history and different aspects of smart contracts. However, I have these links, and I'll throw them here until I make a page devoted to learning how-to.
 
@@ -165,7 +165,7 @@ This page isn't really about learning how to do smart contracts, but more about 
   > A platform for crowd-sourced review of smart contracts, where any developer can bring their contract for review with a large network of verified blockchain experts.
 
 
-### ETC [**^**](#contents)
+### ETC 
 
 * [The Truth about Smart Contracts – Jimmy Song – Medium](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f)
   >Much like the words “blockchain”, “AI” and “cloud”, “smart contract” is one of those phrases that get a lot of hype.
@@ -178,13 +178,13 @@ This page isn't really about learning how to do smart contracts, but more about 
 * [Deloitte Insights - Upgrading blockchains](https://www2.deloitte.com/insights/us/en/focus/signals-for-strategists/using-blockchain-for-smart-contracts.html)
   > Paper contracts can take weeks to travel around the globe, while digital documents are uncomfortably easy to forge. Is there a way to automate transactions to make them smoother, more efficient, and more secure for all parties? Leaders are looking at blockchain and smart cont...
 
-### Literature [**^**](#contents)
+### Literature 
 
 * [They Might Be Smart, But These Contracts Need to Be More Secure](https://publications.lib.chalmers.se/records/fulltext/234939/234939.pdf)
   >A certification process can provide participants in smart contracts with greater assurances they won't lose their money (see: the DAO). But in distributed systems, the true test of security comes when software is released into the wild.
 * [Most Cited Smart Contracts Publications](https://blockchainlibrary.org/2017/10/most-cited-smart-contracts-publications/)
 
-### Resources [**^**](#contents)
+### Resources 
 
 * [https://en.bitcoinwiki.org/wiki/Smart_contract](https://en.bitcoinwiki.org/wiki/Smart_contract)
   > Smart contract (also self-executing contract, blockchain contract, or digital contract) is an electronic algorithm intended for the automation of the contract execution process in the blockchain. The general idea of smart contracts is to exclude divergences in the treatment ...

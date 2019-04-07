@@ -35,7 +35,7 @@ However, if you are looking at this, and the above article, thinking: "I really 
 * [2017](#2017-)
 * [2018](#2018-)
 
-## Early use, and discussion of "Distributed Ledger" [**^**](#contents)
+## Early use, and discussion of "Distributed Ledger" 
 
 * [Decentralized Anonymous Credentials](https://eprint.iacr.org/2013/622.pdf)
   >"Our approach builds on recent results in the area of electronic cash and uses techniques — such as [...] a distributed transaction ledger" and later they even use the words "distributed ledger" together but informally 
@@ -49,7 +49,7 @@ However, if you are looking at this, and the above article, thinking: "I really 
 * https://domsteil.com/2014/12/29/distributed-consensus-protocols/
 
 
-### Monax - Eris [**^**](#contents)
+### Monax - Eris 
 
 —the first open-source permissioned blockchain
 
@@ -67,7 +67,7 @@ They didn't win the bounty, but their open-source permissionable implementation 
 * https://prestonbyrne.com/2015/04/08/blockchain-without-bitcoin-is-now-a-thing/
 
 
-## Misc-2015 [**^**](#contents)
+## Misc-2015 
 
 <img src="https://static1.squarespace.com/static/5b83cf270dbda3e6230cec3d/t/5c51336c898583c26f213862/1548825472554/permissioned-distributed-ledger-blockchains.png"/>
 <a href="https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/">Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015</a>
@@ -94,20 +94,20 @@ They didn't win the bounty, but their open-source permissionable implementation 
 
 * [Consensys and Microsoft form relationship to deliver enterprise Ethereum Blockchain-as-a-Service (E BaaS) on Microsoft Azure.](https://web.archive.org/web/20160304024513/https://consensys.net/static/MSFT-CON.pdf)
 
-## Multichain [**^**](#contents)
+## Multichain 
 
 * [Multichain](https://www.multichain.com/download/MultiChain-White-Paper.pdf) is a Bitcoin based permissioned ledger. 
 (6/15)
 
 
-## Hyperledger [**^**](#contents)
+## Hyperledger 
 
 * [The Hyper Ledger Transaction Protocol (HLTP) is protocol designed from the ground up to enable payments for the internet age](https://safenetforum.org/t/the-hyper-ledger-transaction-protocol-hltp-is-protocol-designed-from-the-ground-up-to-enable-payments-for-the-internet-age/660) '14
   - original Hyperledger, IP later [sold to Digital Asset](https://hub.digitalasset.com/press-release/digital-asset-acquires-hyperledger-following-prior-acquisition-of-bits-of-proof) and given to the Hyperledger foundation.
 * [Linux Foundation unites Industry Leaders to Advance Blockchain Tech](https://www.linuxfoundation.org/press-release/2015/12/linux-foundation-unites-industry-leaders-to-advance-blockchain-technology/) 12/2015
 
 
-## Fabric [**^**](#contents)
+## Fabric 
 
 * [A Brief History of Hyperledger Fabric](https://www.linkedin.com/pulse/hyperledger-fabric-brief-history-binh-nguyen)
 
@@ -119,7 +119,7 @@ https://wiki.hyperledger.org/projects/fabric#history
 https://www.hyperledger.org/blog/2017/07/11/hyperledger-fabric-1-0-is-released
 
 
-## Sawtooth [**^**](#contents)
+## Sawtooth 
 
 
 https://docs.google.com/document/d/1j7YcGLJH6LkzvWdOYFIt2kpkVlLEmILErXL6t-Ky2zU/edit
@@ -130,7 +130,7 @@ https://www.ibtimes.com/intel-reveals-its-plan-blockchain-technology-sawtooth-la
 https://bitcoinmagazine.com/articles/intel-develops-sawtooth-lake-distributed-ledger-technology-for-the-hyperledger-project-1460397461/
 
 
-## Iroha [**^**](#contents)
+## Iroha 
 
 https://docs.google.com/document/d/1sN-6mv-m85NlbI3ZjwFkDT0izTcxbUaZN9LjLEe045Y/edit
 
@@ -138,7 +138,7 @@ https://www.hyperledger.org/blog/2016/11/01/hyperledger-welcomes-iroha
 
 https://arxiv.org/pdf/1809.00554.pdf
 
-## Evernym-Sovrin [**^**](#contents)
+## Evernym-Sovrin 
 
 Around the same time, Evernym published its initial [identity white paper](https://www.evernym.com/wp-content/uploads/2017/02/Identity-System-Essentials.pdf) and began its work on [Plenum], an implementation of RBFT consensus, supporting the development of a [decentralized public key infrastructure (DPKI)](https://github.com/WebOfTrustInfo/rebooting-the-web-of-trust/blob/master/final-documents/dpki.pdf).
 
@@ -146,18 +146,18 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 
 for more info on this see: https://github.com/infominer33/awesome-decentralized-id
 
-## Quorum [**^**](#contents)
+## Quorum 
 
 10/2016, JP Morgan announced their development of Quorum, a permissioned version of Ethereum supporting data privacy to enable interaction between public and private blockchains and allowing for private, secure, peer-to-peer transactions.
 
 * [J.P. Morgan Has a New Twist on Blockchain](http://archive.is/Q1Xm0)
 https://futurism.com/say-hello-to-quorum-j-p-morgans-private-blockchain-network
 
-## R3 - Corda [**^**](#contents)
+## R3 - Corda 
 
 11/16, R3 [open-sourced Corda](https://www.ofnumbers.com/2017/02/27/a-brief-history-of-r3-the-distributed-ledger-group/), it’s permissioned distributed ledger platform. Corda features private transactions and smart contracts based upon [Smart Contract Templates: foundations, design landscape, and research directions, Barclays, University College London](https://arxiv.org/abs/1608.00771).
 
-## Misc-2016 [**^**](#contents)
+## Misc-2016 
 
 * https://data.gov.ru/sites/default/files/documents/315354748-applying-blockchain-technology-in-global-data-infrastructure.pdf '16
 
@@ -168,14 +168,14 @@ https://futurism.com/say-hello-to-quorum-j-p-morgans-private-blockchain-network
 https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf
 
 
-## 2017 [**^**](#contents)
+## 2017 
 
 https://entethalliance.org/enterprise-ethereum-alliance-going-strong/
 
 https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb 
 
 
-## 2018 [**^**](#contents)
+## 2018 
 
 * https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/
  
