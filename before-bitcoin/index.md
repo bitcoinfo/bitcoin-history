@@ -62,7 +62,7 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 
 
-### Timelines [**^**](#contents)
+### Timelines 
 
 <a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="https://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
 
@@ -73,14 +73,14 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 <a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="https://i.imgur.com/RZafVvV.png" align="right"></a>
 
-### Pre Digital Cryptography [**^**](#contents)
+### Pre Digital Cryptography 
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
 * [EFF - Crypto Is For Everyone—and American History Proves It](https://www.eff.org/deeplinks/2015/10/crypto-everyone-and-american-history-proves-it)
 * ["GET READY FOR A WORLD CURRENCY"](http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf)
   Get Ready for the Phoenix- Economist; 01/9/88, Vol. 306, pp 9-10
 * [Before Babylon, Beyond Bitcoin: From Money that We Understand to Money that Understands Us](https://the-eye.eu/public/concen.org/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29%20%28Pdf%29%20Gooner/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29.pdf)
 
-### Digital Cryptography [**^**](#contents)
+### Digital Cryptography 
 
 * [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) [[**ϟ**](https://simonsingh.net/cryptography/crypto-cd-rom/)]
   > "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
@@ -105,7 +105,7 @@ by Ralph C. Merkle</a>
 
 <a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="https://i.imgur.com/cH9VMNn.png"/></a>
 
-### David Chaum [**^**](#contents)
+### David Chaum 
 
 * [Chaum.com](https://www.chaum.com)
   * [Chaum.com - List of Publications](https://www.chaum.com/publications/publications.html)
@@ -121,7 +121,7 @@ by Ralph C. Merkle</a>
 * [David Chaum: Godfather of Digital Currency](https://blockchaintimes.news/2018/10/19/david-chaum-godfather-of-digital-currency/) - 2018
 
 
-### Distributed Systems [**^**](#contents)
+### Distributed Systems 
 
 * [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
   * FLP Impossibility (1985)
@@ -135,7 +135,7 @@ by Ralph C. Merkle</a>
   * "[How to Time-Stamp a Digital Document](https://link.springer.com/content/pdf/10.1007%2F3-540-38424-3_32.pdf)” 1991
 
 
-### Cypherpunks [**^**](#contents)
+### Cypherpunks 
 
 
 * [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks)
@@ -166,7 +166,7 @@ by Ralph C. Merkle</a>
 
 #### [**>> More information >> Cypherpunks and the Crypto Wars >>**](/before-bitcoin/cypherpunks.md) 
 
-### Pre-Bitcoin Digital Currency [[**^**](#contents)]
+### Pre-Bitcoin Digital Currency []
 
 * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin) @infominer
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b) ϟϟϟ Digi-Cash—eGold—Bitcoin
@@ -183,7 +183,7 @@ by Ralph C. Merkle</a>
 #### [**>> More Information >> Virtual Currencies >>**](electronic-cash.md)
 
 
-### Literature [**^**](#contents)
+### Literature 
 * [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
 * [DIGITAL CASH AND MONETARY FREEDOM](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.135.4207&rep=rep1&type=pdf) - JON W. MATONIS '95 [[**ϟ**](http://oz.stern.nyu.edu/fall99/readings/digicash/)]
   >Much has been published recently about the awesome promises of electronic commerce and trade on the Internet if only a reliable, secure mechanism for value exchange could be developed. This paper describes the differences between mere encrypted credit card schemes and true digital cash, which presents a revolutionary opportunity to transform payments. The nine key elements of an electronic, digital cash are outlined and a tenth element is proposed which would embody digital cash with a non- political unit of value.
@@ -197,7 +197,7 @@ by Ralph C. Merkle</a>
 
 
 
-### Video-Audio [**^**](#contents)
+### Video-Audio 
 
 * [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
 Princeton - Bitcoin and Cryptocurrency Technologies Online Course
@@ -206,7 +206,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 * [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
 
 
-### Additional Resources [**^**](#contents)
+### Additional Resources 
 
 * [P2P Foundation Wiki](http://wiki.p2pfoundation.net/)
 * https://nakamotoinstitute.org/literature/
@@ -219,7 +219,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 
 ---
 
-### —[infominer.id](https://infominer.id/) [**^**](#contents) [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
+### —[infominer.id](https://infominer.id/)  [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
 
 
 
