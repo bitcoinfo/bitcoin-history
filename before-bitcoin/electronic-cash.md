@@ -1,23 +1,26 @@
-# Pre-Bitcoin Digital Payments and Electronic Cash
+---
+layout: single
+title: Pre-Bitcoin Digital Payments and Electronic Cash
+---
 
 
 ### Contents
-* [DigiCash](#digicash-)
-* [FirstVirtual and CyberCash](#firstvirtual-and-cybercash-)
-* [NetCash](#netcash-)
-* [Modex](#modex-)
-* [Project CAFE](#project-caf%C3%A9-)
-* [eGold](#e-gold-)
-* [HashCash](#hashcash-)
-* [B-money](#b-money-)
-* [Beenz and Flooz](#beenz-and-flooz-)
-* [InternetCash](#internetcash-)
-* [E-Bullion](#e-bullion-)
-* [Dexit](#dexit-)
-* [Peppercoin](#peppercoin-)
-* [Reusable Proof of Work](#reusable-proof-of-work-)
-* [Bit Gold](#bit-gold-)
-* [Liberty Reserve](#liberty-reserve-)
+* [DigiCash](#digicash)
+* [FirstVirtual and CyberCash](#firstvirtual-and-cybercash)
+* [NetCash](#netcash)
+* [Modex](#modex)
+* [Project CAFE](#project-caf%C3%A9)
+* [eGold](#e-gold)
+* [HashCash](#hashcash)
+* [B-money](#b-money)
+* [Beenz and Flooz](#beenz-and-flooz)
+* [InternetCash](#internetcash)
+* [E-Bullion](#e-bullion)
+* [Dexit](#dexit)
+* [Peppercoin](#peppercoin)
+* [Reusable Proof of Work](#reusable-proof-of-work)
+* [Bit Gold](#bit-gold)
+* [Liberty Reserve](#liberty-reserve)
 * [Resources](#resources)
 
 ### DigiCash 
