@@ -16,8 +16,6 @@ header:
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
 
-**note:** I'm looking for clients who will hire me to write more about the history of Bitcoin. As I work out those details this repository will begin to look a lot more like bitcoin. (it's a lot of work to gather all this info, gotta subsidize it somehow.)
-
 ### Contents
 
 * <a href="{{ site.rooturl }}/before-bitcoin/">Before Bitcoin</a>
