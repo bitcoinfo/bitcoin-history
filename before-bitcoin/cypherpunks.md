@@ -14,12 +14,11 @@ I made this in part while researching [*Electronic Currency, Before Bitcoin*](ht
 
 
 ## Contents
-* [Crypto Wars](#crypto-wars
-* [Cypherpunk Mailing-list](#cypherpunk-mailinglist
-* [Modern Crypto Wars](#modern-crypto-wars
-* [Recommended Reading](#recommended-reading
-* [Resources](#resources
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
+* [Crypto Wars](#crypto-wars)
+* [Cypherpunk Mailing-list](#cypherpunk-mailinglist)
+* [Modern Crypto Wars](#modern-crypto-wars)
+* [Recommended Reading](#recommended-reading)
+* [Resources](#resources)
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>
 

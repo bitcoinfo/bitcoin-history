@@ -19,13 +19,13 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
 ## Contents
 * [History](#history)
   * [Nick Szabo](#nick-szabo)
-  * [E Lang and Other Early Work](#elang-and-other-early-work
-  * [Ethereum](#ethereum
+  * [E Lang and Other Early Work](#elang-and-other-early-work)
+  * [Ethereum](#ethereum)
   * [DAO](#dao)
-  * [After DAO](#after-dao
+  * [After DAO](#after-dao)
 * [Resources](#resources
-  * [Ricardian - Legal](#ricardian---legal
-  * [Smart Signatures](#smart-signatures
+  * [Ricardian - Legal](#ricardian---legal)
+  * [Smart Signatures](#smart-signatures)
   * [Bitcoin](#bitcoin
   * [Languages\Platforms](#languages---platforms
   * [Learn-BUIDL](#learn-buidl
