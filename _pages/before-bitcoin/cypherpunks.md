@@ -2,6 +2,8 @@
 layout: single
 title: Cypherpunks and the Crypto Wars
 permalink: cypherpunks
+author_profile: false
+redirect_from: "cypherpunks/"
 ---
 
 

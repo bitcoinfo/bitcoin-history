@@ -1,6 +1,8 @@
 ---
 layout: single
 title: "JW Weatherman Interviews Cypherpunk Legend Timothy C May"
+permalink: /before-bitcoin/weatherman-timothy-may-interview/
+redirect_from: /before-bitcoin/weatherman-timothy-may-interview
 ---
 
 

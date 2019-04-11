@@ -1,4 +1,7 @@
-# Nick Szabo
+---
+title: Nick Szabo
+permalink: nick-szabo/
+---
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)
 * [Nick Szabo's Home Page — Archive (pre-2005)](http://archive.is/H8UGk) "Nick Szabo's Essays, Papers, and Concise Tutorials"

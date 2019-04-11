@@ -5,6 +5,7 @@ image: "https://i.imgur.com/UnfJmvG.png"
 permalink: permissioned/
 redirect_from:
   - permissioned
+author_profile: false
 ---
 
 Primarily to be focused on the development of permissioned ledgers, but including some general enterprise stuffs while I get my timeline together.

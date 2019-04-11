@@ -5,6 +5,7 @@ description: A Growing Catalog of Resources Related to the History Surrounding B
 og_image: "https://i.imgur.com/rJGaKPk.png"
 header: 
   image: "assets/img/satoshi.gif"
+permalink: /
 ---
 
 **Header Image Source*: [Satoshi Nakamoto - Decentral Eyes - Variant 02](https://superrare.co/artwork/satoshi-nakamoto---decentral-eyes---variant-02-1410)
@@ -29,7 +30,7 @@ header:
   * <a href="{{ site.rooturl }}/before-bitcoin/#video-Audio-">Video-Audio</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/#resources-">Resources</a>
 * <a href="{{ site.rooturl }}/before-bitcoin/cypherpunks/">Cypherpunks</a>
-  * <a href="{{ site.rooturl }}/before-bitcoin/JW-Weatherman-Interview-Tim-May.html">JW Weatherman Interviews Tim May - Transcript</a>
+  * <a href="{{ site.rooturl }}/before-bitcoin/weatherman-timothy-may-interview/">JW Weatherman Interviews Tim May - Transcript</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/cypherpunks/#crypto-wars-">Crypto Wars</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/cypherpunks/#cypherpunk-mailinglist-">Cypherpunk Mailing-list</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/cypherpunks/#modern-crypto-wars-">Modern Crypto Wars</a>
@@ -78,7 +79,7 @@ header:
     * <a href="{{ site.rooturl }}/UnitedNations/#2017-">2017</a>
     * <a href="{{ site.rooturl }}/UnitedNations/#2018-">2018</a>
 * <a href="{{ site.rooturl }}/permissioned/">Permissioned Ledger History</a>
-  * <a href="{{ site.rooturl }}/DLT/History-of-Blockchains-for-Business-Casey-Kuhlman-Monax-HGF/">History of Blockchain for Buisness</a> - Casey Kuhlman - Monax - HGF - Transcript
+  * <a href="{{ site.rooturl }}/blockchain-business-history/">History of Blockchain for Buisness</a> - Casey Kuhlman - Monax - HGF - Transcript
   * <a href="{{ site.rooturl }}/permissioned/#early-use-and-discussion-of-distributed-ledger-">Early use, and discussion of "Distributed Ledger"</a>
   * <a href="{{ site.rooturl }}/permissioned/#misc-2015-">Misc-2015</a>
   * <a href="{{ site.rooturl }}/permissioned/#multichain-">Multichain</a>
