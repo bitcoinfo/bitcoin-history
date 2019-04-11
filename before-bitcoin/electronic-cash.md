@@ -2,6 +2,8 @@
 layout: single
 title: Pre-Bitcoin Digital Payments and Electronic Cash
 permalink: /before-bitcoin/electronic-cash/
+redirect_from:
+  - /before-bitcoin/electronic-cash
 ---
 
 
