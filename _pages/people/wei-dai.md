@@ -1,4 +1,7 @@
-# Wei Dai
+---
+title: Wei Dai
+permalink: people/wei-dai/
+---
 
 https://thebookofbitcoin.github.io/html/people/wei_dai.html
 

@@ -1,25 +1,17 @@
-This page is the result of me figuring out how to make public key encryption more a part of my everyday life, including for BitcoinTalk escrow, and other Bitcoin related activities. 
+---
+layout: single
+title: Practical Crypto
+description: "Asymmetric Encryption: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, SSL, Various Apps and Resourses."
+image: https://i.imgur.com/swEAkJm.png
+share: true
+permalink: pgp-and-me/
+redirect_from: pgp-and-me
+---
 
 ```
 pull-requests-welcome
 
 ```
-
-
-## Contents
-* [Phil Zimmerman](#phil-zimmerman)
-* [PGP for Newbs](#pgp-for-newbs)
-* [SSH](#ssh
-* [ProtonMail](#protonmail)
-* [Verifying PGP Signatures](#verifying-pgp-signatures)
-  * [Gedit](#gedit)
-* [Bitcoin and Ethereum Signatures](#bitcoin-and-ethereum-signatures)
-* [Keybase](#keybase)
-* [DeepDotWeb](#deepdotweb)
-* [Escrow Services](#escrow-services)
-  * [BitcoinTalk Escrow](#bitcointalk-escrow)
-* [Apps](#apps)
-* [Resources](#resources)
 
 * [freelanceforcoins.com/**Business with Crypto 101—Escrow and Key Signatures**](https://freelanceforcoins.com/article/6-escrow) -infominer
 
@@ -27,7 +19,7 @@ pull-requests-welcome
 ## Phil Zimmerman
 * [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
   >It's personal. It's private. And it's no one's business but yours. You may be planning a political campaign, discussing your taxes, or having a secret romance. Or you may be communicating with a political dissident in a repressive country. Whatever it is, you don't want your private electronic mail (email) or confidential documents read by anyone else. There's nothing wrong with asserting your privacy. Privacy is as apple-pie as the Constitution.
-* [https://www.wired.com/1993/02/crypto-rebels/](https://www.wired.com/1993/02/crypto-rebels/)
+* [https://www.wired.com/1993/02/crypto-rebels/](https://www.wired.com/1993/02/crypto-rebels/)<br/>
   [![](https://i.imgur.com/kzOMg4o.png)](https://www.wired.com/1993/02/crypto-rebels/)
 * [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars)
   > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
@@ -35,10 +27,8 @@ pull-requests-welcome
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 * [infominer.id/bitcoin-history/before-bitcoin/cypherpunks/](https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/)
 * [Even the Inventor of PGP Doesn’t Use PGP](https://motherboard.vice.com/en_us/article/vvbw9a/even-the-inventor-of-pgp-doesnt-use-pgp)
-* [GnuPG for Daily Use (a Mini How-To...)](http://moser-isi.ethz.ch/gpg.html)
-* [Configuring Yubikeys, GPG, and Keybase](https://ttmm.io/tech/yubikey/)
 
-## PGP for Newbs
+## PGP for Newbs and Beyond
 
 * [How-To-PGP](https://howtopgp.jugendhackt.de/#/) 
   >With this interactiv instruction we want to explain you, how to encrypt your e-mails with PGP to protect your communication and help stopping mass surveillance.
@@ -47,20 +37,25 @@ pull-requests-welcome
 * [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
 * [Quick'n easy gpg cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
 * [GPG Quickstart Guide 🔒](https://medium.com/@acparas/gpg-quickstart-guide-d01f005ca99)
+* [GPG Tutorial and PGP Public Key for ∀lan ∃liasen](https://futureboy.us/pgp.html)
+* [GnuPG for Daily Use (a Mini How-To...)](http://moser-isi.ethz.ch/gpg.html)
+* [Configuring Yubikeys, GPG, and Keybase](https://ttmm.io/tech/yubikey/)
 
-### SSH
+### SSH 
 
-Also public key encryption, allows you to remotely connect to a server, without typing in your user\name password. 
+Another form of public key encryption, allows you to remotely connect to a server, without typing in your user\name password. 
 
 * <a href="https://help.github.com/en/articles/connecting-to-github-with-ssh" target="_blank">Connecting to GitHub with SSH</a>
 * <a href="https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent" target="_blank">Generating a new SSH key and adding it to the SSH agent</a>
 * <a href="https://help.github.com/en/enterprise/2.15/user/articles/adding-a-new-ssh-key-to-your-github-account" target="_blank">Adding a new SSH key to your GitHub Account</a>
 * <a href="https://medium.freecodecamp.org/manage-multiple-github-accounts-the-ssh-way-2dadc30ccaca" target="_blank">How to manage multiple GitHub accounts on a single machine with SSH keys</a>
 
+Signing Commits
+* [managing-commit-signature-verification](https://help.github.com/en/articles/managing-commit-signature-verification)
 
 ## Protonmail 
 
-Has built in encryption for your e-mail... but doesn't make it super easy to verify messages from outside.
+Has built in support for PGP for your e-mails... but doesn't make it super easy to verify messages from outside.
 * [https://protonmail.com/support/knowledge-base/how-to-use-pgp/](https://protonmail.com/support/knowledge-base/how-to-use-pgp/)
 
 ## Verifying PGP Signatures
@@ -86,6 +81,7 @@ gpg --verify signed_file.sig
   >Keybase is for anyone. Imagine a Slack for the whole world, except end-to-end encrypted across all your devices. Or a Team Dropbox where the server can't leak your files or be hacked.
 * [Keybase - PGP Encryption made Easy](https://www.andreagrandi.it/2017/10/21/keybase-pgp-encryption-made-easy/)
 * [https://keybase.io/docs/command_line](https://keybase.io/docs/command_line)
+* [Keybase chome and firefox extensions](https://keybase.io/docs/extension) - let you communicate with other keybase users via twitter reddit ycombinator and others (wherever you've verified).
 
 ## deepdotweb
 
@@ -158,4 +154,3 @@ March 03, 2019](https://bitcointalk.org/index.php?topic=5116510.0)
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   >In addition to using encryption, standing up to surveillance requires fighting politically for a reduction in the amount of data collected on us, but the essential first step is to protect yourself and make surveillance of your communication as difficult as possible. This guide helps you do that. It is designed for beginners, but if you already know the basics of GnuPG or are an experienced free software user, you'll enjoy the advanced tips and the guide to teaching your friends.
   ![](https://static.fsf.org/nosvn/enc-dev0/img/en/full-infographic.png)
-

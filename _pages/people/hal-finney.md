@@ -1,4 +1,7 @@
-# Hal Finney
+---
+title: Hal Finney
+permalink: people/hal-finney/
+---
 
 * [Who is Hal Finney?](https://101blockchains.com/who-is-hal-finney-bitcoin/)
 

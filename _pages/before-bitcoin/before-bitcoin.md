@@ -4,6 +4,7 @@ description: For related history preceeding the development of Bitcoin.
 layout: single
 image: https://i.imgur.com/iPWSy2K.png
 permalink: "before-bitcoin"
+redirect_from: "before-bitcoin/"
 ---
 
 This section is for all history preceeding, and related to the develpment of Bitcoin. To include background information regarding Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.

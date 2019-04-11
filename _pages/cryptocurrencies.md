@@ -1,3 +1,9 @@
+---
+title: History of Cryptocurrencies
+permalink: cryptocurrencies/
+
+---
+
 http://bitpaper.info/paper/5722646637445120
 ^^^ rejection of coloured coins leads to ethereum
 

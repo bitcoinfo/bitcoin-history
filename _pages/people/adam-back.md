@@ -1,4 +1,7 @@
-# Adam Back
+---
+title: Adam Back
+permalink: people/adam-back/
+---
 
 * Founder and CEO of [Blockstream](https://blockstream.com/)
 * [Homepage](http://www.cypherspace.org/adam/) [[**T**](https://twitter.com/adam3us)]
