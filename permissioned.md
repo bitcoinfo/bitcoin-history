@@ -2,7 +2,7 @@
 title: The History of Permissioned Ledgers
 description: "Starting from 2014, the term 'distributed ledger' came into use, and the idea of 'Blockchain for Business' was born. What's become of permissioned ledgers over the years?"
 image: "https://i.imgur.com/UnfJmvG.png"
-permalink: permissioned
+permalink: permissioned/
 ---
 
 Primarily to be focused on the development of permissioned ledgers, but including some general enterprise stuffs while I get my timeline together.
