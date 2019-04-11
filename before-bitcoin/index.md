@@ -12,18 +12,18 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 ## Contents
 
-* [Short-form Crypto Fundamentals](#short-form-crypto-fundamentals 
-* [Timelines](#timelines
-* [Pre-Digital Cryptogrphay](#pre-digital-cryptography
-* [Digital Cryptography](#digital-cryptography
-* [David Chaum](#David-Chaum
-* [Distributed Systems](#distributed-systems
-* [Cypherpunks](#cypherpunks
-* [Pre-Bitcoin Digital Currency](#Pre-Bitcoin-Digital-Currency=)
-* [Literature](#Literature
-* [Video-Audio](#video-audio
-* [Resources](#additional-resources
-* [Tips Jar](#infominerid-
+* [Short-form Crypto Fundamentals](#short-form-crypto-fundamentals)
+* [Timelines](#timelines)
+* [Pre-Digital Cryptogrphay](#pre-digital-cryptography)
+* [Digital Cryptography](#digital-cryptography)
+* [David Chaum](#David-Chaum)
+* [Distributed Systems](#distributed-systems)
+* [Cypherpunks](#cypherpunks)
+* [Pre-Bitcoin Digital Currency](#Pre-Bitcoin-Digital-Currency)
+* [Literature](#Literature)
+* [Video-Audio](#video-audio)
+* [Resources](#additional-resources)
+* [Tips Jar](#infominerid)
 
 ### Short-form Crypto Fundamentals [**^**](#research-index) 
 -by Infominer
