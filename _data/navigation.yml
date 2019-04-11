@@ -23,7 +23,7 @@ bitnav:
       - title:             Before Bitcoin
         url:               /before-bitcoin/
       - title:             Cypherpunks
-        url:               /before-bitcoin/cypherpunks/
+        url:               /cypherpunks/
       - title:             Electronic Cash
         url:               /before-bitcoin/electronic-cash/
       - title:             Permissioned Ledgers
