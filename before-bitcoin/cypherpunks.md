@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Cypherpunks and the Crypto Wars
-permalink: cyperpunks
+permalink: cypherpunks
 ---
 
 
