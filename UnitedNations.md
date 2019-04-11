@@ -11,7 +11,7 @@ Originally this lived in [infominer33/bitcoin-history](https://github.com/infomi
 
 The organizations are listed roughly in order of when they got involved with blockchain. 
 
-I'm sure to have missed a few things. Please leave an issue, pull request, or [contact me](https://infominer.id#contact-) if there's anything you'd like included.
+I'm sure to have missed a few things. Please leave an issue, pull request, or [contact me](https://infominer.id#contact if there's anything you'd like included.
 
 Off the top of my head: Bitcoin, Ethereum, Stellar and IOTA have worked w UN. Eventually each may have its own section, as well.
 
@@ -21,33 +21,33 @@ Check out this collection's companion article:
 
 ## Contents
 * [**infominer.id**](https://infominer.id)
-* [Early History](#early-history-)
-* [UN Human Rights Council - Encryption is Free Speech](#un-human-rights-council-)
-* [Agenda for Sustainable Development](#agenda-for-sustainable-development-)
-* [Bitnation](#bitnation-)
-* [UNRISD Report](#unrisd-report-)
-* [ID2020 - UNHCR](#id2020---unhcr-)
-* [UNDP](#undp-)
-* [UNICEF](#unicef-)
-* [UN Women](#un-women-)
-* [UNOPS](#unops-)
-  * [UN Blockchain Group](#un-blockchain-group-)
-  * [WIN - World Identity Network](#win---world-identity-network-)
-* [WFP - World Food Programme](#wfp---world-food-programme-)
+* [Early History](#early-history
+* [UN Human Rights Council - Encryption is Free Speech](#un-human-rights-council
+* [Agenda for Sustainable Development](#agenda-for-sustainable-development
+* [Bitnation](#bitnation
+* [UNRISD Report](#unrisd-report
+* [ID2020 - UNHCR](#id2020---unhcr
+* [UNDP](#undp
+* [UNICEF](#unicef
+* [UN Women](#un-women
+* [UNOPS](#unops
+  * [UN Blockchain Group](#un-blockchain-group
+  * [WIN - World Identity Network](#win---world-identity-network
+* [WFP - World Food Programme](#wfp---world-food-programme
 * [BFI - Blockchain for Impact](#bfi---blockchain-for-impact)
 * [Consensys - Blockchain for Social Impact](#consensys---blockchain-for-social-impact)
-* [Humanitarian Blockchain Summit](#humanitarian-blockchain-summit-)
-* [UN/CEFACT - Workshop on Blockchain](#uncefact---conferenceworkshop-on-blockchain-)
-* [UN Climate Chain Coalition](#un-climate-chain-coalition-)
-* [UN Secretary General António Guterres](#un-secretary-general-antónio-guterres-)
-* [Binance - Blockchain Charity Foundation](#blockchain-charity-foundation-)
-* [ITU](#itu-)
-* [Blockchains for Sustainable Development](#blockchains-for-sustainable-development-)
-* [World Blockchain Organization](#world-blockchain-association-)
-* [Additional Resources](#additional-resources-)
-  * [2016](#2016-)
-  * [2017](#2017-)
-  * [2018](#2018-)
+* [Humanitarian Blockchain Summit](#humanitarian-blockchain-summit
+* [UN/CEFACT - Workshop on Blockchain](#uncefact---conferenceworkshop-on-blockchain
+* [UN Climate Chain Coalition](#un-climate-chain-coalition
+* [UN Secretary General António Guterres](#un-secretary-general-antónio-guterres
+* [Binance - Blockchain Charity Foundation](#blockchain-charity-foundation
+* [ITU](#itu
+* [Blockchains for Sustainable Development](#blockchains-for-sustainable-development
+* [World Blockchain Organization](#world-blockchain-association
+* [Additional Resources](#additional-resources
+  * [2016](#2016
+  * [2017](#2017
+  * [2018](#2018
 
 ## Early History 
 
