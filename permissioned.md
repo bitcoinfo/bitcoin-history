@@ -55,14 +55,14 @@ However, if you are looking at this, and the above article, thinking: "I really 
 
 I’m into blockchains, having been a founder and former COO of [Monax](https://monax.io/). Monax built [the first](https://blogs.wsj.com/moneybeat/2015/04/14/bitbeat-blockchains-without-coins-stir-tensions-in-bitcoin-community/) open-source permissioned blockchain client in 2014. The design has since evolved into the market-leading Hyperledger Burrow permissioned Ethereum blockchain node. Burrow is presently the Hyperledger Project’s only Ethereum Virtual Machine (EVM), and is used by Intel and IBM’s contributions to that project, Sawtooth and Fabric, to run EVMs on those codebases. 
 
-* https://prestonbyrne.com/2014/06/02/project-d/
+* [https://prestonbyrne.com/2014/06/02/project-d/](prestonbyrne.com/2014/06/02/project-d/)
   > In response, Casey Kuhlman, Dennis McKinnon and Preston Byrne of Monax led an effort to create the worlds first Decentralized Autonomous Organization
-* https://prestonbyrne.com/2014/10/25/introducing-eris-industries/
+* [https://prestonbyrne.com/2014/10/25/introducing-eris-industries/](prestonbyrne.com/2014/10/25/introducing-eris-industries/)
   - This became [Eris Industries](https://web.archive.org/web/20150213194226/https://erisindustries.com/), growing into an open-source [Distributed Application Software Stack](https://web.archive.org/web/20160411053017/https://blog.erisindustries.com/philosophy/2016/03/02/eris-and-tendermint/) including a distributed application server ([Decerver](https://web.archive.org/web/20150414200414/https://decerver.io/)), [ErisDB](https://web.archive.org/web/20151120220014/https://erisindustries.com/components/erisdb/),
 
 They didn't win the bounty, but their open-source permissionable implementation of the Ethereum Virtual Machine (EVM) was submitted to the Hyperledger Foundation under the name [Burrow](https://www.hyperledger.org/wp-content/uploads/2017/06/HIP_Burrowv2.pdf), and has helped any number of people and organizations experiment with a blockchain virtual machine.
 
-* https://prestonbyrne.com/2015/04/08/blockchain-without-bitcoin-is-now-a-thing/
+* [https://prestonbyrne.com/2015/04/08/blockchain-without-bitcoin-is-now-a-thing/](https://prestonbyrne.com/2015/04/08/blockchain-without-bitcoin-is-now-a-thing/)
 
 
 ## Misc-2015 
@@ -149,7 +149,7 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 10/2016, JP Morgan announced their development of Quorum, a permissioned version of Ethereum supporting data privacy to enable interaction between public and private blockchains and allowing for private, secure, peer-to-peer transactions.
 
 * [J.P. Morgan Has a New Twist on Blockchain](http://archive.is/Q1Xm0)
-https://futurism.com/say-hello-to-quorum-j-p-morgans-private-blockchain-network
+* [say-hello-to-quorum-j-p-morgans-private-blockchain-network](https://futurism.com/say-hello-to-quorum-j-p-morgans-private-blockchain-network)
 
 ## R3 - Corda 
 
@@ -163,7 +163,7 @@ https://futurism.com/say-hello-to-quorum-j-p-morgans-private-blockchain-network
 
 * [Anonymous Identities for Permissioned Blockchains](https://petertodd.org/assets/2016-04-21/MIT-ChainAnchor-DRAFT.pdf)
 
-* [https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf](https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf)
+* [Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf](https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf)
 
 
 ## 2017 
