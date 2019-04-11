@@ -75,13 +75,14 @@ They didn't win the bounty, but their open-source permissionable implementation 
 * [19 Crypto 2.0 projects to watch - 2015](https://www.coindesk.com/19-crypto-2-0-projects-watch-2015)
 * [COST? TRUST? SOMETHING ELSE? WHAT’S THE KILLER-APP FOR BLOCK CHAIN TECHNOLOGY?](https://gendal.me/2015/01/15/cost-trust-something-else-whats-the-killer-app-for-block-chain-technology/)
   * Could decentralized ledgers change the face of accounting?
-* https://a16z.com/2015/11/11/blockchain-bitcoin-fintech/
+* [https://a16z.com/2015/11/11/blockchain-bitcoin-fintech/](https://a16z.com/2015/11/11/blockchain-bitcoin-fintech/)
 
-* https://bitcoinmagazine.com/articles/itbit-hires-former-nydfs-general-counsel-daniel-alter-pushes-ahead-bankchain-project-1441313267/ (https://www.itbit.com/)
+* [https://bitcoinmagazine.com/articles/itbit-hires-former-nydfs-general-counsel-daniel-alter-pushes-ahead-bankchain-project-1441313267/](https://bitcoinmagazine.com/articles/itbit-hires-former-nydfs-general-counsel-daniel-alter-pushes-ahead-bankchain-project-1441313267/) 
+  * [itbit.com](https://www.itbit.com/)
 
-* https://www.ofnumbers.com/wp-content/uploads/2015/04/Permissioned-distributed-ledgers.pdf
+* [https://www.ofnumbers.com/wp-content/uploads/2015/04/Permissioned-distributed-ledgers.pdf](https://www.ofnumbers.com/wp-content/uploads/2015/04/Permissioned-distributed-ledgers.pdf)
 
-* https://prestonbyrne.com/2015/04/19/crypto-2-0-musings-deconstructing-trust/
+* [https://prestonbyrne.com/2015/04/19/crypto-2-0-musings-deconstructing-trust/](https://prestonbyrne.com/2015/04/19/crypto-2-0-musings-deconstructing-trust/)
 
 * [BITCOIN AND BLOCKCHAIN: TWO REVOLUTIONS FOR THE PRICE OF ONE?](https://gendal.me/2015/07/23/bitcoin-and-blockchain-two-revolutions-for-the-price-of-one/)
 
@@ -109,32 +110,32 @@ They didn't win the bounty, but their open-source permissionable implementation 
 
 * [A Brief History of Hyperledger Fabric](https://www.linkedin.com/pulse/hyperledger-fabric-brief-history-binh-nguyen)
 
-https://wiki.hyperledger.org/projects/fabric#history
+* [https://wiki.hyperledger.org/projects/fabric#history](https://wiki.hyperledger.org/projects/fabric#history)
 
-* https://github.com/openblockchain
+* [github.com/openblockchain](https://github.com/openblockchain)
   - The beginning of what became hyperledger fabric
 
-https://www.hyperledger.org/blog/2017/07/11/hyperledger-fabric-1-0-is-released
+* [hyperledger-fabric-1-0-is-released](https://www.hyperledger.org/blog/2017/07/11/hyperledger-fabric-1-0-is-released)
 
 
 ## Sawtooth 
 
 
-https://docs.google.com/document/d/1j7YcGLJH6LkzvWdOYFIt2kpkVlLEmILErXL6t-Ky2zU/edit
+* [https://docs.google.com/document/d/1j7YcGLJH6LkzvWdOYFIt2kpkVlLEmILErXL6t-Ky2zU/edit](https://docs.google.com/document/d/1j7YcGLJH6LkzvWdOYFIt2kpkVlLEmILErXL6t-Ky2zU/edit)
 
 
-https://www.ibtimes.com/intel-reveals-its-plan-blockchain-technology-sawtooth-lake-distributed-ledger-2350599
+* [intel-reveals-its-plan-blockchain-technology-sawtooth-lake-distributed-ledger-2350599](https://www.ibtimes.com/intel-reveals-its-plan-blockchain-technology-sawtooth-lake-distributed-ledger-2350599)
 
-https://bitcoinmagazine.com/articles/intel-develops-sawtooth-lake-distributed-ledger-technology-for-the-hyperledger-project-1460397461/
+* [https://bitcoinmagazine.com/articles/intel-develops-sawtooth-lake-distributed-ledger-technology-for-the-hyperledger-project-1460397461/](https://bitcoinmagazine.com/articles/intel-develops-sawtooth-lake-distributed-ledger-technology-for-the-hyperledger-project-1460397461/)
 
 
 ## Iroha 
 
-https://docs.google.com/document/d/1sN-6mv-m85NlbI3ZjwFkDT0izTcxbUaZN9LjLEe045Y/edit
+* [https://docs.google.com/document/d/1sN-6mv-m85NlbI3ZjwFkDT0izTcxbUaZN9LjLEe045Y/edit](https://docs.google.com/document/d/1sN-6mv-m85NlbI3ZjwFkDT0izTcxbUaZN9LjLEe045Y/edit)
 
-https://www.hyperledger.org/blog/2016/11/01/hyperledger-welcomes-iroha
+* [https://www.hyperledger.org/blog/2016/11/01/hyperledger-welcomes-iroha](https://www.hyperledger.org/blog/2016/11/01/hyperledger-welcomes-iroha)
 
-https://arxiv.org/pdf/1809.00554.pdf
+* [https://arxiv.org/pdf/1809.00554.pdf](https://arxiv.org/pdf/1809.00554.pdf)
 
 ## Evernym-Sovrin 
 
@@ -142,7 +143,6 @@ Around the same time, Evernym published its initial [identity white paper](https
 
 In September, the open-source Sovrin codebase was [donated to the Sovrin Foundation](http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml): a private-sector, international non-profit established to govern a global public utility for self-sovereign identity.
 
-for more info on this see: https://github.com/infominer33/awesome-decentralized-id
 
 ## Quorum 
 
@@ -157,23 +157,23 @@ https://futurism.com/say-hello-to-quorum-j-p-morgans-private-blockchain-network
 
 ## Misc-2016 
 
-* https://data.gov.ru/sites/default/files/documents/315354748-applying-blockchain-technology-in-global-data-infrastructure.pdf '16
+* [https://data.gov.ru/sites/default/files/documents/315354748-applying-blockchain-technology-in-global-data-infrastructure.pdf](https://data.gov.ru/sites/default/files/documents/315354748-applying-blockchain-technology-in-global-data-infrastructure.pdf) '16
 
-* http://allcoinsnews.com/2016/04/11/chain-mitsubishi-ufj-start-blockchain-proof-of-concept-for-promissory-notes/
+* [http://allcoinsnews.com/2016/04/11/chain-mitsubishi-ufj-start-blockchain-proof-of-concept-for-promissory-notes/](http://allcoinsnews.com/2016/04/11/chain-mitsubishi-ufj-start-blockchain-proof-of-concept-for-promissory-notes/)
 
 * [Anonymous Identities for Permissioned Blockchains](https://petertodd.org/assets/2016-04-21/MIT-ChainAnchor-DRAFT.pdf)
 
-https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf
+* [https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf](https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf)
 
 
 ## 2017 
 
-https://entethalliance.org/enterprise-ethereum-alliance-going-strong/
+* [https://entethalliance.org/enterprise-ethereum-alliance-going-strong/](https://entethalliance.org/enterprise-ethereum-alliance-going-strong/)
 
-https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb 
+* [https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb](https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb) 
 
 
 ## 2018 
 
-* https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/
+* [https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/](https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/)
  
