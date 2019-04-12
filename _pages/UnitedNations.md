@@ -41,7 +41,7 @@ Check out this collection's companion article:
 * [Humanitarian Blockchain Summit](#humanitarian-blockchain-summit)
 * [UN/CEFACT - Workshop on Blockchain](#uncefact---conferenceworkshop-on-blockchain)
 * [UN Climate Chain Coalition](#un-climate-chain-coalition)
-* [UN Secretary General António Guterres](#un-secretary-general-antonio-guterres)
+* [UN Secretary General Antonio Guterres](#un-secretary-general-antonio-guterres)
 * [Binance - Blockchain Charity Foundation](#blockchain-charity-foundation)
 * [ITU](#itu)
 * [Blockchains for Sustainable Development](#blockchains-for-sustainable-development)

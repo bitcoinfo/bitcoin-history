@@ -71,7 +71,7 @@ permalink: /
   * <a href="{{ site.rooturl }}/UnitedNations/#humanitarian-blockchain-summit-">Humanitarian Blockchain Summit</a>
   * <a href="{{ site.rooturl }}/UnitedNations/#un-cefact---workshop-on-blockchain-">UN/CEFACT - Workshop on Blockchain</a>
   * <a href="{{ site.rooturl }}/UnitedNations/#un-climate-conference-">UN Climate Conference</a>
-  * <a href="{{ site.rooturl }}/UnitedNations/#un-secretary-general-antónio-guterres-">UN Secretary General António Guterres</a>
+  * <a href="{{ site.rooturl }}/UnitedNations/#un-secretary-general-antonio-guterres-">UN Secretary General António Guterres</a>
   * <a href="{{ site.rooturl }}/UnitedNations/#blockchain-charity-foundation-">Blockchain Charity Foundation</a>
   * <a href="{{ site.rooturl }}/UnitedNations/#additional-resources-">Additional Resources</a>
     * <a href="{{ site.rooturl }}/UnitedNations/#2016-">2016</a>
