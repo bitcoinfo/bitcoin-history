@@ -41,11 +41,11 @@ Check out this collection's companion article:
 * [Humanitarian Blockchain Summit](#humanitarian-blockchain-summit)
 * [UN/CEFACT - Workshop on Blockchain](#uncefact---conferenceworkshop-on-blockchain)
 * [UN Climate Chain Coalition](#un-climate-chain-coalition)
-* [UN Secretary General António Guterres](#un-secretary-general-antónio-guterres)
+* [UN Secretary General António Guterres](#un-secretary-general-antonio-guterres)
 * [Binance - Blockchain Charity Foundation](#blockchain-charity-foundation)
 * [ITU](#itu)
 * [Blockchains for Sustainable Development](#blockchains-for-sustainable-development)
-* [World Blockchain Organization](#world-blockchain-association
+* [World Blockchain Organization](#world-blockchain-association)
 * [Additional Resources](#additional-resources)
   * [2016](#2016)
   * [2017](#2017)
@@ -329,7 +329,7 @@ That collaborative continued to grow, as Yamamoto met with members of various UN
 
   
 
-## UN Secretary General António Guterres 
+## UN Secretary General Antonio Guterres 
 
 [![](https://i.imgur.com/r6tgban.png)](https://twitter.com/UNSGdigicoop)
 
