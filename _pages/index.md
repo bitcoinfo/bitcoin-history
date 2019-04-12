@@ -2,7 +2,8 @@
 layout: home
 title: Bitcoin History
 description: A Growing Catalog of Resources Related to the History Surrounding Bitcoin.
-overlay_image: "assets/img/satoshi.gif"
+header: 
+  overlay_image: "assets/img/satoshi.gif"
   caption: >
     "No one knows who Satoshi really is, but these words speak for themselves. This decentralized portrait creates an image and type portrait out of abstract section from the Bitcoin whitepaper. This is a one-of-a-kind variant that was created while making the offical video portrait that is part of the "Decentral Eyes" portrait series."
   actions:
