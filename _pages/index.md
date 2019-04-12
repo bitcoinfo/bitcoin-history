@@ -2,16 +2,14 @@
 layout: home
 title: Bitcoin History
 description: A Growing Catalog of Resources Related to the History Surrounding Bitcoin.
-excerpt: >
-  "No one knows who Satoshi really is, but these words speak for themselves. This decentralized portrait creates an image and type portrait out of abstract section from the Bitcoin whitepaper. This is a one-of-a-kind variant that was created while making the offical video portrait that is part of the "Decentral Eyes" portrait series."
 header: 
   image: "https://infominer.id/bitcoin-history/assets/img/satoshi.gif"
   caption: "[Satoshi Nakamoto - Decentral Eyes - Variant 02](https://superrare.co/artwork/satoshi-nakamoto---decentral-eyes---variant-02-1410)"
 permalink: /
-show_excerpts: true
 ---
 
-{{ post.excerpt }}
+> "No one knows who Satoshi really is, but these words speak for themselves. This decentralized portrait creates an image and type portrait out of abstract section from the Bitcoin whitepaper. This is a one-of-a-kind variant that was created while making the offical video portrait that is part of the "[Decentral Eyes](https://superrare.co/artwork/satoshi-nakamoto---decentral-eyes---variant-02-1410)" portrait series."
+{: .notice--warning}
 
 <img src="https://infominer.id/bitcoin-history/bitcoin-history.png"/>
 
