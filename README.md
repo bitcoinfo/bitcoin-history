@@ -62,7 +62,7 @@ I think that will make it easier for github browsers to avoid the web-site files
   * <a href="_pages/UnitedNations.html#humanitarian-blockchain-summit-">Humanitarian Blockchain Summit</a>
   * <a href="_pages/UnitedNations.html#un-cefact---workshop-on-blockchain-">UN/CEFACT - Workshop on Blockchain</a>
   * <a href="_pages/UnitedNations.html#un-climate-conference-">UN Climate Conference</a>
-  * <a href="_pages/UnitedNations.html#un-secretary-general-antónio-guterres-">UN Secretary General António Guterres</a>
+  * <a href="_pages/UnitedNations.html#un-secretary-general-antonio-guterres-">UN Secretary General António Guterres</a>
   * <a href="_pages/UnitedNations.html#blockchain-charity-foundation-">Blockchain Charity Foundation</a>
   * <a href="_pages/UnitedNations.html#additional-resources-">Additional Resources</a>
     * <a href="_pages/UnitedNations.html#2016-">2016</a>
