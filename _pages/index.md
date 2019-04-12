@@ -8,7 +8,10 @@ header:
   image: "https://infominer.id/bitcoin-history/assets/img/satoshi.gif"
   caption: "[Satoshi Nakamoto - Decentral Eyes - Variant 02](https://superrare.co/artwork/satoshi-nakamoto---decentral-eyes---variant-02-1410)"
 permalink: /
+show_excerpts: true
 ---
+
+{{ post.excerpt }}
 
 <img src="https://infominer.id/bitcoin-history/bitcoin-history.png"/>
 
