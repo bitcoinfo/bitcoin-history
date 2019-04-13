@@ -3,7 +3,7 @@ layout: single
 title: Bitcoin History
 description: >
   An assorted open-source collection of resources on the history of Bitcoin.
-image: /assets/img/chancellor-brink-bailout-banks.jpg
+image: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.jpg
 permalink: "bitcoin-history/"
 redirect_from: "bitcoin-history"
 ---
