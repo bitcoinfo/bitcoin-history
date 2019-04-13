@@ -149,9 +149,13 @@ What follows is a list of books that were influential upon early cypherpunks. As
 * https://nakamotoinstitute.org/literature/ 
   >Bitcoin was not forged in a vacuum. These works serve to contextualize Bitcoin into the broader story of cryptography and freedom.
 
-* [This Machine Kills Secrets:](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets) How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information, by Andy Greenberg '12
+[![](https://i.imgur.com/FVeyOP5.png)](https://www.goodreads.com/book/show/16153182-cypherpunks)
+
+[![](https://i.imgur.com/XDl0Bxl.png)](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets)
+  * This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information, by Andy Greenberg '12
 
 [![](https://i.imgur.com/XW3Cbqz.png)](https://www.goodreads.com/book/show/22332.Cyberpunk_and_Cyberculture)
+  * Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ Really excellent literary review!
 
 * [The Essential Cyberpunk Reading List](https://io9.gizmodo.com/the-essential-cyberpunk-reading-list-1714180001) '15
   * Neuromancer by William Gibson
