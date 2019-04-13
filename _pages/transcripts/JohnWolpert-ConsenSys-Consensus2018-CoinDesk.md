@@ -10,7 +10,9 @@ I found the video at [https://www.pscp.tv/coindesk/1mnGeXaANqEKX](https://www.ps
 
 This is a cleaned up version of that youtube transcription. 
 
-[![](https://i.imgur.com/feJg6X4.png)](https://www.pscp.tv/coindesk/1mnGeXaANqEKX)
+
+{% include video id="b6hFmXjJgR4" provider="youtube" %}
+
 
 ## Pete Rizzo Interview with John Wolpert of @ConsenSys formerly IBM.
 
