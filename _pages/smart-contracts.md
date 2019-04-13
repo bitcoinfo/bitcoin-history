@@ -26,10 +26,10 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
   * [Ethereum](#ethereum)
   * [DAO](#dao)
   * [After DAO](#after-dao)
-* [Resources](#resources
+* [Resources](#resources)
   * [Ricardian - Legal](#ricardian---legal)
   * [Smart Signatures](#smart-signatures)
-  * [Bitcoin](#bitcoin
+  * [Bitcoin](#bitcoin)
   * [Languages\Platforms](#languages---platforms)
   * [Learn-BUIDL](#learn-buidl)
   * [ETC](#etc)
