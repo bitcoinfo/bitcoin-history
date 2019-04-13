@@ -35,7 +35,7 @@ pull-requests-welcome
 * [EMAIL SELF-DEFENSE](https://emailselfdefense.fsf.org/en) - "Learn GnuPG in 30 Minutes"
   > ![](https://i.imgur.com/danqZLd.png)
 * [How To Use GPG to Encrypt and Sign Messages](https://www.digitalocean.com/community/tutorials/how-to-use-gpg-to-encrypt-and-sign-messages)
-* [Quick'n easy gpg cheatsheet](http://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
+* [Quick'n easy gpg cheatsheet](https://irtfweb.ifa.hawaii.edu/~lockhart/gpg/)
 * [GPG Quickstart Guide 🔒](https://medium.com/@acparas/gpg-quickstart-guide-d01f005ca99)
 * [GPG Tutorial and PGP Public Key for ∀lan ∃liasen](https://futureboy.us/pgp.html)
 * [GnuPG for Daily Use (a Mini How-To...)](http://moser-isi.ethz.ch/gpg.html)

@@ -218,7 +218,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
-![](http://imgur.com/yXLLm9Bl.png) 
+![](https://imgur.com/yXLLm9Bl.png) 
 
 DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
 

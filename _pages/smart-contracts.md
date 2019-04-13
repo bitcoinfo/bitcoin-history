@@ -88,7 +88,7 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
 
 ### Ricardian - Legal 
 
-* [On the intersection of Ricardian and Smart Contracts](http://iang.org/papers/intersection_ricardian_smart.html)
+* [On the intersection of Ricardian and Smart Contracts](https://iang.org/papers/intersection_ricardian_smart.html)
 * [Smart Contracts, Dumb Signatures: Why Blockchain-based signatures](https://medium.com/@blockarray/smart-contracts-dumb-signatures-why-blockchain-based-signatures-may-not-be-legal-in-your-efb64bc030c0)
   >This is not legal advice, please seek professional guidance from an attorney.
 * [Defining smart contracts – Craig Wright – Medium](https://medium.com/@craig_10243/defining-smart-contracts-eb31fd825de6)
