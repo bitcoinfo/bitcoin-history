@@ -32,8 +32,14 @@ bitnav:
         url:               /UnitedNations/
       - title:             Smart Contracts
         url:               /smart-contracts/
-      - title:             PGP and ME
-        url:               /pgp-and-me/
+  - title: Transcripts
+    children:
+      - title: "JW Weatherman Interviews Timothy C May"
+        url: "transcripts/JW-Weatherman-Tim-May-Interview/"
+      - title: "Blockchains for Business: From Huh to Hype to Meh"
+        url: "transcripts/kuhlman-monax-blockchain-business-history/"
+      - title: "John Wolpert of @ConsenSys, Formerly IBM at Consensus 2018 #CoinDeskLIVE"
+        url: "transcripts/JohnWolpert-Consensus2018"
   - title: "Inf⧉Mine⧉"
     children:
       - title: "infominer.id"
@@ -53,12 +59,11 @@ bitnav:
         url: "https://infominer.id/gh-pages-starter-pack.html"
   - title: Featured
     children:
-      - title: "DID Related GitHub Repositories"
-        url: "https://infominer.id/DIDecentralized/identity-github/"
-      - title: "RebootingWebofTrust - Papers Index"
-        url: "https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/"
       - title: "Practical Cryptography - PGP and Me"
         url: "https://infominer.id/bitcoin-history/pgp-and-me/"
       - title: "Github Pages Starter Pack"
         url: "https://infominer.id/gh-pages-starter-pack.html"
-  
+      - title: "DID Related GitHub Repositories"
+        url: "https://infominer.id/DIDecentralized/identity-github/"
+      - title: "RebootingWebofTrust - Papers Index"
+        url: "https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/"
