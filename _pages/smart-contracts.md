@@ -30,11 +30,11 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
   * [Ricardian - Legal](#ricardian---legal)
   * [Smart Signatures](#smart-signatures)
   * [Bitcoin](#bitcoin
-  * [Languages\Platforms](#languages---platforms
-  * [Learn-BUIDL](#learn-buidl
-  * [ETC](#etc
-  * [Literature](#literature
-  * [Resources](#resources
+  * [Languages\Platforms](#languages---platforms)
+  * [Learn-BUIDL](#learn-buidl)
+  * [ETC](#etc)
+  * [Literature](#literature)
+  * [Resources](#resources)
 
 ## History
 ### Nick Szabo
