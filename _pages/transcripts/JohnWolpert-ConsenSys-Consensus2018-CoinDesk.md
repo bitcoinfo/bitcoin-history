@@ -1,20 +1,21 @@
 ---
 title: "John Wolpert of @ConsenSys talks awesomeness at #Consensus2018 #CoinDeskLIVE"
 permalink: transcripts/JohnWolpert-Consensus2018
-og_image: "https://i.imgur.com/xjXLMUx.png"
+header:
+  image: "https://i.imgur.com/xjXLMUx.png"
+  caption: "May 16, Consensus 2018. [Pete Rizzo](https://twitter.com/pete_rizzo_) of @Coindesk interviews [John Wolpert](https://twitter.com/jwolpert), ConsenSys Studios."
   #thumb: "https://i.imgur.com/Nb95j0G.png"
 ---
 
-May 16, Consensus 2018. [Pete Rizzo](https://twitter.com/pete_rizzo_) of @Coindesk interviews [John Wolpert](https://twitter.com/jwolpert), of Consensys Studios (formerly heading IBM's blockchain Division).
+May 16, Consensus 2018. [Pete Rizzo](https://twitter.com/pete_rizzo_) of @Coindesk interviews [John Wolpert](https://twitter.com/jwolpert), Consensys Studios (former head of IBM's blockchain Division).
 
 I found the video at [https://www.pscp.tv/coindesk/1mnGeXaANqEKX](https://www.pscp.tv/coindesk/1mnGeXaANqEKX) then [ported it to youtube](https://www.youtube.com/watch?v=b6hFmXjJgR4) for their autotranscription.
 
 This is a cleaned up version of that youtube transcription. 
 
-
 {% include video id="b6hFmXjJgR4" provider="youtube" %}
 
-*note: I've included the youtube video here, rather than the original because periscope videos are not easy to embed.
+*note: I've included my youtube copy here, rather than the original, because periscope videos are not easy to embed.
 
 ## Pete Rizzo Interview with John Wolpert of @ConsenSys formerly IBM.
 
