@@ -90,7 +90,7 @@ I think that will make it easier for github browsers to avoid the web-site files
   * <a href="_pages/people/wei-dai.html">Wei Dai</a>
   * <a href="_pages/people/adam-back.html">Adam Back</a>
 
-![](http://i.imgur.com/DCLD6XA.png)<br>
+![](https://i.imgur.com/DCLD6XA.png)<br>
 [www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com)
 
 ---
