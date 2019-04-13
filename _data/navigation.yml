@@ -34,9 +34,9 @@ bitnav:
         url:               /smart-contracts/
   - title: Transcripts
     children:
-      - title: "JW Weatherman Interviews Timothy C May"
+      - title: "JW Weatherman Interviews Tim May"
         url: "transcripts/JW-Weatherman-Tim-May-Interview/"
-      - title: "Blockchains for Business: From Huh to Hype to Meh"
+      - title: "Blockchain for Business: Huh to Hype to Meh"
         url: "transcripts/kuhlman-monax-blockchain-business-history/"
       - title: "John Wolpert of @ConsenSys, Formerly IBM at Consensus 2018 #CoinDeskLIVE"
         url: "transcripts/JohnWolpert-Consensus2018"
