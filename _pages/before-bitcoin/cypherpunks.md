@@ -151,6 +151,8 @@ What follows is a list of books that were influential upon early cypherpunks. As
 
 * [This Machine Kills Secrets:](https://www.goodreads.com/book/show/13586738-this-machine-kills-secrets) How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information, by Andy Greenberg '12
 
+[![](https://i.imgur.com/XW3Cbqz.png)](https://www.goodreads.com/book/show/22332.Cyberpunk_and_Cyberculture)
+
 * [The Essential Cyberpunk Reading List](https://io9.gizmodo.com/the-essential-cyberpunk-reading-list-1714180001) '15
   * Neuromancer by William Gibson
 
