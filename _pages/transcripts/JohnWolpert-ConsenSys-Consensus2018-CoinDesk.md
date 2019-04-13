@@ -1,5 +1,6 @@
 ---
 title: "John Wolpert of @ConsenSys talks awesomeness at #Consensus2018 #CoinDeskLIVE"
+description: John Wolpert and Pete Rizzo Discuss History and the Growing Interest of the Enterprise in Public Chains.
 permalink: transcripts/JohnWolpert-Consensus2018
 header:
   image: "https://i.imgur.com/xjXLMUx.png"
