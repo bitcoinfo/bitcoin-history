@@ -11,7 +11,7 @@ redirect-from: smart-contracts
 * [Smart Contracts: Use cases, and DApps—Infominer](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
   >Smart contracts are self-executing code that defines and executes an agreement between multiple parties. That code contains simple “if/when…then…” statements executed within a distributed network that achieves consensus on transactions made within it. For example, a ...
 
-![](http://infominer.id/bitcoin-history/assets/img/elems10.png)<br>
+![](https://infominer.id/bitcoin-history/assets/img/elems10.png)<br>
 from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distrib/captp/provideFor.html) '98
   > VatA (the donor) deposits a reference to gift at nonce in VatC's (the host's) from-VatA-for-VatB table, and returns a Vine for the gift-entry. 
 
