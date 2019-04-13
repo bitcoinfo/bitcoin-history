@@ -1,7 +1,9 @@
 ---
 title: "John Wolpert of @ConsenSys talks awesomeness at #Consensus2018 #CoinDeskLIVE"
 permalink: transcripts/JohnWolpert-Consensus2018
-image: "https://i.imgur.com/feJg6X4.png"
+twitter:
+  card: summary_large_image
+  image: "https://i.imgur.com/feJg6X4.png"
 ---
 
 May 16, Consensus 2018. [Pete Rizzo](https://twitter.com/pete_rizzo_) of @Coindesk interviews [John Wolpert](https://twitter.com/jwolpert), of Consensys Studios (formerly heading IBM's blockchain Division).
