@@ -13,6 +13,7 @@ This is a cleaned up version of that youtube transcription.
 
 {% include video id="b6hFmXjJgR4" provider="youtube" %}
 
+*note: I've included the youtube video here, rather than the original because periscope videos are not easy to embed.
 
 ## Pete Rizzo Interview with John Wolpert of @ConsenSys formerly IBM.
 
