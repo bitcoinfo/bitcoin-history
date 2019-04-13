@@ -19,7 +19,7 @@ This is a cleaned up version of that youtube transcription.
 note: I've included my youtube copy here, rather than the original, because periscope videos are not easy to embed.
 {: .notice}
 
-## Pete Rizzo Interview with John Wolpert of @ConsenSys formerly IBM.
+## Pete Rizzo Interview with John Wolpert at Consensus 2018
 
 live we are of course live-streaming to Facebook and periscope all day here at consensus 2018 the world's largest blockchain and cryptocurrency conference taking place in New York I'm your co-host for this session Pete Rizzo editor in chief for Coindesk.
 
