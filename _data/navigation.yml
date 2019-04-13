@@ -20,7 +20,7 @@ main:
 
 
 bitnav:
-  - title: Menu
+  - title: Bitcoin-History Featured
     children:
       - title:             Before Bitcoin
         url:               /before-bitcoin/
@@ -42,7 +42,7 @@ bitnav:
         url: "transcripts/kuhlman-monax-blockchain-business-history/"
       - title: "John Wolpert Coindesk Interview at Consensus 2018"
         url: "transcripts/JohnWolpert-Consensus2018"
-  - title: Featured
+  - title: Info-Featured
     children:
       - title: "Practical Cryptography - PGP and Me"
         url: "https://infominer.id/bitcoin-history/pgp-and-me/"
