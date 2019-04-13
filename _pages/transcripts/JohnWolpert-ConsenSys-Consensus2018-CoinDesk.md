@@ -1,5 +1,5 @@
 ---
-title: "John Wolpert of @ConsenSys talks awesomeness at #Consensus2018 #CoinDeskLIVE"
+title: "TRANSCRIPT: John Wolpert of @ConsenSys talks awesomeness at #Consensus2018 #CoinDeskLIVE"
 description: "John Wolpert and Pete Rizzo Discuss the Weakening Distinciton Between Private and Public Blockchain."
 permalink: transcripts/JohnWolpert-Consensus2018
 header:
