@@ -36,7 +36,7 @@ bitnav:
     children:
       - title: "JW Weatherman Interviews Tim May"
         url: "transcripts/JW-Weatherman-Tim-May-Interview/"
-      - title: "Kuhlman-Monax-Blockchain for Business: Huh to Hype to Meh"
+      - title: "Kuhlman-Monax-History of Blockchain for Business"
         url: "transcripts/kuhlman-monax-blockchain-business-history/"
       - title: "John Wolpert Coindesk Interview at Consensus 2018"
         url: "transcripts/JohnWolpert-Consensus2018"
