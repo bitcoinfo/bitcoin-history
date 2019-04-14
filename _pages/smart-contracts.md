@@ -2,25 +2,35 @@
 layout: single
 title: Smart Contract History and Related Resources
 description: From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and the Cambrian Explosion.
-image: http://www.erights.org/elib/distrib/captp/3vat/images/elems10.png
+header:
+  image: http://www.erights.org/elib/distrib/captp/3vat/images/elems10.png
+  caption: "[erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distrib/captp/provideFor.html) '98"
 author_profile: false
 permalink: smart-contracts/
 redirect-from: smart-contracts
 ---
 
-* [Smart Contracts: Use cases, and DApps—Infominer](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
-  >Smart contracts are self-executing code that defines and executes an agreement between multiple parties. That code contains simple “if/when…then…” statements executed within a distributed network that achieves consensus on transactions made within it. For example, a ...
+
+I was writing this basic introduction, [Smart Contracts: Use cases, and DApps](https://www.axiomtech.io/blog-feed/2018/10/9/smart-contracts-uses-cases-dapps-icos)
+  >Smart contracts are self-executing code that defines and executes an agreement between multiple parties. That code contains simple “if/when…then…” statements executed within a distributed network that achieves consensus on transactions made within it.
+
+When I came across:
+
+* [lambda-the-ultimate.org - Smart contracts have a long history](http://lambda-the-ultimate.org/node/5003#comment-94645) 
+  * *A Next Generation Smart Contract and Decentralized Application Platform* (Vitaliks ANN post on lambda-the-ultimate)
+    > Smart contracts and related languages have a long discussion history on LtU, in approximate reverse chronological order:
+
+Which took me down the rabbithole and led to the creation of this resource.
+
+## Smart Contract History
 
 ![](https://infominer.id/bitcoin-history/assets/img/elems10.png)<br>
-from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distrib/captp/provideFor.html) '98
   > VatA (the donor) deposits a reference to gift at nonce in VatC's (the host's) from-VatA-for-VatB table, and returns a Vine for the gift-entry. 
 
 
-
-
-
 ## Contents
-* [History](#history)
+* [Contents](#contents)
+  * [ObCap - Object Capabilities](#object-capabilities)
   * [Nick Szabo](#nick-szabo)
   * [E Lang and Other Early Work](#elang-and-other-early-work)
   * [Ethereum](#ethereum)
@@ -36,7 +46,32 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
   * [Literature](#literature)
   * [Resources](#resources)
 
-## History
+
+### Object Capabilities (ObCap)
+
+The object-capability model was first proposed by Jack Dennis and Earl C. Van Horn in the 1966 paper.
+* [Programming Semantics for Multiprogrammed Computations](https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/ProgramSemantics_DennisvanHorn.pdf)
+  >The semantics are defined for a number of meta-instructions which perform operations essential to the writing of programs in multiprogrammed computer systems. These meta-instructions relate to parallel processing, protection of separate computations, program debugging, and the sharing among users of memory segments and other computing objects, the names of which are hierarchically structured. The language sophistication contemplated is midway between an assembly language and an advanced algebraic language. 
+* [What Are Capabilities?](http://habitatchronicles.com/2017/05/what-are-capabilities/)
+  >The capability paradigm is about access control. When a system, such as an OS or a website, is presented with a request for a service it provides, it needs to decide if it should actually do what the requestor is asking for. The way it decides is what we’re talking about when we talk about access control. If you’re like most people, the first thing you’re likely to think of is to ask the requestor “who are you?” The fundamental insight of the capabilities paradigm is to recognize that this question is the first step on the road to perdition. That’s highly counterintuitive to most people, hence the related controversy.
+* [wikipedia- Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model)
+* [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap)
+* [Linked Data Capabilities](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/lds-ocap.md)
+  * [Object Capabilities for Linked Data v0.3](https://w3c-ccg.github.io/ocap-ld/)
+* [Cosmos Object-Capability Model](https://cosmos.network/docs/intro/ocap.html)
+* [Agoric](https://agoric.com/about/)
+  * [Object Capabilities with Kate Sills](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html) (podcast)
+* [Ethereum Object Capabilities](https://ethereum-magicians.org/t/ethereum-object-capabilities/3035/3)
+* [Security in Scala: Using Object Capabilities](https://tersesystems.com/blog/2018/06/24/security-in-scala/)
+  * [A Guide To Capabilities](https://wsargent.github.io/ocaps/guide/)
+* [DIDAuth + Obj. Cap.](https://iiw.idcommons.net/DIDAuth_%2B_Obj._Cap.)
+* [History of Object Capabilities](http://clive.tries.fed.wiki/view/deep-thoughts-on-wiki/view/history-of-object-capabilities)
+
+Object Capabilities are new to me, and I'm just placing any related information here for now until I make them a page of their own.
+
+Basically this research starting in the 60's, with much work throughout the 80's (that is not well dowcumented online), culminating with Nick Szabo's work, and E Language. Object Capabilities are central to the original line of work the term "Smart Contracts" was used in reference to, which was somewhat misappropriated by Vitalik.
+
+
 ### Nick Szabo
 
 * [Nick Szabo](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Nick_Szabo.html) - Distributed Wikipedia Powered by IPFS
@@ -57,9 +92,6 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
 * [erights.org](http://www.erights.org/smart-contracts/)
 * [wiki.c3.com - E Language An ObjectCapabilityLanguage](http://wiki.c2.com/?EeLanguage)
 * [Mailing list ARChives— e-lang The E capability-secure scripting language](https://marc.info/?l=e-lang)
-* [Smart contracts have a long history](http://lambda-the-ultimate.org/node/5003#comment-94645) 
-  * *A Next Generation Smart Contract and Decentralized Application Platform* (Vitaliks ANN post on lambda-the-ultimate)
-    > Smart contracts and related languages have a long discussion history on LtU, in approximate reverse chronological order:
 
 
 
@@ -103,7 +135,7 @@ from: [erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distri
 
 * [WebOfTrustInfo/rwot2-id2020 - Smarter Signatures](https://github.com/WebOfTrustInfo/rwot2-id2020/blob/master/draft-documents/smarter-signatures.md)
 * [Smart Signatures—Experiments in Authentication -Christopher Allen](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final) -SlideShare
-  [![](https://i.imgur.com/GyQGRpR.png)](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final)
+  [![](https://i.imgur.com/wxMkWLW.png)](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final)
 
 
 * [WebOfTrustInfo/rwot5-boston -Smarm: Requirements for a smart-signatures Scheme](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/draft-documents/smarm.md)
