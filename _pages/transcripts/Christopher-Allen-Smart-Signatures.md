@@ -12,7 +12,7 @@ redirect_from:
 
 ## Smart Signatures - Transcript
 
-Note: This is mostly just a copy paste of the youtube transcript and I haven't cleaned it up at all, yet.
+Note: This is mostly just a copy paste of the youtube transcript - I haven't cleaned it up, yet.
 {: .notice}
 
 ![](https://i.imgur.com/iHhsvuB.png)
