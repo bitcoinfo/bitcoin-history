@@ -137,6 +137,8 @@ Basically this research starting in the 60's, with much work throughout the 80's
 * [Smart Signatures—Experiments in Authentication -Christopher Allen](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final) -SlideShare
   [![](https://i.imgur.com/wxMkWLW.png)](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final)
 
+{% include video id="E9sbWKbfyJU" provider="youtube" %}
+
 
 * [WebOfTrustInfo/rwot5-boston -Smarm: Requirements for a smart-signatures Scheme](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/draft-documents/smarm.md)
   ![](https://pbs.twimg.com/media/DNZYt5VVQAAWWuw.jpg)
