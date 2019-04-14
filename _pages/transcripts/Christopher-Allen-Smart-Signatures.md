@@ -9,6 +9,7 @@ redirect_from:
 
 {% include video id="E9sbWKbfyJU" provider="youtube" %}
 
+* Slideshare — [Smart Signatures—Experiments in Authentication (Stanford BPASE 2018 final)](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final)
 
 ## Smart Signatures - Transcript
 
@@ -19,13 +20,25 @@ Note: This is mostly just a copy paste of the youtube transcript - I haven't cle
 
 okay good afternoon my name is Christopher Allen I'm with Blockstream and today I wanted to give you an introduction to something, it isn't about consensus isn't about proof of stake, and other things. Want to pop up a level, I want to talk about smart signatures, these are a number of experiments in authorization. 
 
+![](https://i.imgur.com/bDqKx8n.png)
+
 First we need to recap what is a digital signature so it demonstrates the validity of a message it was invented in 1976 you know the year before Star Wars came out okay it was patented in 1980 and the expiration the patent expired it was made practical by Rivest Shamir and Adleman in the RSA algorithm and became part of the standards world in 1988 using the X dot 509 digital signature standard 
+
+![](https://i.imgur.com/3x4KvUu.png)
 
 the fundamental architecture of digital signatures has not significantly changed in over 40 years so the traditional data digital signature it validates the message by canonicalizing it it hashes it it encrypts it with a private key and it validates it with a public key. these are then embodied in various certificate data formats the most popular of which is that original one SN dot one which is a data format standard from the 70s I believe originally and the X dot 509 these certificates are then signed and turned by hierarchies of certificates and then finally confirmed by a trust policy and this is where things often break down. 
 
+![](http://i.imgur.com/K8SQqvL.png)
+
 so what are trust policies well right now our trust policies are defined by a certificate authority or actually in more reality by the app a browser or the operating system the trust policy is not defined by the signer who basically signs these things nor the verifier who's basically trying to determine that things are all correct is the intent of the signer fully expressed I'm not sure does the verifier understand the intent of the signer probably not and does the CA or app understand the trust requirements of the verifier this is the I think it is most important no I do not believe so. 
 
+![](http://i.imgur.com/6W79QA0.png)
+
 another challenge for traditional digital signatures is that modern crypto is allowing a lot more new forms we have multi signatures being talked about tomorrow in Peter Woolies and Andrew pollsters talk we have ring signatures used by Monero by our own products at block stream blind signatures at different forms aggregated signatures confidential signatures etc the traditional digital signature data formats have had very difficult times adapting to these new forms so we have to like look at the roots what is the duration traditional digital signature doing what is its core use well its core use is for authorization basically a trust policy ensures that the conditions have been met for a particular task you know have we gone through and authorized this party to have access to this website or whatever so the traditional digital signature authenticates that a specific party signed a message and then certifies that the signing party is authorized to do the task. 
+
+![](http://i.imgur.com/ZNb3i6Z.png)
+
+
 
 That's the real challenge. does the signing party actually is it actually authorized to you do that task and I think we can do better this is where we come up with this concept of smart signatures its core use is also for authorization except instead we're using scripts a smart signature has additional parties that can be authorized the parties can offer delegation services you know you can basically say that somebody else now has the privilege to be able to do this we want to be able to support and and/or expressions and we want a lot more kinds of conditions so fundamentally the difference between a traditional digital signature and a smart signature is that the trust policy is interpreted is not interpreted by a CA or encode executed by an app browser or us instead the trust policy is embedded embedded by the signer into the signature itself. 
 
@@ -85,7 +98,11 @@ I know I'm personally interested and the script being able directly derive HD ke
 
 I mean a smart signature is a predicate script it basically is returning true or false but is there some value in some non predicate scripts where basically we are providing true and false and maybe a hash or something of that nature so there's some interesting open questions there and then of course all of these experiments are not turing-complete they're not they're very much exploring sort of the efficient and bounded side of things by not attempting to be fully Turing complete but where is the line between a smart signature contract and a true smart contract is it purely is Turing the only difference between the two there are a lot of things that we can do without becoming fully turing-complete... 
 
-unknown at this point references the the most recent paper is bitly smart signature smarter signatures and that will basically get you the paper that was published last spring you can obviously look at the tag smart signatures in Twitter and you'll see other discussions about it but we are evolving it it was the concept came up at the first rebooting web of trust we're gonna have our six rebooting web of trust in Santa Barbara in just a few weeks March 6 through 8 if you're a language geek and this is something that really gets you excited and you basically go that experiment is okay I want you to come to this event and tell us what's wrong and help us fix it 
+unknown at this point references the the most recent paper is bitly smart signature smarter signatures and that will basically get you the paper that was published last spring you can obviously look at the tag smart signatures in Twitter and you'll see other discussions about it but we are evolving it it was 
+
+## Rebooting Web of Trust
+
+the concept came up at the first rebooting web of trust we're gonna have our six rebooting web of trust in Santa Barbara in just a few weeks March 6 through 8 if you're a language geek and this is something that really gets you excited and you basically go that experiment is okay I want you to come to this event and tell us what's wrong and help us fix it 
 
 okay I would like to really begin to explore some of these use cases these requirements and actually begin to have some more solid demos of what the future of smart signatures is so again it's rebooting web of trust and it's in March six and seven six to eight my name is Christopher Allen and you can reach me at Christopher a at block stream comm 
 
@@ -94,6 +111,8 @@ okay I would like to really begin to explore some of these use cases these requi
 [Applause] 
 
 very interesting topic about smart signature my question is is it possible because it's still early in the stage in terms of experiments so you don't want to have a standard right yeah like x5 909 certificate is it possible to have a kind of extension to expire nice certificate to including this math signature language constructs you clear the data structure and I think that there has been some exploration of how we can extend existing digital signatures with some of these scripts I mean to a certain extent you can just put in the signature field the script exam and all of the predicate expression in there I'm more interested in what's happening in the w3c there is something called the verifiable credentials community verifiable claims community and they're using a special form of JSON that is a graph Jason it's called json-ld and it can be signed as a graph signature which is I think very intriguing 
+
+## Decentralized Identity
 
 so I'm more expecting that the innovation in this space will evolve in the json-ld signatures area rather than the X dot 509 thank you so another question is they use it like this sinus policy is kind of like a self solving identity it's seeing another space about like as a sign or the code of the key can decide the policies is this a nice idea they're usually kind of for bio-port or consensus the IBM they have a kind of for what is called a decentralized the identity folks group right you guys talking well I'm the I coined the term self sovereign identity and rebooting web of trust is where the decentralized identifiers spec was first bootstrapped 
 
