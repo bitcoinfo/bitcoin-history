@@ -12,6 +12,9 @@ redirect_from:
 
 ## Smart Signatures - Transcript
 
+Note: This is mostly just a copy paste of the youtube transcript and I haven't cleaned it up at all, yet.
+{: .notice}
+
 ![](https://i.imgur.com/iHhsvuB.png)
 
 okay good afternoon my name is Christopher Allen I'm with Blockstream and today I wanted to give you an introduction to something, it isn't about consensus isn't about proof of stake, and other things. Want to pop up a level, I want to talk about smart signatures, these are a number of experiments in authorization. 
