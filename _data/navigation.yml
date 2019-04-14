@@ -42,6 +42,8 @@ bitnav:
         url: "transcripts/kuhlman-monax-blockchain-business-history/"
       - title: "John Wolpert Coindesk Interview at Consensus 2018"
         url: "transcripts/JohnWolpert-Consensus2018"
+      - title: "Smart Signatures - Christopher Allen - BPASE '18"
+        url: transcripts/smart-signatures-christopher-allen/
   - title: Highlights
     children:
       - title: "Practical Cryptography - PGP and Me"
