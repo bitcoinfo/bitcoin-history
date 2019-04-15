@@ -28,15 +28,15 @@ First we need to recap what is a digital signature so it demonstrates the validi
 
 the fundamental architecture of digital signatures has not significantly changed in over 40 years so the traditional data digital signature it validates the message by canonicalizing it it hashes it it encrypts it with a private key and it validates it with a public key. these are then embodied in various certificate data formats the most popular of which is that original one SN dot one which is a data format standard from the 70s I believe originally and the X dot 509 these certificates are then signed and turned by hierarchies of certificates and then finally confirmed by a trust policy and this is where things often break down. 
 
-![](http://i.imgur.com/K8SQqvL.png)
+![](https://i.imgur.com/K8SQqvL.png)
 
 so what are trust policies well right now our trust policies are defined by a certificate authority or actually in more reality by the app a browser or the operating system the trust policy is not defined by the signer who basically signs these things nor the verifier who's basically trying to determine that things are all correct is the intent of the signer fully expressed I'm not sure does the verifier understand the intent of the signer probably not and does the CA or app understand the trust requirements of the verifier this is the I think it is most important no I do not believe so. 
 
-![](http://i.imgur.com/6W79QA0.png)
+![](https://i.imgur.com/6W79QA0.png)
 
 another challenge for traditional digital signatures is that modern crypto is allowing a lot more new forms we have multi signatures being talked about tomorrow in Peter Woolies and Andrew pollsters talk we have ring signatures used by Monero by our own products at block stream blind signatures at different forms aggregated signatures confidential signatures etc the traditional digital signature data formats have had very difficult times adapting to these new forms so we have to like look at the roots what is the duration traditional digital signature doing what is its core use well its core use is for authorization basically a trust policy ensures that the conditions have been met for a particular task you know have we gone through and authorized this party to have access to this website or whatever so the traditional digital signature authenticates that a specific party signed a message and then certifies that the signing party is authorized to do the task. 
 
-![](http://i.imgur.com/ZNb3i6Z.png)
+![](https://i.imgur.com/ZNb3i6Z.png)
 
 
 
