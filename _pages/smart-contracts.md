@@ -16,10 +16,10 @@ I was writing this basic introduction, [Smart Contracts: Use cases, and DApps](h
 
 When I came across:
 
-* [lambda-the-ultimate.org - Smart contracts have a long history](http://lambda-the-ultimate.org/node/5003#comment-94645) 
+* [lambda-the-ultimate.org/node/5003#comment-94645](http://lambda-the-ultimate.org/node/5003#comment-94645) 
   * *A Next Generation Smart Contract and Decentralized Application Platform* (Vitaliks ANN post on lambda-the-ultimate)
-    > Smart contracts and related languages have a long discussion history on LtU, in approximate reverse chronological order:
-
+    > Smart contracts and related languages have a long discussion history on LtU
+    
 Which took me down the rabbithole and led to the creation of this resource.
 
 ## Smart Contract History
