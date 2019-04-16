@@ -34,6 +34,8 @@ bitnav:
         url:               /UnitedNations/
       - title:             Smart Contracts
         url:               /smart-contracts/
+      - title:             Blockchain in the Bahamas - Timeline
+        url:               /blockchain-bahamas-crypto-caribbean/
   - title: Transcripts
     children:
       - title: "JW Weatherman Interviews Tim May"

@@ -8,25 +8,6 @@ author_profile: false
 ---
 
 
-### Contents
-* [DigiCash](#digicash)
-* [FirstVirtual and CyberCash](#firstvirtual-and-cybercash)
-* [NetCash](#netcash)
-* [Modex](#modex)
-* [Project CAFE](#project-caf%C3%A9)
-* [eGold](#e-gold)
-* [HashCash](#hashcash)
-* [B-money](#b-money)
-* [Beenz and Flooz](#beenz-and-flooz)
-* [InternetCash](#internetcash)
-* [E-Bullion](#e-bullion)
-* [Dexit](#dexit)
-* [Peppercoin](#peppercoin)
-* [Reusable Proof of Work](#reusable-proof-of-work)
-* [Bit Gold](#bit-gold)
-* [Liberty Reserve](#liberty-reserve)
-* [Resources](#resources)
-
 ### DigiCash 
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
 * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
