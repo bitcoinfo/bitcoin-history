@@ -20,7 +20,7 @@ main:
 
 
 bitnav:
-  - title: Bitcoin-History Featured
+  - title: Bitcoin-History Index
     children:
       - title:             Before Bitcoin
         url:               /before-bitcoin/
@@ -46,7 +46,7 @@ bitnav:
         url: "transcripts/JohnWolpert-Consensus2018"
       - title: "Smart Signatures - Christopher Allen - BPASE '18"
         url: transcripts/smart-signatures-christopher-allen/
-  - title: Highlights
+  - title: Featured
     children:
       - title: "Practical Cryptography - PGP and Me"
         url: "https://infominer.id/bitcoin-history/pgp-and-me/"
