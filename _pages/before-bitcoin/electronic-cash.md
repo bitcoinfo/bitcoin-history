@@ -1,10 +1,13 @@
 ---
-layout: single
-title: Pre-Bitcoin Digital Payments and Electronic Cash
+title: Digital Cash and Electronic Payments - Before Bitcoin
+description: An arrangement of resources related to the quest for digital cash, before Bitcoin.
+header: 
+  image: "https://infominer.id/assets/img/2013-Virtual-Currency-Infographic.jpg"
+  caption: "[Dec 2013 - History of Virtual Currency](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
+author_profile: false
 permalink: /before-bitcoin/electronic-cash/
 redirect_from:
   - /before-bitcoin/electronic-cash
-author_profile: false
 ---
 
 
@@ -144,11 +147,9 @@ An early clickworking site that rewarded users with its own digital currency.
   * E-Gold
   * Dexit
 
-![](https://i.imgur.com/NkoiO1M.jpg)
-[Virtual Currency - infographic](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)
 
 
-## Tips Jar:
+## Support the Cause
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
