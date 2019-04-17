@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Bitcoin History
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 

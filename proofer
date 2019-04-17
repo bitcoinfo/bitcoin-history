@@ -1,0 +1,515 @@
+Running ["ImageCheck", "LinkCheck", "ScriptCheck"] on ["_site"] on *.html... 
+
+
+Checking 881 external links...
+Ran on 37 files!
+
+
+- _site/UnitedNations/index.html
+  *  External link https://blockchainforimpact.org/bfisummitjune2018/ failed: 404 No error
+  *  External link https://tge.aid.technology/ failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link https://www.decadeofwomen.org/newsroom/2018/6/26/collaborations-announced-from-blockchain-for-impact-summit-published-june-22-2018-by-api-podder failed: 404 No error
+  *  External link https://www.sineadbovell.com/blog/2018/7/1/what-i-learned-from-my-day-at-the-united-nations failed: 404 No error
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 1239)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 1229)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 120)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 122)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 121)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 125)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 124)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 123)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/before-bitcoin.html
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 907)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 897)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+- _site/before-bitcoin/cypherpunks/index.html
+  *  External link http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/ failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Couldn't resolve host name
+  *  External link https://mailing-list-archive.cryptoanarchy.wiki/ failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Peer certificate cannot be authenticated with given CA certificates
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 891)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 881)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 120)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 122)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 121)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 125)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 124)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 123)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/before-bitcoin/electronic-cash/index.html
+  *  External link http://ganges.cs.tcd.ie//mepeirce/project.html failed: got a time out (response code 0)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 817)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 807)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to /bitcoin-history/nick-szabo/, which does not exist (line 667)
+     <a href="/bitcoin-history/nick-szabo/"><strong>» More Information on Nick Szabo »</strong></a>
+  *  internally linking to /bitcoin-history/people/adam-back/, which does not exist (line 586)
+     <a href="/bitcoin-history/people/adam-back/"><strong>» More Resources for Adam Back »</strong></a>
+  *  internally linking to /bitcoin-history/people/hal-finney/, which does not exist (line 647)
+     <a href="/bitcoin-history/people/hal-finney/"><strong>» More Information on Hal Finney »</strong></a>
+  *  internally linking to /bitcoin-history/people/wei-dai/, which does not exist (line 595)
+     <a href="/bitcoin-history/people/wei-dai/"><strong>» More Information on Wei Dai »</strong></a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 120)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 122)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 121)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 125)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 124)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 123)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/bitcoin-history/index.html
+  *  External link https://www.thetimes03jan2009.com/ failed: got a time out (response code 0)
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 733)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 723)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+  *  internally linking to projects.md, which does not exist (line 627)
+     <a href="projects.md">other projects</a>
+- _site/blockchain-bahamas-crypto-caribbean/index.html
+  *  External link http://www.bahamas.gov.bs/wps/portal/public/gov/government/news/digital%20currency%20to%20be%20introduced%2C%20says%20dpm/ failed: 404 No error
+  *  External link http://www.news9.com/story/39554251/idb-and-cba-collaborate-with-blockgeeks-to-launch-blockchain-technology-course-hackathon failed: 410 No error
+  *  External link https://blockchainbahamasconference.com/ failed: got a time out (response code 0)
+  *  External link https://www.bahamas.gov.bs/wps/portal/public/gov/government/news/tech%20summit%20set%20for%20november%20in%20gb/ failed: 404 No error
+  *  External link https://www.centralbankbahamas.com/download/065758600.pdf failed: got a time out (response code 0)
+  *  External link https://www.centralbankbahamas.com/news.php?id=16442&cmd=view failed: got a time out (response code 0)
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 149)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 678)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 668)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 120)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 122)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 121)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 125)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 124)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 123)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/cryptocurrencies/index.html
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  image https://i.imgur.com/940KZVQ.png does not have an alt attribute (line 480)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 576)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 566)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/index.html
+  *  External link https://infominer.id/bitcoin-history/cryptocurrencies.html failed: 404 No error
+  *  External link https://infominer.id/bitcoin-history/people failed: 404 No error
+  *  External link https://infominer.id/bitcoin-history/people/adam-back.html failed: 404 No error
+  *  External link https://infominer.id/bitcoin-history/people/david-chaum.html failed: 404 No error
+  *  External link https://infominer.id/bitcoin-history/people/hal-finney.html failed: 404 No error
+  *  External link https://infominer.id/bitcoin-history/people/nick-szabo.html failed: 404 No error
+  *  External link https://infominer.id/bitcoin-history/people/wei-dai.html failed: 404 No error
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 149)
+  *  image https://i.imgur.com/0zBLoUP.png does not have an alt attribute (line 602)
+  *  image https://i.imgur.com/DCLD6XA.png does not have an alt attribute (line 589)
+  *  image https://imgur.com/yXLLm9Bl.png does not have an alt attribute (line 598)
+  *  image https://infominer.id/bitcoin-history/assets/img/BitcoinHistory.png does not have an alt attribute (line 466)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 672)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 662)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to /https://www.thetimes03jan2009.com, which does not exist (line 589)
+     <a href="/https://www.thetimes03jan2009.com" target="_blank" rel="noopener noreferrer"><img src="https://i.imgur.com/DCLD6XA.png" alt=""></a>
+  *  internally linking to /https://www.thetimes03jan2009.com/, which does not exist (line 590)
+     <a href="/https://www.thetimes03jan2009.com/" target="_blank" rel="noopener noreferrer">www.thetimes03jan2009.com</a>
+- _site/nick-szabo/index.html
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 567)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 557)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/people/adam-back/index.html
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 571)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 561)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/people/hal-finney/index.html
+  *  External link https://101blockchains.com/who-is-hal-finney-bitcoin/ failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Peer certificate cannot be authenticated with given CA certificates
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 575)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 565)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/people/wei-dai/index.html
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 569)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 559)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/permissioned/index.html
+  *  External link https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf failed: 403 No error
+  *  External link https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb failed: 404 No error
+  *  External link https://wiki.hyperledger.org/projects/fabric#history failed: 404 No error
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 149)
+  *  image https://static1.squarespace.com/static/5b83cf270dbda3e6230cec3d/t/5c51336c898583c26f213862/1548825472554/permissioned-distributed-ledger-blockchains.png does not have an alt attribute (line 571)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 832)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 822)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 120)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 122)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 121)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 125)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 124)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 123)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+  *  internally linking to prestonbyrne.com/2014/06/02/project-d/, which does not exist (line 550)
+     <a href="prestonbyrne.com/2014/06/02/project-d/">https://prestonbyrne.com/2014/06/02/project-d/</a>
+  *  internally linking to prestonbyrne.com/2014/10/25/introducing-eris-industries/, which does not exist (line 556)
+     <a href="prestonbyrne.com/2014/10/25/introducing-eris-industries/">https://prestonbyrne.com/2014/10/25/introducing-eris-industries/</a>
+- _site/pgp-and-me/index.html
+  *  External link http://www.deepdotweb.com/2015/02/20/pgp-tutorial-os-x/ failed: 503 No error
+  *  External link http://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/pgp-continued/ failed: 503 No error
+  *  External link https://irtfweb.ifa.hawaii.edu/~lockhart/gpg/ failed: got a time out (response code 0)
+  *  External link https://www.deepdotweb.com/2013/11/11/pgp-tutorial-for-newbs-gpg4win/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/2015/02/17/basic-guide-pgp-linux/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/2015/02/21/pgp-tutorial-for-windows-kleopatra-gpg4win/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/2015/06/21/pgp-tutorial-for-newbs-gpg4usb/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/2017/10/22/basic-guide-pgp-tails/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/about-deepdotweb/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/how-to-verify-your-downloaded-files-are-authentic/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/obtaining-sending-and-receiving-bitcoins-anonymously/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/pgp-tails-virtual-box/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/pgpgpg-email-addresses/ failed: 503 No error
+  *  External link https://www.deepdotweb.com/jolly-rogers-security-guide-for-beginners/verifying-signed-messages-with-signatures-and-signing-your-own-messages/ failed: 503 No error
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  image https://i.imgur.com/DvuqyGh.png does not have an alt attribute (line 678)
+  *  image https://i.imgur.com/EvuQwxN.png does not have an alt attribute (line 673)
+  *  image https://i.imgur.com/YJAJSU6.png does not have an alt attribute (line 588)
+  *  image https://i.imgur.com/danqZLd.png does not have an alt attribute (line 536)
+  *  image https://i.imgur.com/kzOMg4o.png does not have an alt attribute (line 506)
+  *  image https://image.ibb.co/fbhMLU/escrow.png does not have an alt attribute (line 670)
+  *  image https://static.fsf.org/nosvn/enc-dev0/img/en/full-infographic.png does not have an alt attribute (line 710)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 808)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 798)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/smart-contracts/index.html
+  *  External link http://clive.tries.fed.wiki/view/deep-thoughts-on-wiki/view/history-of-object-capabilities failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: Failure when receiving data from the peer
+  *  External link http://www.rootstock.io/ failed: 301 SSL peer certificate or SSH remote key was not OK
+  *  External link https://iang.org/papers/intersection_ricardian_smart.html failed: response code 0 means something's wrong.
+             It's possible libcurl couldn't connect to the server or perhaps the request timed out.
+             Sometimes, making too many requests at once also breaks things.
+             Either way, the return message (if any) from the server is: SSL connect error
+  *  External link https://www.linkedin.com/pulse/neo-smart-contract-development-m%C3%A1t%C3%A9-moln%C3%A1r/ failed: 404 No error
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 149)
+  *  image https://i.imgur.com/YWNr9W3.png does not have an alt attribute (line 766)
+  *  image https://i.imgur.com/wxMkWLW.png does not have an alt attribute (line 738)
+  *  image https://infominer.id/bitcoin-history/assets/img/elems10.png does not have an alt attribute (line 534)
+  *  image https://pbs.twimg.com/media/DNZYt5VVQAAWWuw.jpg does not have an alt attribute (line 754)
+  *  image https://pbs.twimg.com/media/DNZbyqMVwAEfp8a.jpg:large does not have an alt attribute (line 758)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 1039)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 1029)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 120)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 122)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 121)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 125)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 124)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 123)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+  *  linking to internal hash #object-capabilities that does not exist (line 544)
+     <a href="#object-capabilities">ObCap - Object Capabilities</a>
+- _site/transcripts/JW-Weatherman-Tim-May-Interview/index.html
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 149)
+  *  image https://i.imgur.com/janGoN1.png does not have an alt attribute (line 515)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 1256)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 1246)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 120)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 122)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 121)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 125)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 124)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 123)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/transcripts/JohnWolpert-Consensus2018.html
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 149)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 823)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 85)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 813)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 120)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 122)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 121)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 125)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 124)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 123)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/transcripts/kuhlman-monax-blockchain-business-history/index.html
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  image https://i.imgur.com/0BRFnVK.png does not have an alt attribute (line 575)
+  *  image https://i.imgur.com/7YQCm24.png does not have an alt attribute (line 507)
+  *  image https://i.imgur.com/CXD8aja.png does not have an alt attribute (line 567)
+  *  image https://i.imgur.com/LG2UjZI.png does not have an alt attribute (line 485)
+  *  image https://i.imgur.com/MtZ7Lal.png does not have an alt attribute (line 475)
+  *  image https://i.imgur.com/OCjroSC.png does not have an alt attribute (line 501)
+  *  image https://i.imgur.com/g80OCoK.png does not have an alt attribute (line 541)
+  *  image https://i.imgur.com/k8Cb8ra.png does not have an alt attribute (line 529)
+  *  image https://i.imgur.com/kGjjlxl.png does not have an alt attribute (line 515)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 702)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 692)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+- _site/transcripts/smart-signatures-christopher-allen/index.html
+  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
+  *  image https://i.imgur.com/3x4KvUu.png does not have an alt attribute (line 496)
+  *  image https://i.imgur.com/6W79QA0.png does not have an alt attribute (line 504)
+  *  image https://i.imgur.com/K8SQqvL.png does not have an alt attribute (line 500)
+  *  image https://i.imgur.com/ZNb3i6Z.png does not have an alt attribute (line 508)
+  *  image https://i.imgur.com/bDqKx8n.png does not have an alt attribute (line 492)
+  *  image https://i.imgur.com/iHhsvuB.png does not have an alt attribute (line 488)
+  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
+  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 698)
+  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
+     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
+     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
+  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 688)
+     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
+  *  internally linking to assets/icons/apple-touch-icon.png, which does not exist (line 122)
+     <link rel="apple-touch-icon" sizes="180x180" href="assets/icons/apple-touch-icon.png">
+  *  internally linking to assets/icons/favicon-16x16.png, which does not exist (line 124)
+     <link rel="icon" type="image/png" sizes="16x16" href="assets/icons/favicon-16x16.png">
+  *  internally linking to assets/icons/favicon-32x32.png, which does not exist (line 123)
+     <link rel="icon" type="image/png" sizes="32x32" href="assets/icons/favicon-32x32.png">
+  *  internally linking to assets/icons/favicon.ico, which does not exist (line 127)
+     <link rel="shortcut icon" href="assets/icons/favicon.ico">
+  *  internally linking to assets/icons/safari-pinned-tab.svg, which does not exist (line 126)
+     <link rel="mask-icon" href="assets/icons/safari-pinned-tab.svg" color="#5bbad5">
+  *  internally linking to assets/icons/site.webmanifest, which does not exist (line 125)
+     <link rel="manifest" href="assets/icons/site.webmanifest">
+htmlproofer 3.9.3 | Error:  HTML-Proofer found 532 failures!
+infominer@informat

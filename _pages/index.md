@@ -93,11 +93,11 @@ permalink: /
   * <a href="{{ site.rooturl }}/permissioned/#2017-">2017</a>
   * <a href="{{ site.rooturl }}/permissioned/#2018-">2018</a>
 * <a href="{{ site.rooturl }}/people">Individuals</a> who play(ed) a significant role in the history of this ecosystem.
-  * <a href="{{ site.rooturl }}/people/david-chaum.html">David Chaum</a>
-  * <a href="{{ site.rooturl }}/people/hal-finney.html">Hal Finney</a>
-  * <a href="{{ site.rooturl }}/people/nick-szabo.html">Nick Szabo</a>
-  * <a href="{{ site.rooturl }}/people/wei-dai.html">Wei Dai</a>
-  * <a href="{{ site.rooturl }}/people/adam-back.html">Adam Back</a>
+  * <a href="{{ site.rooturl }}/people/david-chaum/">David Chaum</a>
+  * <a href="{{ site.rooturl }}/people/hal-finney/">Hal Finney</a>
+  * <a href="{{ site.rooturl }}/people/nick-szabo/">Nick Szabo</a>
+  * <a href="{{ site.rooturl }}/people/wei-dai/">Wei Dai</a>
+  * <a href="{{ site.rooturl }}/people/adam-back/">Adam Back</a>
 
 [![](https://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)<br/>
 [www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com/)
