@@ -149,7 +149,8 @@ by Ralph C. Merkle</a>
   - Open Source software development
   - Peer to peer sharing
 
-#### [**>> More information >> Cypherpunks and the Crypto Wars >>**](/before-bitcoin/cypherpunks/) 
+[**>> More information >> Cypherpunks and the Crypto Wars >>**](https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/) 
+{: .notice--primary}
 
 ### Pre-Bitcoin Digital Currency []
 
@@ -165,8 +166,8 @@ by Ralph C. Merkle</a>
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
 * [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
 
-#### [**>> More Information >> Virtual Currencies >>**](before-bitcoin/electronic-cash/)
-
+[**>> More Information >> Virtual Currencies >>**](https://infominer.id/bitcoin-history/before-bitcoin/electronic-cash/)
+{: .notice--primary}
 
 ### Literature 
 * [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
@@ -204,7 +205,7 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 
 ---
 
-### —[infominer.id](https://infominer.id/)  [<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
+## Contributions Welcome
 
 
 
