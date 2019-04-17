@@ -51,7 +51,7 @@ permalink: /
   * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash/#peppercoin-">Peppercoin</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash/#reusable-proof-of-work-">Reusable Proof of Work</a>
   * <a href="{{ site.rooturl }}/before-bitcoin/electronic-cash/#liberty-reserve-">Liberty Reserve</a>
-* <a href="{{ site.rooturl }}/bitcoin-history/">Bitcoin History</a> 
+* <a href="{{ site.rooturl }}/bitcoin/">Bitcoin History</a> 
 * <a href="{{ site.rooturl }}/cryptocurrencies/">History of Cryptocurrencies</a>
 * <a href="{{ site.rooturl }}/UnitedNations/">United Nations</a> - History of Blockchain in the United Nations.
   * <a href="{{ site.rooturl }}/UnitedNations/#early-history-">Early History</a>

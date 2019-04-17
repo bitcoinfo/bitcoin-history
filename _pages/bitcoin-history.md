@@ -3,7 +3,10 @@ layout: single
 title: Bitcoin History
 description: >
   An assorted open-source collection of resources on the history of Bitcoin.
-image: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.jpg
+header:
+  image: https://infominer.id/bitcoin-history/assets/img/genesis-block-newspaper-chancellor-brink-bailout-banks.png
+  caption: "[www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/)"
+  og_image: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.jpg
 permalink: "bitcoin/"
 redirect_from: "bitcoin"
 ---
@@ -101,17 +104,8 @@ https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/
 * [Bitcoin History - OXT](https://oxt.me/history) - "This page lists a set of 'famous' events or lesser-known facts which are all part of the history of Bitcoin. Each event is illustrated with data extracted from the blockchain.
 
 
-* [**Back to Main Directory of Contents**](https://github.com/infominer33/bitcoin-history/)
 
----
-
-#### Brought to you by The [Crypto Library](http://crypt0library.net)—[Super Source](https://github.com/infominer33/Crypto-library)
-[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library)
-
-[infominer.id](https://infominer.id/) —Check out some of my [other projects](projects.md)!!!
-
-
-**Tips Appreciated**:
+## Donations Welcome
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 

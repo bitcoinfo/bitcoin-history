@@ -28,6 +28,8 @@ bitnav:
         url: "https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/"
       - title:             "• Electronic Cash"
         url: "https://infominer.id/bitcoin-history/before-bitcoin/electronic-cash/"
+      - title:             "• Bitcoin"
+        url: "https://infominer.id/bitcoin-history/bitcoin/"
       - title:             "• Permissioned Ledgers"
         url: "https://infominer.id/bitcoin-history/permissioned/"
       - title:             "• United Nations"
