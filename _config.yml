@@ -26,7 +26,7 @@ rooturl                  : "https://infominer.id/bitcoin-history"
 repository               : "infominer33/bitcoin-history"
 github                   : [metadata]
 teaser                   : # "/assets/img/information-discovery.jpg"
-logo                     : "assets/icons/icon@2x.png"
+logo                     : "https://infominer.id/bitcoin-history/assets/icons/icon@2x.png"
 masthead_title           : "An Index of Histories Related to Bitcoin"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
