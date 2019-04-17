@@ -23,19 +23,19 @@ bitnav:
   - title: Bitcoin-History Index
     children:
       - title:             Before Bitcoin
-        url:               /before-bitcoin/
+        url:               before-bitcoin/
       - title:             Cypherpunks
-        url:               /cypherpunks/
+        url:               before-bitcoin/cypherpunks/
       - title:             Electronic Cash
-        url:               /before-bitcoin/electronic-cash/
+        url:               before-bitcoin/electronic-cash/
       - title:             Permissioned Ledgers
-        url:               /permissioned/
+        url:               permissioned/
       - title:             United Nations
-        url:               /UnitedNations/
+        url:               UnitedNations/
       - title:             Smart Contracts
-        url:               /smart-contracts/
+        url:               smart-contracts/
       - title:             Blockchain in the Bahamas - Timeline
-        url:               /blockchain-bahamas-crypto-caribbean/
+        url:               blockchain-bahamas-crypto-caribbean/
   - title: Transcripts
     children:
       - title: "JW Weatherman Interviews Tim May"
