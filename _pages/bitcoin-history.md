@@ -89,17 +89,17 @@ Description = "It took three years and the emergence of serious (and perhaps per
 
 Is a term that came about around 2014 to describe crypto projects beyond Bitcoin the currency. Some leveraging the Bitcoin Blockchain, some creating their own networks.
 
-https://www.coindesk.com/crypto-2-0-roundup-bitcoins-revolution-moves-beyond-currency
+* [https://www.coindesk.com/crypto-2-0-roundup-bitcoins-revolution-moves-beyond-currency](https://www.coindesk.com/crypto-2-0-roundup-bitcoins-revolution-moves-beyond-currency)
 
-https://www.coindesk.com/19-crypto-2-0-projects-watch-2015
+* [https://www.coindesk.com/19-crypto-2-0-projects-watch-2015](https://www.coindesk.com/19-crypto-2-0-projects-watch-2015)
 
-https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/
+* [https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/](https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/)
 
 
 
 ### Resources
 
-* https://en.bitcoinwiki.org/wiki/Bitcoin_history
+* [https://en.bitcoinwiki.org/wiki/Bitcoin_history](https://en.bitcoinwiki.org/wiki/Bitcoin_history)
 * [Blockchain Libarary - Reading Lists - Bitcoin History](https://blockchainlibrary.org/category/reading-lists/bitcoin-history/)
 * [Bitcoin History - OXT](https://oxt.me/history) - "This page lists a set of 'famous' events or lesser-known facts which are all part of the history of Bitcoin. Each event is illustrated with data extracted from the blockchain.
 
