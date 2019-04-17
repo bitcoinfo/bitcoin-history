@@ -95,7 +95,7 @@ Is a term that came about around 2014 to describe crypto projects beyond Bitcoin
 
 * [https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/](https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/)
 
-
+![](https://infominer.id/bitcoin-history/assets/img/Happy-birthday-bitcoin-log-chart-in-The-Times.jpg)
 
 ### Resources
 
