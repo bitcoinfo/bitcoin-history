@@ -5,8 +5,10 @@ header:
   image: "https://infominer.id/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.jpg"
   caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
 author_profile: false
-permalink: cypherpunks/
-redirect_from: "cypherpunks"
+permalink: before-bitcoin/cypherpunks/
+redirect_from: 
+  - "cypherpunks"
+  - cypherpunks/
 ---
 
 
