@@ -9,11 +9,7 @@ permalink: "before-bitcoin"
 redirect_from: "before-bitcoin/"
 ---
 
-This section is for all history preceeding, and related to the develpment of Bitcoin. To include background information regarding Cryptography, Digital Payments, Distributed Systems, P2P, Open Source, Traditional Currencie, and Digital Currencies.
-
-![](https://i.imgur.com/rJGaKPk.png)
-
-### Short-form Crypto Fundamentals [**^**](#research-index) 
+## Short-form Crypto Fundamentals
 -by Infominer
 
 * [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
@@ -28,7 +24,7 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 * [**/cypherpunks/**]({{ site.rooturl }}/before-bitcoin/cypherpunks/) and the Crypto Wars
   * [Crypto Wars]({{ site.rooturl }}/before-bitcoin/cypherpunks/#crypto-wars)
-  * [Cypherpunk Mailing-list]({{ site.rooturl }}/before-bitcoin/cypherpunks/#cypherpunk-mailinglist
+  * [Cypherpunk Mailing-list]({{ site.rooturl }}/before-bitcoin/cypherpunks/#cypherpunk-mailinglist)
   * [Modern Crypto Wars]({{ site.rooturl }}/before-bitcoin/cypherpunks/#modern-crypto-wars)
   * [Resources]({{ site.rooturl }}/before-bitcoin/cypherpunks/#resources)
 * Pre-Bitcoin [**/electronic-cash/**]({{ site.rooturl }}/before-bitcoin/electronic-cash/) 
@@ -153,7 +149,7 @@ by Ralph C. Merkle</a>
   - Open Source software development
   - Peer to peer sharing
 
-#### [**>> More information >> Cypherpunks and the Crypto Wars >>**](/before-bitcoin/cypherpunks.md) 
+#### [**>> More information >> Cypherpunks and the Crypto Wars >>**](/before-bitcoin/cypherpunks/) 
 
 ### Pre-Bitcoin Digital Currency []
 
@@ -169,7 +165,7 @@ by Ralph C. Merkle</a>
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
 * [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
 
-#### [**>> More Information >> Virtual Currencies >>**](electronic-cash.md)
+#### [**>> More Information >> Virtual Currencies >>**](before-bitcoin/electronic-cash/)
 
 
 ### Literature 
@@ -198,8 +194,8 @@ Princeton - Bitcoin and Cryptocurrency Technologies Online Course
 ### Additional Resources 
 
 * [P2P Foundation Wiki](http://wiki.p2pfoundation.net/)
-* https://nakamotoinstitute.org/literature/
-* https://nakamotoinstitute.org/
+* [https://nakamotoinstitute.org/literature/](https://nakamotoinstitute.org/literature/)
+* [https://nakamotoinstitute.org/](https://nakamotoinstitute.org/)
 * [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) - 2008
   > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
 * UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland:  [Technology Driven Universal Currency Improvements and Innovations in Existing Financial Mechanisms](https://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
