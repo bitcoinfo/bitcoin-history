@@ -2,7 +2,9 @@
 title: Before Bitcoin
 description: For related history preceeding the development of Bitcoin.
 layout: single
-image: https://i.imgur.com/iPWSy2K.png
+header:
+  image: "https://infominer.id/bicoin-history/assets/img/pepe-bitcoin-phoenix-crab-17-initiated.jpg"
+  caption: "@l33tguy - [10-10-2018. Brace for shenanigans göys.](https://twitter.com/l33tguy/status/1049868146713059330) #CRAB17 #BogPilled #bitcoin #BTC #crypto #cryptotwitter"
 permalink: "before-bitcoin"
 redirect_from: "before-bitcoin/"
 ---
