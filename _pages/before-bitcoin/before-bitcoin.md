@@ -152,7 +152,7 @@ by Ralph C. Merkle</a>
 [**>> More information >> Cypherpunks and the Crypto Wars >>**](https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/) 
 {: .notice--primary}
 
-### Pre-Bitcoin Digital Currency []
+### Pre-Bitcoin Digital Currency
 
 * [The Quest for Electronic Currency—Before Bitcoin](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin) @infominer
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b) ϟϟϟ Digi-Cash—eGold—Bitcoin
