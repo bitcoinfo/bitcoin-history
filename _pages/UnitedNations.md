@@ -1,6 +1,6 @@
 ---
 layout: single
-title: Blockchain and the United Nations — History
+title: History-Blockchain and the United Nations
 description: A Reasonably Comprehensive History of Blockchain and Cryptocurrency in the United Nations.
 header:
   image: "https://infominer.id/assets/img/SDG_FINAL-2015-02.jpg"
