@@ -1,30 +1,24 @@
 ---
-layout: single
 title: Cypherpunks and the Crypto Wars
-permalink: cypherpunks
+description: Open-Source Resource for learning about the Cypherpunk Movement
+header:
+  image: "https://infominer.id/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.jpg"
+  caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
 author_profile: false
-redirect_from: "cypherpunks/"
+permalink: cypherpunks/
+redirect_from: "cypherpunks"
 ---
 
 
-Gathering and organizing information related to the Cypherpunk movement.
+A Resource for learning about the Cypherpunk Movement.
 
-<img src="https://i.imgur.com/qgVn6sU.png"/>\
-<sup>Source: <a href="https://sindominio.net/xabier/textos/evhack/cypherpunk/EVhAck_-_Cypherpunk_-_CC-by-sa.pdf">EVhAck_-_Cypherpunk</a></sup>
+This repository was created, in part while researching:
+* [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin)
 
-I made this in part while researching [*Electronic Currency, Before Bitcoin*](https://www.axiomtech.io/blog-feed/electronic-currency-before-bitcoin).
-
-
-## Contents
-* [Crypto Wars](#crypto-wars)
-* [Cypherpunk Mailing-list](#cypherpunk-mailinglist)
-* [Modern Crypto Wars](#modern-crypto-wars)
-* [Recommended Reading](#recommended-reading)
-* [Resources](#resources)
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>
 
-## Crypto Wars 
+## Crypto Wars
 
 * [Birth of Cypherpunks: Short](http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
 * [wiki.openrightsgroup.org/wiki/Crypto_Wars](https://wiki.openrightsgroup.org/wiki/Crypto_Wars)
@@ -192,11 +186,7 @@ What follows is a list of books that were influential upon early cypherpunks. As
 
 ---
 
-### Tips Jar 
-
-[<img src="https://i.imgur.com/zeYCNMS.jpg" align="right" width="150" height="140">](https://github.com/infominer33/Crypto-library) 
-
-
+## Support the Cause
 
 BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
