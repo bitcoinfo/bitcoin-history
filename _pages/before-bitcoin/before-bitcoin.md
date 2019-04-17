@@ -33,10 +33,10 @@ This section is for all history preceeding, and related to the develpment of Bit
   * [Resources]({{ site.rooturl }}/before-bitcoin/cypherpunks/#resources)
 * Pre-Bitcoin [**/electronic-cash/**]({{ site.rooturl }}/before-bitcoin/electronic-cash/) 
   * [DigiCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#digicash)
-  * [FirstVirtual and CyberCash]({{ site.rooturl }}/before-bitcoin/)electronic-cash/#FirstVirtual-and-CyberCash
+  * [FirstVirtual and CyberCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#FirstVirtual-and-CyberCash)
   * [NetCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#netcash)
   * [Modex]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Modex)
-  * [Project CAFE]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Project-Cafe
+  * [Project CAFE]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Project-Cafe)
   * [eGold]({{ site.rooturl }}/before-bitcoin/electronic-cash/#eGold)
   * [HashCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#HashCash)
   * [Beanz and Flooz]({{ site.rooturl }}/before-bitcoin/electronic-cash/#beenz-and-flooz)
@@ -46,7 +46,7 @@ This section is for all history preceeding, and related to the develpment of Bit
   * [B-money]({{ site.rooturl }}/before-bitcoin/electronic-cash/#b-money)
   * [Bit Gold]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Bit-Gold)
   * [Peppercoin]({{ site.rooturl }}/before-bitcoin/electronic-cash/#peppercoin)
-  * [Reusable Proof of Work]({{ site.rooturl }}/before-bitcoin/electronic-cash/#reusable-proof-of-work
+  * [Reusable Proof of Work]({{ site.rooturl }}/before-bitcoin/electronic-cash/#reusable-proof-of-work)
   * [Liberty Reserve]({{ site.rooturl }}/before-bitcoin/electronic-cash/#liberty-reserve)
 
 
