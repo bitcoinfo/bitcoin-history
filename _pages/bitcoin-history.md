@@ -6,7 +6,7 @@ description: >
 header:
   image: https://infominer.id/bitcoin-history/assets/img/Happy-birthday-bitcoin-log-chart-in-The-Times.jpg
   caption: "[Happy Birthday Bitcoin! Your Gift: A Log Chart in the Times](https://ftalphaville.ft.com/2019/01/03/1546533333000/Happy-birthday-bitcoin--Your-gift--a-log-chart-in-the-The-Times/)"
-  og_image: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.jpg
+  #og_image: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.jpg
 permalink: "bitcoin/"
 redirect_from: "bitcoin"
 ---
