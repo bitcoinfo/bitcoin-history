@@ -1,12 +1,14 @@
 ---
-title: The History of Permissioned Ledgers
-description: "Starting from 2014, the term 'distributed ledger' came into use, and the idea of 'Blockchain for Business' was born. What's become of permissioned ledgers over the years?"
-image: "https://i.imgur.com/UnfJmvG.png"
+title: History of Permissioned Ledgers
+header:
+  image: "https://infominer.id/assets/img/permissioned-ledger-2015.png"
+  caption: "[Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015](https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/)"
 permalink: permissioned/
 redirect_from:
   - permissioned
 author_profile: false
 ---
+
 
 Primarily to be focused on the development of permissioned ledgers, but including some general enterprise stuffs while I get my timeline together.
 
@@ -14,27 +16,8 @@ I used this space to prep for writing this article:
 
 * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
 
-I'll get around to making this a real space eventually, but working on the above article satisfied my curiosity.. I'm just not interested enough in permissioned blockchain to focus much energy here.
+If you are looking at this, and the above article, thinking: "I really would love a more detailed report" feel free to [contact me](https://infominer.id) so we can discuss your needs. 
 
-However, if you are looking at this, and the above article, thinking: "I really would love a more detailed report" feel free to [contact me](https://infominer.id) so we can discuss your needs. 
-
----
-
-## Contents
-
-* [Early use, and discussion of "Distributed Ledger"](#early-use-and-discussion-of-distributed-ledger)
-* [Misc-2015](#misc-2015)
-* [Multichain](#multichain)
-* [Hyperledger](#hyperledger)
-* [Fabric](#fabric)
-* [Sawtooth](#sawtooth)
-* [Iroha](#iroha)
-* [Evernym-Sovrin](#evernym-sovrin)
-* [Quorum](#quorum)
-* [R3-Corda](#r3-corda)
-* [Misc-2016](#misc-2016)
-* [2017](#2017)
-* [2018](#2018)
 
 ## Early use, and discussion of "Distributed Ledger" 
 
