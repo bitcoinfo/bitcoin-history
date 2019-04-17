@@ -23,29 +23,29 @@ bitnav:
   - title: Bitcoin-History Index
     children:
       - title:             "• Before Bitcoin"
-        url:               before-bitcoin/
+        url: "https://infominer.id/bitcoin-history/before-bitcoin/"
       - title:             "• Cypherpunks"
-        url:               before-bitcoin/cypherpunks/
+        url: "https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/"
       - title:             "• Electronic Cash"
-        url:               before-bitcoin/electronic-cash/
+        url: "https://infominer.id/bitcoin-history/before-bitcoin/electronic-cash/"
       - title:             "• Permissioned Ledgers"
-        url:               permissioned/
+        url: "https://infominer.id/bitcoin-history/permissioned/"
       - title:             "• United Nations"
-        url:               UnitedNations/
+        url: "https://infominer.id/bitcoin-history/UnitedNations/"
       - title:             "• Smart Contracts"
-        url:               smart-contracts/
+        url: "https://infominer.id/bitcoin-history/smart-contracts/"
       - title:             "• Blockchain in the Bahamas - Timeline"
-        url:               blockchain-bahamas-crypto-caribbean/
+        url: "https://infominer.id/bitcoin-history/blockchain-bahamas-crypto-caribbean/"
   - title: Transcripts
     children:
       - title: "• JW Weatherman Interviews Tim May"
-        url: "transcripts/JW-Weatherman-Tim-May-Interview/"
+        url: "https://infominer.id/bitcoin-history/transcripts/JW-Weatherman-Tim-May-Interview/"
       - title: "• Kuhlman-Monax-History of Blockchain for Business"
-        url: "transcripts/kuhlman-monax-blockchain-business-history/"
+        url: "https://infominer.id/bitcoin-history/transcripts/kuhlman-monax-blockchain-business-history/"
       - title: "• John Wolpert Coindesk Interview at Consensus 2018"
-        url: "transcripts/JohnWolpert-Consensus2018"
+        url: "https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
       - title: "• Smart Signatures - Christopher Allen - BPASE '18"
-        url: transcripts/smart-signatures-christopher-allen/
+        url: "https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/"
   - title: Featured
     children:
       - title: "• Practical Cryptography - PGP and Me"
