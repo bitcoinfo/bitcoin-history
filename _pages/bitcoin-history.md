@@ -4,14 +4,17 @@ title: Bitcoin History
 description: >
   An assorted open-source collection of resources on the history of Bitcoin.
 header:
-  image: https://infominer.id/bitcoin-history/assets/img/genesis-block-newspaper-chancellor-brink-bailout-banks.png
-  caption: "[www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/)"
+  image: https://infominer.id/bitcoin-history/assets/img/Happy-birthday-bitcoin-log-chart-in-The-Times.jpg
+  caption: "[Happy Birthday Bitcoin! Your Gift: A Log Chart in the Times](https://ftalphaville.ft.com/2019/01/03/1546533333000/Happy-birthday-bitcoin--Your-gift--a-log-chart-in-the-The-Times/)"
   og_image: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.jpg
 permalink: "bitcoin/"
 redirect_from: "bitcoin"
 ---
 
-![](https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.jpg)
+![](https://infominer.id/bitcoin-history/assets/img/genesis-block-newspaper-chancellor-brink-bailout-banks.png)<br/>
+[www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/){: .btn .btn--light-outline}
+
+
 
 * [Bitcoin's Origins and the Genesis Blockade](https://youtu.be/cagoyF3WePo)
   > "In this talk, Andreas recounts the origins of Bitcoin, the meaning of the message embedded forever in its genesis block, and how we figured out who the banks truly serve when there was no other choice. He also speaks about what happens when money stops working, why censorship resistance was one of Bitcoin's most valuable characteristics from the start, and what possibilities lay in store with a global, voluntary financial system."
@@ -95,7 +98,6 @@ Is a term that came about around 2014 to describe crypto projects beyond Bitcoin
 
 * [https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/](https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/)
 
-![](https://infominer.id/bitcoin-history/assets/img/Happy-birthday-bitcoin-log-chart-in-The-Times.jpg)
 
 ### Resources
 
