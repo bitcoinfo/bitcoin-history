@@ -1,3 +1,6 @@
+---
+published: false
+---
 # People
 **The Important People of Bitcoin History**\
 
