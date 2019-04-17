@@ -22,52 +22,8 @@ Ran on 35 files!
      <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
   *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 1229)
      <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
-- _site/_pages/people/README/index.html
-  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
-  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
-  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 580)
-  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
-     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
-  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
-     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
-  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 570)
-     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
-  *  internally linking to /bitcoin-history/nick-szabo/, which does not exist (line 483)
-     <a href="/bitcoin-history/nick-szabo/">Nick Szabo</a>
-  *  internally linking to /bitcoin-history/people/adam-back/, which does not exist (line 477)
-     <a href="/bitcoin-history/people/adam-back/">Adam Back</a>
-  *  internally linking to /bitcoin-history/people/wei-dai/, which does not exist (line 480)
-     <a href="/bitcoin-history/people/wei-dai/">Wei Dai</a>
-  *  internally linking to /david-chaum.md, which does not exist (line 474)
-     <a href="/david-chaum.md">David Chaum</a>
-- _site/_pages/people/index.html
-  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 151)
-  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 151)
-  *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 580)
-  *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 97)
-     <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
-  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 87)
-     <link href="/bitcoin-history/feed.xml" type="application/atom+xml" rel="alternate" title="Bitcoin Historical Index Feed">
-  *  internally linking to /bitcoin-history/feed.xml, which does not exist (line 570)
-     <a href="/bitcoin-history/feed.xml"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> Feed</a>
-  *  internally linking to /bitcoin-history/nick-szabo/, which does not exist (line 483)
-     <a href="/bitcoin-history/nick-szabo/">Nick Szabo</a>
-  *  internally linking to /bitcoin-history/people/adam-back/, which does not exist (line 477)
-     <a href="/bitcoin-history/people/adam-back/">Adam Back</a>
-  *  internally linking to /bitcoin-history/people/wei-dai/, which does not exist (line 480)
-     <a href="/bitcoin-history/people/wei-dai/">Wei Dai</a>
-  *  internally linking to /david-chaum.md, which does not exist (line 474)
-     <a href="/david-chaum.md">David Chaum</a>
 - _site/before-bitcoin.html
   *  External link https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b failed: got a time out (response code 302)
-  *  image /bitcoin-history/assets/icons/icon@2x.png does not have an alt attribute (line 149)
-  *  image https://i.imgur.com/0zBLoUP.png does not have an alt attribute (line 811)
-  *  image https://i.imgur.com/Cth8HLz.png does not have an alt attribute (line 545)
-  *  image https://i.imgur.com/RZafVvV.png does not have an alt attribute (line 555)
-  *  image https://i.imgur.com/cH9VMNn.png does not have an alt attribute (line 612)
-  *  image https://i.imgur.com/hIMMThY.png does not have an alt attribute (line 599)
-  *  image https://imgur.com/yXLLm9Bl.png does not have an alt attribute (line 807)
-  *  internal image /bitcoin-history/assets/icons/icon@2x.png does not exist (line 149)
   *  internal script /bitcoin-history/assets/js/main.min.js does not exist (line 907)
   *  internally linking to /bitcoin-history/assets/css/main.css, which does not exist (line 95)
      <link rel="stylesheet" href="/bitcoin-history/assets/css/main.css">
