@@ -58,14 +58,14 @@ redirect_from:
 * [bitcoin.it/wiki/Hashcash](https://en.bitcoin.it/wiki/Hashcash)
 * [Proof of Work Proves not to Work](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
 * https://security.stackexchange.com/questions/14262/hashcash-is-this-really-used
-* [**>> More Resources for Adam Back >>**](../people/adam-back.md)
+* [**>> More Resources for Adam Back >>**](https://infominer.id/bitcoin-history/people/adam-back/)
   
 ### B-money 
 
 * [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
 * [If Bitcoin had a first Draft - B-money was it](https://bitcoinmagazine.com/articles/genesis-files-if-bitcoin-had-first-draft-wei-dais-b-money-was-it/)
 * https://www.investopedia.com/terms/b/bmoney.asp
-* [**>> More Information on Wei Dai >>**](../people/wei-dai.md)
+* [**>> More Information on Wei Dai >>**](https://infominer.id/bitcoin-history/people/wei-dai/)
 
 
 ### Beenz and Flooz 
