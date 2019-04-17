@@ -1,6 +1,7 @@
 ---
 title: Nick Szabo
-permalink: nick-szabo/
+permalink: people/nick-szabo/
+redirect_from: nick-szabo/
 ---
 
 * [Who is Nick Szabo, The Mysterious Blockchain Titan](https://unblock.net/nick-szabo/)

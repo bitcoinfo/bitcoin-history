@@ -102,7 +102,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [Use me Baby one more Time](https://medium.com/blockwhat/04-use-me-baby-one-more-time-d0dd599c8357)
 * https://github.com/NakamotoInstitute/RPOW
 * https://slashdot.org/story/04/08/18/1345258/rpow---reusable-proofs-of-work
-* [**>> More Information on Hal Finney >>**](../people/hal-finney.md)
+* [**>> More Information on Hal Finney >>**](https://infominer.id/bitcoin-history/people/hal-finney/)
 
 ### Bit Gold 
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="https://imgur.com/sKwIgP4l.png" /></a>
@@ -115,7 +115,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [Re: They want to delete the Wikipedia article](https://bitcointalk.org/index.php?topic=342.msg4508#msg4508) - satoshi
   >Bitcoin is an implementation of Wei Dai's b-money proposal http://weidai.com/bmoney.txt on Cypherpunks http://en.wikipedia.org/wiki/Cypherpunks in 1998 and Nick Szabo's Bitgold proposal http://unenumerated.blogspot.com/2005/12/bit-gold.html
 * [What is Bit Gold? The Brainchild of Blockchain Pioneer - Nick Szabo](https://coincentral.com/what-is-bit-gold-the-brainchild-of-blockchain-pioneer-nick-szabo/)
-* [**>> More Information on Nick Szabo >>**](../people/nick-szabo.md)
+* [**>> More Information on Nick Szabo >>**](https://infominer.id/bitcoin-history/people/nick-szabo/)
 
 
 ### Liberty Reserve 
