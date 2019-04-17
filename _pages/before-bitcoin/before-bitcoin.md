@@ -11,21 +11,6 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 ![](https://i.imgur.com/rJGaKPk.png)
 
-## Contents
-
-* [Short-form Crypto Fundamentals](#short-form-crypto-fundamentals)
-* [Timelines](#timelines)
-* [Pre-Digital Cryptogrphay](#pre-digital-cryptography)
-* [Digital Cryptography](#digital-cryptography)
-* [David Chaum](#David-Chaum)
-* [Distributed Systems](#distributed-systems)
-* [Cypherpunks](#cypherpunks)
-* [Pre-Bitcoin Digital Currency](#Pre-Bitcoin-Digital-Currency)
-* [Literature](#Literature)
-* [Video-Audio](#video-audio)
-* [Resources](#additional-resources)
-* [Tips Jar](#infominerid)
-
 ### Short-form Crypto Fundamentals [**^**](#research-index) 
 -by Infominer
 
@@ -39,28 +24,28 @@ This section is for all history preceeding, and related to the develpment of Bit
 
 ---
 
-* [**/cypherpunks.html**]({{ site.rooturl }}/before-bitcoin/cypherpunks.html) and the Crypto Wars
-  * [Crypto Wars]({{ site.rooturl }}/before-bitcoin/cypherpunks.html#crypto-wars
-  * [Cypherpunk Mailing-list]({{ site.rooturl }}/before-bitcoin/cypherpunks.html#cypherpunk-mailinglist
-  * [Modern Crypto Wars]({{ site.rooturl }}/before-bitcoin/cypherpunks.html#modern-crypto-wars
-  * [Resources]({{ site.rooturl }}/before-bitcoin/cypherpunks.html#resources
-* Pre-Bitcoin [**/electronic-cash.html**]({{ site.rooturl }}/before-bitcoin/electronic-cash.html) 
-  * [DigiCash]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#digicash
-  * [FirstVirtual and CyberCash]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#FirstVirtual-and-CyberCash
-  * [NetCash]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#netcash
-  * [Modex]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#Modex
-  * [Project CAFE]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#Project-Cafe
-  * [eGold]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#eGold
-  * [HashCash]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#HashCash
-  * [Beanz and Flooz]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#beenz-and-flooz
-  * [InternetCash]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#internetcash
-  * [E-Bullion]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#E-Bullion
-  * [Dexit]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#Dexit
-  * [B-money]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#b-money
-  * [Bit Gold]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#Bit-Gold
-  * [Peppercoin]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#peppercoin
-  * [Reusable Proof of Work]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#reusable-proof-of-work
-  * [Liberty Reserve]({{ site.rooturl }}/before-bitcoin/electronic-cash.html#liberty-reserve
+* [**/cypherpunks/**]({{ site.rooturl }}/before-bitcoin/cypherpunks/) and the Crypto Wars
+  * [Crypto Wars]({{ site.rooturl }}/before-bitcoin/cypherpunks/#crypto-wars)
+  * [Cypherpunk Mailing-list]({{ site.rooturl }}/before-bitcoin/cypherpunks/#cypherpunk-mailinglist
+  * [Modern Crypto Wars]({{ site.rooturl }}/before-bitcoin/cypherpunks/#modern-crypto-wars)
+  * [Resources]({{ site.rooturl }}/before-bitcoin/cypherpunks/#resources)
+* Pre-Bitcoin [**/electronic-cash/**]({{ site.rooturl }}/before-bitcoin/electronic-cash/) 
+  * [DigiCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#digicash)
+  * [FirstVirtual and CyberCash]({{ site.rooturl }}/before-bitcoin/)electronic-cash/#FirstVirtual-and-CyberCash
+  * [NetCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#netcash)
+  * [Modex]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Modex)
+  * [Project CAFE]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Project-Cafe
+  * [eGold]({{ site.rooturl }}/before-bitcoin/electronic-cash/#eGold)
+  * [HashCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#HashCash)
+  * [Beanz and Flooz]({{ site.rooturl }}/before-bitcoin/electronic-cash/#beenz-and-flooz)
+  * [InternetCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#internetcash)
+  * [E-Bullion]({{ site.rooturl }}/before-bitcoin/electronic-cash/#E-Bullion)
+  * [Dexit]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Dexit)
+  * [B-money]({{ site.rooturl }}/before-bitcoin/electronic-cash/#b-money)
+  * [Bit Gold]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Bit-Gold)
+  * [Peppercoin]({{ site.rooturl }}/before-bitcoin/electronic-cash/#peppercoin)
+  * [Reusable Proof of Work]({{ site.rooturl }}/before-bitcoin/electronic-cash/#reusable-proof-of-work
+  * [Liberty Reserve]({{ site.rooturl }}/before-bitcoin/electronic-cash/#liberty-reserve)
 
 
 
