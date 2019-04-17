@@ -22,54 +22,54 @@ main:
 bitnav:
   - title: Bitcoin-History Index
     children:
-      - title:             Before Bitcoin
+      - title:             "• Before Bitcoin"
         url:               before-bitcoin/
-      - title:             Cypherpunks
+      - title:             "• Cypherpunks"
         url:               before-bitcoin/cypherpunks/
-      - title:             Electronic Cash
+      - title:             "• Electronic Cash"
         url:               before-bitcoin/electronic-cash/
-      - title:             Permissioned Ledgers
+      - title:             "• Permissioned Ledgers"
         url:               permissioned/
-      - title:             United Nations
+      - title:             "• United Nations"
         url:               UnitedNations/
-      - title:             Smart Contracts
+      - title:             "• Smart Contracts"
         url:               smart-contracts/
-      - title:             Blockchain in the Bahamas - Timeline
+      - title:             "• Blockchain in the Bahamas - Timeline"
         url:               blockchain-bahamas-crypto-caribbean/
   - title: Transcripts
     children:
-      - title: "JW Weatherman Interviews Tim May"
+      - title: "• JW Weatherman Interviews Tim May"
         url: "transcripts/JW-Weatherman-Tim-May-Interview/"
-      - title: "Kuhlman-Monax-History of Blockchain for Business"
+      - title: "• Kuhlman-Monax-History of Blockchain for Business"
         url: "transcripts/kuhlman-monax-blockchain-business-history/"
-      - title: "John Wolpert Coindesk Interview at Consensus 2018"
+      - title: "• John Wolpert Coindesk Interview at Consensus 2018"
         url: "transcripts/JohnWolpert-Consensus2018"
-      - title: "Smart Signatures - Christopher Allen - BPASE '18"
+      - title: "• Smart Signatures - Christopher Allen - BPASE '18"
         url: transcripts/smart-signatures-christopher-allen/
   - title: Featured
     children:
-      - title: "Practical Cryptography - PGP and Me"
+      - title: "• Practical Cryptography - PGP and Me"
         url: "https://infominer.id/bitcoin-history/pgp-and-me/"
-      - title: "Github Pages Starter Pack"
+      - title: "• Github Pages Starter Pack"
         url: "https://infominer.id/gh-pages-starter-pack.html"
-      - title: "SourceCrypto Directory and Archive"
+      - title: "• SourceCrypto Directory and Archive"
         url: "https://infominer.id/SourceCrypto/discolog/"
-      - title: "RebootingWebofTrust - Papers Index"
+      - title: "• RebootingWebofTrust - Papers Index"
         url: "https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/"
   - title: "Inf⧉Mine⧉"
     children:
-      - title: "infominer.id"
+      - title: "• infominer.id"
         url: "https://infominer.id/"
-      - title: "Bitcoin Historical Index"
+      - title: "• Bitcoin Historical Index"
         description: "Resources on the History leading up to and Surrounding Bitcoin."
         url: "https://infominer.id/bitcoin-history"
-      - title: "S⧉urce Crypt⧉"
+      - title: "• S⧉urce Crypt⧉"
         description: "A Discord Chat for Creating a Database of Information Surrounding Blockchain and Cryptocurrency."
         url: "https://infominer.id/SourceCrypto"
-      - title: "Learn Crypto Trading"
+      - title: "• Learn Crypto Trading"
         description: "Resources for learning Technical Analysis and the Fundamentals of Crypto Trading"
         url: "https://infominer.id/learn-crypto-trading"
-      - title: "DIDecentralized"
+      - title: "• DIDecentralized"
         url: "https://infominer.id/DIDecentralized"
-      - title: "Github Pages Starter Pack"
+      - title: "• Github Pages Starter Pack"
         url: "https://infominer.id/gh-pages-starter-pack.html"
