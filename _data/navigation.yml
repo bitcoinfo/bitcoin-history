@@ -36,8 +36,6 @@ bitnav:
         url: "https://infominer.id/bitcoin-history/UnitedNations/"
       - title:             "• Smart Contracts"
         url: "https://infominer.id/bitcoin-history/smart-contracts/"
-      - title:             "• Blockchain in the Bahamas - Timeline"
-        url: "https://infominer.id/bitcoin-history/blockchain-bahamas-crypto-caribbean/"
   - title: Transcripts
     children:
       - title: "• JW Weatherman Interviews Tim May"
@@ -60,6 +58,8 @@ bitnav:
         url: "https://infominer.id/SourceCrypto/discolog/"
       - title: "• RebootingWebofTrust - Papers Index"
         url: "https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/"
+      - title: "• Blockchain in the Bahamas - Timeline"
+        url: "https://infominer.id/bitcoin-history/blockchain-bahamas-crypto-caribbean/"
   - title: "Inf⧉Mine⧉"
     children:
       - title: "• infominer.id"
