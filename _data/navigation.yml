@@ -48,6 +48,8 @@ bitnav:
         url: "https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
       - title: "• Smart Signatures - Christopher Allen - BPASE '18"
         url: "https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/"
+      - title: "• Public vs Private Blockchains for Enterprise with R3 and Consensys"
+        url: "https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
   - title: Featured
     children:
       - title: "• Practical Cryptography - PGP and Me"
