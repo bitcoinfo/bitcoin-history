@@ -186,3 +186,6 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 * [Stupid about Blockchain](https://medium.com/web3studio/stupid-about-blockchain-51cb150b7e)
   * [twitter.com #notStupidEnterpriseBlockchain](https://twitter.com/hashtag/notStupidEnterpriseBlockchain?src=hash)
 * [How I Lost My Faith in Private Blockchains](https://www.coindesk.com/how-i-lost-my-faith-in-private-blockchains)
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I could at best claim second...in all things in the last four years <a href="https://twitter.com/pbrody?ref_src=twsrc%5Etfw">@pbrody</a> precedes me.</p>&mdash; John Wolpert (@jwolpert) <a href="https://twitter.com/jwolpert/status/1118329514361331712?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
