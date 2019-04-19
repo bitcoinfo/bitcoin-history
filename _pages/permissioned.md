@@ -100,7 +100,7 @@ They didn't win the bounty, but their open-source permissionable implementation 
 
 * [github.com/openblockchain](https://github.com/openblockchain)
   - The beginning of what became hyperledger fabric
-
+* [Hyperledger Announces Production-Ready Hyperledger Fabric 1.0](https://www.hyperledger.org/announcements/2017/07/11/hyperledger-announces-production-ready-hyperledger-fabric-1-0)
 * [hyperledger-fabric-1-0-is-released](https://www.hyperledger.org/blog/2017/07/11/hyperledger-fabric-1-0-is-released)
 
 
@@ -141,6 +141,16 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 
 11/16, R3 [open-sourced Corda](https://www.ofnumbers.com/2017/02/27/a-brief-history-of-r3-the-distributed-ledger-group/), it’s permissioned distributed ledger platform. Corda features private transactions and smart contracts based upon [Smart Contract Templates: foundations, design landscape, and research directions, Barclays, University College London](https://arxiv.org/abs/1608.00771).
 
+## IBM
+
+* [Back on the Chain Gang](https://www.ibm.com/developerworks/community/blogs/gcuomo/entry/Back_on_the_Chain_Gang)
+* [IBM Supports Linux Foundation's Hyperledger Blockchain as Industry Standard, Plans Deployment](https://bitcoinmagazine.com/articles/ibm-supports-linux-foundation-s-hyperledger-blockchain-as-industry-standard-plans-deployment-1454618593/)
+* [IBM Director Declares ‘We’re All in on Blockchain’](https://www.coindesk.com/ibm-director-all-in-blockchain)
+* [Retrospective - The Blockchain Conference 2016](http://debuttbcc.strikingly.com/)
+* [The Case for a Transaction Fabric for the Internet](https://medium.com/@jwolpert/the-case-for-a-transaction-fabric-for-the-internet-586b13ee67e7)
+
+
+
 ## Misc-2016 
 
 * [https://data.gov.ru/sites/default/files/documents/315354748-applying-blockchain-technology-in-global-data-infrastructure.pdf](https://data.gov.ru/sites/default/files/documents/315354748-applying-blockchain-technology-in-global-data-infrastructure.pdf) '16
@@ -152,14 +162,26 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 * [Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf](https://cdn.discordapp.com/attachments/479362197835743233/497710026006200320/Smart_Contracts_12_Use_Cases_for_Business_Beyond.pdf)
 
 
-## 2017 
+## 2017
 
+### Ent Eth Alliance
 * [https://entethalliance.org/enterprise-ethereum-alliance-going-strong/](https://entethalliance.org/enterprise-ethereum-alliance-going-strong/)
-
 * [https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb](https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb) 
+
+### Wolpert Joins Consensys
+* [ConsenSys hires IBM blockchain leader John Wolpert and Strate CEO Monica Singer](https://www.ibtimes.co.uk/consensys-hires-ibm-blockchain-leader-john-wolpert-strate-ceo-monica-singer-1643090)
+* [TRANSCRIPT: John Wolpert of @ConsenSys talks awesomeness at #Consensus2018 #CoinDeskLIVE](https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018)
+* [Public or Private? Blockchain Distinctions Are Falling Out of Fashion](https://www.coindesk.com/public-private-blockchain-distinctions-falling-fashion)
 
 
 ## 2018 
 
 * [https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/](https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/)
  
+### Shift in favor towards Public Chains
+
+* [5 Reasons Why Enterprise Ethereum is so much more than a Distributed Ledger Technology](https://media.consensys.net/5-reasons-why-enterprise-ethereum-is-so-much-more-than-a-distributed-ledger-technology-c9a89db82cb5)
+  ![](https://i.imgur.com/4bYwwnv.png)
+* [Stupid about Blockchain](https://medium.com/web3studio/stupid-about-blockchain-51cb150b7e)
+  * [twitter.com #notStupidEnterpriseBlockchain](https://twitter.com/hashtag/notStupidEnterpriseBlockchain?src=hash)
+* [How I Lost My Faith in Private Blockchains](https://www.coindesk.com/how-i-lost-my-faith-in-private-blockchains)
