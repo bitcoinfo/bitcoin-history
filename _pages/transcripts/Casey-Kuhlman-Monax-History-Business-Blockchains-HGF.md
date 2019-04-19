@@ -2,10 +2,8 @@
 layout: single
 title: "Blockchains for Business - From Huh to Hype to Meh"
 description: "Transcript of Casey Kuhlman sharing the history of blockchain for business"
-permalink: transcripts/kuhlman-monax-blockchain-business-history/
-redirect_from: 
-  - blockchain-business-history/
-  - transcripts/blockchain-business-history/
+permalink: kuhlman-monax-blockchain-business-history/
+redirect_to: https://infominer.id/transcripts/kuhlman-monax-blockchain-business-history/
 ---
 
 **[Casey Kuhlman, Monax - Hyperledger Global Forum](https://www.youtube.com/watch?v=YPuZM1KEZI8)**
