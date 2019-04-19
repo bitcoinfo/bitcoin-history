@@ -165,7 +165,7 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 
 ## 2017
 
-### Ent Eth Alliance
+### Enterprise Ethereum Alliance
 * [https://entethalliance.org/enterprise-ethereum-alliance-going-strong/](https://entethalliance.org/enterprise-ethereum-alliance-going-strong/)
 * [https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb](https://entethalliance.org/wp-content/uploads/2017/02/EEA.pdfFeb) 
 
