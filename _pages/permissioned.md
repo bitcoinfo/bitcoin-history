@@ -179,7 +179,7 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 
 * [https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/](https://www.theblockcrypto.com/2018/12/12/mapping-out-enterprise-blockchain/)
  
-### Shift in favor towards Public Chains
+### Ethereum for the Enterprise
 
 * [5 Reasons Why Enterprise Ethereum is so much more than a Distributed Ledger Technology](https://media.consensys.net/5-reasons-why-enterprise-ethereum-is-so-much-more-than-a-distributed-ledger-technology-c9a89db82cb5)
   ![](https://i.imgur.com/4bYwwnv.png)
