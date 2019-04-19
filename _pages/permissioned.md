@@ -189,3 +189,5 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 
 <blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">I could at best claim second...in all things in the last four years <a href="https://twitter.com/pbrody?ref_src=twsrc%5Etfw">@pbrody</a> precedes me.</p>&mdash; John Wolpert (@jwolpert) <a href="https://twitter.com/jwolpert/status/1118329514361331712?ref_src=twsrc%5Etfw">April 17, 2019</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Don&#39;t forget <a href="https://twitter.com/CoinSciences?ref_src=twsrc%5Etfw">@CoinSciences</a> and <a href="https://twitter.com/compleatang?ref_src=twsrc%5Etfw">@compleatang</a> while yall are at who started da fire.</p>&mdash; Ajit Tripathi (@chainyoda) <a href="https://twitter.com/chainyoda/status/1119299053836230657?ref_src=twsrc%5Etfw">April 19, 2019</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
