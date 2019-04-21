@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: single
 title: Bitcoin History
 description: A Growing Catalog of Resources Related to the History Surrounding Bitcoin.
 header: 
