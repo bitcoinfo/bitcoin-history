@@ -66,7 +66,7 @@ bitnav:
     children:
       - title: "• infominer.id"
         url: "https://infominer.id/"
-      - title: "Transcripts"
+      - title: "• Transcripts"
         url: "https://infominer.id/transcripts"
       - title: "• Bitcoin Historical Index"
         description: "Resources on the History leading up to and Surrounding Bitcoin."
