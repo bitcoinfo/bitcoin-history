@@ -2,7 +2,9 @@
 layout: single
 title: Practical Crypto
 description: "Asymmetric Encryption: Phil Zimmerman, PGP and Bitcoin Signatures, BitcoinTalk Escrow, DeepDotWeb, SSL, Various Apps and Resourses."
-image: https://i.imgur.com/swEAkJm.png
+header:
+  image: "https://infominer.id/bitcoin-history/assets/img/pgp-banner.png"
+  og_image: "https://infominer.id/bitcoin-history/assets/img/pgp-og.png"
 share: true
 permalink: pgp-and-me/
 redirect_from: pgp-and-me
@@ -27,6 +29,8 @@ pull-requests-welcome
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 * [infominer.id/bitcoin-history/before-bitcoin/cypherpunks/](https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/)
 * [Even the Inventor of PGP Doesn’t Use PGP](https://motherboard.vice.com/en_us/article/vvbw9a/even-the-inventor-of-pgp-doesnt-use-pgp)
+
+![](https://infominer.id/bitcoin-history/assets/img/pgp-og.png)
 
 ## PGP for Newbs and Beyond
 
