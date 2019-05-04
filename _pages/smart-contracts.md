@@ -3,7 +3,7 @@ layout: single
 title: Smart Contract History and Related Resources
 description: From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and the Cambrian Explosion.
 header:
-  image: http://www.erights.org/elib/distrib/captp/3vat/images/elems10.png
+  image: https://infominer.id/bitcoin-history/assets/img/elems10.png
   caption: "[erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distrib/captp/provideFor.html) '98"
 author_profile: false
 permalink: smart-contracts/
