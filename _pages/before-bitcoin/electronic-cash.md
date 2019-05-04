@@ -155,8 +155,9 @@ BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
 
 ![](https://imgur.com/yXLLm9Bl.png) 
 
-DOGE— DEFqLsXX2o5QqsYsRn5g9d2Aba5L5xAVLM
+DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
 
-![](https://i.imgur.com/0zBLoUP.png) 
+<img src="https://imgur.com/z316u0c.png" width="150"> 
+ 
 
 
