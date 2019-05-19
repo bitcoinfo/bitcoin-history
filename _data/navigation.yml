@@ -2,6 +2,8 @@
 main:
   - title: "⧉InfoMine⧉"
     url: "https://infominer.id/"
+  - title: "IndieWeb"
+    url: "https://infominer.id/indieweb/"
   - title: "Transcripts"
     url: "https://infominer.id/transcripts"
   - title: "Source⧉Crypto"
