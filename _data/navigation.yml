@@ -1,7 +1,9 @@
 # main links
 main:
-  - title: "⧉InfoMine⧉"
+  - title: "Inf⧉Mine⧉"
     url: "https://infominer.id/"
+  - title: "webwork.tools"
+    url: "https://infominer.id/web-work/"
   - title: "IndieWeb"
     url: "https://infominer.id/indieweb/"
   - title: "Transcripts"
