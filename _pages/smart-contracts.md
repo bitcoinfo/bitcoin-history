@@ -118,8 +118,10 @@ Basically this research starting in the 60's, with much work throughout the 80's
   >Why? Because it lets programs handle permissions like other objects, keeping them apart and thus reducing the attack surface and preventing Confused Deputy [0] attacks.  -[7373737373](https://news.ycombinator.com/item?id=19986189)
   >
   > [https://en.m.wikipedia.org/wiki/Confused_deputy_problem](https://en.m.wikipedia.org/wiki/Confused_deputy_problem)
+* [ghosthamlet - news.ycombinator](https://news.ycombinator.com/item?id=19987751)
+  > The E on Common Lisp Project website is down, code on github: https://github.com/kpreid/e-on-cl
   >
-  
+  > e-on-javascript: https://github.com/kpreid/e-on-javascript
 
 ### Ethereum 
 
