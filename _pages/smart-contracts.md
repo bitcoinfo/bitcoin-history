@@ -86,6 +86,7 @@ Basically this research starting in the 60's, with much work throughout the 80's
 
 * [agoric.com/authors/mark-s-miller](https://agoric.com/authors/mark-s-miller/)
 * [marksammiller@twitter.com](https://twitter.com/marksammiller)
+* [Mark Miller: Agoric and the Decades-Long Quest for Secure Smart Contracts.](https://letstalkbitcoin.com/blog/post/epicenter-mark-miller-agoric-and-the-decadeslong-quest-for-secure-smart-contracts)
 
 ### Nick Szabo
 
