@@ -92,8 +92,11 @@ Basically this research starting in the 60's, with much work throughout the 80's
 * [erights.org](http://www.erights.org/smart-contracts/)
 * [wiki.c3.com - E Language An ObjectCapabilityLanguage](http://wiki.c2.com/?EeLanguage)
 * [Mailing list ARChives— e-lang The E capability-secure scripting language](https://marc.info/?l=e-lang)
-
-
+* [monte.readthedocs.io](https://monte.readthedocs.io/en/latest/)
+  >* Monte is a programming language inspired by the E and Python programming languages. Monte aims to be:
+  >* A reliable scaffold for secure distributed computing
+  >* An example of capability-safe programming language design
+  >* A model for misuse-resistant programming
 
 ### Ethereum 
 
