@@ -116,11 +116,11 @@ Basically this research starting in the 60's, with much work throughout the 80's
   * [kentonv](https://news.ycombinator.com/item?id=19987621)
     >I'm always astounded by the depth to which Mark has explored this space. On more than a few occasions, I've come up with an interesting idea for a new protocol or programming language feature or piece of distributed systems infrastructure and told Mark about it, only to find he had already thought of that problem and discovered and solved several issues I hadn't even thought about yet.
     >
-    >Cap'n Proto RPC (https://capnproto.org/rpc.html) is based on E's network protocol, CapTP, e.g. utilizing The Four Tables:
+    >Cap'n Proto RPC [https://capnproto.org/rpc.html](https://capnproto.org/rpc.html) is based on E's network protocol, CapTP, e.g. utilizing The Four Tables:
     >
-    >http://erights.org/elib/distrib/captp/4tables.html
+    >[http://erights.org/elib/distrib/captp/4tables.html](http://erights.org/elib/distrib/captp/4tables.html)
     >
-    >https://github.com/capnproto/capnproto/blob/master/c++/src/capnp/rpc.capnp#L116
+    >[https://github.com/capnproto/capnproto/blob/master/c++/src/capnp/rpc.capnp#L116](https://github.com/capnproto/capnproto/blob/master/c++/src/capnp/rpc.capnp#L116)
     >
     >(You can think of this design as an extension of the file descriptor table concept in Unix, except that both sides may export descriptors to the other side (so that calls can flow either way), and either side can be responsible for assigning the numeric descriptor value for any particular description (which makes it easier to compensate for a high-latency transport).)
     >
