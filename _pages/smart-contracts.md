@@ -59,8 +59,6 @@ The object-capability model was first proposed by Jack Dennis and Earl C. Van Ho
 * [Linked Data Capabilities](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/lds-ocap.md)
   * [Object Capabilities for Linked Data v0.3](https://w3c-ccg.github.io/ocap-ld/)
 * [Cosmos Object-Capability Model](https://cosmos.network/docs/intro/ocap.html)
-* [Agoric](https://agoric.com/about/)
-  * [Object Capabilities with Kate Sills](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html) (podcast)
 * [Ethereum Object Capabilities](https://ethereum-magicians.org/t/ethereum-object-capabilities/3035/3)
 * [Security in Scala: Using Object Capabilities](https://tersesystems.com/blog/2018/06/24/security-in-scala/)
   * [A Guide To Capabilities](https://wsargent.github.io/ocaps/guide/)
@@ -71,6 +69,19 @@ Object Capabilities are new to me, and I'm just placing any related information 
 
 Basically this research starting in the 60's, with much work throughout the 80's (that is not well dowcumented online), culminating with Nick Szabo's work, and E Language. Object Capabilities are central to the original line of work the term "Smart Contracts" was used in reference to, which was somewhat misappropriated by Vitalik.
 
+#### Agoric
+
+* [Agoric](https://agoric.com/about/)
+  * [Object Capabilities with Kate Sills](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html) (podcast)
+
+#### Mark S Miller
+
+>Mark S. Miller is an American computer scientist. He is known for his work as one of the participants in the 1979 hypertext project known as Project Xanadu; for inventing Miller columns; as the co-creator of the Agoric Paradigm[1] of market-based distributed secure computing; and the open-source coordinator of the E programming language. He also designed the Caja programming language.
+>
+>Miller earned a BS in computer science from Yale in 1980 and published his Johns Hopkins PhD thesis in 2006.[2] Previously Chief Architect with the Virus-Safe Computing Initiative at HP Labs, he is now a research scientist at Google[3] and a member of the ECMAScript (JavaScript) committee.[4] - [Wikipedia](https://en.wikipedia.org/wiki/Mark_S._Miller)
+
+* [agoric.com/authors/mark-s-miller](https://agoric.com/authors/mark-s-miller/)
+* [marksammiller@twitter.com](https://twitter.com/marksammiller)
 
 ### Nick Szabo
 
