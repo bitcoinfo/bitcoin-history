@@ -113,15 +113,35 @@ Basically this research starting in the 60's, with much work throughout the 80's
   >* An example of capability-safe programming language design
   >* A model for misuse-resistant programming
 * [news.ycombinator.com - E Programming Language](https://news.ycombinator.com/item?id=19981720#19985614)
-  > Modern smart contract systems should learn a lesson or five from it, most importantly, (object) capability security.
-  >
-  >Why? Because it lets programs handle permissions like other objects, keeping them apart and thus reducing the attack surface and preventing Confused Deputy [0] attacks.  -[7373737373](https://news.ycombinator.com/item?id=19986189)
-  >
-  > [https://en.m.wikipedia.org/wiki/Confused_deputy_problem](https://en.m.wikipedia.org/wiki/Confused_deputy_problem)
-* [ghosthamlet - news.ycombinator](https://news.ycombinator.com/item?id=19987751)
-  > The E on Common Lisp Project website is down, code on github: https://github.com/kpreid/e-on-cl
-  >
-  > e-on-javascript: https://github.com/kpreid/e-on-javascript
+  * [kentonv](https://news.ycombinator.com/item?id=19987621)
+    >I'm always astounded by the depth to which Mark has explored this space. On more than a few occasions, I've come up with an interesting idea for a new protocol or programming language feature or piece of distributed systems infrastructure and told Mark about it, only to find he had already thought of that problem and discovered and solved several issues I hadn't even thought about yet.
+    >
+    >Cap'n Proto RPC (https://capnproto.org/rpc.html) is based on E's network protocol, CapTP, e.g. utilizing The Four Tables:
+    >
+    >http://erights.org/elib/distrib/captp/4tables.html
+    >
+    >https://github.com/capnproto/capnproto/blob/master/c++/src/capnp/rpc.capnp#L116
+    >
+    >(You can think of this design as an extension of the file descriptor table concept in Unix, except that both sides may export descriptors to the other side (so that calls can flow either way), and either side can be responsible for assigning the numeric descriptor value for any particular description (which makes it easier to compensate for a high-latency transport).)
+    >
+    >When I first told Mark I was working on an object-oriented RPC protocol, he insisted I visit him and listen while he explained all this to me, and boy am I glad he did... would have taken a lot longer for me to figure it out myself.
+    >
+    >It's crazy that most of the content of erights.org was written over 10 years ago -- I think some of it goes back to the 90's, even.
+  * [7373737373](https://news.ycombinator.com/item?id=19986189)
+    > Modern smart contract systems should learn a lesson or five from it, most importantly, (object) capability security.
+    >
+    >Why? Because it lets programs handle permissions like other objects, keeping them apart and thus reducing the attack surface and preventing Confused Deputy [0] attacks. 
+    >
+    > [https://en.m.wikipedia.org/wiki/Confused_deputy_problem](https://en.m.wikipedia.org/wiki/Confused_deputy_problem)
+  * [ghosthamlet - news.ycombinator](https://news.ycombinator.com/item?id=19987751)
+    > The E on Common Lisp Project website is down, code on github: https://github.com/kpreid/e-on-cl
+    >
+    > e-on-javascript: https://github.com/kpreid/e-on-javascript
+
+
+
+
+
 
 ### Ethereum 
 
