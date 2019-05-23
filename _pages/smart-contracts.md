@@ -100,6 +100,7 @@ Basically this research starting in the 60's, with much work throughout the 80's
 
 ### Ethereum 
 
+... *Coming Soon* ...
 
 ### DAO 
 
