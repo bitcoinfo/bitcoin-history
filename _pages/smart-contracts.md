@@ -137,9 +137,9 @@ Basically this research starting in the 60's, with much work throughout the 80's
     > The E on Common Lisp Project website is down, code on github: https://github.com/kpreid/e-on-cl
     >
     > e-on-javascript: https://github.com/kpreid/e-on-javascript
+* [![](https://imgur.com/h2SxswG.png)](https://twitter.com/zooko/status/1131421742767849472?s=20)
 
 
-<blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Lovely to see people describing how Mark Miller&#39;s computer science insights inspired their work. (Electric Coin Co and I personally are investors in Agoric.) <a href="https://t.co/d7K0GBTFgE">https://t.co/d7K0GBTFgE</a></p>&mdash; zooko (@zooko) <a href="https://twitter.com/zooko/status/1131421742767849472?ref_src=twsrc%5Etfw">May 23, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 
 
