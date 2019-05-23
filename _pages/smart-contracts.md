@@ -97,6 +97,14 @@ Basically this research starting in the 60's, with much work throughout the 80's
   >* A reliable scaffold for secure distributed computing
   >* An example of capability-safe programming language design
   >* A model for misuse-resistant programming
+* [news.ycombinator.com - E Programming Language](https://news.ycombinator.com/item?id=19981720#19985614)
+  > Modern smart contract systems should learn a lesson or five from it, most importantly, (object) capability security.
+  >
+  >Why? Because it lets programs handle permissions like other objects, keeping them apart and thus reducing the attack surface and preventing Confused Deputy [0] attacks. -[7373737373](https://news.ycombinator.com/item?id=19986189)
+
+https://en.m.wikipedia.org/wiki/Confused_deputy_problem
+
+reply
 
 ### Ethereum 
 
