@@ -1,6 +1,6 @@
 # main links
 main:
-  - title: "Inf⧉Mine⧉"
+  - title: "⧉InfoMine⧉"
     url: "https://infominer.id/"
   - title: "webwork.tools"
     url: "https://infominer.id/web-work/"
@@ -66,7 +66,7 @@ bitnav:
         url: "https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/"
       - title: "• Blockchain in the Bahamas - Timeline"
         url: "https://infominer.id/bitcoin-history/blockchain-bahamas-crypto-caribbean/"
-  - title: "Inf⧉Mine⧉"
+  - title: "⧉InfoMine⧉"
     children:
       - title: "• infominer.id"
         url: "https://infominer.id/"
