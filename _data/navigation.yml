@@ -1,7 +1,7 @@
 # main links
 main:
-  - title: "⧉InfoMine⧉"
-    url: "https://infominer.id/"
+  - title: "Sitemap"
+    url: "/sitemap/"
   - title: "webwork.tools"
     url: "https://infominer.id/web-work/"
   - title: "IndieWeb"
@@ -23,6 +23,8 @@ main:
     url: "https://infominer.id/gh-pages-starter-pack.html"
   - title: "Minimal Mistakes: Quickstart Guide"
     url: "https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/"
+  - title: "⧉InfoMine⧉"
+    url: "https://infominer.id/"
 
 
 bitnav:
