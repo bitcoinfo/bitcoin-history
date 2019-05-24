@@ -104,17 +104,3 @@ Is a term that came about around 2014 to describe crypto projects beyond Bitcoin
 * [https://en.bitcoinwiki.org/wiki/Bitcoin_history](https://en.bitcoinwiki.org/wiki/Bitcoin_history)
 * [Blockchain Libarary - Reading Lists - Bitcoin History](https://blockchainlibrary.org/category/reading-lists/bitcoin-history/)
 * [Bitcoin History - OXT](https://oxt.me/history) - "This page lists a set of 'famous' events or lesser-known facts which are all part of the history of Bitcoin. Each event is illustrated with data extracted from the blockchain.
-
-
-
-## Donations Welcome
-
-BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
- 
-

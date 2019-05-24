@@ -146,18 +146,3 @@ An early clickworking site that rewarded users with its own digital currency.
   * E-Bullion
   * E-Gold
   * Dexit
-
-
-
-## Support the Cause
-
-BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
- 
-
-

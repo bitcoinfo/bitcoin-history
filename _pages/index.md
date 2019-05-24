@@ -105,17 +105,3 @@ share: true
 [![](https://i.imgur.com/DCLD6XA.png)](/https://www.thetimes03jan2009.com)<br/>
 [www.thetimes03jan2009.com](/https://www.thetimes03jan2009.com/)
 
-
----
-
-## Tips Jar:
-
-BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
- 
-
