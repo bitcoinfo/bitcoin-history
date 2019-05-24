@@ -26,7 +26,6 @@ main:
   - title: "⧉InfoMine⧉"
     url: "https://infominer.id/"
 
-
 bitnav:
   - title: Bitcoin-History Index
     children:
@@ -70,8 +69,12 @@ bitnav:
         url: "https://infominer.id/bitcoin-history/blockchain-bahamas-crypto-caribbean/"
   - title: "⧉InfoMine⧉"
     children:
-      - title: "• infominer.id"
-        url: "https://infominer.id/"
+      - title: "• Sitemap"
+        url: "/sitemap/"
+      - title: "• webwork.tools"
+        url: "https://infominer.id/web-work/"
+      - title: "• Indieweb"
+        url: "https://infominer.id/indieweb/"
       - title: "• Transcripts"
         url: "https://infominer.id/transcripts"
       - title: "• Bitcoin Historical Index"
@@ -87,3 +90,7 @@ bitnav:
         url: "https://infominer.id/DIDecentralized"
       - title: "• Github Pages Starter Pack"
         url: "https://infominer.id/gh-pages-starter-pack.html"
+      - title: "• About"
+        url: "https://infominer.id/about/"
+      - title: "• infominer.id"
+        url: "https://infominer.id/"
