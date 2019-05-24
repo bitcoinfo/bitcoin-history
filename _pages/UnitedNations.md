@@ -380,20 +380,3 @@ UN Secretary-General António Guterres [assembled a group of experts](https://ne
 ### 2019
 
 * [Blockchain Summit London -2019](https://blockchainsummitlondon.com/)
-
-## Support the Cause
-
-<img src="https://infominer.id/images/infominer.png" align="right" width="160" height="150">
-
-[https://tippin.me/@infominer33](https://tippin.me/@infominer33)
-
-BTC— 1A1DZfw4VgpHCgnMjnmfDnMjddKf8xdYbd
-
-![](https://imgur.com/yXLLm9Bl.png) 
-
-DOGE— DQKkzfJjqnXUD8Z7C3e84vKzvghPe9dXSa
-
-<img src="https://imgur.com/z316u0c.png" width="150"> 
- 
-
-
