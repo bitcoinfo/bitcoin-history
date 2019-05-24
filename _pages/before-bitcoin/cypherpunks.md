@@ -9,6 +9,7 @@ permalink: before-bitcoin/cypherpunks/
 redirect_from: 
   - "cypherpunks"
   - cypherpunks/
+
 ---
 
 
@@ -114,14 +115,14 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 
 * [Tim May, Father of 'Crypto Anarchy,' Passes Away](https://www.indybay.org/newsitems/2018/12/23/18819945.php)
 
-### Modern Crypto Wars 
+## Modern Crypto Wars 
 
 * [The Crypto Wars Are Over!](https://www.fipr.org/press/050525crypto.html) ('05)
 * [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/) ('13)
 * [The NSA is Making Us All Less Safe](https://www.eff.org/deeplinks/2013/10/nsa-making-us-less-safe)
 * [A complete guide to the new ‘Crypto Wars’](https://www.dailydot.com/layer8/encryption-crypto-wars-backdoors-timeline-security-privacy/)
 
-### Recommended Reading 
+## Recommended Reading 
 
 What follows is a list of books that were influential upon early cypherpunks. As time goes on, I'll add more modern material. Also, Cypherpunk is an offshoot of Cyberpunk, as such, there is much overlapp in the culture and cyberpunk literature should be of interest to those trying to delve into the cypherpunk mythos.
 
@@ -171,7 +172,7 @@ What follows is a list of books that were influential upon early cypherpunks. As
 >There are many excellent books about cryptography and codebreaking in World War II. One of the best is Code Girls by Liza Mundy, which explores the origins of the NSA and American cryptography. Still worth reading is Ronald Lewin’s Ultra Goes to War: The Secret Story; which first publicized the role encryption played in World War II back in 1977.
 
 
-### Resources 
+## Resources 
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
   > "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note."
@@ -182,7 +183,7 @@ What follows is a list of books that were influential upon early cypherpunks. As
 * [citizendium.org/wiki/Cypherpunk](http://en.citizendium.org/wiki/Cypherpunk)
 * [Mirror of Cypherpunkd radio series](https://www.organicdesign.com.br/files/cypherpunkd/index.php)
 
-### Non-English 
+## Non-English 
 
 * [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
 
