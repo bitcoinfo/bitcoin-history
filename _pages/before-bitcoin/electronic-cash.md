@@ -2,7 +2,7 @@
 title: Digital Cash and Electronic Payments - Before Bitcoin
 description: An arrangement of resources related to the quest for digital cash, before Bitcoin.
 header: 
-  image: "https://infominer.id/assets/img/2013-Virtual-Currency-Infographic.jpg"
+  image: "https://infominer.id/bitcoin-history/assets/img/2013-Virtual-Currency-Infographic.jpg"
   caption: "[Dec 2013 - History of Virtual Currency](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
 author_profile: false
 permalink: /before-bitcoin/electronic-cash/
