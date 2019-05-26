@@ -8,6 +8,7 @@ header:
 share: true
 permalink: pgp-and-me/
 redirect_from: pgp-and-me
+redirect_to: https://infominer.id/web-work/practical-pgp/
 ---
 
 ```
