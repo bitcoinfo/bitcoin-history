@@ -2,10 +2,12 @@
 layout: single
 title: Smart Contract History and Related Resources
 description: From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and the Cambrian Explosion.
+excerpt: >
+  The capability paradigm is about access control. When a system, such as an OS or a website, is presented with a request for a service it provides, it needs to decide if it should actually do what the requestor is asking for. 
 header:
   image: https://infominer.id/bitcoin-history/assets/img/elems10.png
   caption: "[erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distrib/captp/provideFor.html) '98"
-author_profile: false
+author_profile: true
 permalink: smart-contracts/
 redirect-from: smart-contracts
 ---
@@ -20,7 +22,7 @@ When I came across:
   * *A Next Generation Smart Contract and Decentralized Application Platform* (Vitaliks ANN post on lambda-the-ultimate)
     > Smart contracts and related languages have a long discussion history on LtU
     
-Which took me down the rabbithole and led to the creation of this resource.
+Which took me down the rabbithole and led to [the creation](https://github.com/infominer33/bitcoin-history/commit/29700115d9c74eebb72b04023dd0085057e0ecd6#diff-cd3d4ba11ddc27e38cd09a3284beeb87) of this resource.
 
 ## Source Crypto
 
