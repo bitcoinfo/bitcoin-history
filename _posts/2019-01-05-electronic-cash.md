@@ -2,6 +2,7 @@
 layout: single
 title: Digital Cash and Electronic Payments - Before Bitcoin
 description: An arrangement of resources related to the quest for digital cash, before Bitcoin.
+excerpt: "Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person."
 header: 
   image: "https://infominer.id/bitcoin-history/assets/img/2013-Virtual-Currency-Infographic.jpg"
   caption: "[Dec 2013 - History of Virtual Currency](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
