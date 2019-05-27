@@ -29,38 +29,38 @@ main:
 bitnav:
   - title: Bitcoin-History Index
     children:
-      - title:             "• Before Bitcoin"
-        url: "https://infominer.id/bitcoin-history/before-bitcoin/"
-      - title:             "• Cypherpunks"
-        url: "https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/"
-      - title:             "• Electronic Cash"
-        url: "https://infominer.id/bitcoin-history/before-bitcoin/electronic-cash/"
-      - title:             "• Bitcoin"
-        url: "https://infominer.id/bitcoin-history/bitcoin/"
-      - title:             "• Permissioned Ledgers"
-        url: "https://infominer.id/bitcoin-history/permissioned/"
-      - title:             "• United Nations"
-        url: "https://infominer.id/bitcoin-history/united-nations/"
-      - title:             "• Smart Contracts"
-        url: "https://infominer.id/bitcoin-history/smart-contracts/"
+      - title: "• Before Bitcoin"
+        url: /before-bitcoin/
+      - title: "• Cypherpunks"
+        url: /before-bitcoin/cypherpunks/
+      - title: "• Electronic Cash"
+        url: /before-bitcoin/electronic-cash/
+      - title: "• Bitcoin"
+        url: /bitcoin/
+      - title: "• Permissioned Ledgers"
+        url: /permissioned/"
+      - title: "• United Nations"
+        url: /united-nations/
+      - title: "• Smart Contracts"
+        url: /smart-contracts/
   - title: Transcripts
     children:
       - title: "• JW Weatherman Interviews Tim May"
-        url: "https://infominer.id/bitcoin-history/transcripts/JW-Weatherman-Tim-May-Interview/"
+        url: "https://infominer.id/transcripts/JW-Weatherman-Interview-Tim-May/"
       - title: "• Kuhlman-Monax-History of Blockchain for Business"
-        url: "https://infominer.id/bitcoin-history/transcripts/kuhlman-monax-blockchain-business-history/"
+        url: "https://infominer.id/transcripts/kuhlman-monax-blockchain-business-history/"
       - title: "• John Wolpert Coindesk Interview at Consensus 2018"
-        url: "https://infominer.id/bitcoin-history/transcripts/JohnWolpert-Consensus2018"
+        url: "https://infominer.id/transcripts/JohnWolpert-Consensus2018/"
       - title: "• Smart Signatures - Christopher Allen - BPASE '18"
-        url: "https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/"
+        url: "https://infominer.id/transcripts/smart-signatures-christopher-allen/"
       - title: "• Public vs Private Blockchains for Enterprise with R3 and Consensys"
-        url: "https://infominer.id/transcripts/public-vs-private-blockchain-wolpert-vs-gendal-brown/"
+        url: "https://infominer.id/transcripts/public-private-blockchain-wolpert-gendal-brown/"
   - title: Featured
     children:
       - title: "• Practical Cryptography - PGP and Me"
-        url: "https://infominer.id/bitcoin-history/pgp-and-me/"
+        url: "https://infominer.id/web-work/practical-pgp/"
       - title: "• Github Pages Starter Pack"
-        url: "https://infominer.id/gh-pages-starter-pack.html"
+        url: "https://infominer.id/web-work/github-pages-starter-pack/"
       - title: "• SourceCrypto Directory and Archive"
         url: "https://infominer.id/SourceCrypto/discolog/"
       - title: "• RebootingWebofTrust - Papers Index"
