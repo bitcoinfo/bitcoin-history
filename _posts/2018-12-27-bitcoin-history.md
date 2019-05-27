@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Bitcoin History
 description: >
   An assorted open-source collection of resources on the history of Bitcoin.

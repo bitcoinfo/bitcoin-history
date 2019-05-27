@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Before Bitcoin
 description: For related history preceeding the development of Bitcoin.
 layout: single

@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Digital Cash and Electronic Payments - Before Bitcoin
 description: An arrangement of resources related to the quest for digital cash, before Bitcoin.
 header: 
