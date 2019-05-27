@@ -24,7 +24,7 @@ Which took me down the rabbithole and led to the creation of this resource.
 
 ## Source Crypto
 
-I collect links in the [SourceCrypto Discord Server](https://discord.gg/esTMt4r), and occasionally I export them to this website:
+I collect links in the SourceCrypto Discord Server [#smart-contracts channel](https://discord.gg/esTMt4r), and occasionally I export them to this website:
 
 * [https://infominer.id/SourceCrypto/discolog/blockchain-tech/smart-contracts/](https://infominer.id/SourceCrypto/discolog/blockchain-tech/smart-contracts/)
 
