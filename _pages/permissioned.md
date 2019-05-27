@@ -20,6 +20,16 @@ I used this space to prep for writing this article:
 If you are looking at this, and the above article, thinking: "I really would love a more detailed report" feel free to [contact me](https://infominer.id) so we can discuss your needs. 
 
 
+## Source Crypto
+
+I collect links in the SourceCrypto Discord Server [#history channel](https://discord.gg/SUatSjs), and occasionally I export them to this website:
+
+* [https://infominer.id/SourceCrypto/discolog/general/history/](https://infominer.id/SourceCrypto/discolog/general/history/)
+
+You can expect that page and the discord server to have information that isn't on this page, as exporting the contents of a discord server is faster than updating each page individually.
+
+
+
 ## Early use, and discussion of "Distributed Ledger" 
 
 * [Decentralized Anonymous Credentials](https://eprint.iacr.org/2013/622.pdf)
