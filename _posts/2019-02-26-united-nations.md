@@ -8,8 +8,10 @@ header:
   image: "https://infominer.id/bitcoin-history/assets/img/SDG_FINAL-2015-02.jpg"
   caption: "[https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg](https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg)"
   og_image: "https://infominer.id/bitcoin-history/assets/img/unblockchain.jpg"
-redirect_from: UnitedNations
-permalink: UnitedNations/
+redirect_from: 
+  - UnitedNations
+  - UnitedNations/
+permalink: united-nations/
 toc_sticky: false
 last_modified_at: 2019-05-27T13:22:33-23:00
 ---
