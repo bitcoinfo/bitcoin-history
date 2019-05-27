@@ -3,6 +3,8 @@ layout: single
 title: Bitcoin History
 description: >
   An assorted open-source collection of resources on the history of Bitcoin.
+excerpt: >
+  The first recorded claim of bitcoin’s demise was in 2010, on a little-known blog that found itself posted on a record of 'bitcoin obituaries' collected by 99Bitcoins
 header:
   image: https://infominer.id/bitcoin-history/assets/img/Happy-birthday-bitcoin-log-chart-in-The-Times.jpg
   caption: "[Happy Birthday Bitcoin! Your Gift: A Log Chart in the Times](https://ftalphaville.ft.com/2019/01/03/1546533333000/Happy-birthday-bitcoin--Your-gift--a-log-chart-in-the-The-Times/)"
