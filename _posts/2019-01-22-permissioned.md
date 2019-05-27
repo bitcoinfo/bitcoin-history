@@ -4,6 +4,7 @@ title: History of Permissioned Ledgers
 excerpt: >
   bureaucracies are so heavily invested in the expertise and importance of local regulations and standards that it’s extremely difficult for them to cut the Gordian knot and implement seamless global systems,” said Szabo. “So they keep trying to re-inject points of control, and thus points of vulnerability, into blockchains, e.g. through ‘permissioning’; but this nullifies their main benefits, which come from removing points of vulnerability
 header:
+  teaser: "https://infominer.id/bitcoin-history/assets/img/permissioned-ledger-2015.png"
   image: "https://infominer.id/bitcoin-history/assets/img/permissioned-ledger-2015.png"
   caption: "[Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015](https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/)"
 last_modified_at: 2019-05-27T13:22:33-23:00

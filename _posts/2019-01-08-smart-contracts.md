@@ -5,6 +5,7 @@ description: From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and
 excerpt: >
   The capability paradigm is about access control. When a system, such as an OS or a website, is presented with a request for a service it provides, it needs to decide if it should actually do what the requestor is asking for. 
 header:
+  teaser: https://infominer.id/bitcoin-history/assets/img/elems10.png
   image: https://infominer.id/bitcoin-history/assets/img/elems10.png
   caption: "[erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distrib/captp/provideFor.html) '98"
 author_profile: true
