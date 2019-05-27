@@ -22,6 +22,14 @@ When I came across:
     
 Which took me down the rabbithole and led to the creation of this resource.
 
+## Source Crypto
+
+I collect links in the [SourceCrypto Discord Server](https://discord.gg/esTMt4r), and occasionally I export them to this website:
+
+* [https://infominer.id/SourceCrypto/discolog/blockchain-tech/smart-contracts/](https://infominer.id/SourceCrypto/discolog/blockchain-tech/smart-contracts/)
+
+You can expect that page and the discord server to have information that isn't on this page, as exporting the contents of a discord server is faster than updating each page individually.
+
 ## Smart Contract History
 
 ![](https://infominer.id/bitcoin-history/assets/img/elems10.png)<br>
