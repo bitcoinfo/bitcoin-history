@@ -27,26 +27,6 @@ Which took me down the rabbithole and led to the creation of this resource.
 ![](https://infominer.id/bitcoin-history/assets/img/elems10.png)<br>
   > VatA (the donor) deposits a reference to gift at nonce in VatC's (the host's) from-VatA-for-VatB table, and returns a Vine for the gift-entry. 
 
-
-## Contents
-* [Contents](#contents)
-  * [ObCap - Object Capabilities](#object-capabilities)
-  * [Nick Szabo](#nick-szabo)
-  * [E Lang and Other Early Work](#elang-and-other-early-work)
-  * [Ethereum](#ethereum)
-  * [DAO](#dao)
-  * [After DAO](#after-dao)
-* [Resources](#resources)
-  * [Ricardian - Legal](#ricardian---legal)
-  * [Smart Signatures](#smart-signatures)
-  * [Bitcoin](#bitcoin)
-  * [Languages\Platforms](#languages---platforms)
-  * [Learn-BUIDL](#learn-buidl)
-  * [ETC](#etc)
-  * [Literature](#literature)
-  * [Resources](#resources)
-
-
 ## Object Capabilities (ObCap)
 
 The object-capability model was first proposed by Jack Dennis and Earl C. Van Horn in the 1966 paper.
@@ -187,7 +167,7 @@ The short version is that Vitalik started Ethereum after a few attempts to integ
   >The first thing I did was I made a proposal to Mastercoin that would replace basically five of the transaction types they have with a programming language designed to express financial contracts between two parties. So you could do binary options, contracts for different bets—
 
 
-
+* [ethereum/wiki/wiki/White-Paper](https://github.com/ethereum/wiki/wiki/White-Paper)
 
 ## DAO 
 
