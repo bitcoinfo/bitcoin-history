@@ -1,14 +1,9 @@
 ---
-layout: post
 title: History of Permissioned Ledgers
 header:
   image: "https://infominer.id/bitcoin-history/assets/img/permissioned-ledger-2015.png"
   caption: "[Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015](https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/)"
-permalink: permissioned/
-redirect_from:
-  - permissioned
-author_profile: false
-last_modified_at: 2019-05-27T13:22:33-23:00
+published: false
 ---
 
 

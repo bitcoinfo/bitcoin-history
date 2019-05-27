@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: Cypherpunks and the Crypto Wars
 description: Open-Source Resource for learning about the Cypherpunk Movement
 header:
