@@ -1,15 +1,15 @@
 ---
+layout: post
 title: Cypherpunks and the Crypto Wars
 description: Open-Source Resource for learning about the Cypherpunk Movement
 header:
   image: "https://infominer.id/bitcoin-history/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.jpg"
   caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
-author_profile: false
 permalink: before-bitcoin/cypherpunks/
 redirect_from: 
   - "cypherpunks"
   - cypherpunks/
-
+last_modified_at: 2019-05-27T13:22:33-23:00
 ---
 
 

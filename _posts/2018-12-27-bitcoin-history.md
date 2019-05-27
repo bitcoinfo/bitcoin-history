@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: post
 title: Bitcoin History
 description: >
   An assorted open-source collection of resources on the history of Bitcoin.
@@ -9,7 +9,11 @@ header:
   #og_image: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.jpg
 permalink: "bitcoin/"
 redirect_from: "bitcoin"
+
+
+last_modified_at: 2019-05-27T13:22:33-23:00
 ---
+
 
 ![](https://infominer.id/bitcoin-history/assets/img/genesis-block-newspaper-chancellor-brink-bailout-banks.png)<br/>
 [www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/){: .btn .btn--light-outline}
