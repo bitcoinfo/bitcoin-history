@@ -22,6 +22,8 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 [www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/){: .btn .btn--light-outline}
 
 
+For now this is just an assorted list. Shortly I'll be diving deeper into the history of bitcoin itself. Thusfar, I've been circling around it, so to speak. I've been gathering all of the necessary background research, in order to do justice to the story of Bitcoin itself
+
 
 * [Bitcoin's Origins and the Genesis Blockade](https://youtu.be/cagoyF3WePo)
   > "In this talk, Andreas recounts the origins of Bitcoin, the meaning of the message embedded forever in its genesis block, and how we figured out who the banks truly serve when there was no other choice. He also speaks about what happens when money stops working, why censorship resistance was one of Bitcoin's most valuable characteristics from the start, and what possibilities lay in store with a global, voluntary financial system."
