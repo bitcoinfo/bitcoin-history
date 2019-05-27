@@ -6,9 +6,7 @@ header:
   image: "https://infominer.id/bitcoin-history/assets/img/SDG_FINAL-2015-02.jpg"
   caption: "[https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg](https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg)"
   og_image: "https://infominer.id/bitcoin-history/assets/img/unblockchain.jpg"
-redirect_from: UnitedNations
-permalink: UnitedNations/
-toc_sticky: false
+published: false
 ---
 
 The organizations are listed roughly in order of when they got involved with blockchain. 

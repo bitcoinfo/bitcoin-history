@@ -1,4 +1,5 @@
 ---
+layout: post
 title: History of Permissioned Ledgers
 header:
   image: "https://infominer.id/bitcoin-history/assets/img/permissioned-ledger-2015.png"
@@ -7,7 +8,7 @@ permalink: permissioned/
 redirect_from:
   - permissioned
 author_profile: false
-last_modified_at: 2019-04-19
+last_modified_at: 2019-05-27T13:22:33-23:00
 ---
 
 
