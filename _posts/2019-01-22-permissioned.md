@@ -1,19 +1,17 @@
 ---
+layout: single
 title: History of Permissioned Ledgers
 header:
   image: "https://infominer.id/bitcoin-history/assets/img/permissioned-ledger-2015.png"
   caption: "[Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015](https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/)"
-published: false
+last_modified_at: 2019-05-27T13:22:33-23:00
+excerpt: >
+  bureaucracies are so heavily invested in the expertise and importance of local regulations and standards that it’s extremely difficult for them to cut the Gordian knot and implement seamless global systems,” said Szabo. “So they keep trying to re-inject points of control, and thus points of vulnerability, into blockchains, e.g. through ‘permissioning’; but this nullifies their main benefits, which come from removing points of vulnerability
 ---
-
-
-Primarily to be focused on the development of permissioned ledgers, but including some general enterprise stuffs while I get my timeline together.
 
 I used this space to prep for writing this article: 
 
 * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
-
-If you are looking at this, and the above article, thinking: "I really would love a more detailed report" feel free to [contact me](https://infominer.id) so we can discuss your needs. 
 
 
 ## Source Crypto
@@ -44,9 +42,13 @@ You can expect that page and the discord server to have information that isn't o
 
 —the first open-source permissioned blockchain
 
+I kinda lost where the following quote came from.. I think it was Preston Byrnes blog.. oops!
+
+  >I’m into blockchains, having been a founder and former COO of [Monax](https://monax.io/). Monax built [the first](https://blogs.wsj.com/moneybeat/2015/04/14/bitbeat-blockchains-without-coins-stir-tensions-in-bitcoin-community/) open-source permissioned blockchain client in 2014. The design has since evolved into the market-leading Hyperledger Burrow permissioned Ethereum blockchain node. Burrow is presently the Hyperledger Project’s only Ethereum Virtual Machine (EVM), and is used by Intel and IBM’s contributions to that project, Sawtooth and Fabric, to run EVMs on those codebases. 
+
+
 * $100,000 bounty [was announced](https://www.reddit.com/r/Bitcoin/comments/25sf4f/100000_bounty_for_software_platform_that_can/) for the creation of a software platform to replace the Bitcoin Foundation, out of concerns over a lack of transparency
 
-I’m into blockchains, having been a founder and former COO of [Monax](https://monax.io/). Monax built [the first](https://blogs.wsj.com/moneybeat/2015/04/14/bitbeat-blockchains-without-coins-stir-tensions-in-bitcoin-community/) open-source permissioned blockchain client in 2014. The design has since evolved into the market-leading Hyperledger Burrow permissioned Ethereum blockchain node. Burrow is presently the Hyperledger Project’s only Ethereum Virtual Machine (EVM), and is used by Intel and IBM’s contributions to that project, Sawtooth and Fabric, to run EVMs on those codebases. 
 
 * [https://prestonbyrne.com/2014/06/02/project-d/](prestonbyrne.com/2014/06/02/project-d/)
   > In response, Casey Kuhlman, Dennis McKinnon and Preston Byrne of Monax led an effort to create the worlds first Decentralized Autonomous Organization
