@@ -7,6 +7,8 @@ header:
 permalink: blockchain-bahamas-crypto-caribbean/
 classes: wide
 toc: false
+last_modified_at: 2019-05-27T13:22:33-23:00
+
 ---
 
 Pristine beaches and palm trees are the first thing that come to mind. Of course, the Bahamas are also famous for their tax-protected off-shore banking. However, the Bahamas are now digital pioneers, with an eye to become the tech leaders of the Caribbean. I'm assembling this repository in collaboration with [CSB Tech Emporium](https://www.csbtechemporium.com/grand-bahama-silicon-valley-of-caribbean/), to track the development and adoption of cryptocurrency and blockchain in the Bahamas.
