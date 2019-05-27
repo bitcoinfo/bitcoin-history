@@ -47,7 +47,7 @@ Which took me down the rabbithole and led to the creation of this resource.
   * [Resources](#resources)
 
 
-### Object Capabilities (ObCap)
+## Object Capabilities (ObCap)
 
 The object-capability model was first proposed by Jack Dennis and Earl C. Van Horn in the 1966 paper.
 * [Programming Semantics for Multiprogrammed Computations](https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/ProgramSemantics_DennisvanHorn.pdf)
@@ -73,12 +73,8 @@ Object Capabilities are new to me, and I'm just placing any related information 
 
 Basically this research starting in the 60's, with much work throughout the 80's (that is not well dowcumented online), culminating with Nick Szabo's work, and E Language. Object Capabilities are central to the original line of work the term "Smart Contracts" was used in reference to, which was somewhat misappropriated by Vitalik.
 
-#### Agoric
 
-* [Agoric](https://agoric.com/about/)
-  * [Object Capabilities with Kate Sills](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html) (podcast)
-
-#### Mark S Miller
+## Mark S Miller
 
 >Mark S. Miller is an American computer scientist. He is known for his work as one of the participants in the 1979 hypertext project known as Project Xanadu; for inventing Miller columns; as the co-creator of the Agoric Paradigm[1] of market-based distributed secure computing; and the open-source coordinator of the E programming language. He also designed the Caja programming language.
 >
@@ -88,7 +84,14 @@ Basically this research starting in the 60's, with much work throughout the 80's
 * [marksammiller@twitter.com](https://twitter.com/marksammiller)
 * [Mark Miller: Agoric and the Decades-Long Quest for Secure Smart Contracts.](https://letstalkbitcoin.com/blog/post/epicenter-mark-miller-agoric-and-the-decadeslong-quest-for-secure-smart-contracts)
 
-### Nick Szabo
+### Agoric
+
+* [Agoric](https://agoric.com/about/)
+  * [Object Capabilities with Kate Sills](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html) (podcast)
+
+
+
+## Nick Szabo
 
 * [Nick Szabo](https://ipfs.io/ipfs/QmXoypizjW3WknFiJnKLwHCnL72vedxjQkDDP1mXWo6uco/wiki/Nick_Szabo.html) - Distributed Wikipedia Powered by IPFS
 * [Nick Szabo's Essays, Papers, and Concise Tutorials](http://archive.is/H8UGk) - Nick Szabo's Home Page
@@ -140,15 +143,53 @@ Basically this research starting in the 60's, with much work throughout the 80's
     > e-on-javascript: https://github.com/kpreid/e-on-javascript
 * [![](https://imgur.com/h2SxswG.png)](https://twitter.com/zooko/status/1131421742767849472?s=20)
 
+## Bitcoin 
+
+* [Yes, Bitcoin Can Do Smart Contracts and Particl Demonstrates How](https://bitcoinmagazine.com/articles/yes-bitcoin-can-do-smart-contracts-and-particl-demonstrates-how/)
+The Bitcoin blockchain is not known for its ability to enable smart contracts. In fact, most developers creating smart contracts use a different blockchain, like Ethereum. But the truth is that the Bitcoin protocol can be used to create smart contracts. Particl.io, the blockc...
+* [Scriptless Scripts: How Bitcoin Can Support Smart Contracts](https://bitcoinmagazine.com/articles/scriptless-scripts-how-bitcoin-can-support-smart-contracts-without-smart-contracts/)
+Bitcoin’s capacity is limited. Meanwhile, smart contracts can be resource intensive. So even though Bitcoin has always supported basic smart contract functionality, the two have never been a natural match.But a recent topic of research spearheaded by Blockstream mathematici...
+* [http://www.rootstock.io/](http://www.rootstock.io/)
+  >RSK, bitcoin´s smart contract platform.
+
+
+## Colored Coins
+
+* [Colored Coins - BitcoinX](http://bitpaper.info/paper/5722646637445120) - Vitalik Buterin, Meni Rosenfeld
+  >By the original design bitcoins are fungible, acting as a neutral medium of exchange. However, by carefully tracking the origin of a given bitcoin, it is possible to "color" a set of bitcoins to distinguish it from the rest. These bitcoins can then have special properties supported by either an issuing agent or by public agreement, and have value independent of the face value of the underlying bitcoins. Such colored bitcoins can be used for alternative currencies, commodity certificates, smart property, and other financial instruments such as stocks and bonds. 
+  >
+  >Because colored coins make use of the existing Bitcoin infrastructure and can be stored and transferred without the need for a third party, and even be exchanged for one another in an atomic transaction, they can open the way for the decentralized exchange of things that are not possible by traditional methods. In this paper we will discuss the implementation details of colored coins and some of their use cases.
+* [Colored Coins Whitepaper 2.0 - Google Doc](https://docs.google.com/document/d/1AnkP_cVZTCMLIzw4DvsW6M8Q2JC0lIzrTLuoWu2z1BE/edit)
+  * via [bitcointalk.org/index.php?topic=347398.0](https://bitcointalk.org/index.php?topic=347398.0)
+* [https://en.bitcoin.it/wiki/Colored_Coins](https://en.bitcoin.it/wiki/Colored_Coins)
+* [Making Sense of Colored Coins](https://medium.com/tezos/making-sense-of-colored-coins-c0a9e3459b1e)
+* [Godfather of Ethereum](https://medium.com/@yanislav/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5)
+  >About a year and a half ago in autumn 2013, I was working as the lead developer with Vitalik Buterin (who later became the initiator of the Ethereum project) on another project with the name ‘Keidom’ (now called ascribe.io). The idea behind Keidom/Ascribe was to develop a custom colored-coin web-wallet for registering and transfering digital art in a secure way, based on the Bitcoin blockchain, with build-in proof-of-existence. We developed a working prototype during September and November 2013.
+* [Could This Holy Bitcoin Trinity Revive Colored Coins?](https://www.coindesk.com/holy-bitcoin-trinity-revive-colored-coins) -2014
+
+
+## Ethereum 
+
+The short version is that Vitalik started Ethereum after a few attempts to integrate colored coins with Bitcoin.
+
+
+
+* [twitter.com/vitalikbuterin/status/929805462052229120](https://www.reddit.com/r/btc/comments/7umljb/vitalik_buterin_tried_to_develop_ethereum_on_top/)
+  [![](https://imgur.com/Ld4CxuJ.png)](https://twitter.com/vitalikbuterin/status/929805462052229120)
+  * via [reddit](https://www.reddit.com/r/btc/comments/7umljb/vitalik_buterin_tried_to_develop_ethereum_on_top/)
+
+
+{% include video id="u-i_mTwL-FI" provider="youtube" %}
+
+* [Crypto Bites - A Chat with Ethereum Founder](https://www.abra.com/blog/crypto-bites-a-chat-with-ethereum-founder-vitalik-buterin/)
+  >So what actually happened was that back in maybe October 2013, I spent some time working on projects like colored coins and Mastercoin, so these were the existing layer twos that were trying to kind of extend Bitcoin with more advanced functionality, and at one point I realized that, hey, you could replace these five features with one other feature by just basically having a programming language instead of these five specific different transaction types. And it kind of came over time.
+  >
+  >The first thing I did was I made a proposal to Mastercoin that would replace basically five of the transaction types they have with a programming language designed to express financial contracts between two parties. So you could do binary options, contracts for different bets—
 
 
 
 
-### Ethereum 
-
-... *Much More Ethereum Specific - Coming Soon* ...
-
-### DAO 
+## DAO 
 
 * [What’s in a Name? — The Disambiguation of Smart Contracts](https://medium.com/@anthonymacey/whats-in-a-name-the-disambiguation-of-smart-contracts-daca8276db4)
   >2014 and Gavin Wood takes the stage at the auditorium in Barclays Whitechapel Accelerator space to describe a brave new world of…
@@ -157,7 +198,7 @@ Basically this research starting in the 60's, with much work throughout the 80's
   >In this post, we examine just how prevalent the recently discovered "unchecked-send" bug is in real, live, deployed Ethereum contracts, with the aid of an automated analysis 
 
 
-### After DAO 
+## After DAO 
 
 * [The Future of the Blockchain: my DevCon IV talk. – Mattereum - Humanizing the Internet](https://medium.com/humanizing-the-singularity/the-future-of-the-blockchain-my-devcon-iv-talk-f78b4fb9b95c)
   > This year October 31 at the DevCon IV I gave the first talk on the Smart Property Register  —  the Mattereum innovation, which I think is…
@@ -202,15 +243,6 @@ Basically this research starting in the 60's, with much work throughout the 80's
 * [Near Future of Programming Languages](http://dev.stephendiehl.com/nearfuture.pdf)
  - Stephen Diehl (@smdiehl) '17
   
-
-### Bitcoin 
-
-* [Yes, Bitcoin Can Do Smart Contracts and Particl Demonstrates How](https://bitcoinmagazine.com/articles/yes-bitcoin-can-do-smart-contracts-and-particl-demonstrates-how/)
-The Bitcoin blockchain is not known for its ability to enable smart contracts. In fact, most developers creating smart contracts use a different blockchain, like Ethereum. But the truth is that the Bitcoin protocol can be used to create smart contracts. Particl.io, the blockc...
-* [Scriptless Scripts: How Bitcoin Can Support Smart Contracts](https://bitcoinmagazine.com/articles/scriptless-scripts-how-bitcoin-can-support-smart-contracts-without-smart-contracts/)
-Bitcoin’s capacity is limited. Meanwhile, smart contracts can be resource intensive. So even though Bitcoin has always supported basic smart contract functionality, the two have never been a natural match.But a recent topic of research spearheaded by Blockstream mathematici...
-* [http://www.rootstock.io/](http://www.rootstock.io/)
-  >RSK, bitcoin´s smart contract platform.
 
 
 ### Languages - Platforms 
