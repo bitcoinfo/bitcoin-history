@@ -27,6 +27,28 @@ main:
     url: "https://infominer.id/"
 
 bitnav:
+  - title: Featured
+    children:
+      - title: "• Practical Cryptography - PGP and Me"
+        url: "https://infominer.id/web-work/practical-pgp/"
+      - title: "• Github Pages Starter Pack"
+        url: "https://infominer.id/web-work/github-pages-starter-pack/"
+      - title: "• SourceCrypto Directory and Archive"
+        url: "https://infominer.id/SourceCrypto/discolog/"
+      - title: "• RebootingWebofTrust - Papers Index"
+        url: "https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/"
+  - title: Transcripts
+    children:
+      - title: "• JW Weatherman Interviews Tim May"
+        url: "https://infominer.id/transcripts/JW-Weatherman-Interview-Tim-May/"
+      - title: "• Kuhlman-Monax-History of Blockchain for Business"
+        url: "https://infominer.id/transcripts/kuhlman-monax-blockchain-business-history/"
+      - title: "• John Wolpert Interview at Consensus 2018 - Enterprise Ethereum"
+        url: "https://infominer.id/transcripts/JohnWolpert-Consensus2018/"
+      - title: "• Smart Signatures - Christopher Allen - BPASE '18"
+        url: "https://infominer.id/transcripts/smart-signatures-christopher-allen/"
+      - title: "• Public vs Private Blockchains for Enterprise with R3 and Consensys"
+        url: "https://infominer.id/transcripts/public-private-blockchain-wolpert-gendal-brown/"
   - title: Bitcoin-History Index
     children:
       - title: "• Before Bitcoin"
@@ -45,29 +67,7 @@ bitnav:
         url: /smart-contracts/
       - title: "• Blockchain in the Bahamas - Timeline"
         url: "/blockchain-bahamas-crypto-caribbean/"
-  - title: Transcripts
-    children:
-      - title: "• JW Weatherman Interviews Tim May"
-        url: "https://infominer.id/transcripts/JW-Weatherman-Interview-Tim-May/"
-      - title: "• Kuhlman-Monax-History of Blockchain for Business"
-        url: "https://infominer.id/transcripts/kuhlman-monax-blockchain-business-history/"
-      - title: "• John Wolpert Coindesk Interview at Consensus 2018"
-        url: "https://infominer.id/transcripts/JohnWolpert-Consensus2018/"
-      - title: "• Smart Signatures - Christopher Allen - BPASE '18"
-        url: "https://infominer.id/transcripts/smart-signatures-christopher-allen/"
-      - title: "• Public vs Private Blockchains for Enterprise with R3 and Consensys"
-        url: "https://infominer.id/transcripts/public-private-blockchain-wolpert-gendal-brown/"
-  - title: Featured
-    children:
-      - title: "• Practical Cryptography - PGP and Me"
-        url: "https://infominer.id/web-work/practical-pgp/"
-      - title: "• Github Pages Starter Pack"
-        url: "https://infominer.id/web-work/github-pages-starter-pack/"
-      - title: "• SourceCrypto Directory and Archive"
-        url: "https://infominer.id/SourceCrypto/discolog/"
-      - title: "• RebootingWebofTrust - Papers Index"
-        url: "https://infominer.id/DIDecentralized/workshops/rebooting-web-of-trust/"
-        - title: "⧉InfoMine⧉"
+  - title: "⧉InfoMine⧉"
     children:
       - title: "• Sitemap"
         url: "/sitemap/"

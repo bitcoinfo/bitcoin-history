@@ -6,6 +6,8 @@ excerpt: "Each RPOW or POW token can only be used once but since it gives birth 
 header: 
   image: "https://infominer.id/bitcoin-history/assets/img/2013-Virtual-Currency-Infographic.jpg"
   caption: "[Dec 2013 - History of Virtual Currency](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
+  teaser: "https://infominer.id/bitcoin-history/assets/img/electronic-cash-2013.jpg"
+  og_image: "https://infominer.id/bitcoin-history/assets/img/electronic-cash-2013.jpg"
 permalink: /before-bitcoin/electronic-cash/
 author_profile: false
 redirect_from:
