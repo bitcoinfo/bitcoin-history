@@ -3,8 +3,8 @@ layout: single
 title: History-Blockchain and the United Nations
 description: A Reasonably Comprehensive History of Blockchain and Cryptocurrency in the United Nations.
 header:
-  image: "https://infominer.id/bitcoin-history/assets/img/SDG_FINAL-2015-02.jpg"
-  caption: "[https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg](https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg)"
+  image: "https://infominer.id/bitcoin-history/assets/img/SDG_FINAL-2015-02.png"
+  caption: "[https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.png](https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.png)"
   og_image: "https://infominer.id/bitcoin-history/assets/img/unblockchain.jpg"
 published: false
 ---

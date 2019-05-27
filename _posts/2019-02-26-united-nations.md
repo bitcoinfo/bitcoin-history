@@ -5,8 +5,8 @@ description: A Reasonably Comprehensive History of Blockchain and Cryptocurrency
 excerpt: "2010, the UN Commission on Science and Technology for Development [CSTD] proposed the introduction of a technology-driven universal currency. A BitMint would allow users to transmit funds globally and carry them around on a usb stick."
 
 header:
-  image: "https://infominer.id/bitcoin-history/assets/img/SDG_FINAL-2015-02.jpg"
-  caption: "[https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg](https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.jpg)"
+  image: "https://infominer.id/bitcoin-history/assets/img/SDG_FINAL-2015-02.png"
+  caption: "[https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.png](https://www.islamic-relief.org/wp-content/uploads/2015/09/SDG_FINAL-2015-02.png)"
   og_image: "https://infominer.id/bitcoin-history/assets/img/unblockchain.jpg"
   teaser: "https://infominer.id/bitcoin-history/assets/img/unblockchain.jpg"
 redirect_from: 
