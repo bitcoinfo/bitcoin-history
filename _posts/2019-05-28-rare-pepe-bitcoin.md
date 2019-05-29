@@ -82,7 +82,7 @@ permalink: rare-pepe/
 >For years people have been trying to preserve the rarest of pepes from being stolen.  
 >
 >Thanks to Bitcoin and Counterparty we can associate these Rare Pepes with tokens to make them truly rare.  Now Pepe’s can preserve their rareness and actually be traded on the market.
-  [![](https://infominer.id/rare-crypto-art/img/pepe-scientist.jpg)](http://rarepepedirectory.com/?page_id=122)
+  [![](https://infominer.id/rare-digital-art/img/pepe-scientist.jpg)](http://rarepepedirectory.com/?page_id=122)
 * [counterparty.io](https://counterparty.io/)
   >Counterparty extends Bitcoin’s functionality by “writing in the margins” of regular Bitcoin transactions, opening the door for innovation and advanced features not possible with ordinary Bitcoin software.
 
@@ -90,7 +90,8 @@ permalink: rare-pepe/
 
 ## First Live Auction
 
-[![](https://video-images.vice.com/_uncategorized/1516305655454-Salvador-Pepe-rare-Pepe-auction-RT-1-13-18.jpeg)](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
+* [I went to the first live auction for rare pepes on the blockchain.](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
+  [![](https://video-images.vice.com/_uncategorized/1516305655454-Salvador-Pepe-rare-Pepe-auction-RT-1-13-18.jpeg)](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
 
  
 ![](http://infominer.id/rare-digital-art/img/homer-pepe.jpg)
