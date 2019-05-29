@@ -65,7 +65,7 @@ reCaptcha:
   siteKey                :
   secret                 :
 atom_feed:
-  path                   : # blank (default) uses feed.xml
+  path                   : feed.xml
 search                   : true
 search_full_content      : # true, false (default)
 search_provider          : lunr 
