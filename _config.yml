@@ -17,7 +17,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "en-US"
 title                    : "Bitcoin Historical Index"
-title_separator          : "⧉ "
+title_separator          : "|"
 name                     : "⧉ Infominer"
 description              : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
 url                      : "https://infominer.id"
