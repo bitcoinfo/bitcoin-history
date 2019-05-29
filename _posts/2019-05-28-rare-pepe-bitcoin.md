@@ -104,8 +104,15 @@ permalink: rare-pepe/
 ## Should Pepe Live on Bitcoin?
 
 * [Counterparty Wants to Stay on Bitcoin but Fees Remain a Contentious Issue](https://bitsonline.com/counterparty-bitcoin-fees-contentious/) - December 27, 2017
->“Earlier in 2017, when the Counterparty community was still largely intact, I created two proposals that would have led to Counterparty moving off of Bitcoin Core. I thought Counterparty should either embrace Bitcoin Cash (at the time it was Bitcoin Classic) for the block space Counterparty needs or move to Litecoin where a metaprotocol like Counterparty would be welcome.”
+  >“Earlier in 2017, when the Counterparty community was still largely intact, I created two proposals that would have led to Counterparty moving off of Bitcoin Core. I thought Counterparty should either embrace Bitcoin Cash (at the time it was Bitcoin Classic) for the block space Counterparty needs or move to Litecoin where a metaprotocol like Counterparty would be welcome.”
 
+I've also heard some vague accusations that counterparty\rare-pepe are not good for bitcoin... although I've not seen any detailed discussion of the topic. Pls reach out if you have more information on pepe and Bitcoin.
+
+
+I know there are a lot of newer projects, like memes, memecoins get copied. That doesn't interest me as much as the other digital art projects, and mostly the history. 
+
+There are many other aspects of digital art that interest me, and I'll be diving in, beyond pepe, coming soon. You can have a sneek peek of my new [Rare Digital Art](https://infominer.id/rare-digital-art/) page now, although it's not ready for production, and this resource belongs over here, anyway.
+{: .notice--warning}
 
 ![](https://infominer.id/rare-digital-art/img/pepe-recall.gif)
 
