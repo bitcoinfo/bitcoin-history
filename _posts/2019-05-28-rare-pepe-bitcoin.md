@@ -1,8 +1,8 @@
 ---
 layout: single
-title:  Rare Pepe - The Birth of Crypto Art
+title:  The Birth of Rare Art on the Bitcoin Blockchain
 last_modified_at: 2019-05-28T11:22:33-23:00
-description: History related to Rare Digital Art.
+description: Rare Pepe, and the Birth of Digially Rare Art.
 excerpt: >
   Starting in October 2014, users on the /r9k/ (robot9000) board on 4chan began referring to original illustrations and photoshops of Pepe the Frog as "Rare Pepes"; sharing the "rare" images of Pepe as if they were trading cards, some of which were posted with watermarks to retain their value (shown below).
 header:
