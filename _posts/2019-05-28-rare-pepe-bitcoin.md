@@ -94,7 +94,7 @@ permalink: rare-pepe/
   [![](https://video-images.vice.com/_uncategorized/1516305655454-Salvador-Pepe-rare-Pepe-auction-RT-1-13-18.jpeg)](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
 
  
-![](http://infominer.id/rare-digital-art/img/homer-pepe.jpg)
+![](https://infominer.id/rare-digital-art/img/homer-pepe.jpg)
 
 ## Recent News
 
