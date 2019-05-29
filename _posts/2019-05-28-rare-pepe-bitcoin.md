@@ -130,3 +130,4 @@ There are many other aspects of digital art that interest me, and I'll be diving
 * [rarepepedirectory.com](http://rarepepedirectory.com)
 * [counterparty.io](https://counterparty.io)
 * [How Pepe the Frog became a Nazi Trump Supporter](https://www.thedailybeast.com/how-pepe-the-frog-became-a-nazi-trump-supporter-and-alt-right-symbol)
+* [The Creator of Pepe Is Winning His War on the Alt-Right](https://www.thedailybeast.com/the-creator-of-pepe-is-winning-his-war-on-the-alt-right)
