@@ -86,7 +86,9 @@ permalink: rare-pepe/
 * [counterparty.io](https://counterparty.io/)
   >Counterparty extends Bitcoin’s functionality by “writing in the margins” of regular Bitcoin transactions, opening the door for innovation and advanced features not possible with ordinary Bitcoin software.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/KHQLBsrk5ME" frameborder="0" allowfullscreen></iframe>
+
+{% include video id="KHQLBsrk5ME" provider="youtube" %}
+
 
 ## First Live Auction
 
