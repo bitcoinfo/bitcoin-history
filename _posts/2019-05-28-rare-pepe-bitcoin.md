@@ -107,10 +107,9 @@ permalink: rare-pepe/
 >“Earlier in 2017, when the Counterparty community was still largely intact, I created two proposals that would have led to Counterparty moving off of Bitcoin Core. I thought Counterparty should either embrace Bitcoin Cash (at the time it was Bitcoin Classic) for the block space Counterparty needs or move to Litecoin where a metaprotocol like Counterparty would be welcome.”
 
 
-
 ## Resources
 
-![](/img/pepe-recall.gif)
+![](https://infominer.id/rare-digital-art/img/pepe-recall.gif)
 
 * [Artnome- The Birth of Cryptoart](https://www.artnome.com/news/2018/1/23/rare-pepe-wallet-the-birth-of-cryptoart)
 * [fivethirtyeight.com - People Paying Thousands To Own Pictures Of Pepe The Frog](https://fivethirtyeight.com/features/pepe-the-frog-symbolism-cryptoart-blockchain/)
