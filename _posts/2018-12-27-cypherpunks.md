@@ -7,6 +7,7 @@ header:
   image: "https://infominer.id/bitcoin-history/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
   caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
 permalink: before-bitcoin/cypherpunks/
+canonical_url: 'https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/'
 redirect_from: 
   - "cypherpunks"
   - cypherpunks/

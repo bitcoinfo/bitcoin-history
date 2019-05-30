@@ -13,6 +13,7 @@ redirect_from:
   - UnitedNations
   - UnitedNations/
 permalink: united-nations/
+canonical_url: 'https://infominer.id/bitcoin-history/united-nations/'
 toc_sticky: false
 last_modified_at: 2019-05-27T13:22:33-23:00
 ---

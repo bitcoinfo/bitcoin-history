@@ -14,6 +14,7 @@ tags:
   - history
   - resources
 permalink: rare-pepe/
+canonical_url: 'https://infominer.id/bitcoin-history/rare-pepe/'
 ---
 
 ![](https://infominer.id/rare-digital-art/img/pepebanner.jpg)
