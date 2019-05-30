@@ -11,6 +11,7 @@ header:
   image: "https://infominer.id/bitcoin-history/assets/img/pepe-bitcoin-phoenix-crab-17-initiated.jpg"
   caption: "@l33tguy - [10-10-2018. Brace for shenanigans göys.](https://twitter.com/l33tguy/status/1049868146713059330) #CRAB17 #BogPilled #bitcoin #BTC #crypto #cryptotwitter"
 permalink: "before-bitcoin"
+canonical_url: 'https://infominer.id/bitcoin-history/"before-bitcoin"'
 redirect_from: "before-bitcoin/"
 last_modified_at: 2019-05-27T13:22:33-23:00
 

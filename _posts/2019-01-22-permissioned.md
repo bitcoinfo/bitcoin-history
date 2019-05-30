@@ -8,9 +8,11 @@ header:
   image: "https://infominer.id/bitcoin-history/assets/img/permissioned-ledger-2015.png"
   caption: "[Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015](https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/)"
 last_modified_at: 2019-05-27T13:22:33-23:00
+permalink: permissioned-ledgers/
+cannonical_url: "https://infominer.id/bitcoin-history/permissioned/"
 ---
 
-I used this space to prep for writing this article: 
+I used this space as prep for writing this article: 
 
 * [The Times and History of Permissioned Ledgers](https://www.axiomtech.io/blog-feed/history-of-permissioned-ledgers)
 

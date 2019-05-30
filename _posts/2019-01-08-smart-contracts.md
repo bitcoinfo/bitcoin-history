@@ -10,6 +10,7 @@ header:
   caption: "[erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distrib/captp/provideFor.html) '98"
 author_profile: true
 permalink: smart-contracts/
+canonical_url: 'https://infominer.id/bitcoin-history/smart-contracts/'
 redirect-from: smart-contracts
 ---
 

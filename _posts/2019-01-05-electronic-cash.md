@@ -9,6 +9,7 @@ header:
   teaser: "https://infominer.id/bitcoin-history/assets/img/electronic-cash-2013.png"
   og_image: "https://infominer.id/bitcoin-history/assets/img/electronic-cash-2013.png"
 permalink: /before-bitcoin/electronic-cash/
+canonical_url: 'https://infominer.id/bitcoin-history//before-bitcoin/electronic-cash/'
 author_profile: false
 redirect_from:
   - /before-bitcoin/electronic-cash

@@ -12,6 +12,7 @@ header:
   og_image: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.png
   teaser: https://infominer.id/bitcoin-history/assets/img/chancellor-brink-bailout-banks.png
 permalink: "bitcoin/"
+canonical_url: 'https://infominer.id/bitcoin-history/"bitcoin/"'
 redirect_from: "bitcoin"
 
 
