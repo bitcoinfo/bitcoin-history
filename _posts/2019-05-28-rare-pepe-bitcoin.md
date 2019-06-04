@@ -121,6 +121,7 @@ There are many other aspects of digital art that interest me, and I'll be diving
 
 ## Resources
 
+* [https://www.reddup.co/r/rarepepemarket](https://www.reddup.co/r/rarepepemarket)
 * [Artnome- The Birth of Cryptoart](https://www.artnome.com/news/2018/1/23/rare-pepe-wallet-the-birth-of-cryptoart)
 * [fivethirtyeight.com - People Paying Thousands To Own Pictures Of Pepe The Frog](https://fivethirtyeight.com/features/pepe-the-frog-symbolism-cryptoart-blockchain/)
 * [I went to the first Live Auction for Rare Pepes on the Blockchain](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
