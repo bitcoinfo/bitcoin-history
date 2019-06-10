@@ -6,12 +6,12 @@ excerpt: >
   Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn’t want the whole world to know, but a secret matter is something one doesn’t want anybody to know. Privacy is the power to selectively reveal oneself to the world.
 layout: single
 header:
-  og_image: https://infominer.id/bitcoin-history/assets/img/crab-17-10-10-2018-economist-world-currency.png
-  teaser: https://infominer.id/bitcoin-history/assets/img/crab-17-10-10-2018-economist-world-currency.png
-  image: "https://infominer.id/bitcoin-history/assets/img/pepe-bitcoin-phoenix-crab-17-initiated.jpg"
+  og_image: https://sourcecrypto.pub/bitcoin-history/assets/img/crab-17-10-10-2018-economist-world-currency.png
+  teaser: https://sourcecrypto.pub/bitcoin-history/assets/img/crab-17-10-10-2018-economist-world-currency.png
+  image: "https://sourcecrypto.pub/bitcoin-history/assets/img/pepe-bitcoin-phoenix-crab-17-initiated.jpg"
   caption: "@l33tguy - [10-10-2018. Brace for shenanigans göys.](https://twitter.com/l33tguy/status/1049868146713059330) #CRAB17 #BogPilled #bitcoin #BTC #crypto #cryptotwitter"
 permalink: "before-bitcoin"
-canonical_url: 'https://infominer.id/bitcoin-history/"before-bitcoin"'
+canonical_url: 'https://sourcecrypto.pub/bitcoin-history/"before-bitcoin"'
 redirect_from: "before-bitcoin/"
 last_modified_at: 2019-05-27T13:22:33-23:00
 
@@ -157,7 +157,7 @@ by Ralph C. Merkle</a>
   - Open Source software development
   - Peer to peer sharing
 
-[**>> More information >> Cypherpunks and the Crypto Wars >>**](https://infominer.id/bitcoin-history/before-bitcoin/cypherpunks/) 
+[**>> More information >> Cypherpunks and the Crypto Wars >>**](https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunks/) 
 {: .notice--primary}
 
 ## Pre-Bitcoin Digital Currency
@@ -174,7 +174,7 @@ by Ralph C. Merkle</a>
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
 * [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
 
-[**>> More Information >> Virtual Currencies >>**](https://infominer.id/bitcoin-history/before-bitcoin/electronic-cash/)
+[**>> More Information >> Virtual Currencies >>**](https://sourcecrypto.pub/bitcoin-history/before-bitcoin/electronic-cash/)
 {: .notice--primary}
 
 ## Literature 

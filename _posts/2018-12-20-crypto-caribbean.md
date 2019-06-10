@@ -2,10 +2,10 @@
 title: "Bahamas: The 'Silicon Valley' of the Caribbean"
 description: "Timeline of Blockchain and Cryptocurrency in the Caribbean."
 header: 
-  image: "https://infominer.id/bitcoin-history/assets/img/blockchain-bahamas-crypto-caribbean.png"
+  image: "https://sourcecrypto.pub/bitcoin-history/assets/img/blockchain-bahamas-crypto-caribbean.png"
   caption: "[The Bahamas is issuing cryptocurrency regulations to fight fraudulent ICOs](https://thenextweb.com/hardfork/2018/11/09/bahamas-regulating-bitcoin/)"
 permalink: blockchain-bahamas-crypto-caribbean/
-canonical_url: 'https://infominer.id/bitcoin-history/blockchain-bahamas-crypto-caribbean/'
+canonical_url: 'https://sourcecrypto.pub/bitcoin-history/blockchain-bahamas-crypto-caribbean/'
 classes: wide
 toc: false
 last_modified_at: 2019-05-27T13:22:33-23:00

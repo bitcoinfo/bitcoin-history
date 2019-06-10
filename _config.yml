@@ -20,13 +20,13 @@ title                    : "Bitcoin Historical Index"
 title_separator          : "|"
 name                     : "⧉ Infominer"
 description              : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
-url                      : "https://infominer.id"
+url                      : "https://sourcecrypto.pub"
 baseurl                  : "/bitcoin-history"
-rooturl                  : "https://infominer.id/bitcoin-history"
-repository               : "infominer33/bitcoin-history"
+rooturl                  : "https://sourcecrypto.pub/bitcoin-history"
+repository               : "sourcecrypto/bitcoin-history"
 github                   : [metadata]
 teaser                   : # "/assets/img/information-discovery.jpg"
-logo                     : "https://infominer.id/bitcoin-history/assets/icons/icon@2x.png"
+logo                     : "https://sourcecrypto.pub/bitcoin-history/assets/icons/icon@2x.png"
 masthead_title           : "An Index of Histories Related to Bitcoin"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -90,7 +90,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "https://infominer.id/bitcoin-history/assets/icons/icon@2x.png"
+og_image                 : "https://sourcecrypto.pub/bitcoin-history/assets/icons/icon@2x.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

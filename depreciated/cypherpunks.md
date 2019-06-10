@@ -2,7 +2,7 @@
 title: Cypherpunks and the Crypto Wars
 description: Open-Source Resource for learning about the Cypherpunk Movement
 header:
-  image: "https://infominer.id/bitcoin-history/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
+  image: "https://sourcecrypto.pub/bitcoin-history/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
   caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
 published: false
 

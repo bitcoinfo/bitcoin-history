@@ -9,7 +9,7 @@ github        : [metadata]
 # (unless you are using a custom domain).
 url           : "https://infominer.id"
 baseurl       : "/bitcoin-history"
-rooturl       : "https://infominer.id/bitcoin-history"
+rooturl       : "https://sourcecrypto.pub/bitcoin-history"
 lang:                  en
 title         : "Bitcoin Historical Index"
 description   : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
@@ -24,7 +24,7 @@ keywords:              [cryptocurrency, trading]
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
 # It also used by the `jekyll-seo-tag` plugin.
-logo          : https://infominer.id/bitcoin-history/assets/img/satoshi-squared.png
+logo          : https://sourcecrypto.pub/bitcoin-history/assets/img/satoshi-squared.png
 
 # This should be the same author as first entry in `_data/authors.yml`.
 author:
@@ -64,7 +64,7 @@ paginate_path:         /page-:num/
 # ========================================================================================
 
 # Sidebar image and theme color of the site.
-accent_image:          "https://infominer.id/bitcoin-history/satoshi.gif"
+accent_image:          "https://sourcecrypto.pub/bitcoin-history/satoshi.gif"
 accent_color:          rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
