@@ -5,12 +5,12 @@ description: From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and
 excerpt: >
   The capability paradigm is about access control. When a system, such as an OS or a website, is presented with a request for a service it provides, it needs to decide if it should actually do what the requestor is asking for. 
 header:
-  teaser: https://infominer.id/bitcoin-history/assets/img/elems10.png
-  image: https://infominer.id/bitcoin-history/assets/img/elems10.png
+  teaser: https://sourcecrypto.pub/bitcoin-history/assets/img/elems10.png
+  image: https://sourcecrypto.pub/bitcoin-history/assets/img/elems10.png
   caption: "[erights.org - CapTP Ops: provideFor()](http://www.erights.org/elib/distrib/captp/provideFor.html) '98"
 author_profile: true
 permalink: smart-contracts/
-canonical_url: 'https://infominer.id/bitcoin-history/smart-contracts/'
+canonical_url: 'https://sourcecrypto.pub/bitcoin-history/smart-contracts/'
 redirect-from: smart-contracts
 ---
 
@@ -36,7 +36,7 @@ You can expect that page and the discord server to have information that isn't o
 
 ## Smart Contract History
 
-![](https://infominer.id/bitcoin-history/assets/img/elems10.png)<br>
+![](https://sourcecrypto.pub/bitcoin-history/assets/img/elems10.png)<br>
   > VatA (the donor) deposits a reference to gift at nonce in VatC's (the host's) from-VatA-for-VatB table, and returns a Vine for the gift-entry. 
 
 ## Object Capabilities (ObCap)
@@ -221,7 +221,7 @@ The short version is that Vitalik started Ethereum after a few attempts to integ
   [![](https://i.imgur.com/wxMkWLW.png)](https://www.slideshare.net/ChristopherA/smart-signaturesexperiments-in-authentication-stanford-bpase-2018-final)
 
 {% include video id="E9sbWKbfyJU" provider="youtube" %}
-[*Transcript](https://infominer.id/bitcoin-history/transcripts/smart-signatures-christopher-allen/)
+[*Transcript](https://sourcecrypto.pub/bitcoin-history/transcripts/smart-signatures-christopher-allen/)
 
 * [WebOfTrustInfo/rwot5-boston -Smarm: Requirements for a smart-signatures Scheme](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/draft-documents/smarm.md)
   ![](https://pbs.twimg.com/media/DNZYt5VVQAAWWuw.jpg)
