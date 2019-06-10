@@ -12,7 +12,7 @@ header:
   og_image: https://sourcecrypto.pub/bitcoin-history/assets/img/chancellor-brink-bailout-banks.png
   teaser: https://sourcecrypto.pub/bitcoin-history/assets/img/chancellor-brink-bailout-banks.png
 permalink: "bitcoin/"
-canonical_url: 'https://sourcecrypto.pub/bitcoin-history/"bitcoin/"'
+canonical_url: 'https://sourcecrypto.pub/bitcoin-history/bitcoin/'
 redirect_from: "bitcoin"
 
 
