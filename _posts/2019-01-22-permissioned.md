@@ -9,7 +9,8 @@ header:
   caption: "[Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015](https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/)"
 last_modified_at: 2019-05-27T13:22:33-23:00
 permalink: permissioned-ledgers/
-cannonical_url: "https://sourcecrypto.pub/bitcoin-history/permissioned/"
+cannonical_url: "https://sourcecrypto.pub/bitcoin-history/permissioned-ledgers/"
+redirect_from: https://sourcecrypto.pub/bitcoin-history/permissioned/
 ---
 
 I used this space as prep for writing this article: 
