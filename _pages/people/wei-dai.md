@@ -1,6 +1,9 @@
 ---
 title: Wei Dai
 permalink: people/wei-dai/
+sidebar:
+  nav: "bitnav" 
+share: true
 ---
 
 https://thebookofbitcoin.github.io/html/people/wei_dai.html

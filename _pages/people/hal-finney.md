@@ -1,6 +1,9 @@
 ---
 title: Hal Finney
 permalink: people/hal-finney/
+sidebar:
+  nav: "bitnav" 
+share: true
 ---
 
 * [Who is Hal Finney?](https://101blockchains.com/who-is-hal-finney-bitcoin/)
