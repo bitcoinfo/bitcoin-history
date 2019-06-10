@@ -22,7 +22,7 @@ I used this space as prep for writing this article:
 
 I collect links in the SourceCrypto Discord Server [#history channel](https://discord.gg/SUatSjs), and occasionally I export them to this website:
 
-* [https://infominer.id/SourceCrypto/discolog/general/history/](https://infominer.id/SourceCrypto/discolog/general/history/)
+* [https://sourcecrypto.pub/discolog/general/history/](https://sourcecrypto.pub/discolog/general/history/)
 
 You can expect that page and the discord server to have information that isn't on this page, as exporting the contents of a discord server is faster than updating each page individually.
 
