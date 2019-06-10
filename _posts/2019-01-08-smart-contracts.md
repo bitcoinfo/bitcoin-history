@@ -30,7 +30,7 @@ Which took me down the rabbithole and led to [the creation](https://github.com/i
 
 I collect links in the SourceCrypto Discord Server [#smart-contracts channel](https://discord.gg/esTMt4r), and occasionally I export them to this website:
 
-* [https://infominer.id/SourceCrypto/discolog/blockchain-tech/smart-contracts/](https://infominer.id/SourceCrypto/discolog/blockchain-tech/smart-contracts/)
+* [https://sourcecrypto.pub/discolog/blockchain-tech/smart-contracts/](https://sourcecrypto.pub/discolog/blockchain-tech/smart-contracts/)
 
 You can expect that page and the discord server to have information that isn't on this page, as exporting the contents of a discord server is faster than updating each page individually.
 
