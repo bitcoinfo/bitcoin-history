@@ -1,6 +1,9 @@
 ---
 title: Adam Back
 permalink: people/adam-back/
+sidebar:
+  nav: "bitnav" 
+share: true
 ---
 
 * Founder and CEO of [Blockstream](https://blockstream.com/)
