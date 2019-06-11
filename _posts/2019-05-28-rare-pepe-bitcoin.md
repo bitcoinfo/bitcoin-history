@@ -6,7 +6,7 @@ description: Rare Pepe, and the Birth of Digially Rare Art.
 excerpt: >
   Starting in October 2014, users on the /r9k/ (robot9000) board on 4chan began referring to original illustrations and photoshops of Pepe the Frog as "Rare Pepes"; sharing the "rare" images of Pepe as if they were trading cards, some of which were posted with watermarks to retain their value (shown below).
 header:
-  image:  https://infominer.id/rare-digital-art/img/Salvador-Pepe-rare-Pepe-auction-1-13-18.jpeg
+  image:  https://sourcecrypto.pub/rare-digital-art/img/Salvador-Pepe-rare-Pepe-auction-1-13-18.jpeg
   caption: "[motherboard.vice.com](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain) via: [Jessica Klein](https://www.jlklein.com)"
 tags: 
   - pepe
@@ -17,21 +17,21 @@ permalink: rare-pepe/
 canonical_url: 'https://sourcecrypto.pub/bitcoin-history/rare-pepe/'
 ---
 
-![](https://infominer.id/rare-digital-art/img/pepebanner.jpg)
+![](https://sourcecrypto.pub/rare-digital-art/img/pepebanner.jpg)
 
 ## In The Beginning
 
 >In 2005, artist [Matt Furie](http://www.mattfurie.com/) created the comic series Boy's Club, which stars the teenage monster characters Pepe, Brett, Andy and Landwolf.
 [pepe-the-frog](https://knowyourmeme.com/memes/pepe-the-frog)
 
-![](https://infominer.id/rare-digital-art/img/boys-club-pepe-history.png)
+![](https://sourcecrypto.pub/rare-digital-art/img/boys-club-pepe-history.png)
 
 * [The Creator of Pepe the Frog Talks About Making Comics in the Post-Meme World](https://www.vice.com/en_us/article/avy3aj/feels-good-man-728)
   >"I've made my mark on the internet, so I can relax. I'm retired now, living off all the shares and likes.​"
 
 ## Feels Good Man
 
-![](https://infominer.id/rare-digital-art/img/feels-good-man.jpeg)
+![](https://sourcecrypto.pub/rare-digital-art/img/feels-good-man.jpeg)
 
 * [knowyourmeme.com/memes/feels-good-man](https://knowyourmeme.com/memes/feels-good-man)
   > Feels Good Man is a catchphrase and exploitable from a comic strip authored by artist Matt Furie. The phrase is in reference to the emotions one of the characters in the strip feels when he goes to the bathroom standing up, with his pants all the way down.
@@ -56,7 +56,7 @@ canonical_url: 'https://sourcecrypto.pub/bitcoin-history/rare-pepe/'
 * [Rare Pepe Mosaic](https://mustacheese.deviantart.com/art/Rare-Pepe-Mosaic-NOT-FOR-NORMIES-567803519)
   ![](https://i.imgur.com/addGH5k.jpg)
 * [Reddit Rare Pepe Memes](https://www.ohmycat.club/reddit-rare-pepe-memes.html)
-  [![](https://infominer.id/rare-digital-art/img/rare-pepe.png)](https://imgur.com/r/4chan/awRrhwX)
+  [![](https://sourcecrypto.pub/rare-digital-art/img/rare-pepe.png)](https://imgur.com/r/4chan/awRrhwX)
   
 ## Alt-Right Drives Away Normies
 
@@ -83,7 +83,7 @@ canonical_url: 'https://sourcecrypto.pub/bitcoin-history/rare-pepe/'
 >For years people have been trying to preserve the rarest of pepes from being stolen.  
 >
 >Thanks to Bitcoin and Counterparty we can associate these Rare Pepes with tokens to make them truly rare.  Now Pepe’s can preserve their rareness and actually be traded on the market.
-  [![](https://infominer.id/rare-digital-art/img/pepe-scientist.jpg)](http://rarepepedirectory.com/?page_id=122)
+  [![](https://sourcecrypto.pub/rare-digital-art/img/pepe-scientist.jpg)](http://rarepepedirectory.com/?page_id=122)
 * [counterparty.io](https://counterparty.io/)
   >Counterparty extends Bitcoin’s functionality by “writing in the margins” of regular Bitcoin transactions, opening the door for innovation and advanced features not possible with ordinary Bitcoin software.
 
@@ -97,7 +97,7 @@ canonical_url: 'https://sourcecrypto.pub/bitcoin-history/rare-pepe/'
   [![](https://video-images.vice.com/_uncategorized/1516305655454-Salvador-Pepe-rare-Pepe-auction-RT-1-13-18.jpeg)](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain)
 
  
-![](https://infominer.id/rare-digital-art/img/homer-pepe.jpg)
+![](https://sourcecrypto.pub/rare-digital-art/img/homer-pepe.jpg)
 
 ## Recent News
 
@@ -114,10 +114,10 @@ I've also heard some vague accusations that counterparty\rare-pepe are not good 
 
 I know there are a lot of newer projects, like memes, memecoins get copied. That doesn't interest me as much as the other digital art projects, and mostly the history. 
 
-There are many other aspects of digital art that interest me, and I'll be diving in, beyond pepe, coming soon. You can have a sneek peek of my new [Rare Digital Art](https://infominer.id/rare-digital-art/) page now, although it's not ready for production, and this resource belongs over here, anyway.
+There are many other aspects of digital art that interest me, and I'll be diving in, beyond pepe, coming soon. You can have a sneek peek of my new [Rare Digital Art](https://sourcecrypto.pub/rare-digital-art/) page now, although it's not ready for production, and this resource belongs over here, anyway.
 {: .notice--warning}
 
-![](https://infominer.id/rare-digital-art/img/pepe-recall.gif)
+![](https://sourcecrypto.pub/rare-digital-art/img/pepe-recall.gif)
 
 ## Resources
 
