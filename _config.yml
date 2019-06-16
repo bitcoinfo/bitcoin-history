@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "Bitcoin Historical Index"
 title_separator          : "|"
 name                     : "⧉ Infominer"
-description              : "The History Surrounding Bitcoin, including Pre-History and Immediately Related Fields."
+description              : "Histories of Bitcoin and related fields."
 url                      : "https://sourcecrypto.pub"
 baseurl                  : "/bitcoin-history"
 rooturl                  : "https://sourcecrypto.pub/bitcoin-history"
@@ -27,7 +27,7 @@ repository               : "sourcecrypto/bitcoin-history"
 github                   : [metadata]
 teaser                   : # "/assets/img/information-discovery.jpg"
 logo                     : "https://sourcecrypto.pub/bitcoin-history/assets/icons/icon@2x.png"
-masthead_title           : "An Index of Histories Related to Bitcoin"
+masthead_title           : "Bitcoin Historical Index"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
@@ -235,7 +235,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 11 # amount of posts to show
+paginate: 10 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
