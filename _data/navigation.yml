@@ -53,6 +53,7 @@ bitnav:
       - title: "• Github Pages Starter Pack"
         url: "https://web-work.tools/github-pages-starter-pack/"
   - title: Transcripts
+    url: https://sourcecrypto.pub/transcripts/
     children:
       - title: "• JW Weatherman Interviews Tim May"
         url: "https://sourcecrypto.pub/transcripts/JW-Weatherman-Interview-Tim-May/"
@@ -65,11 +66,10 @@ bitnav:
       - title: "• Public vs Private Blockchains for Enterprise with R3 and Consensys"
         url: "https://sourcecrypto.pub/transcripts/public-private-blockchain-wolpert-gendal-brown/"
   - title: "Info⧉Hub"
+    url: "https://infominer.id/"
     children:
       - title: "• Sitemap"
         url: "/sitemap/"
-      - title: "• InfoHub"
-        url: "https://infominer.id/"
       - title: "  • About"
         url: "https://infominer.id/about/"
       - title: "• Source⧉Crypto"
