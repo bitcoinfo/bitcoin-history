@@ -7,6 +7,7 @@ excerpt: >
   Starting in October 2014, users on the /r9k/ (robot9000) board on 4chan began referring to original illustrations and photoshops of Pepe the Frog as "Rare Pepes"; sharing the "rare" images of Pepe as if they were trading cards, some of which were posted with watermarks to retain their value (shown below).
 header:
   image:  https://sourcecrypto.pub/rare-digital-art/img/Salvador-Pepe-rare-Pepe-auction-1-13-18.jpeg
+  teaser:  https://sourcecrypto.pub/rare-digital-art/img/Salvador-Pepe-rare-Pepe-auction-1-13-18.jpeg
   caption: "[motherboard.vice.com](https://motherboard.vice.com/en_us/article/ev57p4/i-went-to-the-first-live-auction-for-rare-pepes-on-the-blockchain) via: [Jessica Klein](https://www.jlklein.com)"
 tags: 
   - pepe
