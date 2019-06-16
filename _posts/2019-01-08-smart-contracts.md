@@ -74,14 +74,15 @@ Basically this research starting in the 60's, with much work throughout the 80's
 >Miller earned a BS in computer science from Yale in 1980 and published his Johns Hopkins PhD thesis in 2006.[2] Previously Chief Architect with the Virus-Safe Computing Initiative at HP Labs, he is now a research scientist at Google[3] and a member of the ECMAScript (JavaScript) committee.[4] - [Wikipedia](https://en.wikipedia.org/wiki/Mark_S._Miller)
 
 * [agoric.com/authors/mark-s-miller](https://agoric.com/authors/mark-s-miller/)
-* [marksammiller@twitter.com](https://twitter.com/marksammiller)
-* [Mark Miller: Agoric and the Decades-Long Quest for Secure Smart Contracts.](https://letstalkbitcoin.com/blog/post/epicenter-mark-miller-agoric-and-the-decadeslong-quest-for-secure-smart-contracts)
-
-### Agoric
+* [twitter.com/marksammiller](https://twitter.com/marksammiller)
+* [Mark Miller: Agoric and the Decades-Long Quest for Secure Smart Contracts.](https://epicenter.tv/episode/286/) -Epicenter Podcast
+* [The Agoric Papers](https://e-drexler.com/d/09/00/AgoricsPapers/agoricpapers.html)
+  > These three papers by Mark S. Miller and K. Eric Drexler appeared in The Ecology of Computation, Bernardo Huberman (ed.) Elsevier Science Publishers/North-Holland, 1988. 
+  
+## Agoric
 
 * [Agoric](https://agoric.com/about/)
   * [Object Capabilities with Kate Sills](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html) (podcast)
-
 
 
 ## Nick Szabo
