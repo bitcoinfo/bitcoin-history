@@ -26,6 +26,8 @@ main:
 bitnav:
   - title: Bitcoin-History Index
     children:
+      - title: "• Sitemap"
+        url: "/sitemap/"
       - title: "• Before Bitcoin"
         url: /before-bitcoin/
       - title: "• Cypherpunks"
@@ -68,8 +70,6 @@ bitnav:
   - title: "Info⧉Hub"
     url: "https://infominer.id/"
     children:
-      - title: "• Sitemap"
-        url: "/sitemap/"
       - title: "  • About"
         url: "https://infominer.id/about/"
       - title: "• Source⧉Crypto"
