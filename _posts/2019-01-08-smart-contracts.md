@@ -25,7 +25,7 @@ When I came across:
   * *A Next Generation Smart Contract and Decentralized Application Platform* (Vitaliks ANN post on lambda-the-ultimate)
     > Smart contracts and related languages have a long discussion history on LtU
     
-Which took me down the rabbithole and led to [the creation](https://github.com/infominer33/bitcoin-history/commit/29700115d9c74eebb72b04023dd0085057e0ecd6#diff-cd3d4ba11ddc27e38cd09a3284beeb87) of this resource.
+Which took me down the rabbithole and led to [the creation](https://github.com/sourcecrypto/bitcoin-history/commit/29700115d9c74eebb72b04023dd0085057e0ecd6#diff-cd3d4ba11ddc27e38cd09a3284beeb87) of this resource.
 
 ## Source Crypto
 
