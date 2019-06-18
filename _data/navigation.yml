@@ -24,7 +24,7 @@ main:
     url: "/sitemap/"
 
 bitnav:
-  - title: Bitcoin-History Index
+  - title: Bitcoin-Histories
     url: "/"
     children:
       - title: "• Before Bitcoin"
