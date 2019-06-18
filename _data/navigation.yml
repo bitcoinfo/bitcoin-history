@@ -27,8 +27,6 @@ bitnav:
   - title: Bitcoin-History Index
     url: "/"
     children:
-      - title: "• Sitemap"
-        url: "/sitemap/"
       - title: "• Before Bitcoin"
         url: /before-bitcoin/
       - title: "• Cypherpunks"
@@ -43,8 +41,12 @@ bitnav:
         url: /united-nations/
       - title: "• Smart Contracts"
         url: /smart-contracts/
+      - title: "• Rare Pepe's on the Bitcoin Blockchain"
+        url: /rare-pepe/
       - title: "• Blockchain in the Bahamas - Timeline"
         url: "/blockchain-bahamas-crypto-caribbean/"
+      - title: "• Sitemap"
+        url: "/sitemap/"
   - title: Featured
     children:
       - title: "• Escrow, PGP, Bitcoin and Ethereum Signatures"
@@ -78,7 +80,7 @@ bitnav:
       - title: "  • Bitcoin Historical Index"
         url: "https://sourcecrypto.pub/bitcoin-history"
       - title: "  • Transcripts"
-        url: "https://infominer.id/transcripts"
+        url: "https://sourcecrypto.pub/transcripts"
       - title: "• DIDecentralized"
         url: "https://decentralized-id.com"
       - title: "• Web-work.tools"
