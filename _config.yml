@@ -25,7 +25,7 @@ baseurl                  : "/bitcoin-history"
 rooturl                  : "https://sourcecrypto.pub/bitcoin-history"
 repository               : "sourcecrypto/bitcoin-history"
 github                   : [metadata]
-teaser                   : # "/assets/img/information-discovery.jpg"
+teaser                   : /assets/img/chancellor-brink-bailout-banks-teaser.png
 logo                     : "https://sourcecrypto.pub/bitcoin-history/assets/icons/icon@2x.png"
 masthead_title           : "Bitcoin Historical Index"
 # breadcrumbs            : false # true, false (default)
@@ -106,9 +106,9 @@ analytics:
     anonymize_ip         : true
 
 author:
-  name:                
-  email:               
-  twitter:             infominer33
+  name: ⧉ Infominer      
+  email: infominer@protonmail.com
+  twitter: infominer33
 
 # Site Author
 author:
@@ -118,7 +118,7 @@ author:
 #  location         : "I spend most of my time right here."
 #  email            : infominer@protonmail.com
   links:
-    - label: "Inf⧉Hub"
+    - label: "Info⧉Hub"
       icon: "fa fa-fw fa-cube"
       url: "https://infominer.id"
     - label: "Email"
