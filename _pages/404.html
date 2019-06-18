@@ -11,15 +11,48 @@ toc: false
 ---
 
   <p><b>Craig Wright is Definitely Not Satoshi Nakamoto.</b></p>
-  <p class="lead">Clearly you are lost.... <a href="{{ site.baseurl }}/">Head back home</a>, or check the <a href="https://sourcecrypto.pub/bitcoin-history/sitemap/">/sitemap/</a>.</p>
+
+  
+<p class="lead">Sorry, we've misplaced that URL or it's pointing to something that doesn't exist. <a href="https://SourceCrypto.pub/bitcoin-history/">Go Home</a> to try finding it again.</p>
+
 <p><ul>
-  <li><a href="https://infominer.id">https://infominer.id</a></li>
-  <li><a href="https://infominer.id/web-work/">https://infominer.id/web-work/</a></li>
-  <li><a href="https://infominer.id/indieweb/">https://infominer.id/indieweb/</a></li>
-  <li><a href="https://decentralized-id.com/">https://decentralized-id.com/</a></li>
-  <li><a href="https://sourcecrypto.pub/bitcoin-history/">https://sourcecrypto.pub/bitcoin-history/</a></li>
-  <li><a href="https://sourcecrypto.pub/">https://sourcecrypto.pub/</a></li>
-  <li><a href="https://infominer.id/transcripts/">https://infominer.id/transcripts/</a></li>
-  <li><a href="https://infominer.id/learn-crypto-trading/">https://infominer.id/learn-crypto-trading/</a></li>
+  <li><a href="https://infominer.id">Infominer.id</a></li>
+  <li><a href="https://web-work.tools/">Web-work.tools</a></li>
+  <li><a href="https://web-work.tools/indieweb/">Web-work.tools/indieweb</a></li>
+  <li><a href="https://decentralized-id.com/">Decentralized-id.com</a></li>
+  <li><a href="https://sourcecrypto.pub/">SourceCrypto.pub</a></li>
+  <li><a href="https://sourcecrypto.pub/bitcoin-history/">Sourcecrypto.pub/bitcoin-history/</a></li>
+  <li><a href="https://sourcecrypto.pub/transcripts/">sourcecrypto.pub/transcripts/</a></li>
+  <li><a href="https://learncryptotrading.co/">Learncryptotrading.co</a></li>
 </ul></p>
 
+<img src="https://learncryptotrading.co/assets/img/every-single-one-of-us-is-satoshi-nakamoto-not-craig-wright.png"/>
+
+
+<h2>Pages</h2>
+{% for post in site.pages %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Posts</h2>
+{% for post in site.posts %}
+  {% include archive-single.html %}
+{% endfor %}
+
+
+{% capture written_label %}'None'{% endcapture %}
+
+{% for collection in site.collections %}
+{% unless collection.output == false or collection.label == "posts" %}
+  {% capture label %}{{ collection.label }}{% endcapture %}
+  {% if label != written_label %}
+  <h3>{{ label }}</h3>
+  {% capture written_label %}{{ label }}{% endcapture %}
+  {% endif %}
+{% endunless %}
+{% for post in collection.docs %}
+  {% unless collection.output == false or collection.label == "posts" %}
+  {% include archive-single.html %}
+  {% endunless %}
+{% endfor %}
+{% endfor %}
