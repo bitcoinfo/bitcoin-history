@@ -11,6 +11,15 @@ excerpt: >
 http://bitpaper.info/paper/5722646637445120
 ^^^ rejection of coloured coins leads to ethereum
 
+https://www.youtube.com/watch?v=3FA3UjA0igY
+81:48
+there is a guy named aviv zohar was
+81:50
+written some great papers one of them is
+81:51
+on ghost which is what etherium is based
+81:54
+on and he's got a follow up to that his 
 
 
 * [World's oldest ICOs 20+ and 20+ oldest cryptos without ICO](https://steemit.com/crypto/@sxiii/oldest-icos)
