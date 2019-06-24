@@ -64,8 +64,17 @@ The object-capability model was first proposed by Jack Dennis and Earl C. Van Ho
 
 Object Capabilities are new to me, and I'm just placing any related information here for now until I make them a page of their own.
 
-Basically this research starting in the 60's, with much work throughout the 80's (that is not well dowcumented online), culminating with Nick Szabo's work, and E Language. Object Capabilities are central to the original line of work the term "Smart Contracts" was used in reference to, which was somewhat misappropriated by Vitalik.
+Basically this research starting in the 60's, with much work throughout the 80's (that is not well dowcumented online), culminating with Nick Szabo's work, and E Language. Object Capabilities are central to the original line of work the term "Smart Contracts" was used in reference to, which was somewhat misappropriated by Vitalik. (or at least ignored. like it was fashionable in that time to think that early work on distributed systems had no relevance to the new paradigm of blockchain.)
 
+for context:
+
+>Note that, while we weren’t (or, at least I wasn’t) very aware of the actual content of traditional consensus research, we did use the term “Byzantine behaviour”, and (at least I) did regard the blockchain has having “solved the Byzantine generals problem”. I had picked this up from Andreas Antonopoulos during my days as a Bitcoiner. - [September 20th 2014 — December 2014](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc)
+
+I was myself a young 'would-be' revolutionary, once upon a time, so I can relate. I will admit, I was sore about this subject at one point. However, I've heard Nick Szabo on the [Tim Ferriss show](https://www.youtube.com/watch?v=3FA3UjA0igY) say that he was excited about Ethereum. I can't find the exact quote.. but all other arguments aside... if nick szabo is happy about the work being done with Ethereum, why shouldn't I be?
+{: .notice--info}
+
+All the things will be seen in time... I can't know the future, but I do have my biases...
+{: .notice--info}
 
 ## Mark S Miller
 
@@ -86,6 +95,7 @@ Basically this research starting in the 60's, with much work throughout the 80's
 * [Agoric](https://agoric.com/about/)
   * [Object Capabilities with Kate Sills](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html) (podcast)
 
+[[>>see more>>](https://sourcecrypto.pub/agoric-obcap-mark-miller/)]
 
 ## Nick Szabo
 
