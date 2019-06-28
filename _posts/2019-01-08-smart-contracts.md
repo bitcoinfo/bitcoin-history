@@ -33,7 +33,9 @@ I collect links in the SourceCrypto Discord Server [#smart-contracts channel](ht
 
 * [https://sourcecrypto.pub/discolog/blockchain-tech/smart-contracts/](https://sourcecrypto.pub/discolog/blockchain-tech/smart-contracts/)
 
-You can expect that page and the discord server to have information that isn't on this page, as exporting the contents of a discord server is faster than updating each page individually.
+You can expect that page and the discord server to have information that isn't on this page, as exporting the contents of a discord server is faster than sorting through it all and updating each individual page.
+
+However, sooon this Bitcoin History is gonna get filled out proper... 
 
 ## Smart Contract History
 
@@ -44,37 +46,11 @@ You can expect that page and the discord server to have information that isn't o
 
 The object-capability model was first proposed by Jack Dennis and Earl C. Van Horn in the 1966 paper.
 * [Programming Semantics for Multiprogrammed Computations](https://www.princeton.edu/~rblee/ELE572Papers/Fall04Readings/ProgramSemantics_DennisvanHorn.pdf)
-  >The semantics are defined for a number of meta-instructions which perform operations essential to the writing of programs in multiprogrammed computer systems. These meta-instructions relate to parallel processing, protection of separate computations, program debugging, and the sharing among users of memory segments and other computing objects, the names of which are hierarchically structured. The language sophistication contemplated is midway between an assembly language and an advanced algebraic language. 
 * [What Are Capabilities?](https://web.archive.org/web/20190423063056/http://habitatchronicles.com/2017/05/what-are-capabilities/)
   >The capability paradigm is about access control. When a system, such as an OS or a website, is presented with a request for a service it provides, it needs to decide if it should actually do what the requestor is asking for. The way it decides is what we’re talking about when we talk about access control. If you’re like most people, the first thing you’re likely to think of is to ask the requestor “who are you?” The fundamental insight of the capabilities paradigm is to recognize that this question is the first step on the road to perdition. That’s highly counterintuitive to most people, hence the related controversy.
 * [wikipedia- Object-capability model](https://en.wikipedia.org/wiki/Object-capability_model)
-* [Awesome Object Capabilities and Capability-based Security](https://github.com/dckc/awesome-ocap)
-* [Linked Data Capabilities](https://github.com/WebOfTrustInfo/rwot5-boston/blob/master/final-documents/lds-ocap.md)
-  * [Object Capabilities for Linked Data v0.3](https://w3c-ccg.github.io/ocap-ld/)
-* [Cosmos Object-Capability Model](https://cosmos.network/docs/intro/ocap.html)
-* [Ethereum Object Capabilities](https://ethereum-magicians.org/t/ethereum-object-capabilities/3035/3)
-* [Security in Scala: Using Object Capabilities](https://tersesystems.com/blog/2018/06/24/security-in-scala/)
-  * [A Guide To Capabilities](https://wsargent.github.io/ocaps/guide/)
-* [DIDAuth + Obj. Cap.](https://iiw.idcommons.net/DIDAuth_%2B_Obj._Cap.)
-* [History of Object Capabilities](http://clive.tries.fed.wiki/view/deep-thoughts-on-wiki/view/history-of-object-capabilities)
-* [https://www.infoq.com/interviews/johnson-armstrong-oop/](www.infoq.com/interviews/johnson-armstrong-oop/) - [anaphor](https://news.ycombinator.com/item?id=19988339)
-  > Then, my thesis supervisor said "But you're wrong, Erlang is extremely object oriented". He said object oriented languages aren't object oriented. I might think, though I'm not quite sure if I believe this or not, but Erlang might be the only object oriented language because the 3 tenets of object oriented programming are that it's based on message passing, that you have isolation between objects and have polymorphism.
 
-	
-
-Object Capabilities are new to me, and I'm just placing any related information here for now until I make them a page of their own.
-
-Basically this research starting in the 60's, with much work throughout the 80's (that is not well dowcumented online), culminating with Nick Szabo's work, and E Language. Object Capabilities are central to the original line of work the term "Smart Contracts" was used in reference to, which was somewhat misappropriated by Vitalik. (or at least ignored. like it was fashionable in that time to think that early work on distributed systems had no relevance to the new paradigm of blockchain.)
-
-for context:
-
->Note that, while we weren’t (or, at least I wasn’t) very aware of the actual content of traditional consensus research, we did use the term “Byzantine behaviour”, and (at least I) did regard the blockchain has having “solved the Byzantine generals problem”. I had picked this up from Andreas Antonopoulos during my days as a Bitcoiner. - [September 20th 2014 — December 2014](https://medium.com/@Vlad_Zamfir/the-history-of-casper-chapter-3-70fefb1182fc)
-
-I was myself a young 'would-be' revolutionary, once upon a time, so I can relate. I will admit, I was sore about this subject at one point. However, I've heard Nick Szabo on the [Tim Ferriss show](https://www.youtube.com/watch?v=3FA3UjA0igY) say that he was excited about Ethereum. I can't find the exact quote.. but all other arguments aside... if nick szabo is happy about the work being done with Ethereum, why shouldn't I be?
-{: .notice--info}
-
-All the things will be seen in time... I can't know the future, but I do have my biases...
-{: .notice--info}
+[**>> Agoric Records >>**](https://agoric-records.netlify.com)
 
 ## Mark S Miller
 
@@ -89,13 +65,15 @@ All the things will be seen in time... I can't know the future, but I do have my
   > These three papers by Mark S. Miller and K. Eric Drexler appeared in The Ecology of Computation, Bernardo Huberman (ed.) Elsevier Science Publishers/North-Holland, 1988. 
 * [Mark Miller: Agoric and the Decades-Long Quest for Secure Smart Contracts.](https://epicenter.tv/episode/286/) -Epicenter Podcast
 
+[**>> Agoric Records >>**](https://agoric-records.netlify.com)
+
 
 ## Agoric
 
 * [Agoric](https://agoric.com/about/)
   * [Object Capabilities with Kate Sills](https://librelounge.org/episodes/episode-13-object-capabilities-with-kate-sills.html) (podcast)
 
-[[>>see more>>](https://sourcecrypto.pub/agoric-obcap-mark-miller/)]
+[**>> Agoric Records >>**](https://agoric-records.netlify.com)
 
 ## Nick Szabo
 
@@ -172,6 +150,10 @@ Bitcoin’s capacity is limited. Meanwhile, smart contracts can be resource inte
 * [Godfather of Ethereum](https://medium.com/@yanislav/king-of-bitcoin-godfather-of-ethereum-a9af9ecf56d5)
   >About a year and a half ago in autumn 2013, I was working as the lead developer with Vitalik Buterin (who later became the initiator of the Ethereum project) on another project with the name ‘Keidom’ (now called ascribe.io). The idea behind Keidom/Ascribe was to develop a custom colored-coin web-wallet for registering and transfering digital art in a secure way, based on the Bitcoin blockchain, with build-in proof-of-existence. We developed a working prototype during September and November 2013.
 * [Could This Holy Bitcoin Trinity Revive Colored Coins?](https://www.coindesk.com/holy-bitcoin-trinity-revive-colored-coins) -2014
+
+
+
+
 
 
 ## Ethereum 
