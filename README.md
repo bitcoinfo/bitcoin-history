@@ -1,8 +1,8 @@
----
-published: false
----
+# This Repository is Temporarily Retired
 
-# Bitcoin History
+## All content now updated at [sourcecrypto/sourcecrypto.github.io](https://github.com/sourcecrypto/sourcecrypto.github.io/)
+
+## Bitcoin History
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
 I moved all of the pages to [_pages](_pages/)
