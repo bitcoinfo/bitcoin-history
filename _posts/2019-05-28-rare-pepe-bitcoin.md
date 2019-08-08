@@ -15,7 +15,7 @@ tags:
   - history
   - resources
 permalink: rare-pepe/
-canonical_url: 'https://sourcecrypto.pub/bitcoin-history/rare-pepe/'
+canonical_url: 'https://btc-nerds.xyz/bitcoin-history/rare-pepe/'
 ---
 
 ![](https://sourcecrypto.pub/rare-digital-art/img/pepebanner.jpg)
