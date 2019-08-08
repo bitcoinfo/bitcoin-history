@@ -4,12 +4,12 @@ title: Electronic Cash, Before Bitcoin
 description: An arrangement of resources related to the quest for digital cash, before Bitcoin.
 excerpt: "Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person."
 header: 
-  image: "https://sourcecrypto.pub/bitcoin-history/assets/img/2013-Virtual-Currency-Infographic.png"
+  image: "https://btc-nerds.xyz/bitcoin-history/assets/img/2013-Virtual-Currency-Infographic.png"
   caption: "[Dec 2013 - History of Virtual Currency](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
-  teaser: "https://sourcecrypto.pub/bitcoin-history/assets/img/electronic-cash-2013.png"
-  og_image: "https://sourcecrypto.pub/bitcoin-history/assets/img/electronic-cash-2013.png"
+  teaser: "https://btc-nerds.xyz/bitcoin-history/assets/img/electronic-cash-2013.png"
+  og_image: "https://btc-nerds.xyz/bitcoin-history/assets/img/electronic-cash-2013.png"
 permalink: /before-bitcoin/electronic-cash/
-canonical_url: 'https://sourcecrypto.pub/bitcoin-history//before-bitcoin/electronic-cash/'
+canonical_url: 'https://btc-nerds.xyz/bitcoin-history//before-bitcoin/electronic-cash/'
 author_profile: false
 redirect_from:
   - /before-bitcoin/electronic-cash
@@ -64,14 +64,14 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 * [bitcoin.it/wiki/Hashcash](https://en.bitcoin.it/wiki/Hashcash)
 * [Proof of Work Proves not to Work](https://www.cl.cam.ac.uk/~rnc1/proofwork.pdf)
 * https://security.stackexchange.com/questions/14262/hashcash-is-this-really-used
-* [**>> More Resources for Adam Back >>**](https://sourcecrypto.pub/bitcoin-history/people/adam-back/)
+* [**>> More Resources for Adam Back >>**](https://btc-nerds.xyz/bitcoin-history/people/adam-back/)
   
 ### B-money 
 
 * [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
 * [If Bitcoin had a first Draft - B-money was it](https://bitcoinmagazine.com/articles/genesis-files-if-bitcoin-had-first-draft-wei-dais-b-money-was-it/)
 * https://www.investopedia.com/terms/b/bmoney.asp
-* [**>> More Information on Wei Dai >>**](https://sourcecrypto.pub/bitcoin-history/people/wei-dai/)
+* [**>> More Information on Wei Dai >>**](https://btc-nerds.xyz/bitcoin-history/people/wei-dai/)
 
 
 ### Beenz and Flooz 
@@ -108,7 +108,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [Use me Baby one more Time](https://medium.com/blockwhat/04-use-me-baby-one-more-time-d0dd599c8357)
 * https://github.com/NakamotoInstitute/RPOW
 * https://slashdot.org/story/04/08/18/1345258/rpow---reusable-proofs-of-work
-* [**>> More Information on Hal Finney >>**](https://sourcecrypto.pub/bitcoin-history/people/hal-finney/)
+* [**>> More Information on Hal Finney >>**](https://btc-nerds.xyz/bitcoin-history/people/hal-finney/)
 
 ### Bit Gold 
 <a href="https://twitter.com/NickSzabo4/status/1012373493252419584"><img src="https://imgur.com/sKwIgP4l.png" /></a>
@@ -121,7 +121,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [Re: They want to delete the Wikipedia article](https://bitcointalk.org/index.php?topic=342.msg4508#msg4508) - satoshi
   >Bitcoin is an implementation of Wei Dai's b-money proposal http://weidai.com/bmoney.txt on Cypherpunks http://en.wikipedia.org/wiki/Cypherpunks in 1998 and Nick Szabo's Bitgold proposal http://unenumerated.blogspot.com/2005/12/bit-gold.html
 * [What is Bit Gold? The Brainchild of Blockchain Pioneer - Nick Szabo](https://coincentral.com/what-is-bit-gold-the-brainchild-of-blockchain-pioneer-nick-szabo/)
-* [**>> More Information on Nick Szabo >>**](https://sourcecrypto.pub/bitcoin-history/people/nick-szabo/)
+* [**>> More Information on Nick Szabo >>**](https://btc-nerds.xyz/bitcoin-history/people/nick-szabo/)
 
 
 ### Liberty Reserve 

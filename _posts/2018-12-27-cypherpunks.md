@@ -4,10 +4,10 @@ title: Cypherpunks and the Crypto Wars
 description: Open-Source Resource for learning about the Cypherpunk Movement
 excerpt: "Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments."
 header:
-  image: "https://sourcecrypto.pub/bitcoin-history/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
+  image: "https://btc-nerds.xyz/bitcoin-history/assets/img/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
   caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
 permalink: before-bitcoin/cypherpunks/
-canonical_url: 'https://sourcecrypto.pub/bitcoin-history/before-bitcoin/cypherpunks/'
+canonical_url: 'https://btc-nerds.xyz/bitcoin-history/before-bitcoin/cypherpunks/'
 redirect_from: 
   - "cypherpunks"
   - cypherpunks/
