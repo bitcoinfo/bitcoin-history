@@ -9,7 +9,7 @@ I moved all of the pages to [_pages](_pages/)
 
 I think that will make it easier for github browsers to avoid the web-site files.
 
-<img src="https://btc-nerds.xyz/bitcoin-history/bitcoin-history.png">
+<img src="https://bitcoin-nerds.xyz/bitcoin-history/bitcoin-history.png">
 
 ### Contents
 
