@@ -20,13 +20,13 @@ title                    : "Bitcoin Historical Index"
 title_separator          : "|"
 name                     : "⧉ Infominer"
 description              : "Histories of Bitcoin and related fields."
-url                      : "https://btc-nerds.xyz"
+url                      : "https://bitcoin-nerds.xyz"
 baseurl                  : "/bitcoin-history"
-rooturl                  : "https://btc-nerds.xyz/bitcoin-history"
+rooturl                  : "https://bitcoin-nerds.xyz/bitcoin-history"
 repository               : "sourcecrypto/bitcoin-history"
 github                   : [metadata]
 teaser                   : /assets/img/chancellor-brink-bailout-banks-teaser.png
-logo                     : "https://btc-nerds.xyz/bitcoin-history/assets/icons/icon@2x.png"
+logo                     : "https://bitcoin-nerds.xyz/bitcoin-history/assets/icons/icon@2x.png"
 masthead_title           : "Bitcoin Historical Index"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -90,7 +90,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : "https://btc-nerds.xyz/bitcoin-history/assets/icons/icon@2x.png"
+og_image                 : "https://bitcoin-nerds.xyz/bitcoin-history/assets/icons/icon@2x.png"
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:

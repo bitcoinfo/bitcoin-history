@@ -4,13 +4,13 @@ title: History of Permissioned Ledgers
 excerpt: >
   bureaucracies are so heavily invested in the expertise and importance of local regulations and standards that it’s extremely difficult for them to cut the Gordian knot and implement seamless global systems,” said Szabo. “So they keep trying to re-inject points of control, and thus points of vulnerability, into blockchains, e.g. through ‘permissioning’; but this nullifies their main benefits, which come from removing points of vulnerability
 header:
-  teaser: "https://btc-nerds.xyz/bitcoin-history/assets/img/permissioned-ledger-2015.png"
-  image: "https://btc-nerds.xyz/bitcoin-history/assets/img/permissioned-ledger-2015.png"
+  teaser: "https://bitcoin-nerds.xyz/bitcoin-history/assets/img/permissioned-ledger-2015.png"
+  image: "https://bitcoin-nerds.xyz/bitcoin-history/assets/img/permissioned-ledger-2015.png"
   caption: "[Tim Swanson-Permissioned, Permissionless, and Permissioned Permissionless Ledgers—2015](https://www.ofnumbers.com/2015/07/20/buckets-of-permissioned-permissionless-and-permissioned-permissionlessness-ledgers/)"
 last_modified_at: 2019-05-27T13:22:33-23:00
 permalink: permissioned-ledgers/
-cannonical_url: "https://btc-nerds.xyz/bitcoin-history/permissioned-ledgers/"
-redirect_from: https://btc-nerds.xyz/bitcoin-history/permissioned/
+cannonical_url: "https://bitcoin-nerds.xyz/bitcoin-history/permissioned-ledgers/"
+redirect_from: https://bitcoin-nerds.xyz/bitcoin-history/permissioned/
 ---
 
 I used this space as prep for writing this article: 
@@ -183,7 +183,7 @@ In September, the open-source Sovrin codebase was [donated to the Sovrin Foundat
 
 ### Wolpert Joins Consensys
 * [ConsenSys hires IBM blockchain leader John Wolpert and Strate CEO Monica Singer](https://www.ibtimes.co.uk/consensys-hires-ibm-blockchain-leader-john-wolpert-strate-ceo-monica-singer-1643090)
-* [TRANSCRIPT: John Wolpert of @ConsenSys talks awesomeness at #Consensus2018 #CoinDeskLIVE](https://btc-nerds.xyz/bitcoin-history/transcripts/JohnWolpert-Consensus2018)
+* [TRANSCRIPT: John Wolpert of @ConsenSys talks awesomeness at #Consensus2018 #CoinDeskLIVE](https://bitcoin-nerds.xyz/bitcoin-history/transcripts/JohnWolpert-Consensus2018)
 * [Public or Private? Blockchain Distinctions Are Falling Out of Fashion](https://www.coindesk.com/public-private-blockchain-distinctions-falling-fashion)
 
 
