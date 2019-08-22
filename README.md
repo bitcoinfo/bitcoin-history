@@ -11,7 +11,7 @@ Discord Servers: (information sorted in channels\category\server by topic)
 Soon all of that will be published via this repository.
 
 
-https://sourcecrypto.pub
+For now: https://sourcecrypto.pub
 
 
 ![](https://i.imgur.com/DCLD6XA.png)<br>
