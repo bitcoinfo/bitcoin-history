@@ -10,15 +10,6 @@ Discord Servers: (information sorted in channels\category\server by topic)
 
 Soon all of that will be published via this repository.
 
-## Bitcoin History
-**Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
-
-I moved all of the content to [_pages](_pages) and [_posts](_posts)
-
-I think that will make it easier for github visitors to navigate.
-
-<img src="https://bitcoin-nerds.xyz/bitcoin-history/bitcoin-history.png">
-
 
 https://sourcecrypto.pub
 
