@@ -1,11 +1,11 @@
-# This Repository is Temporarily Retired
+# Coming soon, more Bitcoin Info than you can shake a stick at.
 
 ## All content now updated at [sourcecrypto/sourcecrypto.github.io](https://github.com/sourcecrypto/sourcecrypto.github.io/)
 
 ## Bitcoin History
 **Cryptography, Cypherpunks, Virtual Currencies, P2P, Distributed Systems and Smart Contracts.**
 
-I moved all of the pages to [_pages](_pages/)
+I moved all of the content to [_pages](_pages) and [_posts]
 
 I think that will make it easier for github browsers to avoid the web-site files.
 
