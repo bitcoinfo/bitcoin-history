@@ -8,7 +8,7 @@ Discord Servers: (information sorted in channels\category\server by topic)
   * [Bitcoin History](https://discord.gg/Evk84Kk)
   * [Practical Bitcoin](https://discord.gg/8pwmz8j)
 
-Soon all of that will be published via this open github organization.
+Soon all of that will be published via this open github organization for collaborative curation.
 
 
 For now: https://sourcecrypto.pub
