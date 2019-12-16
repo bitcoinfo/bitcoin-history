@@ -1,5 +1,7 @@
 ---
-published: false
+layout: page-fullwidth
+title: Economics - Finance
+header: no
 ---
 
 ## Economics - Finance

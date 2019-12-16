@@ -3,12 +3,6 @@ layout: page
 subheadline:  ""
 title:  "Nick Szabo"
 teaser: ""
-categories:
-    - design
-tags:
-    - design
-    - background color
-    - header
 header: no
 ---
 

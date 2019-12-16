@@ -1,4 +1,7 @@
-### 📚 Cryptography
+---
+layout: page-fullwidth
+title: 📚 Cryptography
+---
 
 * [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025)
   > A key insight for the technology came to a physicist almost three decades ago at a Friendly’s restaurant in New Jersey.
