@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: History of Cryptocurrencies
 permalink: cryptocurrencies/
 canonical_url: 'https://bitcoin-nerds.xyz/history/cryptocurrencies/'

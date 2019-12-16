@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page
 title: "JW Weatherman Inverviews Cypherpunk Legend"
 description: "Transcript of interview with Tim May - Crypto Origin Stories."
 excerpt: >
@@ -11,14 +11,7 @@ header:
   image: "https://i.imgur.com/Ch5F00n.png"
   teaser: "https://i.imgur.com/janGoN1.png"
   og_image: https://i.imgur.com/janGoN1.png
-toc: false
-classes: wide
 last_modified_at: 2019-04-20T11:22:33-23:00
-categories: ["Transcripts","History"]
-tags: 
-  - Cypherpunk
-  - Tim May
-permalink: /JW-Weatherman-Interview-Tim-May/
 cannonical_url: 'https://sourcecrypto.pub/posts/transcripts/JW-Weatherman-Interview-Tim-May/'
 
 ---

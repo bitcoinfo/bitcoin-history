@@ -30,30 +30,26 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 
 ---
 
-* [**/cypherpunks/**]({{ site.rooturl }}/before-bitcoin/cypherpunks/) and the Crypto Wars
-  * [Crypto Wars]({{ site.rooturl }}/before-bitcoin/cypherpunks/#crypto-wars)
-  * [Cypherpunk Mailing-list]({{ site.rooturl }}/before-bitcoin/cypherpunks/#cypherpunk-mailinglist)
-  * [Modern Crypto Wars]({{ site.rooturl }}/before-bitcoin/cypherpunks/#modern-crypto-wars)
-  * [Resources]({{ site.rooturl }}/before-bitcoin/cypherpunks/#resources)
-* Pre-Bitcoin [**/electronic-cash/**]({{ site.rooturl }}/before-bitcoin/electronic-cash/) 
-  * [DigiCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#digicash)
-  * [FirstVirtual and CyberCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#FirstVirtual-and-CyberCash)
-  * [NetCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#netcash)
-  * [Modex]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Modex)
-  * [Project CAFE]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Project-Cafe)
-  * [eGold]({{ site.rooturl }}/before-bitcoin/electronic-cash/#eGold)
-  * [HashCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#HashCash)
-  * [Beanz and Flooz]({{ site.rooturl }}/before-bitcoin/electronic-cash/#beenz-and-flooz)
-  * [InternetCash]({{ site.rooturl }}/before-bitcoin/electronic-cash/#internetcash)
-  * [E-Bullion]({{ site.rooturl }}/before-bitcoin/electronic-cash/#E-Bullion)
-  * [Dexit]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Dexit)
-  * [B-money]({{ site.rooturl }}/before-bitcoin/electronic-cash/#b-money)
-  * [Bit Gold]({{ site.rooturl }}/before-bitcoin/electronic-cash/#Bit-Gold)
-  * [Peppercoin]({{ site.rooturl }}/before-bitcoin/electronic-cash/#peppercoin)
-  * [Reusable Proof of Work]({{ site.rooturl }}/before-bitcoin/electronic-cash/#reusable-proof-of-work)
-  * [Liberty Reserve]({{ site.rooturl }}/before-bitcoin/electronic-cash/#liberty-reserve)
 
 
+* [Julien Guitton, Bitcoiner 🕶️🍸🍿📈🌕 (@weedcoder)](https://twitter.com/weedcoder/status/1154789187855486976?s=12)
+  > ![](https://pbs.twimg.com/media/EAaio4AXsAEYW8y?format=jpg&name=large)
+
+* [Nick Szabo 🔑 (@NickSzabo4)](https://twitter.com/NickSzabo4/status/1032449901802614784)
+  > Inventors of the most important technologies in Bitcoin: digital signatures and Merkle trees (Merkle), elliptic curve crypto (Koblitz), malicious-fault-tolerant consensus (Lamport), elliptic curve crypto (independent inventor: Miller).
+
+* [Giacomo Zucco [I identify as a bubble collection] (@giacomozucco)](https://twitter.com/giacomozucco/status/1162644802275594240?s=12)
+  > How to spot a crypto-charlatan: somebody posting this 1996 paper as evidence that somebody at NSA was thoroughly describing Bitcoin 12 years earlier (when indeed they were just superficially describing Chaum's bank-based Ecash 6 years later) [https://t.co/hJ5ISK5YFA](https://t.co/hJ5ISK5YFA)
+
+* CryptoQuikRead_150 - [Why I wrote PGP](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_150---Why-I-wrote-PGP-e2ndpp)
+* CryptoQuikRead_161 - [Bitcoin, The Untold History](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_161---Bitcoin--The-Untold-History-e2ndpe) - [article](https://medium.com/@Petri.basson/the-untold-history-of-blockchain-30238a89be5d)
+
+<a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="https://i.imgur.com/RZafVvV.png" align="right"></a>
+
+- 🏷 POS
+
+* [Tuur Demeester (@TuurDemeester)](https://twitter.com/TuurDemeester/status/958882985406758912)
+  >TIL Proof-of-stake based private currency designs date at least back to 1998. [https://t.co/enD2oVnupa](https://t.co/enD2oVnupa)
 
 ## Timelines 
 
@@ -64,7 +60,27 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 * [Bitcoin and Markets - Bitcoin History](https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History) - Timeline of important research and events since 1970.
 
 
-<a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="https://i.imgur.com/RZafVvV.png" align="right"></a>
+### 💲 History of Money
+
+
+* [Blockchain's Secret 1,000 Year History](https://www.forbes.com/sites/oliversmith/2018/03/23/blockchains-secret-1000-year-history/)
+  > Far from a modern idea, Blockchain, in fact, has a long history tracing all the way back to the tribal villages of the tiny island of Yap in 500AD.
+* [Bezant Denier (@bezantdenier)](https://twitter.com/bezantdenier/status/1165613209270833152?s=12)
+  > 1.) Published: “Tales of Soft Money — Oceans of Wealth” This article provides eyewitness accounts on the use of seashell money in Africa and in Asia, and also on the logical conclusion of such monetary systems in the face of economic forces. [https://t.co/gDDfimILMd](https://t.co/gDDfimILMd)
+* [Blockchain Mama (@EvolutionCrypto)](https://twitter.com/evolutioncrypto/status/981901294850854912?s=12)
+  > April 5th, 1933, federal reserve confiscated all the gold from US citizens. Interesting..
+* CryptoQuikRead_075 - [Homo Sapiens, Evolution, Money & Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_075---Homo-Sapiens--Evolution--Money--Bitcoin-e2nds7)
+
+[![](https://imgur.com/WLwOn7F.png)](https://nakamotoinstitute.org/shelling-out/)
+* Shelling Out - [The Origins of Money](https://anchor.fm/thecryptoconomy/episodes/Shelling-Out---The-Origins-of-Money-e2ndom)
+* CryptoQuikRead_176 - [Shelling Out - The Origins of Money [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_176---Shelling-Out---The-Origins-of-Money-Part-1-e2ndor)
+* CryptoQuikRead_177 - [Shelling Out - The Origins of Money [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_177---Shelling-Out---The-Origins-of-Money-Part-2-e2ndoq)
+* CryptoQuikRead_178 - [Shelling Out - The Origins of Money [Part 3]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_178---Shelling-Out---The-Origins-of-Money-Part-3-e2ndos)
+* CryptoQuikRead_179 - [Shelling Out - The Origins of Money [Part 4]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_179---Shelling-Out---The-Origins-of-Money-Part-4-e2ndop)
+* CryptoQuikRead_262 - [The Island of Stone Money](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_262---The-Island-of-Stone-Money-e4d6m0)
+* GuysTake_18 - [A Story About Booms & Busts](https://anchor.fm/thecryptoconomy/episodes/GuysTake_18---A-Story-About-Booms--Busts-e4aflh)
+
+
 
 ## Pre Digital Cryptography 
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
@@ -157,8 +173,6 @@ by Ralph C. Merkle</a>
   - Open Source software development
   - Peer to peer sharing
 
-[**>> More information >> Cypherpunks and the Crypto Wars >>**](https://bitcoin-nerds.xyz/history/before-bitcoin/cypherpunks/) 
-{: .notice--primary}
 
 ## Pre-Bitcoin Digital Currency
 
@@ -174,8 +188,6 @@ by Ralph C. Merkle</a>
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
 * [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
 
-[**>> More Information >> Virtual Currencies >>**](https://bitcoin-nerds.xyz/history/before-bitcoin/electronic-cash/)
-{: .notice--primary}
 
 ## Literature 
 * [Payment mechanisms designed for the Internet](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)

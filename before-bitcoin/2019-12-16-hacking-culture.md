@@ -109,6 +109,42 @@ for a TNiPNaZ announcement
 * [I wrote the Anarchist Cookbook in 1969. Now I see its premise as f...](https://www.theguardian.com/commentisfree/2013/dec/19/anarchist-cookbook-author-william-powell-out-of-print)
   > William Powell: When I penned the book, I was angry and alienated. Today I realize that violence can't be used to prevent violence
 
+## 📚 Open Source
+
+
+[http://www.catb.org/esr/writings/homesteading/homesteading/](http://www.catb.org/esr/writings/homesteading/homesteading/)
+
+[https://www.gnu.org/philosophy/](https://www.gnu.org/philosophy/)
+
+[https://www.gnu.org/gnu/gnu.html](https://www.gnu.org/gnu/gnu.html)
+
+## 📚 Linux
+
+[http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+
+[https://www.youtube.com/watch?v=-1h4RNetLbg](https://www.youtube.com/watch?v=-1h4RNetLbg)
+
+"Revolution OS" tells the inside story of the hackers who rebelled against Microsoft and created GNU/Linux and the Open Source movement. Microsoft fears GNU/Linux, and rightly so. GNU/Linux and the Open Source & Free Software movements arguably represent the greatest threat to Microsoft's way of life.
+
+[Revolution OS (2001) Full movie](https://www.youtube.com/watch?v=-1h4RNetLbg)
+
+"Revolution OS" tells the inside story of the hackers who rebelled against Microsoft and created GNU/Linux and the Open Source movement. Microsoft fears GNU/...
+
+## 📚 Xanadu
+
+[https://www.w3.org/Xanadu.html](https://www.w3.org/Xanadu.html)
+
+[Ted Nelson and the Xanadu Hypertext System](http://scihi.org/ted-nelson-xanadu-hypertext-system/)
+
+On June 17, 1937, American pioneer of information technology, philosopher, and sociologist Theodore Holm "Ted" Nelson was born. Nelson coined the terms hypertext and hypermedia in 1963 and publishe
+
+[Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
+
+Project Xanadu was the first hypertext project, founded in 1960 by Ted Nelson. Administrators of Project Xanadu have declared it an improvement over the World Wide Web, with mission statement: "Today's popular software simulates paper. The World Wide Web (another imitation of...
+
+[http://www.xanadu.com/](http://www.xanadu.com/)
+
+
 ## ETC
 
 * [A New Digital Manifesto](https://anewdigitalmanifesto.com) -[newsycombinator comments](https://news.ycombinator.com/item?id=21443755)

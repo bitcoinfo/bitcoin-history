@@ -17,13 +17,54 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 ---
 
 
+
+[A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
+
+[Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
+
+[Lecture 12 — History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
+
+[Digital Cash and Monetary Freedom](http://web.archive.org/web/19971210185701/http://info.isoc.org:80/HMP/PAPER/136/abst.html) 
+
+* [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b)
+
+* [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) 
+
+* [@FidelityDigitalAssets - The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
+
+* [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
+
+* [Eric Turner (@ericturnr)](https://twitter.com/ericturnr/status/1037095399868297217)
+  > Looking for recommendations: History of digital money and history of crypto Any suggestions?
+
+* [Adam Back (@adam3us)](https://twitter.com/adam3us/status/1160121980542234624?s=20)
+  > @BobMcElrath part is to pose interesting new questions. Could ecash be decentralised? (Yes, clearly desirable, post digicash SPOF failure.) Could it be mined (yes, occured to many from hashcash). Could you control inflation? (Proposals with some human/market input with bit...
+
+* [https://cryptome.org/jya/bis_emoney.html](https://cryptome.org/jya/bis_emoney.html)
+  >  BANK FOR INTERNATIONAL SETTLEMENTS IMPLICATIONS FOR CENTRAL BANKS OF THE DEVELOPMENT OF ELECTRONIC MONEY October 1996
+
+* [https://cryptome.org/jya/nsamint.htm](https://cryptome.org/jya/nsamint.htm)
+  > HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH Laurie Law, Susan Sabett, Jerry Solinas National Security Agency 18 June 1996 
+
+* [https://cryptome.org/jya/lawdno.txt](https://cryptome.org/jya/lawdno.txt)
+
+
 ### DigiCash 
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
 * [eCash](https://www.chaum.com/ecash/) - Timeline [1998]
-* [E-MONEY (THAT'S WHAT I WANT)](https://www.wired.com/1994/12/emoney/)
+* [E-Money (That's What I Want)](https://www.wired.com/1994/12/emoney/)
+  > The killer application for electronic networks isn't video-on-demand. It's going to hit you where it really matters - in your wallet. It's, not only going to revolutionize the Net, it will change the global economy.
 * [How DigiCash Blew Everything](https://satoshiwatch.com/hall-of-fame/dr-david-chaum/in-depth/digicash-blew-everything-david-chaums/) [[**ϟ**](https://cryptome.org/jya/digicrash.htm)]
 * [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
   * History of digital currencies of the 90's with DigiCash as the primary example
+* [Privacy/Online Commerce - Digital Money & Transactions - Digicash Announce](http://web.archive.org/web/20110406225453/https://w2.eff.org/Privacy/Digital_money/?f=digicash.announce.txt):
+* [1994-05-03 - Re: Virtual Cash](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/05/fedd4c390e542fb17285e25d9f056916858b1da0a7f161886e8edb52877ba057/) 
+
+
+from Buniskey's Cryptoassets 
+
+> "One of Bitcoin’s most famous ancestors was pioneered by a company called DigiCash, led by David Chaum, who remains one of the most famous cryptographers in crypto­ asset history. In 1993, prior to Marc Andressen founding Netscape, Chaum invented the digital payment system called ecash. This allowed secure and anonymous payments across the Internet, no matter the amount. 3 Clearly, Chaum’s timing could not have been better given the tech boom that followed through the mid- to late-1990s, and his company, DigiCash, had several opportunities for growth, any of which might have made it a household name. However, while Chaum was widely regarded as a technical genius, as a businessperson he left much to be desired. Bill Gates approached Chaum about integrating ecash into Windows 95, which would have immediately given it global distribution, but Chaum refused what was rumored to be a $100 million offer. Similarly, Netscape made initial inquiries about a relation- ship, but management was quickly turned off by Chaum’s attitude. In 1996, Visa wanted to invest $40 million into the company but were dissuaded when Chaum demanded $75 million (if these reports are correct, it’s clear that the potential price for Chaum’s creation was dropping). 4 If all had gone well, DigiCash’s ecash would have been integrated into all our web browsers at the ground floor, serving as the global Internet payment mechanism and potentially removing the need for credit cards in online payments. Sadly, mismanagement ultimately ran DigiCash into the ground, and in 1998 it declared bankruptcy. While DigiCash failed to become a household name, some players will resurface in our story, such as Nick Szabo, the father of “smart contracts,” and Zooko Wilcox, the founder of Zcash, both of whom worked at DigiCash for a time. 5: 
+
 
 ### FirstVirtual and CyberCash 
 
@@ -55,6 +96,8 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 
 ### Hashcash 
 
+* [Pricing via Processing or Combatting Junk Mail](http://www.wisdom.weizmann.ac.il/~naor/PAPERS/pvp_abs.html)
+  > The main idea is for the mail system to require the sender to compute some moderately expensive, but not intractable, function of the message and some additional information. 
 * [Hashcash](http://www.hashcash.org/) is a proof-of-work algorithm, invented by Adam Back in 1997
 * [What is Hashcash?](https://www.bitcoinmining.com/what-is-hashcash/)
 * [The History of Bitcoin Part 1: What is Hashcash?](https://btcmanager.com/the-history-of-bitcoin-part-1-what-is-hashcash/)
@@ -71,8 +114,10 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 
 * [Wei Dai, Who Dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
 * [If Bitcoin had a first Draft - B-money was it](https://bitcoinmagazine.com/articles/genesis-files-if-bitcoin-had-first-draft-wei-dais-b-money-was-it/)
-* https://www.investopedia.com/terms/b/bmoney.asp
-* [**>> More Information on Wei Dai >>**](https://bitcoin-nerds.xyz/history/people/wei-dai/)
+* [B-money](https://www.investopedia.com/terms/b/bmoney.asp) - investopedia
+* [The History Of Bitcoin Part 3: What Is B-Money | BTCMANAGER](https://btcmanager.com/the-history-of-bitcoin-part-3-what-is-b-money/)
+  > You can read Part 2 of the History of Bitcoin series here. In the initial days of the crypto-anarchy and cypherpunk movement, where bitcoin was eventually born, researchers were determined to create a community that would be free of the control from centralized authorities. I...
+
 
 
 ### Beenz and Flooz 
@@ -122,8 +167,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [Re: They want to delete the Wikipedia article](https://bitcointalk.org/index.php?topic=342.msg4508#msg4508) - satoshi
   >Bitcoin is an implementation of Wei Dai's b-money proposal http://weidai.com/bmoney.txt on Cypherpunks http://en.wikipedia.org/wiki/Cypherpunks in 1998 and Nick Szabo's Bitgold proposal http://unenumerated.blogspot.com/2005/12/bit-gold.html
 * [What is Bit Gold? The Brainchild of Blockchain Pioneer - Nick Szabo](https://coincentral.com/what-is-bit-gold-the-brainchild-of-blockchain-pioneer-nick-szabo/)
-
-
+* [‎Show The Cryptoconomy Podcast, Ep CryptoQuikRead_275 - Bit Gold - Jul 25, 2019](https://podcasts.apple.com/us/podcast/the-cryptoconomy-podcast/id1359544516?i=1000445320562)
 
 
 ### Liberty Reserve 
@@ -132,6 +176,14 @@ An early clickworking site that rewarded users with its own digital currency.
 * https://www.bbc.com/news/technology-36247289
 * https://www.justice.gov/opa/pr/founder-liberty-reserve-pleads-guilty-laundering-more-250-million-through-his-digital
 * https://www.reuters.com/article/net-us-cybercrime-digital-currency-idUSBRE9780GM20130809
+
+
+## 💰 Karma
+
+-KARMA : A Secure Economic Framework for Peer-to-Peer Resource Sharing [http://www.cs.cornell.edu/people/egs/papers/karma.pdf](http://www.cs.cornell.edu/people/egs/papers/karma.pdf) Peer-to-peer systems are typically designed around the assumption that all peers will willingly contribute resources to a global pool. They thus suffer from freeloaders, that is, participants who consume many more resources than they contribute. In this paper, we propose a general economic framework for avoiding freeloaders in peer-to-peer systems. Our system works by keeping track of the resource consumption and resource contribution of each participant. The overall standing of eachparticipant in the system is represented by a single scalar value, called their karma. A set of nodes, called a bankset, keeps track of each node’s karma, increasing it as resources are contributed, and decreasing it as they are consumed. Our framework is resistant to malicious attemptsby the resource provider, consumer, and a fraction of the members of the bank set. We illustrate the application of this framework to a peer-to-peer filesharing application
+
+[A Brief History with Professor Emin Gün Sirer - Dec 3, 2017](https://podcasts.apple.com/us/podcast/020-bitcoin-is-at-%2410-000-heres-brief-history-professor/id1238906492?i=1000395583146)
+
 
 ### Resources 
 
