@@ -26,16 +26,21 @@ Check out this collection's companion article:
 
 ## Early History
 
-* 2010, the UN Commission on Science and Technology for Development [CSTD] proposed the introduction of [a technology-driven universal currency](http://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf). A “BitMint” would allow users to transmit funds globally and carry them around on a usb stick.
+* [A Technology Driven Universal Currency](http://unctad.org/Sections/wcmu/docs/ecn162010_Israel_en.pdf)
+  > 2010, the UN Commission on Science and Technology for Development [CSTD] proposed the introduction of a technology-driven universal currency. A “BitMint” would allow users to transmit funds globally and carry them around on a usb stick.
 
 ![](https://i.imgur.com/BleIVxr.png)
 
-## UN Human Rights Council
+* [illicit_financial_flows_2011_web.pdf](https://uproxx.com/wp-content/uploads/2012/08/illicit_financial_flows_2011_web.pdf)
+
+
+### UN Human Rights Council
 —**Encryption is Free Speech**
 
 ![](https://i.imgur.com/9FHdFr0.png)
 
-* 5/15 — [Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including the right to development.](https://www.docdroid.net/13p3a/ahrc2932-aev.doc)
+* 5/15 — [A/HRC/29/32 Advance Edited Version. Distr.: General 22 May 2015 Original: English.](https://www.docdroid.net/13p3a/ahrc2932-aev.doc)
+  > Human Rights Council Twenty-ninth session Agenda item 3 Promotion and protection of all human rights, civil, political, economic, social and cultural rights, including the right to development....
 * 6/15 — [news.bitcoin.com - Bitcoin and Encryption are Protected by Freedom of Speech](https://news.bitcoin.com/bitcoin-and-encryption-are-protected-by/)
   > May 22, 2015 was a special day in the tug-of-war of Between government, Bitcoin, and other encryption-related issues. On that day, the United Nations issued a report declaring encryption as a form of free speech.
 * 12/15 — [THE DARK NET: POLICING THE INTERNET’S UNDERWORLD](https://worldpolicy.org/2015/12/09/the-dark-net-policing-the-internets-underworld/)

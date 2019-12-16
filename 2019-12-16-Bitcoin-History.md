@@ -483,10 +483,7 @@ The paid "[no2x]" astroturfing campaign: [https://t.co/u2mz01oNMh](https://t.co/
 Twitter
 
 ## 2018
-bitcoin-history
-### ₿-2018
-10 messages
-⧉infominer 06-Aug-19 07:13 PM
+
 * [https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-2/](https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-2/) [https://youtu.be/66ZoGUAnY9s](https://youtu.be/66ZoGUAnY9s) [https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-1/](https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-1/) [https://medium.com/@lopp/bitcoin-by-the-numbers-2018-recap-68a91789d804](https://medium.com/@lopp/bitcoin-by-the-numbers-2018-recap-68a91789d804)
 * [Bitcoin’s Tech Trends of 2018: What This Year Brought Us (Part 2)](https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-2/)
 Bitcoin technologies made great progress in 2018. In part two of our series, we look at advances in privacy, sidechains and Schnorr signatures.
@@ -498,108 +495,71 @@ Where 2017’s dizzying price highs embedded “hodl” into the public consciou
 * [Bitcoin By the Numbers: 2018 Recap](https://medium.com/@lopp/bitcoin-by-the-numbers-2018-recap-68a91789d804)
 I’ve always been fascinated with the raw numbers relating to the operational status and growth of Bitcoin, especially as we ride the…
 * [https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b](https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b) [https://noded.org/podcast/noded-0120-with-alex-bosworth/](https://noded.org/podcast/noded-0120-with-alex-bosworth/) [https://www.forbes.com/sites/michaeldelcastillo/2018/09/06/bitcoin-is-not-dead/#355f465b5bdd](https://www.forbes.com/sites/michaeldelcastillo/2018/09/06/bitcoin-is-not-dead/#355f465b5bdd)
-* [Who Will Steal Satoshi’s Bitcoins?](https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b)
-I woke up in the middle of the night so I fired up Twitter and I encountered two well-known cryptographers’ conversation about quantum…
-* [Noded 0.12.0 with Alex Bosworth](https://noded.org/podcast/noded-0120-with-alex-bosworth/)
-Michael Goldstein and Pierre Rochard do a deep dive with Alex Bosworth into the world of Lightning App development.
 * [Bitcoin Is Not Dead](https://www.forbes.com/sites/michaeldelcastillo/2018/09/06/bitcoin-is-not-dead/)
 Bitcoin has been declared dead 309 times, and its most recent struggles aren't any different than the past.
-* [https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past](https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past) [https://twitter.com/francispouliot_/status/1037379672282152960](https://twitter.com/francispouliot_/status/1037379672282152960) [https://twitter.com/francispouliot_/status/1037358649029668864](https://twitter.com/francispouliot_/status/1037358649029668864)
-* [Francis Pouliot ☣️ (@francispouliot_)](https://twitter.com/francispouliot_)
-1/ Full text of the article: "After the one year anniversary of Bitcoin’s iconic User Activated Soft Fork, we had the pleasure of speaking with Francis Pouliot, CEO of Bylls, a major proponent in the campaign to keep Bitcoin under its users’ control." [https://t.co/Dlw](https://t.co/Dlw)...
+* [https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past](https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past)
+* [Francis Pouliot ☣️ (@francispouliot_)](https://twitter.com/francispouliot_/status/1037379672282152960)
+  > 1/ Full text of the article: "After the one year anniversary of Bitcoin’s iconic User Activated Soft Fork, we had the pleasure of speaking with Francis Pouliot, CEO of Bylls, a major proponent in the campaign to keep Bitcoin under its users’ control." [https://t.co/Dlw](https://t.co/Dlw)...
 Twitter
-* [Francis Pouliot ☣️ (@francispouliot_)](https://twitter.com/francispouliot_)
-"Looking Back at UASF" My interview with @MattoshiN in @21Cryptos magazine, short historical article on Bitcoin's most critical juncture. I depict the events from my point of view and what it meant for me. #UASF was a game of chicken between users and the Bitmain cartel. ...
+* [Francis Pouliot ☣️ (@francispouliot_)](https://twitter.com/francispouliot_/status/1037358649029668864)
+  > "Looking Back at UASF" My interview with @MattoshiN in @21Cryptos magazine, short historical article on Bitcoin's most critical juncture. I depict the events from my point of view and what it meant for me. #UASF was a game of chicken between users and the Bitmain cartel. ...
 Twitter
-* [https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6) [https://blog.samouraiwallet.com/post/173544815052/full-bech32-support-introducing-boltzmann-and](https://blog.samouraiwallet.com/post/173544815052/full-bech32-support-introducing-boltzmann-and)
 * [Bitcoin’s Constitutional Crisis & Why I Support the UASF](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6)
-It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end…
+  > It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end…
 * [Samourai Wallet](https://blog.samouraiwallet.com/)
 * [Full bech32 support, introducing Boltzmann and... - samouraiwallet](https://blog.samouraiwallet.com/post/173544815052/full-bech32-support-introducing-boltzmann-and)
-We are very happy to announce the release of Samourai 0.98.5 available to update via Google Play for existing testers, install from Google Play for new testers, or build from source on Github. This update is filled with new functionality and improvements, so let’s get right...
-* [https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust](https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust) [https://twitter.com/eToro/status/1054394978925973504](https://twitter.com/eToro/status/1054394978925973504) [https://www.theguardian.com/technology/2018/feb/01/bitcoins-january-fall-wipes-off-44bn-in-value](https://www.theguardian.com/technology/2018/feb/01/bitcoins-january-fall-wipes-off-44bn-in-value)
+  > We are very happy to announce the release of Samourai 0.98.5 available to update via Google Play for existing testers, install from Google Play for new testers, or build from source on Github. This update is filled with new functionality and improvements, so let’s get right...
 * [The Prophets of Cryptocurrency Survey the Boom and Bust](https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust)
 Inside the ongoing argument over whether Bitcoin, Ethereum, and the blockchain are transforming the world.
-    [eToro (@eToro)](https://twitter.com/eToro)
-Today begins the countdown to Bitcoin’s birthday on 31 October! Over the next 10 days, we’ll take a look at what some of the most prominent names in big tech have to say about crypto… #bitcoin10 #happybdaybitcoin #btcbirthday
+* [eToro (@eToro)](https://twitter.com/eToro/status/1054394978925973504)
+  > Today begins the countdown to Bitcoin’s birthday on 31 October! Over the next 10 days, we’ll take a look at what some of the most prominent names in big tech have to say about crypto… #bitcoin10 #happybdaybitcoin #btcbirthday
 Twitter
 * [Bitcoin's January fall wipes off $44bn in value](https://www.theguardian.com/technology/2018/feb/01/bitcoins-january-fall-wipes-off-44bn-in-value)
-US investigation into boom stokes fears of impending bust as cryptocurrency records steepest monthly slide in its history
-* [https://www.cnbc.com/2018/02/05/bitcoin-drops-more-than-14-percent-to-below-7000.html](https://www.cnbc.com/2018/02/05/bitcoin-drops-more-than-14-percent-to-below-7000.html) [https://www.bloomberg.com/news/articles/2018-10-26/tech-stocks-are-the-new-bitcoin-when-it-comes-to-volatility](https://www.bloomberg.com/news/articles/2018-10-26/tech-stocks-are-the-new-bitcoin-when-it-comes-to-volatility) [https://btcmanager.com/infamous-10000-bitcoin-pizza-buyer-orders-time-lightning-network/](https://btcmanager.com/infamous-10000-bitcoin-pizza-buyer-orders-time-lightning-network/)
+  > US investigation into boom stokes fears of impending bust as cryptocurrency records steepest monthly slide in its history
+* [https://www.bloomberg.com/news/articles/2018-10-26/tech-stocks-are-the-new-bitcoin-when-it-comes-to-volatility](https://www.bloomberg.com/news/articles/2018-10-26/tech-stocks-are-the-new-bitcoin-when-it-comes-to-volatility) 
 * [Bitcoin continues to tumble, briefly breaking below $6,000](https://www.cnbc.com/2018/02/05/bitcoin-drops-more-than-14-percent-to-below-7000.html)
 With Monday's declines, bitcoin has now lost more than 50 percent for the year so far.
-* [Infamous Pizza Buyer Who Paid 10,000 Bitcoin Orders Again (But Thi...](https://btcmanager.com/infamous-10000-bitcoin-pizza-buyer-orders-time-lightning-network/)
-On May 18, 2010, when bitcoin was still measured in cents per coin, a Hungarian truck driver became famous for effecting the first real-world cryptocurrency transaction, buying two pizzas with the cryptocurrency. Laszlo Hanyecz paid what would now be an unthinkable 10,000 BTC...
-    ⧉infominer 10-Aug-19 06:10 AM
-* [https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
 * [The 2019 Crypto Crystal Ball - Token Daily](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
-Looking in the rear-view mirror of 2018 not only offers us a moment of reflection, but shows us what’s plausible for the year ahead.
-    ⧉infominer 10-Aug-19 07:12 AM
-* [https://twitter.com/lawmaster/status/1124778871553974272?s=12](https://twitter.com/lawmaster/status/1124778871553974272?s=12)
-* [Larry Cermak (@lawmaster)](https://twitter.com/lawmaster)
-To all the Bitfinex/Tether apologists - please read this fucking document. It's a really good read that explains the whole situation and how Bitfinex facilitated what NY AG claims is fraud. [https://t.co/loDto7hLeO](https://t.co/loDto7hLeO)
-Likes
-187
-Twitter
-⧉infominer 22-Aug-19 04:52 PM
+  > Looking in the rear-view mirror of 2018 not only offers us a moment of reflection, but shows us what’s plausible for the year ahead.
+* [Larry Cermak (@lawmaster)](https://twitter.com/lawmaster/status/1124778871553974272?s=12)
+  > To all the Bitfinex/Tether apologists - please read this fucking document. It's a really good read that explains the whole situation and how Bitfinex facilitated what NY AG claims is fraud. [https://t.co/loDto7hLeO](https://t.co/loDto7hLeO)
 * [https://bitcoinops.org/en/newsletters/2018/12/28/](https://bitcoinops.org/en/newsletters/2018/12/28/)
 * [Bitcoin Optech Newsletter #27: 2018 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2018/12/28/)
-This week’s newsletter is a special year-end edition summarizing notable developments in Bitcoin during all of 2018. Despite the extended length of this newsletter, we regret that it only covers a tiny fraction of the work put into dozens of open source projects by hundreds...
-    ⧉infominer 01-Oct-19 11:42 PM
+  > This week’s newsletter is a special year-end edition summarizing notable developments in Bitcoin during all of 2018. Despite the extended length of this newsletter, we regret that it only covers a tiny fraction of the work put into dozens of open source projects by hundreds...
 * [https://techcrunch.com/2018/07/07/rip-crypto/](https://techcrunch.com/2018/07/07/rip-crypto/)
 * [Natasha Lomas](https://techcrunch.com/author/natasha-lomas/)
 * [RIP “crypto” – TechCrunch](https://techcrunch.com/2018/07/07/rip-crypto/)
-RIP “crypto”. You had a good run. This week veteran cryptographer Matt Blaze, finally gave in — to what must have been a near-constant, low-level drone of ‘CAn Buy Crypto.com???$$$$!’ spam — and sold the pithy domain name he registered in 1993, in the midst of th…
+  > RIP “crypto”. You had a good run. This week veteran cryptographer Matt Blaze, finally gave in — to what must have been a near-constant, low-level drone of ‘CAn Buy Crypto.com???$$$$!’ spam — and sold the pithy domain name he registered in 1993, in the midst of th…
 * [https://hackernoon.com/bitcoin-core-bug-cve-2018-17144-an-analysis-f80d9d373362](https://hackernoon.com/bitcoin-core-bug-cve-2018-17144-an-analysis-f80d9d373362)
 * [Bitcoin Core Bug CVE-2018–17144: An Analysis](https://hackernoon.com/bitcoin-core-bug-cve-2018-17144-an-analysis-f80d9d373362)
+
+
 ## 2019
-bitcoin-history
-### ₿-2019
-7 messages
-⧉infominer 06-Aug-19 07:15 PM
-* [https://twitter.com/brian_armstrong/status/1080908026318487553](https://twitter.com/brian_armstrong/status/1080908026318487553)
-Brian Armstrong (@brian_armstrong) 1/ Today is a big day for Bitcoin, as it marks 10 years since the Genesis Block. Some people think I don’t like to talk about Bitcoin (
-), but today I have a few words to say Retweets 686 Likes 3095 Twitter
-* [https://twitter.com/rhythmtrader/status/1140211594300928002?s=12](https://twitter.com/rhythmtrader/status/1140211594300928002?s=12)
-* [Brian Armstrong (@brian_armstrong)](https://twitter.com/brian_armstrong)
-1/ Today is a big day for Bitcoin, as it marks 10 years since the Genesis Block. Some people think I don’t like to talk about Bitcoin (
-), but today I have a few words to say
-Retweets
-686
-Likes
-3086
-Twitter
-* [Rhythm (@Rhythmtrader)](https://twitter.com/Rhythmtrader)
-The last time Bitcoin rose above $9,000: Fidelity wasn't storing it. Congress wasn't fighting it. Bakkt wasn't launching with it. Microsoft wasn't building on it. TD Ameritrade wasn't trading it. Whole Foods wasn't accepting it. Facebook wasn't competing with it.
-Retweets
-817
-Likes
-2740
-Twitter
-⧉infominer 06-Aug-19 11:26 PM
+
+* [Brian Armstrong (@brian_armstrong)](https://twitter.com/brian_armstrong/status/1080908026318487553)
+  > 1/ Today is a big day for Bitcoin, as it marks 10 years since the Genesis Block. Some people think I don’t like to talk about Bitcoin, but today I have a few words to say
+* [Rhythm (@Rhythmtrader)](https://twitter.com/rhythmtrader/status/1140211594300928002?s=12)
+  > The last time Bitcoin rose above $9,000: Fidelity wasn't storing it. Congress wasn't fighting it. Bakkt wasn't launching with it. Microsoft wasn't building on it. TD Ameritrade wasn't trading it. Whole Foods wasn't accepting it. Facebook wasn't competing with it.
 * [https://www.newsbtc.com/2019/08/05/bitcoin-price-btc-up-8-dips-supported/](https://www.newsbtc.com/2019/08/05/bitcoin-price-btc-up-8-dips-supported/)
-* [Aayush Jindal](https://www.newsbtc.com/author/aayushjindal/)
 * [Bitcoin Price Hits $11.5K Target: BTC Up 8%, Dips Well Supported |...](https://www.newsbtc.com/2019/08/05/bitcoin-price-btc-up-8-dips-supported/)
-There were solid gains in bitcoin price above $11,000 against the US Dollar. BTC price is up more than 8%, broke the $11,200 hurdle, and it tested the $11,500 resistance area.
-    ⧉infominer 10-Aug-19 07:37 AM
-* [https://unconfirmed.libsyn.com/binance-hack-should-the-threat-of-reorgs-be-used-to-deter-hackers-ep072](https://unconfirmed.libsyn.com/binance-hack-should-the-threat-of-reorgs-be-used-to-deter-hackers-ep072)
+  > There were solid gains in bitcoin price above $11,000 against the US Dollar. BTC price is up more than 8%, broke the $11,200 hurdle, and it tested the $11,500 resistance area.
 * [Unconfirmed: Insights and Analysis From the Top Minds in Crypto: B...](https://unconfirmed.libsyn.com/binance-hack-should-the-threat-of-reorgs-be-used-to-deter-hackers-ep072)
-Tushar Jain of Multicoin Capital discusses how hackers likely obtained $40 million worth of Bitcoin in a hack on Binance, how the leading crypto exchange could have incentivized miners to reorganize the blocks, and what the possibility says about the game theory of Bitcoin. W...
-* [http://assets.libsyn.com/show/115495?height=250&width=250&overlay=true](http://assets.libsyn.com/show/115495?height=250&width=250&overlay=true)
-⧉infominer 10-Aug-19 08:24 AM
-* [https://www.scribd.com/document/415402871/The-Tangle-in-Taipei-Arthur-Hayes-vs-Nouriel-Roubini](https://www.scribd.com/document/415402871/The-Tangle-in-Taipei-Arthur-Hayes-vs-Nouriel-Roubini)
+  > Tushar Jain of Multicoin Capital discusses how hackers likely obtained $40 million worth of Bitcoin in a hack on Binance, how the leading crypto exchange could have incentivized miners to reorganize the blocks, and what the possibility says about the game theory of Bitcoin. W...
 * [The Tangle in Taipei: Arthur Hayes vs Nouriel Roubini | Bitcoin | ...](https://www.scribd.com/document/415402871/The-Tangle-in-Taipei-Arthur-Hayes-vs-Nouriel-Roubini)
-Arthur Hayes, CEO of BitMEX and Professor Nouriel Roubini debate the merits of cryptocurrencies at the Asia Blockchain Summit in Taipei, Taiwan
+  > Arthur Hayes, CEO of BitMEX and Professor Nouriel Roubini debate the merits of cryptocurrencies at the Asia Blockchain Summit in Taipei, Taiwan
 * [https://imgv2-2-f.scribdassets.com/img/document/415402871/original/9a3e97fa7a/1565439845?v=1](https://imgv2-2-f.scribdassets.com/img/document/415402871/original/9a3e97fa7a/1565439845?v=1)
-* [https://twitter.com/rnr_0/status/1146379507659681792?s=12](https://twitter.com/rnr_0/status/1146379507659681792?s=12)
-* [[ Romano ] (@RNR_0)](https://twitter.com/RNR_0)
+* [[ Romano ] (@RNR_0)](https://twitter.com/rnr_0/status/1146379507659681792?s=12)
 I just uploaded the recoding so you can download/listen to it. [https://t.co/BnkWGJbmky](https://t.co/BnkWGJbmky) [https://t.co/ubOgjM4oCB](https://t.co/ubOgjM4oCB)
-Likes
-133
-Twitter
-⧉infominer 16-Aug-19 10:38 AM
 * [http://bitcoinsnippets.com/bitcoin-news-june-2019/](http://bitcoinsnippets.com/bitcoin-news-june-2019/)
-* [Sam Wouters](http://bitcoinsnippets.com/author/samwouters/)
+
+
+## Lightning
+* [Infamous Pizza Buyer Who Paid 10,000 Bitcoin Orders Again (But Thi...](https://btcmanager.com/infamous-10000-bitcoin-pizza-buyer-orders-time-lightning-network/)
+On May 18, 2010, when bitcoin was still measured in cents per coin, a Hungarian truck driver became famous for effecting the first real-world cryptocurrency transaction, buying two pizzas with the cryptocurrency. Laszlo Hanyecz paid what would now be an unthinkable 10,000 BTC...
+    ⧉infominer 10-Aug-19 06:10 AM
+* [Noded 0.12.0 with Alex Bosworth](https://noded.org/podcast/noded-0120-with-alex-bosworth/)
+Michael Goldstein and Pierre Rochard do a deep dive with Alex Bosworth into the world of Lightning App development.
+* [‎Show Zero Knowledge, Ep Episode 73: J. Ayo Akinyele Talks Lightning Network & Building Bolt - Apr 17, 2019](https://podcasts.apple.com/us/podcast/zero-knowledge/id1326503043?i=1000435148680)
 * [Bitcoin News - June 2019](http://bitcoinsnippets.com/bitcoin-news-june-2019/)
 This month Bitcoin passed 1M daily active addresses again, like during the all-time price high in 2017, there was a lot of educational content, some new research proposals for layer 2 protocols and the Lightning Network, and the ₿ symbol gets adopted by Apple, Google & Micr...
     ⧉infominer 02-Nov-19 05:09 PM

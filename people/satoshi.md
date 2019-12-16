@@ -43,6 +43,8 @@ header: no
 * [The Well Deserved Fortune of Satoshi Nakamoto, Bitcoin creator, Vi...](https://bitslog.wordpress.com/2013/04/17/the-well-deserved-fortune-of-satoshi-nakamoto/)
   > I won’t discuss anything in this post. I’m tired of discussing technical things with people with skewed opinions and monetary interest. I’ve talked enough in the Bitcointalk forum…
 
+* [Who Will Steal Satoshi’s Bitcoins?](https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b)
+  > I woke up in the middle of the night so I fired up Twitter and I encountered two well-known cryptographers’ conversation about quantum…
 
 
 
