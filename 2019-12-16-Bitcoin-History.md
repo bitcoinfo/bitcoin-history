@@ -1,154 +1,75 @@
 # Bitcoin History
 
-## 2008-10
+## 2008-10 
 
-[https://twitter.com/eric_lombrozo/status/1008813218381291526](https://twitter.com/eric_lombrozo/status/1008813218381291526) [https://bitslog.wordpress.com/2013/04/17/the-well-deserved-fortune-of-satoshi-nakamoto/](https://bitslog.wordpress.com/2013/04/17/the-well-deserved-fortune-of-satoshi-nakamoto/) 
+[https://bitslog.wordpress.com/2013/04/17/the-well-deserved-fortune-of-satoshi-nakamoto/](https://bitslog.wordpress.com/2013/04/17/the-well-deserved-fortune-of-satoshi-nakamoto/) 
 
-[Eric Lombrozo (@eric_lombrozo)](https://twitter.com/eric_lombrozo)
-
-@mayazi
-
-Twitter
-
-[SDLerner](https://bitslog.com/author/bitslogus/)
+[Eric Lombrozo (@eric_lombrozo)](https://twitter.com/eric_lombrozo/status/1008813218381291526)
 
 [The Well Deserved Fortune of Satoshi Nakamoto, Bitcoin creator, Vi...](https://bitslog.wordpress.com/2013/04/17/the-well-deserved-fortune-of-satoshi-nakamoto/)
-
-I won’t discuss anything in this post. I’m tired of discussing technical things with people with skewed opinions and monetary interest. I’ve talked enough in the Bitcointalk forum…
+  > I won’t discuss anything in this post. I’m tired of discussing technical things with people with skewed opinions and monetary interest. I’ve talked enough in the Bitcointalk forum…
 
 [16.7 Satoshi's hashrate](http://organofcorti.blogspot.fr/2014/08/167-satoshis-hashrate.html)
+  > "Bitcoin mining pool, network and exchange analysis"
 
-"Bitcoin mining pool, network and exchange analysis"
+Chris Burneky — Cryptoassets 2018 
 
-[https://bitcointalk.org/index.php?topic=137.0](https://bitcointalk.org/index.php?topic=137.0) [http://pastebin.com/d7vp06hL](http://pastebin.com/d7vp06hL) [https://bitcointalk.org/index.php?topic=77870.0](https://bitcointalk.org/index.php?topic=77870.0) [https://cdn.discordapp.com/attachments/476603370178740245/510917315450372096/unknown.png](https://cdn.discordapp.com/attachments/476603370178740245/510917315450372096/unknown.png) Chris Burneky — Cryptoassets 2018 >"Based on historical estimates, Satoshi likely started formalizing the Bitcoin concept sometime in late 2006 and started coding it around May 2007. In this same time span, many regulators began to believe that the U.S. housing market was overextended and likely in for a rough ride. 22 It’s hard to believe someone with such breadth of knowledge as Satoshi would be working in isolation from what he was witnessing in global financial markets. [http://newlibertystandard.wikifoundry.com/](http://newlibertystandard.wikifoundry.com/) [http://newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate](http://newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate) [https://en.bitcoin.it/wiki/Bitcoin_IRC_Channel_Guidelines](https://en.bitcoin.it/wiki/Bitcoin_IRC_Channel_Guidelines) Bitcoin IRC Channel Guidelines [https://en.bitcoin.it/wiki/Laszlo_Hanyecz](https://en.bitcoin.it/wiki/Laszlo_Hanyecz) [https://thebitcoinnews.com/bitcoin-history-part-1-in-the-beginning/](https://thebitcoinnews.com/bitcoin-history-part-1-in-the-beginning/) 
+> "Based on historical estimates, Satoshi likely started formalizing the Bitcoin concept sometime in late 2006 and started coding it around May 2007. In this same time span, many regulators began to believe that the U.S. housing market was overextended and likely in for a rough ride. 22 It’s hard to believe someone with such breadth of knowledge as Satoshi would be working in isolation from what he was witnessing in global financial markets. 
+
+[http://newlibertystandard.wikifoundry.com/](http://newlibertystandard.wikifoundry.com/) 
+
+[http://newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate](http://newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate) 
+
+[Bitcoin IRC Channel Guidelines](https://en.bitcoin.it/wiki/Bitcoin_IRC_Channel_Guidelines) 
+
+[https://en.bitcoin.it/wiki/Laszlo_Hanyecz](https://en.bitcoin.it/wiki/Laszlo_Hanyecz) 
+
+[https://thebitcoinnews.com/bitcoin-history-part-1-in-the-beginning/](https://thebitcoinnews.com/bitcoin-history-part-1-in-the-beginning/) 
 
 [Pizza for bitcoins?](https://bitcointalk.org/index.php?topic=137.0)
-
-Pizza for bitcoins?
 
 [mt gox channel dump - Pastebin.com](http://pastebin.com/d7vp06hL)
 
 [SatoshiDICE.com - The World's Most Popular Bitcoin Game](https://bitcointalk.org/index.php?topic=77870.0)
 
-SatoshiDICE.com - The World's Most Popular Bitcoin Game
-
 [http://organofcorti.blogspot.fr/2014/08/167-satoshis-hashrate.html](http://organofcorti.blogspot.fr/2014/08/167-satoshis-hashrate.html) 
 
 [16.7 Satoshi's hashrate](http://organofcorti.blogspot.fr/2014/08/167-satoshis-hashrate.html)
-
 "Bitcoin mining pool, network and exchange analysis"
 
-    ⧉infominer 11-Aug-19 07:27 AM
-
-[https://github.com/fkysly/bitcoin0.1.0](https://github.com/fkysly/bitcoin0.1.0)
-
-[fkysly/bitcoin0.1.0](https://github.com/fkysly/bitcoin0.1.0)
-
-bitcoin0.1.0 source. Contribute to fkysly/bitcoin0.1.0 development by creating an account on GitHub.
+[fkysly/bitcoin0.1.0](https://github.com/fkysly/bitcoin0.1.0) - bitcoin0.1.0 source. 
 
 [https://avatars0.githubusercontent.com/u/3274605?s=400&v=4](https://avatars0.githubusercontent.com/u/3274605?s=400&v=4)
 
-⧉infominer 30-Aug-19 06:32 AM
-
-[https://blockstream.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f](https://blockstream.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
-
 [Bitcoin Explorer](https://blockstream.info/block/000000000019d6689c085ae165831e934ff763ae46a2a6c172b3f1b60a8ce26f)
 
-[https://twitter.com/search?q=%23ProofOfKeys&src=tyah](https://twitter.com/search?q=%2523ProofOfKeys&src=tyah)
-
 [#ProofOfKeys - Twitter Search](https://twitter.com/search?q=%23ProofOfKeys&src=tyah)
-
-On Jan 3 @blockchain tweeted: "It all started with Block #0 on Jan 3rd,.." - read what others are saying and join the conversation.
-
-Twitter
-
-⧉infominer 06-Sep-19 06:28 PM
-
-[https://news.bitcoin.com/satoshis-pre-release-bitcoin-code-contains-some-fascinating-findings/](https://news.bitcoin.com/satoshis-pre-release-bitcoin-code-contains-some-fascinating-findings/)
+  > On Jan 3 @blockchain tweeted: "It all started with Block #0 on Jan 3rd,.." - read what others are saying and join the conversation.
 
 [Satoshi's Pre-Release Bitcoin Code Contains Fascinating Findings -...](https://news.bitcoin.com/satoshis-pre-release-bitcoin-code-contains-some-fascinating-findings/)
+  > There was a private version of the Bitcoin code distributed to a few people before the launch of the network on Jan. 3, 2009.
 
-There was a private version of the Bitcoin code distributed to a few people before the launch of the network on Jan. 3, 2009.
+[Francis Pouliot ☣️ (@francispouliot_)](https://twitter.com/francispouliot_/status/1106026078135611392?s=20)
+  > Accidentally discovered a mind-blowing artefact of Bitcoin history. I had heard rumors of its existence. I give you: the pre-release source code of Bitcoin! [https://t.co/VeEFHglz2J](https://t.co/VeEFHglz2J) Confirmation by Satoshi many had access to code when he mined Genesis: [https://t.co/reEQ8](https://t.co/reEQ8)...
 
-[https://twitter.com/francispouliot_/status/1106026078135611392?s=20](https://twitter.com/francispouliot_/status/1106026078135611392?s=20)
-
-[Francis Pouliot ☣️ (@francispouliot_)](https://twitter.com/francispouliot_)
-
-Accidentally discovered a mind-blowing artefact of Bitcoin history. I had heard rumors of its existence. I give you: the pre-release source code of Bitcoin! [https://t.co/VeEFHglz2J](https://t.co/VeEFHglz2J) Confirmation by Satoshi many had access to code when he mined Genesis: [https://t.co/reEQ8](https://t.co/reEQ8)...
-
-Retweets
-
-283
-
-Likes
-
-795
-
-Twitter
-
-⧉infominer 19-Sep-19 02:05 AM
-
-[https://www.eff.org/deeplinks/2010/12/constructive-direct-action-against-censorship](https://www.eff.org/deeplinks/2010/12/constructive-direct-action-against-censorship)
-
-[Constructive Direct Action Against Censorship](https://www.eff.org/deeplinks/2010/12/constructive-direct-action-against-censorship)
-
-The past few weeks have highlighted the vulnerability of centralized information systems to censorship: online speech is only as strong as the weakest intermediary. Sites hosting legitimate speech were caught up in an anti-counterfeiting raid by the Department of Homeland Sec...
+* [Constructive Direct Action Against Censorship](https://www.eff.org/deeplinks/2010/12/constructive-direct-action-against-censorship)
+  > The past few weeks have highlighted the vulnerability of centralized information systems to censorship: online speech is only as strong as the weakest intermediary. Sites hosting legitimate speech were caught up in an anti-counterfeiting raid by the Department of Homeland Sec...
 
 [https://bitcointalk.org/?topic=2132.0;wap2](https://bitcointalk.org/?topic=2132.0;wap2)
 
-    ⧉infominer 19-Sep-19 03:04 AM
-
-[https://users.encs.concordia.ca/~clark/biblio/bitcoin/Reid%202011.pdf](https://users.encs.concordia.ca/~clark/biblio/bitcoin/Reid%25202011.pdf)
-
-**An Analysis of Anonymity in the Bitcoin System**
-
-Fergal Reid University College Dublin, Ireland Martin Harrigan University College Dublin, Ireland
-
-Anonymity in Bitcoin, a peer-to-peer electroniccurrency system, is a complicated issue. Within the system,users are identified by public-keys only. An attacker wishingto de-anonymize its users will attempt to construct the one-to-many mapping between users and public-keys and associateinformation external to the system with the users. Bitcoinfrustrates this attack by storing the mapping of a user to hisor her public-keys on that user’s node only and by allowingeach user to generate as many public-keys as required. In thispaper we consider the topological structure of two networksderived from Bitcoin’s public transaction history. We showthat the two networks have a non-trivial topological structure,provide complementary views of the Bitcoin system and haveimplications for anonymity. We combine these structures withexternal information and techniques such as context discoveryand flow analysis to investigate an alleged theft of Bitcoins, which,at the time of the theft, had a market value of approximatelyhalf a million U.S. dollars.
-
-⧉infominer 19-Sep-19 11:06 PM
+[An Analysis of Anonymity in the Bitcoin System](https://users.encs.concordia.ca/~clark/biblio/bitcoin/Reid%25202011.pdf) - Fergal Reid University College Dublin, Ireland Martin Harrigan University College Dublin, Ireland
+  > Anonymity in Bitcoin, a peer-to-peer electroniccurrency system, is a complicated issue. Within the system,users are identified by public-keys only. An attacker wishingto de-anonymize its users will attempt to construct the one-to-many mapping between users and public-keys and associateinformation external to the system with the users. Bitcoinfrustrates this attack by storing the mapping of a user to hisor her public-keys on that user’s node only and by allowingeach user to generate as many public-keys as required. In thispaper we consider the topological structure of two networksderived from Bitcoin’s public transaction history. We showthat the two networks have a non-trivial topological structure,provide complementary views of the Bitcoin system and haveimplications for anonymity. We combine these structures withexternal information and techniques such as context discoveryand flow analysis to investigate an alleged theft of Bitcoins, which,at the time of the theft, had a market value of approximatelyhalf a million U.S. dollars.
 
 [https://satoshi.nakamotoinstitute.org/posts/](https://satoshi.nakamotoinstitute.org/posts/)
 
-⧉infominer 19-Sep-19 11:18 PM
-
-[https://www.pcworld.com/article/213230/could_wikileaks_scandal_lead_to_new_virtual_currency.html](https://www.pcworld.com/article/213230/could_wikileaks_scandal_lead_to_new_virtual_currency.html)
-
 [Could the Wikileaks Scandal Lead to New Virtual Currency?](https://www.pcworld.com/article/213230/could_wikileaks_scandal_lead_to_new_virtual_currency.html)
+  > The Wikileaks fiasco is shaking the foundations of the Internet and might be boosting the popularity of a virtual currency system that’s impossible to police.
 
-The Wikileaks fiasco is shaking the foundations of the Internet and might be boosting the popularity of a virtual currency system that’s impossible to police.
-
-    [https://web.archive.org/web/20100517040312/http://www.bitcoin.org:80/trade](https://web.archive.org/web/20100517040312/http://www.bitcoin.org:80/trade) 
-
-⧉infominer 19-Sep-19 11:32 PM
+[https://web.archive.org/web/20100517040312/http://www.bitcoin.org:80/trade](https://web.archive.org/web/20100517040312/http://www.bitcoin.org:80/trade) 
 
 [http://web.archive.org/web/20100523061151/http://www.privacyshark.com:80/about.html](http://web.archive.org/web/20100523061151/http://www.privacyshark.com:80/about.html)
-
-[http://web.archive.org/web/20100523061151/http://www.privacyshark.com:80/about.html](http://web.archive.org/web/20100523061151/http://www.privacyshark.com:80/about.html)
-
-⧉infominer 19-Sep-19 11:45 PM
 
 [http://web.archive.org/web/20101230073455/https://vekja.net/](http://web.archive.org/web/20101230073455/https://vekja.net/)
-
-**Base plan includes:**
-
->
-
-Your own 'yourname.vekja.net' subdomain.
-
-One 'yourname@vekja.net' email address, accessible via SSL/TLS encrypted IMAP or POP3 with 100MB of storage.
-
-Hosted on Quad core Xeon machines with Raid 1 storage connected via 100Mb/sec ports in the highly connected NAC (www.nac.net) datacenter in New Jersey, USA.
-
-Secure, encrypted access (SFTP / TLS / SSL / HTTPS) to every service that we provide (Web root upload access, Email, Etc). You are welcome to connect to us via TOR.
-
-No storage of any information that can compromise your identity (Ie. IP addresses); thus, even in the event of a supoena, your anonyminity is protected.
-
->
-
-**Additional Options:**
-
->
 
 Proxy-purchasing* of domain names, SSL certificates, Etc.
 
@@ -158,47 +79,27 @@ If we see even moderate interest in this service we will improve the service by 
 
 Other ideas? Just ask! We want your business as we want money to flow so that the Bitcoin economy reaches critical mass!
 
-
-
-[http://web.archive.org/web/20100429153403/http://www.bitcoinfx.cz.cc/](http://web.archive.org/web/20100429153403/http://www.bitcoinfx.cz.cc/)
-
 [BitcoinFX - BitcoinFX](http://web.archive.org/web/20100429153403/http:/www.bitcoinfx.cz.cc/)
-
 An Independent Exchange Service for the Bitcoin P2P Anonymous Digital Currency
-
-⧉infominer 20-Sep-19 03:17 AM
 
 [https://satoshi.nakamotoinstitute.org/posts/bitcointalk/488/](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/488/)
 
-⧉infominer 20-Sep-19 03:50 AM
-
 [https://www.pcworld.com/article/212263/pirate_dns_could_hatch_a_lawless_darknet.html](https://www.pcworld.com/article/212263/pirate_dns_could_hatch_a_lawless_darknet.html)
 
-[Pirate DNS Could Hatch a Lawless Darknet](https://www.pcworld.com/article/212263/pirate_dns_could_hatch_a_lawless_darknet.html)
-
-The Pirate Bay wants a new DNS system that will be impossible to censor, but also impossible to police. Would it be worthwhile?
-
-[https://www.pcworld.com/article/213230/could_wikileaks_scandal_lead_to_new_virtual_currency.html](https://www.pcworld.com/article/213230/could_wikileaks_scandal_lead_to_new_virtual_currency.html)
+* [Pirate DNS Could Hatch a Lawless Darknet](https://www.pcworld.com/article/212263/pirate_dns_could_hatch_a_lawless_darknet.html)
+  > The Pirate Bay wants a new DNS system that will be impossible to censor, but also impossible to police. Would it be worthwhile?
 
 [Could the Wikileaks Scandal Lead to New Virtual Currency?](https://www.pcworld.com/article/213230/could_wikileaks_scandal_lead_to_new_virtual_currency.html)
-
-The Wikileaks fiasco is shaking the foundations of the Internet and might be boosting the popularity of a virtual currency system that’s impossible to police.
+  > The Wikileaks fiasco is shaking the foundations of the Internet and might be boosting the popularity of a virtual currency system that’s impossible to police.
 
 2010 discussion on tor [https://satoshi.nakamotoinstitute.org/posts/bitcointalk/threads/234/#4](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/threads/234/#4) proposal for a semi-automated Escrow mechanism 
 
 [https://satoshi.nakamotoinstitute.org/posts/bitcointalk/threads/151/#10](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/threads/151/#10)
 
-⧉infominer 20-Sep-19 04:08 AM
-
-[http://satoshinakamoto.me/2009/11/25/re-repost-how-anonymous-are-bitcoins/](http://satoshinakamoto.me/2009/11/25/re-repost-how-anonymous-are-bitcoins/)
-
-[Satoshi Nakamoto](http://satoshinakamoto.me/author/satoshinakamoto/)
 
 [Re: Repost: How anonymous are bitcoins? – Satoshi Nakamoto](http://satoshinakamoto.me/2009/11/25/re-repost-how-anonymous-are-bitcoins/)
+  > Bitcoin is an innovative payment network and a new kind of money created by Satoshi Nakamoto. His legacy is preserved on SatoshiNakamoto.me
 
-Bitcoin is an innovative payment network and a new kind of money created by Satoshi Nakamoto. His legacy is preserved on SatoshiNakamoto.me
-
-⧉infominer 20-Sep-19 04:20 AM
 
 [http://web.archive.org/web/20101013234246/http://www.freetalklive.com:80/content/bitcoin_p2p_cryptocurrency](http://web.archive.org/web/20101013234246/http://www.freetalklive.com:80/content/bitcoin_p2p_cryptocurrency)
 
@@ -222,9 +123,6 @@ Plastic cups, about 16 ounces (473 ml), no more than 50 count, factory sealed.
 
 Paper towels, preferably regular size Bounty Thick and Absorbent, single roll, factory sealed.
 
-
-
-[https://bitcointalk.org/index.php?topic=81.0](https://bitcointalk.org/index.php?topic=81.0)
 
 [BTC Exchange Rate Site](https://bitcointalk.org/index.php?topic=81.0)
 
@@ -704,13 +602,6 @@ Arise, you have nothing to lose but your barbed wire fences!
 
 ## 2014-15
 
-bitcoin-history
-
-### ₿-2014-15
-
-8 messages
-
-⧉infominer 06-Aug-19 06:51 PM
 
 [https://bitcointalk.org/index.php?topic=1055594.0](https://bitcointalk.org/index.php?topic=1055594.0) [https://bitcointalk.org/index.php?topic=1098263.0](https://bitcointalk.org/index.php?topic=1098263.0) [https://rusty.ozlabs.org/?p=522](https://rusty.ozlabs.org/?p=522) [https://www.economist.com/finance-and-economics/2016/05/07/wrights-wrongs](https://www.economist.com/finance-and-economics/2016/05/07/wrights-wrongs)
 
@@ -844,15 +735,6 @@ Twitter
 
 ## 2016
 
-bitcoin-history
-
-### ₿-2016
-
-5 messages
-
-⧉infominer 22-Aug-19 04:28 AM
-
-v
 
 [https://medium.com/@bitcoinroundtable/bitcoin-roundtable-consensus-266d475a61ff](https://medium.com/@bitcoinroundtable/bitcoin-roundtable-consensus-266d475a61ff)
 
@@ -886,13 +768,6 @@ Twitter
 
 ## 2017 Scaling Battles
 
-bitcoin-history
-
-### ₿-2017-scaling-battles
-
-14 messages
-
-⧉infominer 06-Aug-19 07:09 PM
 
 [https://www.tradingview.com/chart/BTCUSD/ekKJumUI-The-most-epic-bull-run-in-history-The-Age-of-Bitcoin-update/](https://www.tradingview.com/chart/BTCUSD/ekKJumUI-The-most-epic-bull-run-in-history-The-Age-of-Bitcoin-update/) 
 
@@ -922,15 +797,6 @@ Buy and sell 60+ assets on the OG crypto exchange.
 
 Bitcoin Core Git Stats 2017: - Total pull requests created: 1'843 (~5 per day) - Merged pull requests: 1'195 (~3.27 per day) - GitHub comments/reviews: 21'153 (~57.95 per day) - Commits: 3'277 (~8.98 per day) - Git contributors (merged code): 161 - GitHub contributor...
 
-Retweets
-
-548
-
-Likes
-
-1461
-
-Twitter
 
 [Will This Battle For The Soul Of Bitcoin Destroy It?](https://www.forbes.com/sites/laurashin/2017/10/23/will-this-battle-for-the-soul-of-bitcoin-destroy-it/)
 
@@ -1022,17 +888,8 @@ pseudolus
 
 [Lone Bitcoin Whale Likely Fueled 2017 Price Surge, Study Says](https://news.ycombinator.com/item?id=21440549)
 
-Hacker News • 04-Nov-19 06:11 AM
 
 ## No2x
-
-bitcoin-history
-
-### ₿-no2x
-
-6 messages
-
-⧉infominer 19-Aug-19 02:59 PM
 
 [https://bitcointalk.org/index.php?topic=2236682.60](https://bitcointalk.org/index.php?topic=2236682.60)
 
@@ -1072,73 +929,6 @@ The paid "[no2x]" astroturfing campaign: [https://t.co/u2mz01oNMh](https://t.co/
 
 Twitter
 
-## Lightning
-
-bitcoin-history
-
-### ₿-lightning-history
-
-7 messages
-
-⧉infominer 06-Aug-19 07:07 PM
-
-[https://twitter.com/leonjohnson/status/1154093500515987456?s=20](https://twitter.com/leonjohnson/status/1154093500515987456?s=20)
-
-[Leon Johnson (@leonjohnson)](https://twitter.com/leonjohnson)
-
-A thread reviewing the different Lightning implementations from a developers POV
-
-    Today: c-lightning!
-
-Twitter
-
-[https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_043---A-History-of-Lightning-From-Brainstorm-to-Beta-e2ndt8](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_043---A-History-of-Lightning-From-Brainstorm-to-Beta-e2ndt8)
-
-CryptoQuikRead_043 - A History of Lightning: From Brainstorm to Beta by The Cryptoconomy Podcast
-
-[CryptoQuikRead_043 - A History of Lightning: From Brainstorm to Be...](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_043---A-History-of-Lightning-From-Brainstorm-to-Beta-e2ndt8)
-
-Listen to the extraordinary history of the Lightning Network stretching back to the beginnings of Bitcoin itself. Link to the article on Bitcoin Magazine:[https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/](https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/)
-
-    ⧉infominer 09-Aug-19 02:59 AM
-
-[https://shea.io/lightning-in-2018](https://shea.io/lightning-in-2018)
-
-[Lightning in 2018](https://shea.io/lightning-in-2018)
-
-Below is an archived and reformatted tweetstorm from Nov 29, 2018. Enjoy! #1 Lightning Network is on fire lately 12500 channels (up 38% this
-
-    ⧉infominer 16-Aug-19 01:48 AM
-
-[https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/](https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/)
-
-[The History of Lightning: From Brainstorm to Beta](https://bitcoinmagazine.com/articles/history-lightning-brainstorm-beta/)
-
-The Lightning Network, the long-awaited Bitcoin overlay network for cheap and instant transactions, has passed a major milestone that has been years in the making. This is the story so far.
-
-[https://gcomte.github.io/lightning-timeline](https://gcomte.github.io/lightning-timeline)
-
-[Lightning Network Timeline](https://gcomte.github.io/lightning-timeline)
-
-The history of the Lightning Network
-
-[https://www.youtube.com/watch?v=HauP9F16mUM](https://www.youtube.com/watch?v=HauP9F16mUM)
-
-[Chaincode Labs](https://www.youtube.com/channel/UC9OcX1kIjsowRRZzl8tD27w)
-
-[Christian Decker - History of the Lightning Network](https://www.youtube.com/watch?v=HauP9F16mUM)
-
-Christian Decker describes the history of off-chain protocols built on Bitcoin, from incrementing nSequence numbers to eltoo.
-
-    ⧉infominer 18-Oct-19 11:54 PM
-
-[https://twitter.com/NickSzabo4/status/1185399466641084416?s=20](https://twitter.com/NickSzabo4/status/1185399466641084416?s=20)
-
-[Nick Szabo 🔑 (@NickSzabo4)](https://twitter.com/NickSzabo4)
-
-Some ancestors of Lightning: perhaps there are still a few things we can learn from them Digital Silk Road: [https://t.co/gnabpTKXfD](https://t.co/gnabpTKXfD) Interledger: [https://t.co/cSGboh33yT](https://t.co/cSGboh33yT)
-
-Twitter
 
 ## 2018
 
