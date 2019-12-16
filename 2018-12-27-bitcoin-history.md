@@ -18,12 +18,19 @@ permalink: "posts/history/"
 last_modified_at: 2019-05-27T13:22:33-23:00
 ---
 
+Now I've learned a bit about using git, github, jamstack, I figured that I will make this repository content first, and add it as a submodule to bitcoinfo.github.io..
+
+so that information is not obscured by the workings of its website.
+
+---
 
 ![](https://sourcecrypto.pub/images/bitcoin-history/genesis-block-newspaper-chancellor-brink-bailout-banks.png)<br/>
-[www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/){: .btn .btn--light-outline}
+[www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/)
 
 
-For now this is just an assorted list. Shortly I'll be diving deeper into the history of bitcoin itself. Thusfar, I've been circling around it, so to speak. I've been gathering all of the necessary background research, in order to do justice to the story of Bitcoin itself
+This is a copy of `README.md`. It's somewhat assorted, but should be (or become) primarily "top-level" historical resources. Shortly I'll be diving deeper into the history of bitcoin itself. Thusfar, I've been circling around it, so to speak. I've been gathering all of the necessary background research, in order to do justice to the story of Bitcoin itself. 
+
+By now, I've made a start at organizing bitcoin's history by year.. tho I haven't gotten serious about that, as compared with relevant pre-history.
 
 
 * [Bitcoin's Origins and the Genesis Blockade](https://youtu.be/cagoyF3WePo)
