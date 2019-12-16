@@ -21,3 +21,4 @@ title: 👫 Tim-may
 * [Timothy C. May - Thirty Years of Crypto Anarchy | HCPP16](https://youtu.be/TdmpAy1hI8g)
 
  
+* [Tim May, Father of 'Crypto Anarchy,' Passes Away](https://www.indybay.org/newsitems/2018/12/23/18819945.php)

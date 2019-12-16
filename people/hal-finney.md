@@ -13,6 +13,9 @@ title: Hal Finney
 * [Guy Swann⚡ (@TheCryptoconomy)](https://twitter.com/thecryptoconomy/status/1166841133294637056?s=12)
   > Harold Thomas Finney (May 4, 1956 – Aug 28, 2014) In one of his last posts, Hal shared a message about his past, finding #Bitcoin, working with Satoshi, coming to terms with ALS, & the legacy he leaves behind. Hal's, Bitcoin & Me
 
+* [https://nakamotoinstitute.org/finney/rpow/](https://nakamotoinstitute.org/finney/rpow/) 
+
+
 * [Bitcoin and me (Hal Finney)](https://bitcointalk.org/index.php?topic=155054.0)
 
 * [Dying Outside](https://www.lesswrong.com/posts/bshZiaLefDejvPKuS/dying-outside)

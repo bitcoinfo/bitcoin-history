@@ -196,8 +196,6 @@ In this paper, we introduce investors to the socio-economic factors that led to 
 * [Bitcoin History: Timeline, Origins and Founder](https://www.thestreet.com/investing/bitcoin/bitcoin-history-14686578)
   > "The history of Bitcoin has been a turbulent one to say the least, and right now we're in one of the most turbulent periods in its history, as it has spent the entirety of 2018 falling further and further from its peak value of nearly $20,000 in December 2017.\n\nBut something as uncertain as Bitcoin (and cryptocurrency in general) was never going to be smooth sailing. Many tried a cryptographed digital currency before it, and they weren't able to fully crack it. Since Bitcoin became a reality nearly a decade ago, there have been some high highs and some low lows. For some Bitcoin owners, that's part of the appeal.\n\nBut how did we get to where we are today with Bitcoin? How did it begin, what were its forebearers, and what have been the unexpected turns of the Bitcoin journey? Let's take a walk through the timeline and find out."
 
-* https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate
-
 * [Bitcoin History — p2pfoundation](http://wiki.p2pfoundation.net/Bitcoin#History)
 * [Visions of Bitcoin—How major Bitcoin narratives changed over time](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c)
 
