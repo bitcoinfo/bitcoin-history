@@ -13,10 +13,8 @@ excerpt: >
 
 * [History of Cryptocurrency, Part I: From Bitcoin’s Inception to the Crypto-Boom](https://cointelegraph.com/news/history-of-cryptocurrency-from-bitcoins-inception-to-the-crypto-boom)
 
-
-![](https://i.imgur.com/940KZVQ.png)
-
-## ¤ Resources
+[Map of coins: Cryptocurrency history | cryptocurrency technologies...](http://mapofcoins.com/bitcoin)
+  > Visualized history of cryptocurrencies from bitcoin launch up to present day: over 200 altcoins on one map. Information on the most valueable ideas and more
 
 [https://steemit.com/crypto/@sxiii/oldest-icos](https://steemit.com/crypto/@sxiii/oldest-icos)
 
@@ -70,8 +68,7 @@ Vitalik Buterin is a former computer science student who dropped out of college 
 [https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
 
 [The Uncanny Mind That Built Ethereum](https://www.wired.com/2016/06/the-uncanny-mind-that-built-ethereum/)
-
-Vitalik Buterin invented the world’s hottest new cryptocurrency and inspired a movement — before he’d turned 20.
+  > Vitalik Buterin invented the world’s hottest new cryptocurrency and inspired a movement — before he’d turned 20.
 
 [⟠ Anett ⟠ (@AnettRolikova)](https://twitter.com/anettrolikova/status/1160991480770715651?s=12)
   > Remember when @VitalikButerin gave an entire talk on sharding in sign language? He's truly amazing
@@ -127,7 +124,14 @@ https://www.youtube.com/watch?v=3FA3UjA0igY
   > 13/ To spice things up for the investors, he promised that features inside the Mastercoin protocol would *only* be accessible to those with Mastercoins. By doing so, Willett had invented not only the ICO, but the first utility coin as well. [https://t.co/b0fLZj137E](https://t.co/b0fLZj137E)
 
 
-## ¤ ICOs
+## ¤ 'Bitcoin 2.0' and the dawn of the ICO era
+
+* [https://www.coindesk.com/crypto-2-0-roundup-bitcoins-revolution-moves-beyond-currency](https://www.coindesk.com/crypto-2-0-roundup-bitcoins-revolution-moves-beyond-currency)
+
+* [https://www.coindesk.com/19-crypto-2-0-projects-watch-2015](https://www.coindesk.com/19-crypto-2-0-projects-watch-2015)
+
+* [https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/](https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/)
+
 
 [https://steemit.com/crypto/@sxiii/oldest-icos](https://steemit.com/crypto/@sxiii/oldest-icos)
 
@@ -140,6 +144,8 @@ https://www.youtube.com/watch?v=3FA3UjA0igY
   > Short thread on ICOs and value accrual. We have about 7–8 years of history on ICOs, utility tokens, and new value transfer protocols. So let's see what history tells us by looking at the first ever ICO
 
 ## ¤ Crypto 15
+
+![](https://i.imgur.com/940KZVQ.png)
 
 [Blockchain Health and Crypto Wellness Futures](https://www.slideshare.net/lablogga/blockchain-health-and-crypto-wellness-futures)
 

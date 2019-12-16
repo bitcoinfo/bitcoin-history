@@ -4,16 +4,154 @@ Now I've learned a bit about using git, github, jamstack, I figured that I will 
 
 so that information is not obscured by the workings of its website.
 
----
 
-![](https://sourcecrypto.pub/images/bitcoin-history/genesis-block-newspaper-chancellor-brink-bailout-banks.png)<br/>
-[www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/)
+This is a copy of `2018-12-27-resources.md`. It's somewhat assorted, but should be (or become) primarily "top-level" historical resources. Shortly I'll be diving deeper into the history of bitcoin itself. Thusfar, I've been circling around it, so to speak. 
 
-
-This is a copy of `2018-12-27-bitcoin-history.md`. It's somewhat assorted, but should be (or become) primarily "top-level" historical resources. Shortly I'll be diving deeper into the history of bitcoin itself. Thusfar, I've been circling around it, so to speak. I've been gathering all of the necessary background research, in order to do justice to the story of Bitcoin itself. 
+I've been gathering all of the necessary background research, before I could do any justice to the story of Bitcoin itself. 
 
 By now, I've made a start at organizing bitcoin's history by year.. tho I haven't gotten serious about that, as compared with relevant pre-history.
 
+---
+
+![](https://sourcecrypto.pub/images/bitcoin-history/genesis-block-newspaper-chancellor-brink-bailout-banks.png)
+[www.thetimes03jan2009.com](https://web.archive.org/web/20180829032336/https://www.thetimes03jan2009.com/)
+
+[Bitcoin History - p2pfoundation wiki](http://wiki.p2pfoundation.net/Bitcoin#History) 
+
+[lopp.net - BITCOIN HISTORY](https://www.lopp.net/bitcoin-information/history.html) 
+  > Bitcoin didn't simply appear out of thin air - it was built upon decades of work and came after many failed digital currency projects. Understanding how we got here will help you understand where we're going.
+
+[Bryan Bishop's Bitcoin Event Transcripts](http://diyhpl.us/wiki/transcripts/)
+
+[Bitcoin History: The Complete History of Bitcoin [Timeline]](http://historyofbitcoin.org/)
+  > The History of Bitcoin is a timeline that illustrates Bitcoin History from the very beginning all the way to present day. Learn what there is to know.
+
+[Bitcoin Obituaries - Bitcoin Declared Dead 350+ Times (2019 Updated)](https://99bitcoins.com/bitcoinobituaries)
+  > Until today Bitcoin has died more than 350 times. We collect Bitcoin obituaries since 2010. Found a Bitcoin obituary? submit it to us.
+
+* [Visions of Bitcoin](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c)
+  > How major Bitcoin narratives changed over time
+
+[https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a)
+
+[About That Orange B... The History of Bitcoin’s Logos - CoinDesk](https://www.coindesk.com/about-that-orange-b-the-history-of-bitcoins-logos)
+  > Can a logo symbolize the ethos of a project? An industry? An entire movement? Bitcoin's might have come close.
+
+[Bitcoin History: Timeline, Origins and Founder](https://www.thestreet.com/investing/bitcoin/bitcoin-history-14686578)
+  > Bitcoin has had a tumultuous history, to say the least. Here is the timeline of Bitcoin's development and its many ups and downs.
+
+[The Three Economic Eras of Bitcoin](https://medium.com/@rusty_lightning/the-three-economic-eras-of-bitcoin-d43bf0cf058a) - The way the bitcoin ecosystem will play out is written in the mathematics of its consensus rules; we should all know the three phases it…
+
+[twan (@dantwany)](https://twitter.com/dantwany/status/939987392496365569) 
+  > Bitcoin is sometimes compared Netscape and it's said some other will dethrone it. There have been many digital currency systems created that failed. Bitcoin is where it's today because it's a success. Payment mechanisms designed for the Internet (1996) [https://t.co/6bNPXuT](https://t.co/6bNPXuT)...
+
+[SLP23 – ECONOMIC ERAS OF BITCOIN, AND LIGHTNING DEVELOPMENT, WITH RUSTY RUSSELL OF BLOCKSTREAM](https://stephanlivera.com/episode/23/)
+
+[https://www.bloomberg.com/news/articles/2018-11-08/bitcoin-pioneer-who-gave-away-over-100-million-has-no-regrets](https://www.bloomberg.com/news/articles/2018-11-08/bitcoin-pioneer-who-gave-away-over-100-million-has-no-regrets) 
+
+
+[Revolutions and Counter Revolutions: Andreas Antonopoulos Reflects...](https://bitcoinmagazine.com/articles/revolutions-and-counter-revolutions-andreas-antonopoulos-reflects-10-years-bitcoin/)
+  > In the following interview with Bitcoin Magazine, Antonopoulos reflects on the metamorphosis the ecosystem has undergone over the past decade.
+
+[Till Antonio Mahler (@mahler_till)](https://twitter.com/mahler_till/status/1075356512732803072)
+  > 1/ Explore the fascinating history of the people and their respective ideas that paved the way for the blockchain revolution - a thread
+
+[Melik Manukyan ⚡️⚡️⚡️⚡️⚡️ (@melikmanukyan)](https://twitter.com/melikmanukyan/status/1063346425193410560?s=20)
+  > Great pieces of #Bitcoin history. Old recording of Mike Caldwell (@casascius) explaining Bitcoin to @RonPaul: [https://t.co/rkmGWL1elT](https://t.co/rkmGWL1elT) Recording of the creation of Casascius coins: [https://t.co/yt46mVBdrm](https://t.co/yt46mVBdrm) Credits to iron777 for uploading these videos.
+
+[History of bitcoin](https://en.wikipedia.org/wiki/History_of_bitcoin)
+  > Bitcoin is a cryptocurrency, a digital asset designed to work as a medium of exchange that uses cryptography to control its creation and management, rather than relying on central authorities. The presumed pseudonymous Satoshi Nakamoto integrated many existing ideas from the ...
+
+[A Week of Satoshi Pt. 3: Big Bitcoin Moments (2008 – 2013) | BTC...](https://btcmanager.com/a-week-of-satoshi-big-bitcoin-moments-2008-2013/)
+  > The Cambrian explosion of cryptocurrencies has behaved much in the same way as in biology. What wasn’t weeded out by a stronger species, didn’t navigate its way through a myriad of natural challenges and establish itself as antifragile, placed itself in league with other ...
+
+[The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52)
+  > The origin of blockchain technology is usually simply attributed to the actions of some mysterious genius working under the pseudonym of…
+
+[Iterative Capital Management Thesis - What's Really Driving the Cryptocurrency Phenomenon?](https://iterative.capital/thesis/) 
+   > In this paper, we introduce investors to the socio-economic factors that led to the development of Bitcoin, and which will shape its future.
+
+[Yassine Elmandjra (@yassineARK)](https://twitter.com/yassineARK/status/1047978606297792513)
+  > 1/ There are so many hidden gems in Bitcointalk threads and p2p foundation posts from back in the day. Here are some of my favorites:
+
+[Sizhao Yang (@zaoyang)](https://twitter.com/zaoyang/status/1074634081713971200) 
+  > 1/ What are the experiments from crypto in 2015 to 2018? What are the underlying beliefs and thesis that were validated or invalidated? Feel free to add your own. [https://t.co/bYdVngUvvY](https://t.co/bYdVngUvvY)
+
+[Blockchain aimed to protect Bitcoin, but these 5 scams show it mis...](https://www.digitaltrends.com/computing/worst-bitcoin-scams/)
+  > Check out some of the worst bitcoin scams in history: From fraudulent companies to simple lies that brought down whole exchanges, here's how people have been stealing bitcoins...and what you should be aware of if you want to invest.
+
+[Thesis - What's Really Driving the Cryptocurrency Phenomenon?](https://iterative.capital/thesis/)
+
+In this paper, we introduce investors to the socio-economic factors that led to the development of Bitcoin, and which will shape its future.
+
+
+
+[What a Bitcoin Evangelist Thinks About Cryptocurrency’s Terrible...](https://slate.com/technology/2018/12/bitcoin-price-cryptocurrency-bubble-burst.html?wpsrc=sh_all_dt_tw_ru)
+  > “Actually, it was a year of tremendous innovation in the space because all of the loud speculative voices went away.”
+
+* [Michel Rauchs (@mrauchs)](https://twitter.com/mrauchs/status/950366745663025152) 
+  > My Master's thesis (2016) visualising the evolution of the #Bitcoin business ecosystem from 2009-2015 is now also available on SSRN. Network graphs are based on a unique dataset of 500+ Bitcoin companies and projects. [https://t.co/uBoGDe5Jod](https://t.co/uBoGDe5Jod)
+
+
+[Do Libertarians Dream Of Electric Coins? The Material Embeddedness Of Bitcoin](https://archive.org/stream/DoLibertariansDreamOfElectricCoinsTheMaterialEmbeddednessOfBitcoin/Do%2520libertarians%2520dream%2520of%2520electric%2520coins?%2520The%2520material%2520embeddedness%2520of%2520Bitcoin_djvu.txt) 
+
+[The resolution of the Bitcoin experiment](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7)
+  > I’ve spent more than 5 years being a Bitcoin developer. The software I’ve written has been used by millions of users, hundreds of…
+
+[http://diyhpl.us/wiki/transcripts/](http://diyhpl.us/wiki/transcripts/) 
+
+[https://www.zakon.org/robert/blockchain/timeline](https://www.zakon.org/robert/blockchain/timeline)
+
+[Collin Enstad 🌮 (@CollinEnstad)](https://twitter.com/collinenstad/status/1158202685088251904?s=12)
+  > So anyone know who @shaolinfry is? This anon dev appears to show up out of nowhere to jump start the UASF movement, and disappears afterwards. A real organic and grassroots movement! [https://t.co/LkM3jfwfLC](https://t.co/LkM3jfwfLC)
+
+[notsofast (@notsofast)](https://twitter.com/notsofast/status/1050174862533234688)
+  > If you're new(er), look up some of these (anti)heroes from $crypto past. Shadow_runner
+  > presstab The Story Of Bob Surplus Wolong OTOH Kazonomics IGotSpots
+
+[Josh Olszewicz (@CarpeNoctom)](https://twitter.com/CarpeNoctom/status/1075653619838533632)
+
+[https://www.coindesk.com/research](https://www.coindesk.com/research)
+
+[Research Archive - CoinDesk](https://www.coindesk.com/research)
+
+[Untold Stories Podcast with Charlie Shrem](https://blockworksgroup.io/untold-stories-podcast)
+  > On Untold Stories, host Charlie Shrem dives deep into the lives and personal histories of some of crypto's most influential leaders
+
+[S1 E1: Donald McIntyre on Bitcoin, The Teachings of Tim May and Ni...](https://bitcoin-takeover.com/s1-e1-donald-mcintyre-on-bitcoin-the-teachings-of-tim-may-and-nick-szabo-and-the-history-of-money/)
+  > In this season premiere, Donald McIntyre talks about the anthropological and historical elements that led to the creation of Bitcoin, and reveals his admiration and affinity for the works of Tim Ma…
+
+[Bitcoin news snippets](http://bitcoinsnippets.com/)
+
+[The Exclusive Inside Story Of The Fall Of Overstock’s Mad King, ...](https://www.forbes.com/sites/laurendebter/2019/08/22/the-exclusive-inside-story-of-the-fall-of-overstocks-mad-king-patrick-byrne/)
+  > Earlier today, Patrick Byrne, the founder and longtime CEO of former e-tailing giant Overstock.com, resigned, saying his involvement as a federal informant in the investigation of infamous Russian spy Maria Butina made performing his duties impossible. That’s not the whole ...
+
+[Dan Hedl (@danheld)](https://twitter.com/danheld/status/1084848063947071488?s=12)
+  > 1/ Satoshi’s Vision™ is a silly endeavor, as it doesn’t matter what it was, we are where we are now. However, those pushing the “Bitcoin was first made for payments” narrative insist on cherry-picking sentences from the white paper and forum posts to champion the...
+
+[‎The Cryptoconomy Podcast: My Favorite Bitcoin Holidays? A Walk ...](https://podcasts.apple.com/us/podcast/the-cryptoconomy-podcast/id1359544516?i=1000433986180)
+  > ‎Show The Cryptoconomy Podcast, Ep My Favorite Bitcoin Holidays? A Walk with Guy Through Bitcoin History - Apr 2, 2019
+
+[‎Darknet Diaries: Ep 22: Mini-Stories: Vol 1 on Apple Podcasts](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485?i=1000419785075)
+  > Early crypto jackers reach symbiosis w windfarm
+  > 
+  > “We now have a faster and more reliable patch cycle”
+
+^^^16:00 hackers windfarm bitcoin mining
+
+[WhiteRabbit (@WhiteRabbitBTC)](https://twitter.com/whiterabbitbtc/status/1183370538284146690?s=12)
+  > Bitcoin Hall of Shame
+
+[Classic is Coming --oppose-dao-fork (@ClassicIsComing)](https://twitter.com/classiciscoming/status/1185847123859988480?s=12)
+  > "Theres a strong distinction to be made between dry code, smart contracts, & wet code, traditional law. Law is subjective, based on our minds & analogy. Software is based on boolean logic, bits, & hard mathematics." @NickSzabo4 - History of the Blockchain [https://t.co/kts](https://t.co/kts)...
+
+[On the Origins and Variations of Blockchain Technologies](https://ieeexplore.ieee.org/document/8674176)
+
+[Best 101 Bitcoin Facts – the Infographic](https://ambcrypto.com/best-101-bitcoin-facts-the-infographic/)
+  > “So, that’s the end of bitcoin then” that was the title of a Forbes article after the then popular Bitcoin exchange, Mt. Gox was hacked for the first time in 2011. Like Forbes, there have been multiple influential magazines that spelled doom on cryptocurrency over the y...
+
+[https://bitcointalk.org/index.php?topic=2777849.0](https://bitcointalk.org/index.php?topic=2777849.0)
+  > My list of 43(+3) reviewed Bitcoin forks
 
 * [Bitcoin's Origins and the Genesis Blockade](https://youtu.be/cagoyF3WePo)
   > "In this talk, Andreas recounts the origins of Bitcoin, the meaning of the message embedded forever in its genesis block, and how we figured out who the banks truly serve when there was no other choice. He also speaks about what happens when money stops working, why censorship resistance was one of Bitcoin's most valuable characteristics from the start, and what possibilities lay in store with a global, voluntary financial system."
@@ -65,8 +203,6 @@ By now, I've made a start at organizing bitcoin's history by year.. tho I haven'
 * [Bitcoin Stumble Shows Bitmain a Ghost of Crises Past](https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past)
   > "A look at Bitmain Technologies Ltd.’s financials reveal the Chinese company sold a lot of shovels during the crypto gold rush of the past two years. Its mistake was to take digital gold as payment instead of cash. \n\nBut there are two other items that could make matters worse for Bitmain and others in the crypto-mining ecosystem, adding to pressure on the balance sheet."
 
-* [@varun_mathur on RSS history's compared to Bitcoin](https://twitter.com/varun_mathur/status/1038107664868208640)
-  > "Crypto’s RSS Era About 10 yrs ago, before the advent of bitcoin, the tech world was coming to grips with how RSS failed to take off as a consumer tech. I spent 2 yrs of my life building the best (?)feed reader UX, but I was solving for local maxima, not global maximum (industry)"
 
 * [Bitcoin’s Constitutional Crisis & Why I Support the UASF](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6)
 Description = "It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end of the tunnel in this round of the bitcoin scaling debate. Thank god.\n\nThe impending activation of BIP 148, AKA bitcoin’s “user activated soft fork”, due to take effect on August 1, would ensure that SegWit, an optimization feature that increases block capacity, gets activated without strings attached."
@@ -91,17 +227,6 @@ Description = "It took three years and the emergence of serious (and perhaps per
 * [The Bitcoin Knowledge Podcast — Legendary](https://www.bitcoin.kn/legendary/) "These are interviews with legendary guests from the Bitcoin world. Trace Mayer asks Nick Szabo what the highest priority should be for hiring Bitcoin. A Week With Adam Back in September 2015"
 * [A finite monetary supply for Bitcoin](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
   > "Although it is widely believed that Satoshi was an inflation-hating goldbug he never said this, and in fact programmed Bitcoin's money supply to grow indefinitely, forever. He modeled the monetary supply as 4 gold mines being discovered per mibillenium (1024 years), with equal intervals between them, each one being depleted over the course of 140 years. This poses obvious problems, however. Prominent among them is the discussion on what to call 1 billion Bitcoin, which symbol color to use for it, and when wallet clients should switch to it by default. To combat this, this document proposes a controversial change: making Bitcoin's monetary supply finite."
-
-### Bitcoin 2.0
-
-Is a term that came about around 2014 to describe crypto projects beyond Bitcoin the currency. Some leveraging the Bitcoin Blockchain, some creating their own networks.
-
-* [https://www.coindesk.com/crypto-2-0-roundup-bitcoins-revolution-moves-beyond-currency](https://www.coindesk.com/crypto-2-0-roundup-bitcoins-revolution-moves-beyond-currency)
-
-* [https://www.coindesk.com/19-crypto-2-0-projects-watch-2015](https://www.coindesk.com/19-crypto-2-0-projects-watch-2015)
-
-* [https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/](https://blog.ethereum.org/2014/12/26/secret-sharing-daos-crypto-2-0/)
-
 
 ### Resources
 

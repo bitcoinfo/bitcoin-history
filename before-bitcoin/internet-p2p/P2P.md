@@ -183,5 +183,5 @@
 
 - 👯 RSS
 
-[Varun (@varun_mathur)](https://twitter.com/varun_mathur/status/1038107664868208640)
-  > Crypto’s RSS Era About 10 yrs ago, before the advent of bitcoin, the tech world was coming to grips with how RSS failed to take off as a consumer tech. I spent 2 yrs of my life building the best (?)feed reader UX, but I was solving for local maxima, not global maximum (...
+* [@varun_mathur on RSS history's compared to Bitcoin](https://twitter.com/varun_mathur/status/1038107664868208640)
+  > "Crypto’s RSS Era About 10 yrs ago, before the advent of bitcoin, the tech world was coming to grips with how RSS failed to take off as a consumer tech. I spent 2 yrs of my life building the best (?)feed reader UX, but I was solving for local maxima, not global maximum (industry)"

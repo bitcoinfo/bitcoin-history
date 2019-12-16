@@ -17,8 +17,6 @@ header: no
 * [Birth of a Digital Nation](https://www.wired.com/1997/04/netizen-3/)
   > For some, this past election year was about the slow death of the current political system. For Jon Katz, on the other hand, it marked the rise of postpolitics and the birth of the Digital Nation. First stirrings On the Net last year, I saw the rebirth of love for liberty in ...
 
-
-
 ## 📚 Drugs online
 
 * [Narcotics: Just a Click Away?](https://www.wired.com/2001/02/narcotics-just-a-click-away/)
