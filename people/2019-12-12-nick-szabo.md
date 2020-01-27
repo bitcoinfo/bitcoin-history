@@ -4,6 +4,7 @@ subheadline:  ""
 title:  "Nick Szabo"
 teaser: ""
 header: no
+permalink: /history/people/nick-szabo/
 ---
 
 

@@ -2,6 +2,7 @@
 layout: page-fullwidth
 header: no
 title: 👫 Tim-may
+permalink: /history/people/timothy-c-may/
 ---
 
 * [1993-11-09 - (fwd) Clipper and Tipper on Route 666](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/11/99f4383f9733a2d139b5f7e1055546195e0dcd5b064975b63351b0c358fc704c/) - From: tcmay@netcom.com (Timothy C. May)
@@ -20,5 +21,4 @@ title: 👫 Tim-may
 
 * [Timothy C. May - Thirty Years of Crypto Anarchy | HCPP16](https://youtu.be/TdmpAy1hI8g)
 
- 
 * [Tim May, Father of 'Crypto Anarchy,' Passes Away](https://www.indybay.org/newsitems/2018/12/23/18819945.php)

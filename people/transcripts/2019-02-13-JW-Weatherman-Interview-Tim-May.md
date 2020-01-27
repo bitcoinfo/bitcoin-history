@@ -6,7 +6,6 @@ excerpt: >
   "As a quick introduction: by the mid 80s Tim was already famous for solving something called the alpha particle problem when he was working at Intel and then in the early nineties he and a few friends founded the cypherpunk movement, and that's responsible for a lot of the freedom that we enjoy today. <br/><br/>
 
   They really fought and won the crypto Wars in the 90s and for me and a lot of other folks that's really a turning point in history where we headed from you know what was probably gonna be a fairly dystopian future, to one where I can see a lot of individual liberty on the horizon."
-share: true
 header: 
   image: "https://i.imgur.com/Ch5F00n.png"
   teaser: "https://i.imgur.com/janGoN1.png"
@@ -14,6 +13,7 @@ header:
 last_modified_at: 2019-04-20T11:22:33-23:00
 cannonical_url: 'https://sourcecrypto.pub/posts/transcripts/JW-Weatherman-Interview-Tim-May/'
 
+permalink: /history/people/timothy-c-may/weatherman-interview/
 ---
 
 Much appreciation to JW Weatherman for arranging the interview, and Tim May for helping to get this all started. I decided to get this in text form, because there are so many things\books\people that May references, I would like to be able to gather.
