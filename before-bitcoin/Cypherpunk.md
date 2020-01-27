@@ -29,8 +29,7 @@ Bitcoin's ancestry comes from decades of cypherpunk principles and the work of d
     CryptoQuikRead_163 - A Cypherpunk's Manifesto by The Cryptoconomy Podcast
 * [CryptoQuikRead_163 - A Cypherpunk's Manifesto by The Cryptoconomy ...](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_163---A-Cypherpunks-Manifesto-e2ndpc)
 “Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world.” - Eric Hughes Required reading for anyone ...
-        ⧉infominer 10-Aug-19 02:32 AM
-* [https://twitter.com/rogerkver/status/387000334658183169?s=20](https://twitter.com/rogerkver/status/387000334658183169?s=20)
+        * [https://twitter.com/rogerkver/status/387000334658183169?s=20](https://twitter.com/rogerkver/status/387000334658183169?s=20)
     [Roger Ver (@rogerkver)](https://twitter.com/rogerkver)
 I just helped Neal Stephenson, author of Cryptonomicon, setup his first Bitcoin wallet thanks to @blockchain
     Twitter
@@ -39,29 +38,23 @@ I just helped Neal Stephenson, author of Cryptonomicon, setup his first Bitcoin 
 Since the Cyprus crisis, download of Bitcoin apps has exploded. What is a digital currency? Ten years before Bicoin was invented, Neal Stephenson gives us a foretaste in Cryptonomicon.
 * [https://laurelzuckerman.typepad.fr/.a/6a010536460287970b017d424df3a6970c-600wi](https://laurelzuckerman.typepad.fr/.a/6a010536460287970b017d424df3a6970c-600wi)
 * [https://www.ft.com/content/64350756-db14-11e5-a72f-1e7744c66818](https://www.ft.com/content/64350756-db14-11e5-a72f-1e7744c66818)
-        ⧉infominer 10-Aug-19 02:57 AM
-* [https://nakamotoinstitute.org/static/docs/cyphernomicon.txt](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)
-    ⧉infominer 24-Aug-19 04:36 PM
-* [https://twitter.com/tokenhash/status/1165322032361246720?s=12](https://twitter.com/tokenhash/status/1165322032361246720?s=12)
+        * [https://nakamotoinstitute.org/static/docs/cyphernomicon.txt](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)
+    * [https://twitter.com/tokenhash/status/1165322032361246720?s=12](https://twitter.com/tokenhash/status/1165322032361246720?s=12)
     [Donald McIntyre ☣️🗑️ (@TokenHash)](https://twitter.com/TokenHash)
 No. There were hundreds of cypherpunks with different goals, ideologies and world views. • Digicash was the "payments". • RPOW, then BitGold were the "store of value + payments" (which are inseparable). The latter were the correct models and Bitcoin is designed afte...
     Twitter
-    ⧉infominer 21-Sep-19 12:15 AM
-* [https://bitcointalk.org/index.php?topic=4356808.0](https://bitcointalk.org/index.php?topic=4356808.0)
+    * [https://bitcointalk.org/index.php?topic=4356808.0](https://bitcointalk.org/index.php?topic=4356808.0)
 * [The Cypherpunks and Bitcoin. The years before bitcointalk.](https://bitcointalk.org/index.php?topic=4356808.0)
 The Cypherpunks and Bitcoin. The years before bitcointalk.
-    ⧉infominer 21-Sep-19 01:11 AM
-* [https://github.com/cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive](https://github.com/cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive)
+    * [https://github.com/cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive](https://github.com/cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive)
 * [cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive](https://github.com/cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive)
 This repo contains the extracted archive of cypherpunks posts from between 2000 and 2016 as provided by a list-subscriber. - cryptoanarchywiki/2000-to-2016-raw-cypherpunks-archive
 * [https://avatars0.githubusercontent.com/u/39625846?s=400&v=4](https://avatars0.githubusercontent.com/u/39625846?s=400&v=4)
-    ⧉infominer 21-Sep-19 01:19 AM
-* [https://github.com/cypherpunksbr/cypherpunks.com.br](https://github.com/cypherpunksbr/cypherpunks.com.br)
+    * [https://github.com/cypherpunksbr/cypherpunks.com.br](https://github.com/cypherpunksbr/cypherpunks.com.br)
 * [cypherpunksbr/cypherpunks.com.br](https://github.com/cypherpunksbr/cypherpunks.com.br)
 Repositório do site cypherpunks.com.br. Contribute to cypherpunksbr/cypherpunks.com.br development by creating an account on GitHub.
 * [https://avatars0.githubusercontent.com/u/44280179?s=400&v=4](https://avatars0.githubusercontent.com/u/44280179?s=400&v=4)
-    ⧉infominer 25-Sep-19 02:28 AM
-* [http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/09/0eb06b7a3fdc242bbe8af7b41565bc4bf753d9fde7e722009c5838cbb3955359/](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/09/0eb06b7a3fdc242bbe8af7b41565bc4bf753d9fde7e722009c5838cbb3955359/)
+    * [http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/09/0eb06b7a3fdc242bbe8af7b41565bc4bf753d9fde7e722009c5838cbb3955359/](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/09/0eb06b7a3fdc242bbe8af7b41565bc4bf753d9fde7e722009c5838cbb3955359/)
 1997-09-14 - Notes from the Cypherpunks September Bay Area Meeting
 Here are some notes I took at the Cypherpunks September Bay Area Meeting on September 13 at "PGP World Headquarters" in San Mateo. Quotes are summaries and interpretations, but hopefullfy fair and accurate. My interpolations enclosed in square brackets. Cypherpunks meetings are not particularly formal, but more like a dialog between a number of people, punctuated with slightly more formal presentations.
 EH: The government now desires access to all plaintext communication.
@@ -75,8 +68,7 @@ EH: No: there will be an underground market [the distinction is important] what 
 Tim: Quoting Whitfield Diffie: this is like the war on drugs. Ban crypto and companies will deutize themselves to assist the government just as they did by requiring urine tests.
 * [0eb06b7a3fdc242bbe8af7b41565bc4bf753d9fde7e722009c5838cbb3955359](http://mailing-list-archive.cryptoanarchy.wiki/archive/1997/09/0eb06b7a3fdc242bbe8af7b41565bc4bf753d9fde7e722009c5838cbb3955359/)
 Arise, you have nothing to lose but your barbed wire fences!
-    ⧉infominer 25-Sep-19 02:38 AM
-* [http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/04/432f04b74e6963f8262a6725888a1225414fe17e3045d667d5a7c3fbf83a0d11/](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/04/432f04b74e6963f8262a6725888a1225414fe17e3045d667d5a7c3fbf83a0d11/)
+    * [http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/04/432f04b74e6963f8262a6725888a1225414fe17e3045d667d5a7c3fbf83a0d11/](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/04/432f04b74e6963f8262a6725888a1225414fe17e3045d667d5a7c3fbf83a0d11/)
 Drugs are freely available on nearly every inner city street corner. The "cat is out of the bag," as you say. And yet....
 >
 - the War on (Some) Drugs....
@@ -94,18 +86,14 @@ Under the civil forfeiture laws, my assets (which I depend on to live out the re
 Anyone with assets to seize--a house, a business, a stock account--becomes a fair target.
 * [432f04b74e6963f8262a6725888a1225414fe17e3045d667d5a7c3fbf83a0d11](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/04/432f04b74e6963f8262a6725888a1225414fe17e3045d667d5a7c3fbf83a0d11/)
 Arise, you have nothing to lose but your barbed wire fences!
-    ⧉infominer 27-Sep-19 07:09 PM
-* [https://www.wired.com/1993/02/crypto-rebels/](https://www.wired.com/1993/02/crypto-rebels/)
+    * [https://www.wired.com/1993/02/crypto-rebels/](https://www.wired.com/1993/02/crypto-rebels/)
 * [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/)
 It's the FBIs, NSAs, and Equifaxes of the world versus a swelling movement of Cypherpunks, civil libertarians, and millionaire hackers. At stake: Whether privacy will exist in the 21st century.
-        ⧉infominer 28-Sep-19 01:21 AM
-* [https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks](https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks)
+        * [https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks](https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks)
 * [Early Cypherpunks](https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks)
 Arise, you have nothing to lose but your barbed wire fences!
-        ⧉infominer 01-Oct-19 08:50 PM
-* [https://ifca.ai/fc97/](https://ifca.ai/fc97/)
-    ⧉infominer 02-Oct-19 12:11 AM
-* [http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/blacknet.txt](http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/blacknet.txt)
+        * [https://ifca.ai/fc97/](https://ifca.ai/fc97/)
+    * [http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/blacknet.txt](http://groups.csail.mit.edu/mac/classes/6.805/articles/crypto/cypherpunks/blacknet.txt)
 * [http://osaka.law.miami.edu/~froomkin/articles/tcmay.htm](http://osaka.law.miami.edu/~froomkin/articles/tcmay.htm)
 
 * [Tony "ABOLISH ICE" Arcieri (@bascule)](https://twitter.com/bascule/status/1072274630629502976)

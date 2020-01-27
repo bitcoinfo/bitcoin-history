@@ -27,8 +27,7 @@
 
     OpenBazaar founder Brian Hoffman talks about leaving his elite government job to grow a startup but covers some fascinating ground as well as...
 
-            ⧉infominer 23-Aug-19 12:15 AM
-
+            
     [https://www.forbes.com/sites/thomasbrewster/2016/03/16/openbazaar-silk-road-dark-web-drugs-ebay/#49ca379b5ab4](https://www.forbes.com/sites/thomasbrewster/2016/03/16/openbazaar-silk-road-dark-web-drugs-ebay/#49ca379b5ab4)
 
     [OpenBazaar Is Not The Next Silk Road -- It's An Anarchist eBay On Acid](https://www.forbes.com/sites/thomasbrewster/2016/03/16/openbazaar-silk-road-dark-web-drugs-ebay/)

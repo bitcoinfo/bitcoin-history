@@ -1,3 +1,7 @@
+---
+published: false
+---
+
 # Darknet Markets
 
 - 🏴 Farmers Market
@@ -8,8 +12,7 @@
 
     15 messages
 
-        ⧉infominer 25-Sep-19 05:31 AM
-
+        
     [http://www.darkreading.com/attacks-and-breaches/feds-bust-farmers-market-for-online-drugs/d/d-id/1103901?](http://www.darkreading.com/attacks-and-breaches/feds-bust-farmers-market-for-online-drugs/d/d-id/1103901?)
 
     [Feds Bust 'Farmer's Market' For Online Drugs](http://www.darkreading.com/attacks-and-breaches/feds-bust-farmers-market-for-online-drugs/d/d-id/1103901?)
@@ -54,8 +57,7 @@
 
     Hushmail, a longtime provider of encrypted web-based email, markets itself by saying that "not even a Hushmail employee with access to our servers can read your encrypted e-mail, since each message is uniquely encoded before it leaves your computer." But it turns out that sta...
 
-            ⧉infominer 25-Sep-19 07:53 AM
-
+            
     [http://www.digitaltrends.com/web/feds-bust-farmers-market-an-online-illegal-drug-ring-hidden-by-tor/](http://www.digitaltrends.com/web/feds-bust-farmers-market-an-online-illegal-drug-ring-hidden-by-tor/)
 
     [Feds bust "Farmer's Market," an online illegal drug ring hidden by...](http://www.digitaltrends.com/web/feds-bust-farmers-market-an-online-illegal-drug-ring-hidden-by-tor/)
@@ -84,30 +86,26 @@
 
     Eight people arrested on charges of running The Farmer's Market, an online bazaar offering a range of narcotics, including LSD and marijuana, to customers in 34 countries.
 
-            ⧉infominer 30-Sep-19 09:45 PM
-
+            
     Silk Road was not the first hidden service to use Tor. Farmers Market was also run on the Tor network for part of the time it was up. They did not use BTC, but did predate Silk Road. - darknet [https://www.reddit.com/r/darknet/comments/cvi1da/silk_road_was_not_the_first_hidden_service_to_use/?utm_source=amp&utm_medium=&utm_content=post_body](https://www.reddit.com/r/darknet/comments/cvi1da/silk_road_was_not_the_first_hidden_service_to_use/?utm_source=amp&utm_medium=&utm_content=post_body)
 
     [Silk Road was not the first hidden service to use Tor. Farmers Mar...](https://www.reddit.com/r/darknet/comments/cvi1da/silk_road_was_not_the_first_hidden_service_to_use/?utm_source=amp&utm_medium=&utm_content=post_body)
 
     Tor-hidden online narcotics store, ‘The Farmer’s Market’, brought down in multinational sting. A multinational police force last week arrested...
 
-            ⧉infominer 03-Oct-19 06:31 AM
-
+            
     [https://en.wikipedia.org/wiki/The_Farmer%27s_Market](https://en.wikipedia.org/wiki/The_Farmer%2527s_Market)
 
     [The_Farmer%27s_Market](https://en.wikipedia.org/wiki/The_Farmer%27s_Market)
 
-            ⧉infominer 04-Oct-19 05:18 AM
-
+            
     [https://abcnews.go.com/Business/internet-drug-ring-gov-encryption/story?id=16165004](https://abcnews.go.com/Business/internet-drug-ring-gov-encryption/story?id=16165004)
 
     [Why Crooks Love Web 'Cloaking Device'](https://abcnews.go.com/Business/internet-drug-ring-gov-encryption/story?id=16165004)
 
     Until it was busted this week, an Internet drug ring doing business in 34 countries, all 50 states and the District of Columbia, eluded law enforcement by using TOR, an encrypted computer network developed for--and used by--the federal government.
 
-            ⧉infominer 04-Oct-19 10:40 AM
-
+            
     [http://web.archive.org/web/20120420053759/http://www.huffingtonpost.com/2012/04/16/international-online-drug-market-busted-arrests_n_1429544.html](http://web.archive.org/web/20120420053759/http://www.huffingtonpost.com/2012/04/16/international-online-drug-market-busted-arrests_n_1429544.html)
 
     ['Farmer's Market' International Online Drug Ring Busted, 15 Arrested](http://web.archive.org/web/20120420053759/http:/www.huffingtonpost.com/2012/04/16/international-online-drug-market-busted-arrests_n_1429544.html)
@@ -122,8 +120,7 @@
 
     19 messages
 
-        ⧉infominer 19-Sep-19 04:42 AM
-
+        
     [https://www.torproject.org/about/history/](https://www.torproject.org/about/history/)
 
     [The Tor Project | Privacy & Freedom Online](https://www.torproject.org/about/history/)
@@ -150,8 +147,7 @@
 
         [Home](http://www.ietf.org/)
 
-            ⧉infominer 19-Sep-19 05:19 AM
-
+            
     [http://www.syverson.org/](http://www.syverson.org/)
 
     [https://www.onion-router.net/Publications/IH-1996.pdf](https://www.onion-router.net/Publications/IH-1996.pdf)
@@ -160,8 +156,7 @@
 
     
 
-        ⧉infominer 19-Sep-19 05:57 AM
-
+        
     [https://www.torproject.org/about/history/](https://www.torproject.org/about/history/)
 
     Tor began gaining popularity among activists and tech-savvy users interested in privacy, but it was still difficult for less-technically savvy people to use, so starting in 2005, development of tools beyond just the Tor proxy began. Development of Tor Browser began in 2008.
@@ -184,46 +179,39 @@
 
     At The Tor Project, we make tools that help promote and protect the essential human rights of people everywhere.
 
-        ⧉infominer 19-Sep-19 06:05 AM
-
+        
     [https://www.onion-router.net/Publications.html](https://www.onion-router.net/Publications.html)
 
-        ⧉infominer 19-Sep-19 07:09 AM
-
+        
     [http://web.archive.org/web/20120215204239/http://www.infosecisland.com/blogview/16290-The-Hidden-Wiki-Layers-of-The-Onion-Router-Networks.html](http://web.archive.org/web/20120215204239/http://www.infosecisland.com/blogview/16290-The-Hidden-Wiki-Layers-of-The-Onion-Router-Networks.html)
 
     [The Hidden Wiki: Layers of The Onion Router Networks](http://web.archive.org/web/20120215204239/http:/www.infosecisland.com/blogview/16290-The-Hidden-Wiki-Layers-of-The-Onion-Router-Networks.html)
 
     The Hidden Wiki: Layers of The Onion Router Networks Someone recently asked if I had ever heard of “The Hidden Wiki” They said they had just perused an ad that purported to offer “hired killer” services. This person immediately thought it was just a joke, but it turns...
 
-        ⧉infominer 24-Sep-19 08:20 AM
-
+        
     [https://www.onion-router.net/History.html](https://www.onion-router.net/History.html)
 
-        ⧉infominer 25-Sep-19 02:52 AM
-
+        
     [http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/05/c558b0685975b128825e25fc7e9b0d54d707fcb1eff7324830bf5e93aaf23f38/](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/05/c558b0685975b128825e25fc7e9b0d54d707fcb1eff7324830bf5e93aaf23f38/)
 
     [C558b0685975b128825e25fc7e9b0d54d707fcb1eff7324830bf5e93aaf23f38](http://mailing-list-archive.cryptoanarchy.wiki/archive/1998/05/c558b0685975b128825e25fc7e9b0d54d707fcb1eff7324830bf5e93aaf23f38/)
 
     Arise, you have nothing to lose but your barbed wire fences!
 
-        ⧉infominer 25-Sep-19 08:13 AM
-
+        
     [https://blog.torproject.org/blog/trip-report-october-fbi-conference](https://blog.torproject.org/blog/trip-report-october-fbi-conference)
 
     [Trip report, October FBI conference | Tor Blog](https://blog.torproject.org/blog/trip-report-october-fbi-conference)
 
     In October I attended an FBI conference, as part of my work to try to keep Tor on good relations with law enforcement.
 
-        ⧉infominer 27-Sep-19 10:24 PM
-
+        
     [https://doc.lagout.org/Others/Data%20Mining/Dark%20Web_%20Exploring%20and%20Data%20Mining%20the%20Dark%20Side%20of%20the%20Web%20%5BChen%202011-12-23%5D.pdf](https://doc.lagout.org/Others/Data%2520Mining/Dark%2520Web_%2520Exploring%2520and%2520Data%2520Mining%2520the%2520Dark%2520Side%2520of%2520the%2520Web%2520%255BChen%25202011-12-23%255D.pdf)
 
     this is an early (2012?) research report analysing the dark web for terrorist activity... not sure of it's use or value, but saving a link here for now
 
-        ⧉infominer 03-Oct-19 04:29 AM
-
+        
     [https://www.whoishostingthis.com/blog/2014/11/17/who-funded-tor/](https://www.whoishostingthis.com/blog/2014/11/17/who-funded-tor/)
 
     [Who Pays For Tor? (Hint: You Do)](https://www.whoishostingthis.com/blog/2014/11/17/who-funded-tor/)
@@ -244,8 +232,7 @@
 
     Darknet Definition - The darknet refers to networks that are not indexed by search engines
 
-            ⧉infominer 05-Oct-19 03:27 AM
-
+            
     [https://www.vice.com/en_us/article/5394ax/the-operators](https://www.vice.com/en_us/article/5394ax/the-operators)
 
     [The People Who Risk Jail to Maintain the Tor Network](https://www.vice.com/en_us/article/5394ax/the-operators)
@@ -262,16 +249,14 @@
 
     36 messages
 
-        ⧉infominer 19-Sep-19 05:41 AM
-
+        
         [http://web.archive.org/web/20160203213408/https://www.washingtonpost.com/news/the-switch/wp/2013/10/03/everything-we-know-about-ross-ulbricht-the-outdoorsy-libertarian-behind-silk-road/](http://web.archive.org/web/20160203213408/https://www.washingtonpost.com/news/the-switch/wp/2013/10/03/everything-we-know-about-ross-ulbricht-the-outdoorsy-libertarian-behind-silk-road/) 
 
     [Everything we know about Ross Ulbricht, the outdoorsy libertarian ...](http://web.archive.org/web/20160203213408/https:/www.washingtonpost.com/news/the-switch/wp/2013/10/03/everything-we-know-about-ross-ulbricht-the-outdoorsy-libertarian-behind-silk-road/)
 
     Ulbricht's social media profiles depict a man who lived physics, camping, libertarian politics -- and money.
 
-            ⧉infominer 19-Sep-19 06:46 AM
-
+            
     [https://www.forbes.com/sites/andygreenberg/2013/08/14/meet-the-dread-pirate-roberts-the-man-behind-booming-black-market-drug-website-silk-road/#39b084758b73](https://www.forbes.com/sites/andygreenberg/2013/08/14/meet-the-dread-pirate-roberts-the-man-behind-booming-black-market-drug-website-silk-road/#39b084758b73)
 
     [Meet The Dread Pirate Roberts, The Man Behind Booming Black Market...](https://www.forbes.com/sites/andygreenberg/2013/08/14/meet-the-dread-pirate-roberts-the-man-behind-booming-black-market-drug-website-silk-road/)
@@ -338,8 +323,7 @@
 
     His family have set up the twitter account @RealRossU, which relays messages Ulbricht dictates from prison. The account has sttracted over 18,000 followers and helped get over 55,000 signatures for a petition asking for clemency for Ulbricht.
 
-            ⧉infominer 25-Sep-19 04:51 AM
-
+            
     By 2010, Ulbricht had turned away from materials science and academia and announced on LinkedIn that he would be "creating an economic simulation to give people a firsthand experience of what it would be like to live in a world without the systemic use of force," by which he seemed to mean police and laws. Around the same time, according to federal prosecutors, he was consulting a guidebook called The Construction & Operation of Clandestine Drug Laboratories and had built a DIY "shroomery" at a remote cabin in Texas to grow hallucinogenic fungi that would be the first product he was going to sell through his economic "experiment."
 
     
@@ -362,8 +346,7 @@
 
     "The Most Important Trial in America : If you care about due process, Fourth Amendment protections against illegal searches, the limits of government surveillance, and Internet freedom, you should pay attention." – Nick Gillespie, editor-in- chief, Reason.com
 
-        ⧉infominer 26-Sep-19 08:42 PM
-
+        
     [https://www.wired.com/2015/04/silk-road-1/](https://www.wired.com/2015/04/silk-road-1/)
 
     Ross earned a scholarship to the University of Texas at Dallas and majored in physics. From there he landed a graduate scholarship at Penn State, where he excelled as usual. But he wasn’t happy with the drudgery of lab research. Since college he’d been exploring psychedelics and reading Eastern philosophy. At Penn State, Ross talked openly about switching fields. He posted online about his disenchantment with science—and his new interest in economics.
@@ -378,8 +361,7 @@
 
     But by the end of 2010, the new CEO of Good Wagon was looking beyond the book business. During his forays into trading, Ross had discovered bitcoin, the digital cryptocurrency. The value of bitcoin—based only on market factors, unattached to any central bank—aligned with his advancing libertarian philosophy. On his LinkedIn page, Ross wrote that he wanted to “use economic theory as a means to abolish the use of coercion and aggression amongst mankind.”
 
-        ⧉infominer 26-Sep-19 10:18 PM
-
+        
     [https://www.tvo.org/transcript/119583X/deep-web](https://www.tvo.org/transcript/119583X/deep-web)
 
     [https://www.imdb.com/title/tt3312868/](https://www.imdb.com/title/tt3312868/)
@@ -388,8 +370,7 @@
 
     Directed by Alex Winter. With Nicolas Christin, Cindy Cohn, Joshua L. Dratel, Andy Greenberg. A feature documentary that explores the rise of a new Internet; decentralized, encrypted, dangerous and beyond the law; with particular focus on the FBI capture of the Tor hidden se...
 
-            ⧉infominer 26-Sep-19 11:03 PM
-
+            
     [https://variety.com/2015/film/reviews/film-review-deep-web-1201509033/](https://variety.com/2015/film/reviews/film-review-deep-web-1201509033/)
 
     [Joe Leydon](https://variety.com/author/joeleydon/)
@@ -398,16 +379,14 @@
 
     , “Deep Web” begins as an illuminating overview of the Internet’s non-indexed digital substratum, then narrows its focus to recount the arrest, prosecution and conviction of Ross Ulbricht, alleged …
 
-            ⧉infominer 26-Sep-19 11:39 PM
-
+            
     [https://www.wired.com/2015/01/heres-secret-silk-road-journal-laptop-ross-ulbricht/](https://www.wired.com/2015/01/heres-secret-silk-road-journal-laptop-ross-ulbricht/)
 
     [Here's the Secret Silk Road Journal From the Laptop of Ross Ulbricht](https://www.wired.com/2015/01/heres-secret-silk-road-journal-laptop-ross-ulbricht/)
 
     As the saga of the Silk Road has unfolded over the last four years, everyone has had an opinion about the unprecedented, billion-dollar online narcotics bazaar, from press to politicians to prosecutors. Even the pseudonymous mastermind of the site, the Dread Pirate Roberts, g...
 
-            ⧉infominer 27-Sep-19 01:16 AM
-
+            
     [https://freeross.org/railroaded/](https://freeross.org/railroaded/)
 
     [RAILROADED — Never-Before-Seen Information. Over 400 Sources](https://freeross.org/railroaded/)
@@ -472,24 +451,21 @@
 
     [Lyn Ulbricht interviews - YouTube](https://www.youtube.com/playlist?list=PLPefjTxHVZSqH5zA8iY2_nccuFs3Nndpd)
 
-            ⧉infominer 27-Sep-19 11:05 PM
-
+            
     [https://cryptoanarchy.wiki/people/ross-ulbricht](https://cryptoanarchy.wiki/people/ross-ulbricht)
 
     [Ross Ulbricht (Dread Pirate Roberts)](https://cryptoanarchy.wiki/people/ross-ulbricht)
 
     Arise, you have nothing to lose but your barbed wire fences!
 
-            ⧉infominer 30-Sep-19 11:41 PM
-
+            
     Bitcoin Equals Freedom - Ross Ulbricht - Medium [https://medium.com/@RossUlbricht/bitcoin-equals-freedom-6c33986b4852](https://medium.com/@RossUlbricht/bitcoin-equals-freedom-6c33986b4852)
 
     [Bitcoin Equals Freedom](https://medium.com/@RossUlbricht/bitcoin-equals-freedom-6c33986b4852)
 
     By Ross Ulbricht
 
-            ⧉infominer 05-Oct-19 05:45 AM
-
+            
     [https://www.shroomery.org/forums/showflat.php/Number/21181583](https://www.shroomery.org/forums/showflat.php/Number/21181583)
 
     [Shroomery Was One of the First Places Silk Road Was Ever Mentioned...](https://www.shroomery.org/forums/showflat.php/Number/21181583)
@@ -504,28 +480,24 @@
 
     27 messages
 
-        ⧉infominer 19-Sep-19 01:05 AM
-
+        
     [https://www.gwern.net/Silk-Road](https://www.gwern.net/Silk-Road)
 
     The cypherpunk movement laid the ideological roots of Bitcoin and the online drug market Silk Road; balancing previous emphasis on cryptography, I emphasize the non-cryptographic market aspects of Silk Road which is rooted in cypherpunk economic reasoning, and give a fully detailed account of how a buyer might use market information to rationally buy, and finish by discussing strengths and weaknesses of Silk Road, and what future developments are predicted by cypherpunk ideas.
 
     
 
-        ⧉infominer 19-Sep-19 01:22 AM
-
+        
     [https://www.andrew.cmu.edu/user/nicolasc/publications/Christin-WWW13.pdf](https://www.andrew.cmu.edu/user/nicolasc/publications/Christin-WWW13.pdf)
 
-            ⧉infominer 19-Sep-19 06:25 AM
-
+            
     [https://thehiddenwiki.com/Silk_Road](https://thehiddenwiki.com/Silk_Road)
 
     Silk Road was an online Darknet Marketplace that operated as a Tor hidden service, such that online users are able to browse it anonymously and securely without potential traffic monitoring. Launched in February 2011, it was the first modern Darknet Marketplace. Although Silk Road was an underground website, sometimes called the "Amazon.com of illegal drugs" or the "eBay for drugs," the site also sold apparel, art, biotic materials, books, collectibles, computer equipment, digital goods, along with dozens of other categories of merchandise.
 
     [Silk Road](https://thehiddenwiki.com/Silk_Road)
 
-        ⧉infominer 21-Sep-19 01:14 AM
-
+        
     [https://cryptoanarchy.wiki/events/the-silk-road](https://cryptoanarchy.wiki/events/the-silk-road)
 
     [The Rise and Fall of the Silk Road](https://cryptoanarchy.wiki/events/the-silk-road)
@@ -552,24 +524,21 @@
 
     Silk Road: anonymous marketplace. Feedback requested :)
 
-        ⧉infominer 22-Sep-19 04:04 AM
-
+        
     [https://bitcointalk.org/index.php?topic=4437773.0](https://bitcointalk.org/index.php?topic=4437773.0)
 
     [Silk road and Bitcointalk. How it played a role in its rise and fall.](https://bitcointalk.org/index.php?topic=4437773.0)
 
     Silk road and Bitcointalk. How it played a role in its rise and fall.
 
-        ⧉infominer 25-Sep-19 04:55 AM
-
+        
     [https://freeross.org/case-timeline/](https://freeross.org/case-timeline/)
 
     [Timeline of the Silk Road Case — Free Ross](https://freeross.org/case-timeline/)
 
     "The Most Important Trial in America : If you care about due process, Fourth Amendment protections against illegal searches, the limits of government surveillance, and Internet freedom, you should pay attention." – Nick Gillespie, editor-in- chief, Reason.com
 
-        ⧉infominer 26-Sep-19 08:30 PM
-
+        
     [https://burntbrunch.github.io/Silk-Rabbit-Hole/html/](https://burntbrunch.github.io/Silk-Rabbit-Hole/html/) 
 
     [https://www.ranker.com/list/silk-road-dark-web-timeline/quinn-armstrong](https://www.ranker.com/list/silk-road-dark-web-timeline/quinn-armstrong)
@@ -588,8 +557,7 @@
 
     A 16-month trial unprecedented in magnitude in the history of global judicial systems culminated in a decision that found the man behind the Silk Road guilty of seven charges. Here's a timeline of how the deep web has evolved through the years.
 
-            ⧉infominer 26-Sep-19 10:16 PM
-
+            
     [https://antilop.cc/sr/users/](https://antilop.cc/sr/users/)
 
     [https://www.wired.com/2015/02/ross-ulbricht-didnt-create-silk-roads-dread-pirate-roberts-guy/](https://www.wired.com/2015/02/ross-ulbricht-didnt-create-silk-roads-dread-pirate-roberts-guy/)
@@ -598,8 +566,7 @@
 
     As Ulbricht's trial unfolded over the last month, one character appeared again and again in the chat logs prosecutors pulled from the laptop seized at the time of Ulbricht's arrest: a character calling himself Variety Jones, and later, cimon.
 
-            ⧉infominer 29-Sep-19 09:47 PM
-
+            
     Case 76: Silk Road (Part 1) - Casefile: True Crime Podcast [https://casefilepodcast.com/case-76-silk-road-part-1/](https://casefilepodcast.com/case-76-silk-road-part-1/)
 
     [Paulina Szymanska](https://casefilepodcast.com/author/casefile-admin-p/)
@@ -608,12 +575,10 @@
 
     The Silk Road was an ancient network of trade routes that started in China in the 2nd century B.C. Via a combination of roads, and sea routes, goods like silk, paper and spices were transported from the producers in Asia to markets in Europe...
 
-            ⧉infominer 29-Sep-19 10:14 PM
-
+            
     [http://1.droppdf.com/files/sJPdq/silk-road-eileen-ormsby.pdf](http://1.droppdf.com/files/sJPdq/silk-road-eileen-ormsby.pdf)
 
-        ⧉infominer 29-Sep-19 11:43 PM
-
+        
     Nick Bilton | American Kingpin (Episode 624) [https://theartofcharm.com/podcast-episodes/nick-bilton-american-kingpin-episode-624/](https://theartofcharm.com/podcast-episodes/nick-bilton-american-kingpin-episode-624/)
 
     [AJ Harbinger](https://theartofcharm.com/author/aj-harbinger/)
@@ -622,8 +587,7 @@
 
     Nick Bilton is a special correspondent for Vanity Fair and author of American Kingpin: The Epic Hunt for the Criminal Mastermind Behind the Silk Road.
 
-            ⧉infominer 30-Sep-19 01:15 AM
-
+            
     [https://podcasts.apple.com/us/podcast/drugs-bitcoin-deep-web-silk-road-historian-eileen-ormsby/id1046414365?i=1000386631845](https://podcasts.apple.com/us/podcast/drugs-bitcoin-deep-web-silk-road-historian-eileen-ormsby/id1046414365?i=1000386631845)
 
     [‎Bitcoin Uncensored: Drugs, Bitcoin and the Deep Web with Silk R...](https://podcasts.apple.com/us/podcast/drugs-bitcoin-deep-web-silk-road-historian-eileen-ormsby/id1046414365?i=1000386631845)
@@ -638,8 +602,7 @@
 
     Who is Eileen Ormsby and how did she become an authority on Silk Road and its history? We get the elusive author onto the show to talk about the fascinating ...
 
-            ⧉infominer 30-Sep-19 01:26 AM
-
+            
     About | All Things VICE [https://allthingsvice.com/about/](https://allthingsvice.com/about/)
 
     [All Things Vice](https://allthingsvice.com/author/allthingsvice/)
@@ -648,8 +611,7 @@
 
     Thanks for visiting All Things Vice. I’m Eileen Ormsby, a Melbourne-based writer, author and journalist. My previous lives have included that of a corporate lawyer, skydiving bum and producti…
 
-            ⧉infominer 08-Oct-19 08:29 PM
-
+            
     [https://www.reddit.com/r/IAmA/comments/inrbo/iama_seller_on_the_illegal_anonymous_marketplace/](https://www.reddit.com/r/IAmA/comments/inrbo/iama_seller_on_the_illegal_anonymous_marketplace/)
 
     [IAMA seller on the illegal anonymous marketplace Silk Road. AMA.](https://www.reddit.com/r/IAmA/comments/inrbo/iama_seller_on_the_illegal_anonymous_marketplace/)
@@ -662,8 +624,7 @@
 
     Silk Road: anonymous marketplace. Feedback requested :)
 
-        ⧉infominer 26-Oct-19 10:11 PM
-
+        
     [https://www.wired.com/story/bitcoin-drug-deals-silk-road-blockchain/](https://www.wired.com/story/bitcoin-drug-deals-silk-road-blockchain/)
 
     [Your Sloppy Bitcoin Drug Deals Will Haunt You for Years](https://www.wired.com/story/bitcoin-drug-deals-silk-road-blockchain/)
@@ -678,8 +639,7 @@
 
     16 messages
 
-        ⧉infominer 19-Sep-19 01:16 AM
-
+        
     [https://twitter.com/SourceCrypto/status/1174551264237170688?s=20](https://twitter.com/SourceCrypto/status/1174551264237170688?s=20)
 
         [Crypto Curation Portal (@SourceCrypto)](https://twitter.com/SourceCrypto)
@@ -700,8 +660,7 @@
 
     A few months back, we explored Bitcoin, and the growing attention it was receiving. The distributed currency has certainly been getting a lot of attention lately (causing the exchange rate to skyrocket). Of course, as with any such thing, there was...
 
-            ⧉infominer 19-Sep-19 02:00 AM
-
+            
     [http://www.pcworld.com/article/230084/us_senators_want_to_shut_down_bitcoins_currency_of_internet_drug_trade.html](http://www.pcworld.com/article/230084/us_senators_want_to_shut_down_bitcoins_currency_of_internet_drug_trade.html)
 
     [U.S. Senators Want to Shut Down Bitcoins, Currency of Internet Dru...](http://www.pcworld.com/article/230084/us_senators_want_to_shut_down_bitcoins_currency_of_internet_drug_trade.html)
@@ -714,20 +673,17 @@
 
     Above is a chart of the exchange rate, in dollars, of the digital currency Bitcoin. That red arrow shows the price on Wednesday afternoon right after we published a story about Silk Road, a Bitcoin-powered online marketplace where you can easily buy illegal drugs. In the past...
 
-        ⧉infominer 19-Sep-19 03:46 AM
-
+        
     [https://www.reddit.com/r/SilkRoad/comments/1380h6/is_the_total_of_private_listings_bigger_or/](https://www.reddit.com/r/SilkRoad/comments/1380h6/is_the_total_of_private_listings_bigger_or/)
 
     [Is the total of private listings bigger or smaller than public lis...](https://www.reddit.com/r/SilkRoad/comments/1380h6/is_the_total_of_private_listings_bigger_or/)
 
     Folks: I'm studying [http://arxiv.org/abs/1207.7139](http://arxiv.org/abs/1207.7139). All the data they report on in that paper are from scraping the public listings. They don't...
 
-            ⧉infominer 19-Sep-19 03:55 AM
-
+            
     [https://uproxx.com/wp-content/uploads/2012/08/illicit_financial_flows_2011_web.pdf](https://uproxx.com/wp-content/uploads/2012/08/illicit_financial_flows_2011_web.pdf)
 
-        ⧉infominer 19-Sep-19 04:24 AM
-
+        
     [https://www.vice.com/en_us/article/qkkkwx/traveling-down-the-silkroad-to-buy-drugs-with-bitcoins](https://www.vice.com/en_us/article/qkkkwx/traveling-down-the-silkroad-to-buy-drugs-with-bitcoins)
 
     [Traveling Down the Silk Road to Buy Drugs With Bitcoins](https://www.vice.com/en_us/article/qkkkwx/traveling-down-the-silkroad-to-buy-drugs-with-bitcoins)
@@ -774,16 +730,14 @@
 
     Look at the seller's description of the product. If they're very detailed, then they're probably more serious. If they give one sentence, they...
 
-            ⧉infominer 19-Sep-19 05:29 AM
-
+            
     [https://web.archive.org/web/20131211213827/http://weirderweb.com/2013/02/01/black-market-reloaded-grew-more-than-16000-new-registrations-in-january-and-has-more-publicly-available-items-than-silk-road/](https://web.archive.org/web/20131211213827/http://weirderweb.com/2013/02/01/black-market-reloaded-grew-more-than-16000-new-registrations-in-january-and-has-more-publicly-available-items-than-silk-road/)
 
     [Black Market Reloaded grew more than 16,000 new registrations in J...](https://web.archive.org/web/20131211213827/http:/weirderweb.com/2013/02/01/black-market-reloaded-grew-more-than-16000-new-registrations-in-january-and-has-more-publicly-available-items-than-silk-road/)
 
     Black Market Reloaded, the most prominent competitor to Silk Road in the growing world of Tor marketplaces, processed 16,000 new registrations last month, making January its biggest month ever for ...
 
-        ⧉infominer 19-Sep-19 05:36 AM
-
+        
     [https://web.archive.org/web/20131031070224/http://weirderweb.com/2013/10/11/the-definitive-history-of-silk-road/](https://web.archive.org/web/20131031070224/http://weirderweb.com/2013/10/11/the-definitive-history-of-silk-road/)
 
     To help balance against Bitcoin’s volatility, Dread Pirate Roberts introduced a “hedged escrow” option buyers and sellers in May 2011. For the rest of Silk Road’s lifespan, bitcoins were converted into U.S. dollars after a purchase, held in an escrow, and then changed back as the transaction was finalized, thus shielding both sides significantly from whatever currency volatility may creep up.
@@ -792,8 +746,7 @@
 
     This is a necessary update to the history of Silk Road that I wrote almost a year ago. Check it out. Before Chen’s article, Silk Road had hundreds of users. That soon jumped an order of magnitude, ...
 
-        ⧉infominer 19-Sep-19 06:02 AM
-
+        
     [https://github.com/BurntBrunch/Silk-Rabbit-Hole](https://github.com/BurntBrunch/Silk-Rabbit-Hole)
 
     [BurntBrunch/Silk-Rabbit-Hole](https://github.com/BurntBrunch/Silk-Rabbit-Hole)
@@ -808,8 +761,7 @@
 
     Making small talk with your pot dealer sucks. Buying cocaine can get you shot. What if you could buy and sell drugs online like books or light bulbs? Now you can: Welcome to Silk Road.
 
-            ⧉infominer 26-Sep-19 08:35 PM
-
+            
     [https://antilop.cc/sr/img/2011_01_23_silkroad420.wordpress.com.png](https://antilop.cc/sr/img/2011_01_23_silkroad420.wordpress.com.png)
 
     - 🏴 Silk Road 12
@@ -820,16 +772,14 @@
 
     12 messages
 
-        ⧉infominer 19-Sep-19 01:56 AM
-
+        
     [https://arstechnica.com/tech-policy/2012/08/study-estimates-2-million-a-month-in-bitcoin-drug-sales/](https://arstechnica.com/tech-policy/2012/08/study-estimates-2-million-a-month-in-bitcoin-drug-sales/)
 
     [Study estimates $2 million a month in Bitcoin drug sales](https://arstechnica.com/tech-policy/2012/08/study-estimates-2-million-a-month-in-bitcoin-drug-sales/)
 
     Revenues of the drug marketplace Silk Road have doubled since March.
 
-            ⧉infominer 19-Sep-19 03:12 AM
-
+            
     [https://allthingsvice.com/2012/11/16/what-the-hells-going-on-at-silk-road/#more-177](https://allthingsvice.com/2012/11/16/what-the-hells-going-on-at-silk-road/#more-177)
 
     [All Things Vice](https://allthingsvice.com/author/allthingsvice/)
@@ -858,16 +808,14 @@
 
     We perform a comprehensive measurement analysis of Silk Road, an anonymous, international online marketplace that operates as a Tor hidden service and uses Bitcoin as its exchange currency. We...
 
-        ⧉infominer 19-Sep-19 03:53 AM
-
+        
     [http://web.archive.org/web/20120710024006/https://www.kxan.com/dpp/news/investigations/website-enables-easy-illegal-drug-sales](http://web.archive.org/web/20120710024006/https://www.kxan.com/dpp/news/investigations/website-enables-easy-illegal-drug-sales)
 
     [Website enables easy illegal drug sales | KXAN.COM](http://web.archive.org/web/20120710024006/https:/www.kxan.com/dpp/news/investigations/website-enables-easy-illegal-drug-sales)
 
     Log on to the Silk Road Anonymous Marketplace, and you may think you are looking at an eBay-type website. However, you will not find children's clothing or used electronics to buy.
 
-            ⧉infominer 19-Sep-19 04:23 AM
-
+            
     [https://uproxx.com/technology/study-proves-silk-road-still-just-overrated-fad/](https://uproxx.com/technology/study-proves-silk-road-still-just-overrated-fad/)
 
     [uproxx](https://uproxx.com/author/uproxx/)
@@ -876,8 +824,7 @@
 
     The Silk Road is less exotic trade route and more boring-ass covered bridge.
 
-            ⧉infominer 19-Sep-19 05:38 AM
-
+            
     [https://bitcoinmagazine.com/articles/the-silk-road-report](https://bitcoinmagazine.com/articles/the-silk-road-report)
 
     [The Silk Road Report](https://bitcoinmagazine.com/articles/the-silk-road-report)
@@ -890,8 +837,7 @@
 
     Silk Road attracts people for many reasons. Some are simply interested in having a safe and easy place to buy and sell illegal items, of which drugs are by far the largest category.
 
-            ⧉infominer 25-Sep-19 08:02 PM
-
+            
     [https://www.gq-magazine.co.uk/article/silk-road-online-drugs-guns-black-market](https://www.gq-magazine.co.uk/article/silk-road-online-drugs-guns-black-market)
 
     In spring 2012, Nicolas Christin, a researcher at Carnegie Mellon university's cyber-security research centre, monitored activity on Silk Road for six months and estimated sales on the marketplace of £14.2m a year. Not bad for an 18-month-old start-up. "The total volume of sales was increasing quite significantly," said Christin, on the phone from his office in Pittsburgh. "The number of active sellers almost doubled over six months. So it definitely was growing. The numbers are probably even higher now."
@@ -900,8 +846,7 @@
 
     Forget South American cartels and Russian arms dealers: the black market has moved online
 
-            ⧉infominer 30-Sep-19 02:09 AM
-
+            
     [https://www.theage.com.au/national/victoria/the-drugs-in-the-mail-20120426-1xnth.html](https://www.theage.com.au/national/victoria/the-drugs-in-the-mail-20120426-1xnth.html)
 
     [The drug's in the mail](https://www.theage.com.au/national/victoria/the-drugs-in-the-mail-20120426-1xnth.html)
@@ -910,8 +855,7 @@
 
     [https://static.ffx.io/images/$width_620%2C$height_414/t_crop_fill/q_86%2Cf_auto/1a5a0177fd8f64c62739d4d9fdb65c60b16cad8e](https://static.ffx.io/images/$width_620%2C$height_414/t_crop_fill/q_86%2Cf_auto/1a5a0177fd8f64c62739d4d9fdb65c60b16cad8e)
 
-        ⧉infominer 30-Sep-19 04:50 AM
-
+        
     [https://monicabarratt.net/anything-is-possible-on-the-silk-road/](https://monicabarratt.net/anything-is-possible-on-the-silk-road/)
 
     [Monica Barratt](https://monicabarratt.net/author/monica/)
@@ -926,8 +870,7 @@
 
     33 messages
 
-        ⧉infominer 06-Aug-19 06:38 PM
-
+        
     [https://blockchainlibrary.org/2017/11/most-cited-silk-road-publications/](https://blockchainlibrary.org/2017/11/most-cited-silk-road-publications/) [https://www.wired.com/2015/04/silk-road-1/](https://www.wired.com/2015/04/silk-road-1/)
 
     [Most Cited Silk Road Publications](https://blockchainlibrary.org/2017/11/most-cited-silk-road-publications/)
@@ -946,8 +889,7 @@
 
     When the FBI arrested Silk Road boss Ross William Ulbricht and took his site down, they seized the site's assets, which were mainly the currency of choice on the anonymous online drug bazaar: Bitcoins. A whole lot of Bitcoins.
 
-        ⧉infominer 06-Aug-19 06:52 PM
-
+        
     [https://gir.pub/deepdotweb/2013/12/28/silk-road-reopens-losing-escrow-funds-releasing-new-features/](https://gir.pub/deepdotweb/2013/12/28/silk-road-reopens-losing-escrow-funds-releasing-new-features/)
 
     [Silk Road Reopens: Losing Escrow Funds & Releasing New Features](https://gir.pub/deepdotweb/2013/12/28/silk-road-reopens-losing-escrow-funds-releasing-new-features/)
@@ -1082,8 +1024,7 @@
 
     [End of Silk Road – Youtube Tribute](https://gir.pub/deepdotweb/2013/10/17/end-of-silk-road-youtube-tribute/)
 
-        ⧉infominer 19-Sep-19 12:15 AM
-
+        
     [https://qz.com/131084/silk-road-collected-9-5-million-bitcoin-and-only-11-75-million-exist/](https://qz.com/131084/silk-road-collected-9-5-million-bitcoin-and-only-11-75-million-exist/)
 
     [Silk Road collected 9.5 million bitcoin—and only 11.75 million exist](https://qz.com/131084/silk-road-collected-9-5-million-bitcoin-and-only-11-75-million-exist/)
@@ -1102,22 +1043,19 @@
 
     In a blow for the burgeoning economy of black markets on the Internet’s so-called “Deep Web”, trading site the [Silk Road](http://en.wikipedia.org/wiki/Silk_Road_(marketplace) has been shut down by US…
 
-            ⧉infominer 19-Sep-19 05:26 AM
-
+            
     [https://www.swansea.ac.uk/media/Silk-Road-and-Bitcoin.pdf](https://www.swansea.ac.uk/media/Silk-Road-and-Bitcoin.pdf)
 
     The much trumpeted closure in October 2013 of the Tor-accessible illicit market known as Silk Road and arrest of its founder Robert Ulbricht struck a blow to consumer trust in the market for illicit goods and specifically narcotic drugs that are hosted on the Tor network. However, this success for the US multi-agency task force (involving the Federal Bureau of Investigation, Drug Enforcement Administration, Department of Homeland Security, Internal Revenue Service, US Postal Inspection, Secret Service and Bureau of Alcohol, Tobacco, Firearms and Explosives) does not mark the end of black markets hosted on the Tor network, or the availability of drugs anonymously bought online. Rather it spurred innovations in online illicit trading, underlining the hydra headed nature of ‘successful’ interdiction effort
 
-        ⧉infominer 19-Sep-19 06:12 AM
-
+        
     [https://www.dailydot.com/crime/silk-road-heroin-arrest-nod/](https://www.dailydot.com/crime/silk-road-heroin-arrest-nod/)
 
     [The rise and fall of Silk Road's most prolific heroin salesman](https://www.dailydot.com/crime/silk-road-heroin-arrest-nod/)
 
     Nod sold the best black-tar heroin on the Internet.
 
-            ⧉infominer 26-Sep-19 09:18 PM
-
+            
     [https://krypt3ia.wordpress.com/2013/10/31/the-dread-pirate-roberts-2-0-the-return-of-silk-road/](https://krypt3ia.wordpress.com/2013/10/31/the-dread-pirate-roberts-2-0-the-return-of-silk-road/)
 
     [Krypt3ia](https://krypt3ia.wordpress.com/author/krypt3ia/)
@@ -1126,16 +1064,14 @@
 
     BPRDPRDGIUGIUGIUGIUGIUGIUGIUGIUGIUGIUGIUGIUGIUGIUGIUGIU! DPR 2.0 You just can’t keep a good pirate down it seems and as the movie/book “Princess Bride” set the precedent for the &…
 
-            ⧉infominer 26-Sep-19 09:27 PM
-
+            
     [https://www.reddit.com/r/SilkRoad/comments/1d5f0q/silk_road_charter/](https://www.reddit.com/r/SilkRoad/comments/1d5f0q/silk_road_charter/)
 
     [Silk Road Charter](https://www.reddit.com/r/SilkRoad/comments/1d5f0q/silk_road_charter/)
 
     DPRs' awesome charter. It's from the link in his 10% post. Silk Road Charter Silk Road is a global enterprise whose purpose is to empower people...
 
-            ⧉infominer 26-Sep-19 11:37 PM
-
+            
     [https://www.wired.com/2015/02/read-transcript-silk-roads-boss-ordering-5-assassinations/](https://www.wired.com/2015/02/read-transcript-silk-roads-boss-ordering-5-assassinations/)
 
     [Read the Transcript of Silk Road's Boss Ordering 5 Assassinations](https://www.wired.com/2015/02/read-transcript-silk-roads-boss-ordering-5-assassinations/)
@@ -1150,8 +1086,7 @@
 
     1 messages
 
-        ⧉infominer 06-Aug-19 07:00 PM
-
+        
     [https://gir.pub/deepdotweb/2014/01/05/silk-road-2-0-lost-escrow-funds-returned/](https://gir.pub/deepdotweb/2014/01/05/silk-road-2-0-lost-escrow-funds-returned/)
 
     [Silk Road 2.0: Lost Escrow Funds returned!](https://gir.pub/deepdotweb/2014/01/05/silk-road-2-0-lost-escrow-funds-returned/)
@@ -1166,8 +1101,7 @@
 
     1 messages
 
-        ⧉infominer 10-Aug-19 07:02 AM
-
+        
     [https://youmeandbtc.com/bitcoin-podcast/ymb-podcast-e56-bitcoin-belle-ulbricht-case-silk-road/](https://youmeandbtc.com/bitcoin-podcast/ymb-podcast-e56-bitcoin-belle-ulbricht-case-silk-road/)
 
     [Daniel Brown](https://youmeandbtc.com/author/daniel/)
@@ -1188,8 +1122,7 @@
 
     ‎Show Darknet Diaries, Ep Ep 24: Operation Bayonet - Oct 15, 2018
 
-            ⧉infominer 19-Sep-19 03:30 AM
-
+            
         [http://web.archive.org/web/20110621082628/http://www.betabeat.com/2011/06/15/bit-omoney-whos-behind-the-bitcoin-bubble/](http://web.archive.org/web/20110621082628/http://www.betabeat.com/2011/06/15/bit-omoney-whos-behind-the-bitcoin-bubble/)
 
         [http://web.archive.org/web/20110626102852/http://bitgigs.com/](http://web.archive.org/web/20110626102852/http://bitgigs.com/)
@@ -1200,8 +1133,7 @@
 
     Find services and goods you can buy with Bitcoins on Bitcoinclassifieds.net!
 
-            ⧉infominer 19-Sep-19 03:49 AM
-
+            
     [https://arstechnica.com/tech-policy/2012/04/feds-shutter-online-narcotics-store-that-used-tor-to-hide-its-tracks/](https://arstechnica.com/tech-policy/2012/04/feds-shutter-online-narcotics-store-that-used-tor-to-hide-its-tracks/) [http://arstechnica.com/tech-policy/2012/07/australian-cops-tout-arrest-of-man-for-bitcoin-drug-deal/](http://arstechnica.com/tech-policy/2012/07/australian-cops-tout-arrest-of-man-for-bitcoin-drug-deal/)
 
     [Feds shutter online narcotics store that used TOR to hide its tracks](https://arstechnica.com/tech-policy/2012/04/feds-shutter-online-narcotics-store-that-used-tor-to-hide-its-tracks/)
@@ -1214,26 +1146,22 @@
 
         [https://cdn.discordapp.com/attachments/624096202979409921/624149868750962708/unknown.png](https://cdn.discordapp.com/attachments/624096202979409921/624149868750962708/unknown.png)
 
-            ⧉infominer 19-Sep-19 04:21 AM
-
+            
     Estimating illicit financial flowsrEsulting from drug trafficking andothEr transnational organizEd crimEs [https://uproxx.com/wp-content/uploads/2012/08/illicit_financial_flows_2011_web.pdf](https://uproxx.com/wp-content/uploads/2012/08/illicit_financial_flows_2011_web.pdf)
 
-        ⧉infominer 19-Sep-19 06:04 AM
-
+        
     [https://www.gwern.net/DNM-archives](https://www.gwern.net/DNM-archives)
 
     [Darknet Market Archives (2013-2015)](https://www.gwern.net/DNM-archives)
 
     Mirrors of ~89 Tor-Bitcoin darknet markets & forums 2011-2015, and related material
 
-        ⧉infominer 19-Sep-19 06:13 AM
-
+        
     [https://thehiddenwiki.com/Black_Market_Reloaded](https://thehiddenwiki.com/Black_Market_Reloaded)
 
     [Black Market Reloaded](https://thehiddenwiki.com/Black_Market_Reloaded)
 
-        ⧉infominer 20-Sep-19 05:34 AM
-
+        
     [https://bitcointalk.org/index.php?topic=529.0](https://bitcointalk.org/index.php?topic=529.0)
 
     [Anonymous Prepaid Visa/Mastercard](https://bitcointalk.org/index.php?topic=529.0)
@@ -1246,14 +1174,12 @@
 
     Dmytrij's anonymous VPS
 
-        ⧉infominer 22-Sep-19 04:16 AM
-
+        
     pre-history>>> 
 
     [Attachment: epdf.pub_darkmarket-cyberthieves-cybercops-and-you.epub (2.14 MB)](https://cdn.discordapp.com/attachments/608433822454906886/625244052144783360/epdf.pub_darkmarket-cyberthieves-cybercops-and-you.epub)
 
-        ⧉infominer 22-Sep-19 06:37 PM
-
+        
     [https://www.nytimes.com/2019/06/11/technology/online-dark-web-drug-markets.html](https://www.nytimes.com/2019/06/11/technology/online-dark-web-drug-markets.html)
 
     By Nathaniel Popper
@@ -1262,28 +1188,24 @@
 
     The notorious Silk Road site was shut down in 2013. Others have followed. But the online trafficking of illegal narcotics hasn’t abated.
 
-            ⧉infominer 25-Sep-19 04:47 AM
-
+            
     [https://www.research.manchester.ac.uk/portal/judith.aldridge.html](https://www.research.manchester.ac.uk/portal/judith.aldridge.html)
 
-        ⧉infominer 26-Sep-19 11:16 PM
-
+        
     [https://medium.com/@c5/darkweb-vendors-and-the-basic-opsec-mistakes-they-keep-making-e54c285a488c](https://medium.com/@c5/darkweb-vendors-and-the-basic-opsec-mistakes-they-keep-making-e54c285a488c)
 
     [Darkweb Vendors and the Basic Opsec Mistakes They Keep Making](https://medium.com/@c5/darkweb-vendors-and-the-basic-opsec-mistakes-they-keep-making-e54c285a488c)
 
     A brief overview of the investigations into darkweb vendors who utterly failed to keep their identity private.
 
-            ⧉infominer 27-Sep-19 11:32 PM
-
+            
     [https://en.wikipedia.org/wiki/Darknet_market](https://en.wikipedia.org/wiki/Darknet_market)
 
     [Darknet market](https://en.wikipedia.org/wiki/Darknet_market)
 
     A darknet market or cryptomarket is a commercial website on the web that operates via darknets such as Tor or I2P. They function primarily as black markets, selling or brokering transactions involving drugs, cyber-arms, weapons, counterfeit currency, stolen credit card deta...
 
-        ⧉infominer 30-Sep-19 02:06 AM
-
+        
     [Attachment: blg-780339.pdf (2.35 MB)](https://cdn.discordapp.com/attachments/608433822454906886/628110417662836736/blg-780339.pdf)
 
     [https://www.rand.org/pubs/research_reports/RR1607.html](https://www.rand.org/pubs/research_reports/RR1607.html)
@@ -1292,20 +1214,17 @@
 
     Silk Road was the first major online marketplace for illegal goods on the hidden web. Since the FBI took it down in 2013, copycats have filled the void. Transactions for illicit drugs on cryptomarkets have tripled and revenues have doubled.
 
-            ⧉infominer 30-Sep-19 09:47 PM
-
+            
     [https://www.europol.europa.eu/sites/default/files/documents/drugs_and_the_darknet_-_td0417834enn.pdf](https://www.europol.europa.eu/sites/default/files/documents/drugs_and_the_darknet_-_td0417834enn.pdf)
 
-        ⧉infominer 02-Oct-19 01:19 AM
-
+        
     [https://web.archive.org/web/20150630144459/https://www.deepdotweb.com/2015/01/05/darknetmarkets-mainstream/](https://web.archive.org/web/20150630144459/https://www.deepdotweb.com/2015/01/05/darknetmarkets-mainstream/)
 
     [Before DarkNetMarkets Were Mainstream](https://web.archive.org/web/20150630144459/https:/www.deepdotweb.com/2015/01/05/darknetmarkets-mainstream/)
 
     10 years ago, before there was TOR, before using PGP was something we all thought of as a baseline m...
 
-            ⧉infominer 03-Oct-19 04:30 AM
-
+            
     [https://foreignpolicy.com/2013/12/09/the-darknet-a-short-history/](https://foreignpolicy.com/2013/12/09/the-darknet-a-short-history/)
 
     [Matt Johnson](https://foreignpolicy.com/author/xmattus/)
@@ -1320,8 +1239,7 @@
 
     Dark Net (or Darknet) is an umbrella term describing the portions of the Internet purposefully not open to public view or hidden networks whose architecture is superimposed on that of the Internet. "Darknet" is often associated with the encrypted part of the Internet called T...
 
-        ⧉infominer 04-Oct-19 10:57 AM
-
+        
     [https://link.springer.com/chapter/10.1007/978-3-540-44993-5_10](https://link.springer.com/chapter/10.1007/978-3-540-44993-5_10)
 
     [The Darknet and the Future of Content Protection](https://link.springer.com/chapter/10.1007/978-3-540-44993-5_10)
@@ -1342,8 +1260,7 @@
 
     Welcome to r/darknet we are deep web enthusiasts who want to help others. Please use the search function before posting, posts that can be...
 
-            ⧉infominer 08-Oct-19 08:29 PM
-
+            
     [https://wiki.p2pfoundation.net/Anonymous_Marketplace](https://wiki.p2pfoundation.net/Anonymous_Marketplace)
 
     [Anonymous Marketplace](https://wiki.p2pfoundation.net/Anonymous_Marketplace)
@@ -1356,8 +1273,7 @@
 
     1 messages
 
-        ⧉infominer 19-Sep-19 04:24 AM
-
+        
     [https://www.news.com.au/national/postman-pot/news-story/d913e6390a81267632d0b7403eaa73fc](https://www.news.com.au/national/postman-pot/news-story/d913e6390a81267632d0b7403eaa73fc)
 
     [Postman pot: Drug users turn to the web](https://www.news.com.au/national/postman-pot/news-story/d913e6390a81267632d0b7403eaa73fc)
@@ -1372,28 +1288,24 @@
 
     7 messages
 
-        ⧉infominer 19-Sep-19 03:55 AM
-
+        
     [https://gir.pub/deepdotweb/2013/10/18/list-hidden-marketplaces-18-10-13/](https://gir.pub/deepdotweb/2013/10/18/list-hidden-marketplaces-18-10-13/)
 
     [List Hidden Marketplaces 18.10.13](https://gir.pub/deepdotweb/2013/10/18/list-hidden-marketplaces-18-10-13/)
 
     Posted by: DeepDotWeb October 18, 2013
 
-        ⧉infominer 19-Sep-19 06:21 AM
-
+        
     [https://thehiddenwiki.com/Agora](https://thehiddenwiki.com/Agora)
 
     [Agora](https://thehiddenwiki.com/Agora)
 
-        ⧉infominer 19-Sep-19 06:29 AM
-
+        
     [https://thehiddenwiki.com/Sheep_Marketplace](https://thehiddenwiki.com/Sheep_Marketplace)
 
     [Sheep Marketplace](https://thehiddenwiki.com/Sheep_Marketplace)
 
-        ⧉infominer 25-Sep-19 02:12 AM
-
+        
     [http://www.globaldrugsurvey.com/global-drug-survey-2013/](http://www.globaldrugsurvey.com/global-drug-survey-2013/)
 
     [Claire](https://www.globaldrugsurvey.com/author/96bm6662hyu72/)
@@ -1402,24 +1314,21 @@
 
     Global Drug Survey runs the biggest drug survey in the world
 
-        ⧉infominer 25-Sep-19 08:05 PM
-
+        
     [https://www.huffpost.com/entry/buy-illegal-drugs_n_4038653](https://www.huffpost.com/entry/buy-illegal-drugs_n_4038653)
 
     [Silk Road Clones Ensure No One Has To Go A Day Without Drugs](https://www.huffpost.com/entry/buy-illegal-drugs_n_4038653)
 
     One day after the FBI shut down Silk Road, the infamous so-called "eBay for drugs," hundreds of vendors and customers who previously used the site scramb...
 
-            ⧉infominer 26-Sep-19 10:16 PM
-
+            
     [https://antilop.cc/sr/users/dpr/html/dpr_posts_page_01_start_000.html](https://antilop.cc/sr/users/dpr/html/dpr_posts_page_01_start_000.html)
 
     [Show Posts - Dread Pirate Roberts](https://antilop.cc/sr/users/dpr/html/dpr_posts_page_01_start_000.html)
 
     Show Posts - Dread Pirate Roberts
 
-        ⧉infominer 26-Sep-19 10:35 PM
-
+        
     [https://www.youtube.com/watch?v=HJOSm9Bg7WY](https://www.youtube.com/watch?v=HJOSm9Bg7WY)
 
     [Motherboard](https://www.youtube.com/user/MotherboardTV)
@@ -1436,8 +1345,7 @@
 
     3 messages
 
-        ⧉infominer 19-Sep-19 06:22 AM
-
+        
     [https://thehiddenwiki.com/Evolution](https://thehiddenwiki.com/Evolution)
 
     [Evolution](https://thehiddenwiki.com/Evolution)
@@ -1448,8 +1356,7 @@
 
     Evolution is back, but only as a torrent.
 
-            ⧉infominer 24-Sep-19 07:28 AM
-
+            
     [https://www.wired.com/2014/04/darkmarket/](https://www.wired.com/2014/04/darkmarket/)
 
     [Inside the 'DarkMarket' Prototype, a Silk Road the FBI Can Never Seize](https://www.wired.com/2014/04/darkmarket/)
@@ -1464,8 +1371,7 @@
 
     1 messages
 
-        ⧉infominer 19-Sep-19 04:19 AM
-
+        
     [https://worldpolicy.org/2015/12/09/the-dark-net-policing-the-internets-underworld/](https://worldpolicy.org/2015/12/09/the-dark-net-policing-the-internets-underworld/)
 
     [admin](https://worldpolicy.org/author/admin/)
@@ -1480,16 +1386,14 @@
 
     2 messages
 
-        ⧉infominer 30-Sep-19 02:45 AM
-
+        
     [https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485?i=1000421826214](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485?i=1000421826214)
 
     [‎Darknet Diaries: Ep 24: Operation Bayonet on Apple Podcasts](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485?i=1000421826214)
 
     ‎Show Darknet Diaries, Ep Ep 24: Operation Bayonet - Oct 15, 2018
 
-            ⧉infominer 30-Sep-19 03:13 AM
-
+            
     Operation Bayonet (darknet) - Wikipedia [https://en.wikipedia.org/wiki/Operation_Bayonet_(darknet)](https://en.wikipedia.org/wiki/Operation_Bayonet_(darknet))
 
     [Operation Bayonet (darknet)](https://en.wikipedia.org/wiki/Operation_Bayonet_(darknet))
@@ -1532,16 +1436,14 @@
 
     -----BEGIN PGP SIGNED MESSAGE----- Hash: SHA256 PGP signed list of active Samsara Market mirror links. http://samsaraccrn2jmin.onion http://amonelidbdizstxk.onion http://sbdvzjhqjoodrzds.onion http://znsomnia3qpgwone.onion http://aavjkhui4wfzla2v.onion http://ibxcmwhujh65bonv.onion http://dutfguflye57uphq.onion http://f2hecvcfsbp6usqk.onion http://paieqfjlf45iwjeq.onion http://ryskugzainxtrnyh.onion http://veiifaxfimaraj25.onion http://zudtuaqrt57miwt4.onion http://2skidbptsjf6gwul.onion Date of signature: September 25, 2019, 12:05 am Signed by the Samsara Market (http://samsaraccrn2jmin.onion/about) official PGP key. -----BEGIN PGP SIGNATURE----- iQIzBAEBCAAdFiEEofPjP4DfTCMfvqAaOzJJybbjrggFAl2K9ZoACgkQOzJJybbj rggqOQ//VDMqShOErdYgXTnYPrL3cRaC+8OjMNUv9s4HE4Acvsonf2rxREBmo2Up 1vwg344Hb3ckvB9DZ2siub5qeYW53LFTPKkLpMjgdjlTehB1i3+eCMBa+nwBKN8i o3OB5StICXehjVNxamKZbDcMubpBIpihVDr3ZN+nsALX6COvKZwNEfAo+HZzSrzP LcXJvCGlbcSAmreiqQuUZEiKaxqmZAslRA5WC1Gb2OuZzu5C/Z5pVfXeW2uCh47o 7lxtLSsxubdjfynpYXf0FltEW8Ix+quj96hGck4RVxseb8MUTt2Afh6MGY0sfsJq fLP/Io7GTnla8eHWdX61P046a9kcG7uHwv9sUOIMw6Ynev9lOSHLdH7aLizlAscd /c1oXfFkCioKHdM5cytbeTrXkFbLrf/Gc8KkTnsGf0/qLlXv5utq5wkePwnDQRjj p7zQXnfrrNkKLT/Q+sKQihr2BgH9pDVNAjPaPV3tsSL4wbpRtz9m/pxTxSQN7aSE Gh0Qlrd8yz1YGSlc9xTo36YvycPqT1XV9eQWfpFH3UCFxbsNPvarEvoBlU+a4NLN +q7Pcr8XHVQuc6G9F6XxgQhhmEvLQP9nfzG368gr3lhAiG/qUKutHtvuWQF488YG p+fmCp7BAyeGjK//3EDx/iqaKni6bEL9q5dXBgUi39b4gwDkJfc= =n9DO -----END PGP SIGNATURE-----
 
-        ⧉infominer 25-Sep-19 02:14 AM
-
+        
     [https://www.occrp.org/en/daily/8055-new-report-shows-more-people-buying-illegal-drugs-online](https://www.occrp.org/en/daily/8055-new-report-shows-more-people-buying-illegal-drugs-online)
 
     [New Report Shows More People Buying Illegal Drugs Online](https://www.occrp.org/en/daily/8055-new-report-shows-more-people-buying-illegal-drugs-online)
 
     An increasing amount of people are ordering drugs over the dark web, according to a Global Drug Survey report released Wednesday.
 
-            ⧉infominer 26-Sep-19 11:18 PM
-
+            
     [https://twitter.com/5auth/status/1131511806843916289?s=20](https://twitter.com/5auth/status/1131511806843916289?s=20)
 
         [Caleb (@5auth)](https://twitter.com/5auth)
@@ -1556,8 +1458,7 @@
 
     A brief overview of the investigations into darkweb vendors who utterly failed to keep their identity private.
 
-            ⧉infominer 27-Sep-19 10:11 AM
-
+            
     [https://medium.com/@c5/what-do-we-know-about-the-deepdotweb-seizure-98ca45de9987](https://medium.com/@c5/what-do-we-know-about-the-deepdotweb-seizure-98ca45de9987)
 
     [Updated Information About the Investigation into DeepDotWeb](https://medium.com/@c5/what-do-we-know-about-the-deepdotweb-seizure-98ca45de9987)
@@ -1570,24 +1471,21 @@
 
     In light of the $365,000 in Bitcoin phishing scheme, I thought this conversation with the owner of Fresh Onions would be fitting. The…
 
-            ⧉infominer 30-Sep-19 02:00 AM
-
+            
     [https://podcasts.apple.com/us/podcast/076-how-eileen-ormsby-unpacked-the-darkest-web/id1207699448?i=1000416487091](https://podcasts.apple.com/us/podcast/076-how-eileen-ormsby-unpacked-the-darkest-web/id1207699448?i=1000416487091)
 
     [‎Uncommon: #076: How Eileen Ormsby unpacked the Darkest Web on A...](https://podcasts.apple.com/us/podcast/076-how-eileen-ormsby-unpacked-the-darkest-web/id1207699448?i=1000416487091)
 
     ‎Show Uncommon, Ep #076: How Eileen Ormsby unpacked the Darkest Web - Jul 23, 2018
 
-            ⧉infominer 01-Oct-19 08:53 PM
-
+            
     [https://podcasts.apple.com/us/podcast/27-dark-web-darknet-invension-internet-onion-router/id1286966918?i=1000406830326](https://podcasts.apple.com/us/podcast/27-dark-web-darknet-invension-internet-onion-router/id1286966918?i=1000406830326)
 
     [‎Peor Caso - Ciencia, Historia, Cultura, Horror y Ficcion en Esp...](https://podcasts.apple.com/us/podcast/27-dark-web-darknet-invension-internet-onion-router/id1286966918?i=1000406830326)
 
     ‎Show Peor Caso - Ciencia, Historia, Cultura, Horror y Ficcion en Español, Ep 27 - Dark Web - Darknet, Invension de Internet, onion router, Deep Web, Silkroad, Shadow Web, Red Rooms, Tor, Tails, Marianas Web - Mar 19, 2018
 
-            ⧉infominer 05-Oct-19 05:57 AM
-
+            
     [https://www.occrp.org/en/component/tags/tag/dark-web](https://www.occrp.org/en/component/tags/tag/dark-web)
 
     [dark web](https://www.occrp.org/en/component/tags/tag/dark-web)

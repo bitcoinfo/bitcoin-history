@@ -1,9 +1,11 @@
 ---
 layout: page
-subheadline:  ""
+subheadline:  "Cypherpunk Extroidenaire"
 title:  "Nick Szabo"
 teaser: ""
 header: no
+categories: ["History","People"]
+tags: ["Cypherpunk","Nick Szabo"]
 permalink: /history/people/nick-szabo/
 ---
 

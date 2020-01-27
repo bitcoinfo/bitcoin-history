@@ -2,6 +2,8 @@
 layout: page
 title: Hal Finney
 permalink: /history/people/hal-finney/
+categories: ["History","People"]
+tags: ["Cypherpunk"]
 ---
 
 * [Who is Hal Finney?](https://101blockchains.com/who-is-hal-finney-bitcoin/)

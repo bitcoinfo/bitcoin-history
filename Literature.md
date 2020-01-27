@@ -8,8 +8,7 @@
 
     14 messages
 
-        ⧉infominer 10-Aug-19 06:14 AM
-
+        
     [https://www.ofnumbers.com/2018/12/03/book-review-the-truth-machine/](https://www.ofnumbers.com/2018/12/03/book-review-the-truth-machine/)
 
     [Tim Swanson](https://www.ofnumbers.com/author/timswanson/)
@@ -32,18 +31,15 @@
 
     The Tapscott’s are great for the crypto community like Andres is. Reducing friction with the general population by making the complex simple is what they are all about and something I strive for daily.
 
-        ⧉infominer 16-Aug-19 08:51 PM
-
+        
     Yeah, most books fit somewhere else than the generic bitcoin history books channel
 
     Like in their channel by topic, or the other servers for more broad info, some of which prolly includes history
 
         DLT Rico 16-Aug-19 08:58 PM
 
-    Good point but I wouldn’t want to have to bounce from server to server or channel to channel to get a list of all good crypto books. We could create a category like Crypto Books then have channels like DLT 101, Crypto Currency, Bitcoin, Developers, etc but to start we just need to curate a list of books that people recommend, once the list is big enough to parse into a category and index, then we move it. What are your thoughts @⧉infominer ?
-
-        ⧉infominer 16-Aug-19 08:59 PM
-
+    Good point but I wouldn’t want to have to bounce from server to server or channel to channel to get a list of all good crypto books. We could create a category like Crypto Books then have channels like DLT 101, Crypto Currency, Bitcoin, Developers, etc but to start we just need to curate a list of books that people recommend, once the list is big enough to parse into a category and index, then we move it. What are your thoughts @
+        
     Yeah, the bitcoin servers all will get printed to the same site... so that all gets merged
 
     So... still i consciously overlap, on occasion
@@ -68,8 +64,7 @@
 
     2 messages
 
-        ⧉infominer 05-Aug-19 09:06 PM
-
+        
     [https://queue.acm.org/detail.cfm?id=3136559](https://queue.acm.org/detail.cfm?id=3136559)
 
     [Bitcoin's Academic Pedigree - ACM Queue](https://queue.acm.org/detail.cfm?id=3136559)
@@ -94,8 +89,7 @@
 
     3 messages
 
-        ⧉infominer 19-Sep-19 02:13 AM
-
+        
     [http://osaka.law.miami.edu/~froomkin/articles/oceanno.htm](http://osaka.law.miami.edu/~froomkin/articles/oceanno.htm)
 
         [http://osaka.law.miami.edu/~froomkin/seminar/papers/bortner.htm](http://osaka.law.miami.edu/~froomkin/seminar/papers/bortner.htm)

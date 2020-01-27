@@ -32,8 +32,7 @@ cyberpunk.live was a Rogers Community 22 television show that ran from 1994 to 1
   >Do you remember the days of Bulletin Board Systems? No matter what ur answer is, u should watch BBS: The Documentary [https://t.co/27uPksSVRi](https://t.co/27uPksSVRi)
  * [A Cyberpunk Manifesto: 20 Years Later – Neon Dystopia](https://www.neondystopia.com/cyberpunk-fashion-lifestyle/a-cyberpunk-manifesto-20-years-later/)
 It was Valentine’s Day in 1997. Many of us were already cemented in our love of cyberpunk and cyber-culture was in full swing. Then came A Cyberpunk Manifesto by Kristiyan Kirchev. I was only just discovering the genre at this time and reading this document during my format...
-        ⧉infominer 05-Aug-19 09:29 PM
-* [Mondo 2000](https://www.mondo2000.com/) - Mondo 2000 The original magazine of cyberculture returns. Watch out for your overcoats!
+        * [Mondo 2000](https://www.mondo2000.com/) - Mondo 2000 The original magazine of cyberculture returns. Watch out for your overcoats!
 * [Did Neal Stephenson's Snow Crash predict the world of today?](https://io9.gizmodo.com/did-neal-stephensons-snow-crash-predict-the-world-of-t-511697336)
 That's what a number of venture capitalists and futurists told the Wall Street Journal recently. They cite Stephenson's classic novel as a harbinger of many current staples, from World of Warcraft to Google's search capabilities.
 * [The Art of Warez [video]](https://news.ycombinator.com/item?id=20596454) - Hacker News • 02-Aug-19 04:41 PM

@@ -34,30 +34,18 @@ I decided to list only the sections that I find interesting technologically.
 ### 1. Data Communications: Emergence 1956-1968
 
 * [Overview](http://www.historyofcomputercommunications.info/Book/1/1.0-Overview.html)
-
-```
-Innovation of information technologies became a priority for the military after World War II. In funding the SAGE (Semiautomatic Ground Environment) air defense system beginning in 1951, the Air Force accelerated technological change in ways that could never have been imagined. One modest subcontract called for AT&T to innovate a device to transmit digital information over telephone lines. That device would be later modified and introduced commercially as a modem by AT&T in February 1958. It marked the beginnings of the economic history of computer communications.
-```
+  > Innovation of information technologies became a priority for the military after World War II. In funding the SAGE (Semiautomatic Ground Environment) air defense system beginning in 1951, the Air Force accelerated technological change in ways that could never have been imagined. One modest subcontract called for AT&T to innovate a device to transmit digital information over telephone lines. That device would be later modified and introduced commercially as a modem by AT&T in February 1958. It marked the beginnings of the economic history of computer communications.
 
 * [The Remarkable Growth in the Use of Computers](http://www.historyofcomputercommunications.info/Book/1/1.3The%20RemarkableGrowthUseComputers.html)
-
-```
-By the mid-1960’s, computers had become a fast growing business because they were desperately needed and were finally becoming usable and affordable. This compelling combination of need and solution propelled the sales of computers from $600 million in 1960 to $7 billion in 1968 -- a compounded growth rate of 36 percent a year. [26] No wonder AT&T executives contemplated how to grab a piece of the action.
-```
+  > By the mid-1960’s, computers had become a fast growing business because they were desperately needed and were finally becoming usable and affordable. This compelling combination of need and solution propelled the sales of computers from $600 million in 1960 to $7 billion in 1968 -- a compounded growth rate of 36 percent a year. [26] No wonder AT&T executives contemplated how to grab a piece of the action.
 
 ### 2. Networking: Vision and Packet Switching 1959 - 1968
 
 * [Overview](http://www.historyofcomputercommunications.info/Book/2/2.0-Overview.html)
-
-```
-In 1965, two computer scientists influenced by Licklider, Dr. Lawrence G. (Larry) Roberts and Thomas Marill, conducted an experiment to understand what it would take to interconnect two computers. It highlighted the complexity of the problem, with the obvious conclusion that circuit switching -the way the telephone network worked - was a poor match for the needs of computer communication.
-```
+  > In 1965, two computer scientists influenced by Licklider, Dr. Lawrence G. (Larry) Roberts and Thomas Marill, conducted an experiment to understand what it would take to interconnect two computers. It highlighted the complexity of the problem, with the obvious conclusion that circuit switching -the way the telephone network worked - was a poor match for the needs of computer communication.
 
 * [Intergalactic Network: 1962-1964](http://www.historyofcomputercommunications.info/Book/2/2.1-IntergalacticNetwork_1962-1964.html)
-
-```
-Licklider conceived a future of networked computers when few computers supported more than one user, and most people would have labored to conceive a future of thousands, let alone millions, of computers. It required a true soaring of the imagination to see end-user computing when the paradigm of the day was batch processing with users passing decks of computer cards to trained operators and sometimes having to wait days to receive their results, hardly interactive computing.
-```
+  > Licklider conceived a future of networked computers when few computers supported more than one user, and most people would have labored to conceive a future of thousands, let alone millions, of computers. It required a true soaring of the imagination to see end-user computing when the paradigm of the day was batch processing with users passing decks of computer cards to trained operators and sometimes having to wait days to receive their results, hardly interactive computing.
 
 * [The Seminal Experiment: 1965](http://www.historyofcomputercommunications.info/Book/2/2.2-TheSeminalExperiment-65.html)
 * [Circuit Switching](http://www.historyofcomputercommunications.info/Book/2/2.3-Circuit%20Switching.html)
@@ -98,17 +86,11 @@ Two alternative architectures for a shared network emerged: a star topology or a
 * [Entrepreneurism Flourishes 1968-1972](http://www.historyofcomputercommunications.info/Book/3/3.1-EntrepreneurismFlourishes68-72.html)
 * [The Economic Roller Coaster 1969-1975](http://www.historyofcomputercommunications.info/Book/3/3.2%20EconomicRollerCoaster-69-75.html)
 * [Firms and Collective Behavior: The Creation of the IDCMA 1971](http://www.historyofcomputercommunications.info/Book/3/3.9FirmsCollectiveBehavior-CreationIDCMA71%20.html)
-
-```
-Wanting to reach agreement on a plan of action before the show ended, Bleckner and Kinney invited executives of the other modem manufacturers to join them in their hotel suite after the close of the exhibitions one day. In an act of true mutualism, nearly a dozen firms agreed to form a trade association called the Independent Data Communications Manufacturers Association, or IDCMA. The purpose of the IDCMA would be to fight AT&T and lobby for market competition. Four companies, Milgo, GDC, Codex and Paradyne would be the four founding members with Bleckner, Johnson, Carr and Looney serving as the initial Board. One of their first acts would be to hire legal counsel and contest AT&T's intentions to require DAAs for private-line modems -- AT&T soon withdrew its filing. The IDCMA proved essential to the coming into being of the data communications market-structure and of users winning their rights of attachment and connection to AT&T’s telephone network. 
-```
+  > Wanting to reach agreement on a plan of action before the show ended, Bleckner and Kinney invited executives of the other modem manufacturers to join them in their hotel suite after the close of the exhibitions one day. In an act of true mutualism, nearly a dozen firms agreed to form a trade association called the Independent Data Communications Manufacturers Association, or IDCMA. The purpose of the IDCMA would be to fight AT&T and lobby for market competition. Four companies, Milgo, GDC, Codex and Paradyne would be the four founding members with Bleckner, Johnson, Carr and Looney serving as the initial Board. One of their first acts would be to hire legal counsel and contest AT&T's intentions to require DAAs for private-line modems -- AT&T soon withdrew its filing. The IDCMA proved essential to the coming into being of the data communications market-structure and of users winning their rights of attachment and connection to AT&T’s telephone network. 
 
 * [Codex and the 9600: 1971](http://www.historyofcomputercommunications.info/Book/3/3.10Codex9600-71.html)
 * [In Perspective](http://www.historyofcomputercommunications.info/Book/3/3.14InPerspective.html)
-
-```
-A right combination of incentive and opportunity opened a market window for entrepreneurial access in data communications between 1968-1972. The results: a burst of new firms introducing modems and/or multiplexers. Thus, in four short years, data communications went from domination by one firm, AT&T, offering a minimal number of products, to nearly one hundred firms and over two hundred products. Then as suddenly as the market window had opened, it would close by 1974. Investment capital would dry up and the perceived market opportunity would vanish. Not until the end of the 1970’s would there be another surge of growth for computer communications products.
-```
+  > A right combination of incentive and opportunity opened a market window for entrepreneurial access in data communications between 1968-1972. The results: a burst of new firms introducing modems and/or multiplexers. Thus, in four short years, data communications went from domination by one firm, AT&T, offering a minimal number of products, to nearly one hundred firms and over two hundred products. Then as suddenly as the market window had opened, it would close by 1974. Investment capital would dry up and the perceived market opportunity would vanish. Not until the end of the 1970’s would there be another surge of growth for computer communications products.
 
 ### 4. Networking: Arpanet 1969-1972
 
@@ -145,10 +127,7 @@ The basic idea of P2P networking has been around since 1969, when the Internet E
 ```
 
 * [ARPANET establishes 1st computer-to-computer link, October 29, 1969](https://www.edn.com/electronics-blogs/edn-moments/4399541/ARPANET-establishes-1st-computer-to-computer-link--October-29--1969)
-
-```
-Originally funded by ARPA (Advanced Research Projects Agency), now DARPA, within the United States Department of Defense, ARPANET was to be used for projects at universities and research laboratories in the US. The packet switching of the ARPANET was based on designs by British scientist Donald Davies and Lawrence Roberts of the Lincoln Laboratory.
-```
+  > Originally funded by ARPA (Advanced Research Projects Agency), now DARPA, within the United States Department of Defense, ARPANET was to be used for projects at universities and research laboratories in the US. The packet switching of the ARPANET was based on designs by British scientist Donald Davies and Lawrence Roberts of the Lincoln Laboratory.
 
 >**Initially, ARPANET consisted of four IMPs at:**
 
@@ -161,10 +140,7 @@ Originally funded by ARPA (Advanced Research Projects Agency), now DARPA, within
 ```
 
 * [The Communications Subnet: BBN 1969](http://www.historyofcomputercommunications.info/Book/4/4.1%20The%20Communications%20Subnet-%20BBN%201969.html)
-
-```
-In January 1969, the BBN team began the painstaking tasks of fleshing out the design of the communications subnet. It had been agreed that the subnet would consist of minicomputer-based Interface Message Processors (IMPs) initially interconnected with leased telephone lines. Hosts would communicate with other Hosts by sending messages over the subnet. IMPs, in a process totally transparent to Hosts, routed a message by parsing it into up to eight packets with the destination IMP reassembling the packets into the message before delivering it to the intended Host. A message would consist of roughly 8000 bits, while a packet was limited to 1000 bits. Exactly how this was to work, reliably and error-free, was now the challenge. It was to be up to personnel at the Host sites to determine how sending messages rather than establishing circuits was to lead to a radically new means of communications between computers.
-```
+  > In January 1969, the BBN team began the painstaking tasks of fleshing out the design of the communications subnet. It had been agreed that the subnet would consist of minicomputer-based Interface Message Processors (IMPs) initially interconnected with leased telephone lines. Hosts would communicate with other Hosts by sending messages over the subnet. IMPs, in a process totally transparent to Hosts, routed a message by parsing it into up to eight packets with the destination IMP reassembling the packets into the message before delivering it to the intended Host. A message would consist of roughly 8000 bits, while a packet was limited to 1000 bits. Exactly how this was to work, reliably and error-free, was now the challenge. It was to be up to personnel at the Host sites to determine how sending messages rather than establishing circuits was to lead to a radically new means of communications between computers.
 
 ```
 Roberts and Frank Heart benefited from being from organizations that gave managers the "room to make it happen." For when they made a decision, that was the decision. No other approval was needed. The high level of trust and integrity between the two organizations - grounded in the relationships among the many individuals who had been members of not only ARPA and BBN but also MIT and Lincoln Labs - facilitated project management. Roberts and Heart knew each other and knew they would likely be working with each other in the future. These cultural and organizational attributions became critical as Roberts and Heart pushed to complete the Subnet on schedule.
@@ -192,10 +168,7 @@ The host-to-host group kept growing in members as more sites began to take conne
 ![](https://imgur.com/WJJDo3w.png)
 
 * [Network Measurement Center: 1969 – 1970](http://www.historyofcomputercommunications.info/Book/4/4.7-NetworkMeasurementCenter69-70.html)
-
-```
-"You give me a network and I can analyze it's performance in a very simple way. We developed exact mathematical formulas as well as approximations to understand networks. We also proved that measurement was very important. We were able to demonstrate deadlocks and degradation's and explain what was causing them. We found that the whole issue of flow control was a key issue. For example, problems of sequencing, the keeping of things in order, causes deadlocks. The function of flow control is to make things move smoothly. If you want to do that, you put in controls. Once you put in controls, that's called a constraint. If the network can't meet the constraint, it crashes. So the thing you put in to help out is the thing that kills you, or degrades performance We had a whole catalog of degradation's and deadlocks which BBN eventually fixed. Those things are still present in every network today"
-```
+  > "You give me a network and I can analyze it's performance in a very simple way. We developed exact mathematical formulas as well as approximations to understand networks. We also proved that measurement was very important. We were able to demonstrate deadlocks and degradation's and explain what was causing them. We found that the whole issue of flow control was a key issue. For example, problems of sequencing, the keeping of things in order, causes deadlocks. The function of flow control is to make things move smoothly. If you want to do that, you put in controls. Once you put in controls, that's called a constraint. If the network can't meet the constraint, it crashes. So the thing you put in to help out is the thing that kills you, or degrades performance We had a whole catalog of degradation's and deadlocks which BBN eventually fixed. Those things are still present in every network today"
 
 * [Early Surprises: 1969 – 1970](http://www.historyofcomputercommunications.info/Book/4/4.8-EarlySurprises69-70.html)
 
@@ -213,10 +186,7 @@ A breakthrough came in mid-February 1971 at a meeting at the University of Illin
 ```
 
 * [ALOHAnet and Norm Abramson: 1966 – 1972](http://www.historyofcomputercommunications.info/Book/4/4.10-ALOHANETNormAbramson-66-72.html)
-
-```
-ALOHANET consisted of a number of remote terminal sites all connected by radio channels to a host computer at the University of Hawaii. It was a centralized, star topology with no channels having multiple hops. All users transmitted on one frequency and received on another frequency that precluded users from ever communicating with each other -- users expected to receive transmissions on a different frequency than the one other users transmitted on. At its peak, ALOHANET supported forty users at several locations on the islands of Oahu and Maui. User terminals connected to the host computer via a terminal control unit (TCU) that communicated at 9600 bits per second. Following the installation of the first TCU in 1971, Abramson hosted a party celebrating their success. (In 1972, Abramson’s focus shifted to applying the concepts developed in ALOHANET to satellite channel communications. On December 17, 1972, an IMP connecting the ALOHA host to the ARPANET by satellite channel was installed.)
-```
+  > ALOHANET consisted of a number of remote terminal sites all connected by radio channels to a host computer at the University of Hawaii. It was a centralized, star topology with no channels having multiple hops. All users transmitted on one frequency and received on another frequency that precluded users from ever communicating with each other -- users expected to receive transmissions on a different frequency than the one other users transmitted on. At its peak, ALOHANET supported forty users at several locations on the islands of Oahu and Maui. User terminals connected to the host computer via a terminal control unit (TCU) that communicated at 9600 bits per second. Following the installation of the first TCU in 1971, Abramson hosted a party celebrating their success. (In 1972, Abramson’s focus shifted to applying the concepts developed in ALOHANET to satellite channel communications. On December 17, 1972, an IMP connecting the ALOHA host to the ARPANET by satellite channel was installed.)
 
 
 * [NPL Network and Donald Davies: 1966 - 1971](http://www.historyofcomputercommunications.info/Book/4/4.11-NPLNetworkDonaldDavies66-71.html)
@@ -239,10 +209,7 @@ Although the many computer scientists who had been involved with Arpanet dispers
 ### 5. Data Communications: Market Order 1973-1979
 
 * [Overview](http://www.historyofcomputercommunications.info/Book/5/5.0%20Overview.html)
-
-```
-Entering 1973, most experts expected the robust growth of data communications revenues to continue at 40-50% per annum. [1] Lower prices and increased competition, especially in the high-speed modem category where AT&T had finally introduced product, were seen as driving demand. By 1974, a sagging economy and merciless competition had firms struggling to break even. Without new applications, such as point-of-sale and credit authorization terminals, sales of modems were projected to be flat. [2] No one imagined that in a short few years an announcement of a microprocessor in November 1971 would energize unprecedented opportunities for modems and multiplexers. By the late 1970’s, corporations were installing data communication networks in unimaginable numbers.
-```
+  > Entering 1973, most experts expected the robust growth of data communications revenues to continue at 40-50% per annum. [1] Lower prices and increased competition, especially in the high-speed modem category where AT&T had finally introduced product, were seen as driving demand. By 1974, a sagging economy and merciless competition had firms struggling to break even. Without new applications, such as point-of-sale and credit authorization terminals, sales of modems were projected to be flat. [2] No one imagined that in a short few years an announcement of a microprocessor in November 1971 would energize unprecedented opportunities for modems and multiplexers. By the late 1970’s, corporations were installing data communication networks in unimaginable numbers.
 
 * [Minicomputers, Distributed Data Processing and Microprocessors](http://www.historyofcomputercommunications.info/Book/5/5.1MinicomputersDistributedDataProcessingMicroprocessors.html)
 
@@ -265,10 +232,7 @@ Even as the firms of data communication were speeding the efficient transfer of 
 ### 6. Networking: Diffusion 1972-1979
 
 * [Overview](http://www.historyofcomputercommunications.info/Book/6/6.0-Overview.html)
-
-```
-The successful demonstration of Arpanet at the International Conference on Computer Communications (ICCC) in October 1972 proved a turning point in the history of computer communications. There did remain much to do before Arpanet functioned as envisioned by its creators, work that would continue under the auspices of the IPTO. But a working network also presented a conundrum: neither IPTO nor DARPA had charter authority to operate a network. It had to be transferred to a private organization. AT&T exhibited no interest and the other most likely organization, BBN, seemed equally disinterested. That was until some of its key employees resigned to start just such a company. With its hand forced, BBN hired Larry Roberts to commercialize the Arpanet technology.
-```
+  > The successful demonstration of Arpanet at the International Conference on Computer Communications (ICCC) in October 1972 proved a turning point in the history of computer communications. There did remain much to do before Arpanet functioned as envisioned by its creators, work that would continue under the auspices of the IPTO. But a working network also presented a conundrum: neither IPTO nor DARPA had charter authority to operate a network. It had to be transferred to a private organization. AT&T exhibited no interest and the other most likely organization, BBN, seemed equally disinterested. That was until some of its key employees resigned to start just such a company. With its hand forced, BBN hired Larry Roberts to commercialize the Arpanet technology.
 
 * [Commercializing Arpanet 1972 - 1975](http://www.historyofcomputercommunications.info/Book/6/6.1-CommercializingArpanet72-75.html)
 
@@ -293,10 +257,7 @@ Kahn soon convened an informal working group, including Vint Cerf and Robert Met
 
 
 * [A Proliferation of Communication Projects](http://www.historyofcomputercommunications.info/Book/6/6.5-AProliferationCommunicationProjects.html)
-
-```
-More adventuresome networking projects tended to be funded by either the military or government research agencies. An example of a sophisticated network developed by a government agency was the Octopus system at the Lawrence Berkeley Laboratory. And then there were networking projects funded by government agencies at universities, the most important being a National Science Foundation funded network at the University of California, Irvine (UCI) conceived and managed by David Farber.
-```
+  > More adventuresome networking projects tended to be funded by either the military or government research agencies. An example of a sophisticated network developed by a government agency was the Octopus system at the Lawrence Berkeley Laboratory. And then there were networking projects funded by government agencies at universities, the most important being a National Science Foundation funded network at the University of California, Irvine (UCI) conceived and managed by David Farber.
 
 * [Token Ring and David Farber, UC Irvine and the NSF 1969-1974](http://www.historyofcomputercommunications.info/Book/6/6.6-TokenRingDavidFarberIrvineNSF69-74.html)
 
@@ -315,36 +276,17 @@ Well, the ALOHA system didn't do that, they just launched. So, therefore, a lot 
 ```
 
 * [Massachusetts Institute of Technology 1974 - 1977](http://www.historyofcomputercommunications.info/Book/6/6.8-MIT74-77.html)
-
-```
-"Xerox had invented and built the first version of the Ethernet, but still considered it proprietary and would not allow anyone to use the internal knowledge. The fact that it worked was sufficient for someone else to say: 'Well, in that case, we'll build one too.' So the AI Laboratory built Chaosnet. The only reason it was invented was because we couldn't use Ethernet. Chaosnet was essentially another Ethernet that had slight differences, but the differences aren't important enough to worry about."
-```
-
+  > "Xerox had invented and built the first version of the Ethernet, but still considered it proprietary and would not allow anyone to use the internal knowledge. The fact that it worked was sufficient for someone else to say: 'Well, in that case, we'll build one too.' So the AI Laboratory built Chaosnet. The only reason it was invented was because we couldn't use Ethernet. Chaosnet was essentially another Ethernet that had slight differences, but the differences aren't important enough to worry about."
 * [Metcalfe Joins the Systems Development Division of Xerox 1975-1978](http://www.historyofcomputercommunications.info/Book/6/6.9-MetcalfeJoinsSystemsDevelopmentDivisionXerox75-78.html)
-
-```
-By early 1978, with Ethernet working and product sales no closer than when he had joined SDD, Metcalfe found himself frustrated and restless. Wanting to see his Ethernet technology commercialized before others exploited the opportunity, he argued that Xerox should sell Ethernet products unbundled from computer systems. However, management did not see it his way. In the spring of 1978, Metcalfe issued management an ultimatum, with the veiled threat that he would resign unless Ethernet be made available for sale. He remembers:
-```
-
-```
-Metcalfe did not get his wish, and true to his word, left Xerox at the end of 1978 to become an independent consultant. 
-
-```
-
+  > By early 1978, with Ethernet working and product sales no closer than when he had joined SDD, Metcalfe found himself frustrated and restless. Wanting to see his Ethernet technology commercialized before others exploited the opportunity, he argued that Xerox should sell Ethernet products unbundled from computer systems. However, management did not see it his way. In the spring of 1978, Metcalfe issued management an ultimatum, with the veiled threat that he would resign unless Ethernet be made available for sale. He remembers:
+  > 
+  > Metcalfe did not get his wish, and true to his word, left Xerox at the end of 1978 to become an independent consultant. 
 * [Xerox Network System (XNS)77-78](http://www.historyofcomputercommunications.info/Book/6/6.10-XeroxNetworkSystem(XNS)77-78.html)
-
-```
-When joining Xerox’s Systems Development Division (SDD) in 1977 to lead the reengineering of the Pup communication protocol, Dalal, like most curious computer scientists, had some knowledge of the breadth of innovations underway within PARC and thus within SDD. However, scant facts woven together with rumor were no match for the actual experience of using a graphic-based Altos computer connected to other Altos/ minicomputers, and to peripherals (such as laser printers), using the high speed Ethernet local area network. Dalal quickly realized the Altos vision was not just another computer innovation, but foreshadowed a sea change about to revolutionize computing. He also knew those rearchitecting TCP had not contemplated a future populated with thousands, even millions, of networks. Dalal remembers his surprising revelation: 
-```
-
+  > When joining Xerox’s Systems Development Division (SDD) in 1977 to lead the reengineering of the Pup communication protocol, Dalal, like most curious computer scientists, had some knowledge of the breadth of innovations underway within PARC and thus within SDD. However, scant facts woven together with rumor were no match for the actual experience of using a graphic-based Altos computer connected to other Altos/ minicomputers, and to peripherals (such as laser printers), using the high speed Ethernet local area network. Dalal quickly realized the Altos vision was not just another computer innovation, but foreshadowed a sea change about to revolutionize computing. He also knew those rearchitecting TCP had not contemplated a future populated with thousands, even millions, of networks. Dalal remembers his surprising revelation: 
 * [Open System Interconnection (OSI) 1975 - 1979](http://www.historyofcomputercommunications.info/Book/6/6.12-OpenSystemInterconnection(OSI)75-79.html)
-
-```
-Once constituted, the study group had to convince American computer companies to cooperate and create voluntary standards. While opinion divided as to whether standards helped or hurt the economic fortunes of any given U.S. computer company, most executives thought creating standards was a tactic to give foreign companies an opportunity to drive a wedge into the dominant market share held by U. S. companies. As Bachman recalls:
-```
-
->"IBM and Burroughs weren't sure they wanted standards. Honeywell wasn't sure they wanted standards, except that I said: 'You do want standards.' When the issue of participation came up, I said: 'We should participate.' They said: 'No, we're not sure we want something which is a worldwide standard,' because they were more concerned about losing sales than getting sales out of it. In fact, the way I got Honeywell involved is that I volunteered to be chairman of the committee.
-
+  > Once constituted, the study group had to convince American computer companies to cooperate and create voluntary standards. While opinion divided as to whether standards helped or hurt the economic fortunes of any given U.S. computer company, most executives thought creating standards was a tactic to give foreign companies an opportunity to drive a wedge into the dominant market share held by U. S. companies. As Bachman recalls:
+  > 
+  >"IBM and Burroughs weren't sure they wanted standards. Honeywell wasn't sure they wanted standards, except that I said: 'You do want standards.' When the issue of participation came up, I said: 'We should participate.' They said: 'No, we're not sure we want something which is a worldwide standard,' because they were more concerned about losing sales than getting sales out of it. In fact, the way I got Honeywell involved is that I volunteered to be chairman of the committee.
 * [National Bureau of Standards and MITRE 1971-1979](http://www.historyofcomputercommunications.info/Book/6/6.13-NationalBureauStandardsMITRE71-79.html)
 * [In Perspective](http://www.historyofcomputercommunications.info/Book/6/6.14-InPerspective%20.html)
 
@@ -352,81 +294,48 @@ Once constituted, the study group had to convince American computer companies to
 
 I'm not 100% on this...Chaum fits in around here somewhere.. I don't know of him specifically in relation to decentralization...
 
-[en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing](https://en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing)
-
-```
-The origins of decentralized computing originate from the work of David Chaum.
-
-During 1979 he conceived the first concept of a decentralized computer system known as Mix Network. It enabled for an anonymous email communications network which decentralized the authentication of the messages in a protocol which would become the precursor to Onion Routing, the protocol of the TOR browser. Through this initial development of an anonymous communications network, David Chaum applied his Mix Network philosophy to design the world's first decentralized payment system and patented it in 1980 (Patent US4529870). Later in 1982, for his PhD dissertation, he wrote about the need for decentralized computing services in the paper Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups. 
-```
-
+* [en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing](https://en.wikipedia.org/wiki/Decentralized_computing#Origins_of_decentralized_computing)
+  > The origins of decentralized computing originate from the work of David Chaum.
+  > 
+  > During 1979 he conceived the first concept of a decentralized computer system known as Mix Network. It enabled for an anonymous email communications network which decentralized the authentication of the messages in a protocol which would become the precursor to Onion Routing, the protocol of the TOR browser. Through this initial development of an anonymous communications network, David Chaum applied his Mix Network philosophy to design the world's first decentralized payment system and patented it in 1980 (Patent US4529870). Later in 1982, for his PhD dissertation, he wrote about the need for decentralized computing services in the paper Computer Systems Established, Maintained and Trusted by Mutually Suspicious Groups. 
 
 ### 7. Networking: Emergence 1979-1981
 
 * [Overview](http://www.historyofcomputercommunications.info/Book/7/7.0-Overview.html)
 * [NBS and MITRE Workshop of January 1979](http://www.historyofcomputercommunications.info/Book/7/7.1-NBS-MITREWorkshopJan79.html)
 * [Prime Computers](http://www.historyofcomputercommunications.info/Book/7/7.2-Prime%20Computers.html)
-
-```
-Not to be deterred, Farr convinced Smith to buy enough equipment to build a network to interconnect sixteen computers in the engineering organization. Farr, Bob Gordon and Paul Levine then built a token ring network they called RingNet. By mid-1978, engineering had become totally dependent on RingNet, both for electronic mail and file sharing. In January 1979, Prime announced RingNet as a product.[2]
-```
-
+  > Not to be deterred, Farr convinced Smith to buy enough equipment to build a network to interconnect sixteen computers in the engineering organization. Farr, Bob Gordon and Paul Levine then built a token ring network they called RingNet. By mid-1978, engineering had become totally dependent on RingNet, both for electronic mail and file sharing. In January 1979, Prime announced RingNet as a product.[2]
 * [The Workshop](http://www.historyofcomputercommunications.info/Book/7/7.3-The%20Workshop.html)
-
-```
-The preference for "local area networks" over "local computer networks" represented a real difference in perspective between those within NBS and MITRE and Metcalfe the visionary. Both NBS and MITRE saw this new technology as a solution to connecting terminals to multiple host computers, particularly to solve the problems and to reduce the costs of stringing computer cable from every terminal to every computer. With a local area network, one cable could traverse an entire facility with all terminals and computers connected to the one "local" cable. While a valid and understandable objective, for someone like Metcalfe, who had seen the future in the form of Altos workstations and believed a computer would soon be on every desktop, the expression “local computer network” better captured the technology's role. Metcalfe’s views were not completely disregarded for he won the debates concerning the priority of higher level protocols -- convinced as he was that the lower level access issues had been solved with Ethernet. To keep the momentum going, NBS and MITRE scheduled a more extensive Forum for March 7 at the Copley Plaza Hotel, Boston, MA.
-
-```
+  > The preference for "local area networks" over "local computer networks" represented a real difference in perspective between those within NBS and MITRE and Metcalfe the visionary. Both NBS and MITRE saw this new technology as a solution to connecting terminals to multiple host computers, particularly to solve the problems and to reduce the costs of stringing computer cable from every terminal to every computer. With a local area network, one cable could traverse an entire facility with all terminals and computers connected to the one "local" cable. While a valid and understandable objective, for someone like Metcalfe, who had seen the future in the form of Altos workstations and believed a computer would soon be on every desktop, the expression “local computer network” better captured the technology's role. Metcalfe’s views were not completely disregarded for he won the debates concerning the priority of higher level protocols -- convinced as he was that the lower level access issues had been solved with Ethernet. To keep the momentum going, NBS and MITRE scheduled a more extensive Forum for March 7 at the Copley Plaza Hotel, Boston, MA.
 * [Robert Metcalfe and Consulting 1979](http://www.historyofcomputercommunications.info/Book/7/7.4-RobertMetcalfeConsulting79.html)
   * [MIT- The Laboratory of Computer Science](http://www.historyofcomputercommunications.info/Book/7/7.5-MIT-LaboratoryComputerScience.html)
   * [Digital Equipment Corporation](http://www.historyofcomputercommunications.info/Book/7/7.6-DigitalEquipmenCorporation.html)
-
-```
-Bell was familiar with token ring and knew that Prime and a start-up of ex-Prime employees, Apollo, were both committed to using token ring. Furthermore, Saltzer and Clark had told DEC that they intended to interconnect the gifted VAXs with their version of token ring. Even so, Bell knew of no large operational token ring networks, whereas Xerox operated a large Ethernet network. But how could he loosen Xerox’s ironclad control over their technology? Bell again:
-
-"We had to have it, and we would have invented our own. We had two or three different schemes, and I was just turning to that problem when Bob walks in the door and says: 'Would you be interested in a collaborative effort with Xerox?
-```
-
+    > Bell was familiar with token ring and knew that Prime and a start-up of ex-Prime employees, Apollo, were both committed to using token ring. Furthermore, Saltzer and Clark had told DEC that they intended to interconnect the gifted VAXs with their version of token ring. Even so, Bell knew of no large operational token ring networks, whereas Xerox operated a large Ethernet network. But how could he loosen Xerox’s ironclad control over their technology? Bell again:
+    > 
+    > "We had to have it, and we would have invented our own. We had two or three different schemes, and I was just turning to that problem when Bob walks in the door and says: 'Would you be interested in a collaborative effort with Xerox?
 * [The NBS and MITRE Workshop of May 1979](http://www.historyofcomputercommunications.info/Book/7/7.7-NBS-MITRE-WorkshopMay79.html)
-
-```
-"One of the people Judy had invited to one of her parties was Fouad Tobaji. Fouad had just accepted the job at Stanford as assistant professor of electrical engineering. Judy introduced us and said: 'Fouad, you ought to know Bruce. Bruce has built this little network' and Fouad says; 'Wow, you know, I studied networks. That's what I did for my PhD for Leonard Kleinrock. You ought to go look at my papers.'
-
-"So I did. I went and read all of his papers and his Ph.D. thesis and he had proposed a way to analyze networks. This was similar to Metcalfe but Metcalfe didn't have the basic mathematical sophistication to carry it through. Well, Fouad had and he carried it through for the carrier sense multiple access scheme. In fact, he wrote four very famous papers. Well, when I read his papers, I said: 'Gee, I can extend this to the collision detection case.' So I did the derivations and added the extension of being able to handle collision detection and I took it to Fouad. Literally, I think I did it in about 12 days. After you read this stuff, your head is full, so you've got to dump it. Fouad said: 'This is great Bruce. Let's write a paper.' Fouad later said: 'Well, why don't you think about coming back to Stanford and working as a graduate student.' So I did."
-```
-
+  > "One of the people Judy had invited to one of her parties was Fouad Tobaji. Fouad had just accepted the job at Stanford as assistant professor of electrical engineering. Judy introduced us and said: 'Fouad, you ought to know Bruce. Bruce has built this little network' and Fouad says; 'Wow, you know, I studied networks. That's what I did for my PhD for Leonard Kleinrock. You ought to go look at my papers.'
+  > 
+  > "So I did. I went and read all of his papers and his Ph.D. thesis and he had proposed a way to analyze networks. This was similar to Metcalfe but Metcalfe didn't have the basic mathematical sophistication to carry it through. Well, Fouad had and he carried it through for the carrier sense multiple access scheme. In fact, he wrote four very famous papers. Well, when I read his papers, I said: 'Gee, I can extend this to the collision detection case.' So I did the derivations and added the extension of being able to handle collision detection and I took it to Fouad. Literally, I think I did it in about 12 days. After you read this stuff, your head is full, so you've got to dump it. Fouad said: 'This is great Bruce. Let's write a paper.' Fouad later said: 'Well, why don't you think about coming back to Stanford and working as a graduate student.' So I did."
 * [The Symposium](http://www.historyofcomputercommunications.info/Book/7/7.9-Symposium.html)
-
->Even as the participants left Boston there was no clear consensus as to the best access method: Ethernet, token ring, or one of a growing number of alternatives. Equally, the protocols required to make networks functional were in their formative stage and being developed largely independent of the access methods. And there remained the great divide between those who believed local area networks were primarily for terminal-to-host traffic versus those who championed computer-to-computer traffic. Nonetheless, the exploding constellation of technologies and economic potential had reached the critical point and the funding and control of government agencies and large corporations no longer could hold the center or channel the flow of ideas and people. Entrepreneurs sensed the time had come to act. And those first to act gave confidence to others. Cumulatively they would give rise to a new market, Networking, to join Data Communications in defining computer communications.
-
+  > Even as the participants left Boston there was no clear consensus as to the best access method: Ethernet, token ring, or one of a growing number of alternatives. Equally, the protocols required to make networks functional were in their formative stage and being developed largely independent of the access methods. And there remained the great divide between those who believed local area networks were primarily for terminal-to-host traffic versus those who championed computer-to-computer traffic. Nonetheless, the exploding constellation of technologies and economic potential had reached the critical point and the funding and control of government agencies and large corporations no longer could hold the center or channel the flow of ideas and people. Entrepreneurs sensed the time had come to act. And those first to act gave confidence to others. Cumulatively they would give rise to a new market, Networking, to join Data Communications in defining computer communications.
 * [The Return of Venture Capital](http://www.historyofcomputercommunications.info/Book/7/7.10-ReturnVentureCapital.html)
 ![](https://imgur.com/IoG7rTc.png)
-
 * [Robert Metcalfe and the Founding of 3Com](http://www.historyofcomputercommunications.info/Book/7/7.11-RobertMetcalfeFounding3Com.html)
+  > When I arrived, I was introduced to a guy named Phil Kaufman, who it turns out reported at the time to Andy Grove. They had assembled thirty to forty people for me to tell them a little about Ethernet and what they ought to do with it. I would normally get paid for consulting but I did it for free that day because it would have been embarrassing for me to leave. So I pitched them on how they ought to develop a custom chip for Ethernet. And the reason they ought to do it is that if DEC and Xerox were going to do this, they're going to need chips and you guys can make the chips for their standard.”
+  > 
+  > Kaufman, already a believer that communication chips would be significant "consumers of silicon," remembers:
 
-```
-When I arrived, I was introduced to a guy named Phil Kaufman, who it turns out reported at the time to Andy Grove. They had assembled thirty to forty people for me to tell them a little about Ethernet and what they ought to do with it. I would normally get paid for consulting but I did it for free that day because it would have been embarrassing for me to leave. So I pitched them on how they ought to develop a custom chip for Ethernet. And the reason they ought to do it is that if DEC and Xerox were going to do this, they're going to need chips and you guys can make the chips for their standard.”
-
-Kaufman, already a believer that communication chips would be significant "consumers of silicon," remembers:
-
-"I was looking around at communications and the issue, obviously, came down to what protocols should be used. Now, the one protocol that had actually been used somewhere was Ethernet, as done at PARC. Everything else was inventing on the fly. We took a good look at Ethernet and all the papers that had been written and said: 'It doesn't matter whether it's good or not, it exists and it works. Let's see if we can take off from there."
-```
-
+  > "I was looking around at communications and the issue, obviously, came down to what protocols should be used. Now, the one protocol that had actually been used somewhere was Ethernet, as done at PARC. Everything else was inventing on the fly. We took a good look at Ethernet and all the papers that had been written and said: 'It doesn't matter whether it's good or not, it exists and it works. Let's see if we can take off from there."
 * [Ungermann-Bass: Xerox, Broadband and Needing a Chip](http://www.historyofcomputercommunications.info/Book/7/7.17-Ungermann-Bass-XeroxBroadbandNeedingChip.html)
-
-```
-Engineering also had to be gearing up to introduce new, lower cost products once Ethernet chips were available from Intel. Ungermann knew the risks of waiting but there seemed little choice given the expense of doing their own silicon. Then luck knocked on their door and an alternative appeared. Bass remembers learning about Silicon Compilers, a new start-up:
-
-“We were approached by Kleiner Perkins, who was then an investor, and they had this company that had a silicon compiler. They came and they wanted to test their technology on something hard. So we said: "Well, we've got something hard for you. We'd like to have an Ethernet chip." So they come in and they started running equations and talking to Alan Goodrich, who was our hardware designer. And we learned a lot about their tools and what it's going to take to build one of these.”
-```
-
+  > Engineering also had to be gearing up to introduce new, lower cost products once Ethernet chips were available from Intel. Ungermann knew the risks of waiting but there seemed little choice given the expense of doing their own silicon. Then luck knocked on their door and an alternative appeared. Bass remembers learning about Silicon Compilers, a new start-up:
+  > 
+  > “We were approached by Kleiner Perkins, who was then an investor, and they had this company that had a silicon compiler. They came and they wanted to test their technology on something hard. So we said: "Well, we've got something hard for you. We'd like to have an Ethernet chip." So they come in and they started running equations and talking to Alan Goodrich, who was our hardware designer. And we learned a lot about their tools and what it's going to take to build one of these.”
 * [3Com: Product Strategy and Waiting for a PC](http://www.historyofcomputercommunications.info/Book/7/7.18-3Com-ProductStrategy-WaitingForPC.html)
 
 ![](https://imgur.com/BrRrTXP.png)
 
-```
-"There are very few things that I blew Bob away with, but this was one of them. [See Exhibit 7.3 3Com Learning Curve]. I said: "OK, this is 1981 and this is 1986 and we've got to go from here to here." And Bob said: "What do you mean? How are we going to do that?" So I said: "Well, Bob, first of all, that's your job, figuring out how we're going to do it, but if we're going to make a mass market out of this, and we're going to connect PCs together, we've got to go from here to here, because taking a $2,000 Apple and spending $4,000 to connect it isn't going to compute. So we've got to figure out how to do that. And a way to do that is through semiconductor VLSI integration over time, so let's start with our Unibus."  
-```
+> "There are very few things that I blew Bob away with, but this was one of them. [See Exhibit 7.3 3Com Learning Curve]. I said: "OK, this is 1981 and this is 1986 and we've got to go from here to here." And Bob said: "What do you mean? How are we going to do that?" So I said: "Well, Bob, first of all, that's your job, figuring out how we're going to do it, but if we're going to make a mass market out of this, and we're going to connect PCs together, we've got to go from here to here, because taking a $2,000 Apple and spending $4,000 to connect it isn't going to compute. So we've got to figure out how to do that. And a way to do that is through semiconductor VLSI integration over time, so let's start with our Unibus."  
 
 * [In Perspective](http://www.historyofcomputercommunications.info/Book/7/7.19-InPerspective.html)
 
@@ -473,19 +382,13 @@ Carrico remembers:
 ```
 
 * [The Office of the Future, the PBX to CBX, and AT&T](http://www.historyofcomputercommunications.info/Book/8/8.6-Office-of-Future-PBX-CBX-ATT.html)
-
-```
-The PBX, first introduced in 1879, seemed the most obvious choice. [2] The PBX is an on-premises telephone exchange, or switch, that enables a large number of local telephones to interconnect to each other without involving an outside telephone service provider such as AT&T. (See Exhibit 8.0 The PBX.)
-```
+  > The PBX, first introduced in 1879, seemed the most obvious choice. [2] The PBX is an on-premises telephone exchange, or switch, that enables a large number of local telephones to interconnect to each other without involving an outside telephone service provider such as AT&T. (See Exhibit 8.0 The PBX.)
 
 ![](https://imgur.com/WH2ux5c.png)
 
 
 * [The IBM PC and IBM Token Ring LAN  1981 - 1982](http://www.historyofcomputercommunications.info/Book/8/8.7-IBM-PC-IBMTokenRingLAN981-82.html)
-
-```
-Other histories will reconstruct the decisions and actions within IBM leading up to and following early 1980 when executives realized IBM needed to sell a personal computer. Their customers were asking about them and clearly planning to buy desktop computers, if only for spreadsheet use. 
-```
+  > Other histories will reconstruct the decisions and actions within IBM leading up to and following early 1980 when executives realized IBM needed to sell a personal computer. Their customers were asking about them and clearly planning to buy desktop computers, if only for spreadsheet use. 
 
 ```
 " I remember the meeting well. One of the recommendations was we just adopt Ethernet. And the answer came back 'We can't do that, because you can't be an industry leader by following somebody else's implementation.'  And at the time it was already pretty clear that DEC was getting very closely aligned -- it wouldn't be so bad if it was Xerox only, but having DEC in the fray, that was like a declaration of war. I mean, the Axis Powers had formed, and IBM had to have a different solution, so the alternative was to pick the token ring.”
@@ -503,16 +406,10 @@ As tempting as the IBM PC was, Krause kept the company focused on the plan to bu
 
 * [Early LAN Competitors 1982](http://www.historyofcomputercommunications.info/Book/8/8.16-EarlyLANCompetitors1982.html)
 * [Interlan](http://www.historyofcomputercommunications.info/Book/8/8.17-Interlan.html)
-
-```
-“Once we had the hardware out, we basically wanted to make a decision about what protocol we were going to support, and there were a choice of two, XNS or TCPIP. We were looking for protocols that had certain characteristics that were efficient, that could be made to go fast. So we picked XNS, along with Ungermann-Bass and Bridge and 3‑Com and everybody else in the field, because if you looked at the two protocols from a technical point of view, XNS was designed for Ethernet, and TCP was designed for big wide area communications systems and had lots of overhead to it.”
-```
+  > “Once we had the hardware out, we basically wanted to make a decision about what protocol we were going to support, and there were a choice of two, XNS or TCPIP. We were looking for protocols that had certain characteristics that were efficient, that could be made to go fast. So we picked XNS, along with Ungermann-Bass and Bridge and 3‑Com and everybody else in the field, because if you looked at the two protocols from a technical point of view, XNS was designed for Ethernet, and TCP was designed for big wide area communications systems and had lots of overhead to it.”
 
 * [Bridge Communications](http://www.historyofcomputercommunications.info/Book/8/8.18-BridgeCommunications.html)
-
-```
-“We did Ethernet and XNS because those were the things that were closest to being a standard. We had no interest in doing an OmniNet[8] -like thing, or anything like that. XNS, by the way, is clearly the best local area network protocol ever written, and is dramatically superior in performance to TCP/IP. We did XNS, and we did not do TCP/IP, because we knew that it had a lot of warts in a local area network situation. It was reasonably easy to sell XNS early on because at least it was in the public domain.”
-```
+  > “We did Ethernet and XNS because those were the things that were closest to being a standard. We had no interest in doing an OmniNet[8] -like thing, or anything like that. XNS, by the way, is clearly the best local area network protocol ever written, and is dramatically superior in performance to TCP/IP. We did XNS, and we did not do TCP/IP, because we knew that it had a lot of warts in a local area network situation. It was reasonably easy to sell XNS early on because at least it was in the public domain.”
 * [Second Wave of Lan Competition 1982](http://www.historyofcomputercommunications.info/Book/8/8.20-SecondWaveofLANCompetition-1982.html)
 * [Settlement of AT&T and IBM Anti-Trust Lawsuits](http://www.historyofcomputercommunications.info/Book/8/8.25-SettlementofATTandIBMAntiTrustLawsuits.html)
 
@@ -523,10 +420,7 @@ In both Houses of Congress legislation began emerging seeking to change the term
 ```
 
 * [CBXs  LANs 1984](http://www.historyofcomputercommunications.info/Book/8/8.28-ATT-CBXsLANsTo1984.html)
-
-```
-Even after the breakup, AT&T remained dominant in Customer Premises Equipment (CPE) - $4 billion of CPE assets were transferred to the new AT&T, hereafter AT&T, on January 1, 1984.[16]  Only CBXs had begun gobbling voracious bites out of AT&T’s market share beginning in the late-1970s. AT&T, free to begin competing after January 2, 1982, would take until 1983 before introducing their first CBX. The System 85 was designed for large applications: it could support up to 32,000 lines. A year later they introduced the smaller version System 75 that supported a maximum of 800 lines.[17]  They would continue to lose market share as shipping problems compounded already being late-to-market. Not until 1984 was AT&T nominally competitive.[18]
-```
+  > Even after the breakup, AT&T remained dominant in Customer Premises Equipment (CPE) - $4 billion of CPE assets were transferred to the new AT&T, hereafter AT&T, on January 1, 1984.[16]  Only CBXs had begun gobbling voracious bites out of AT&T’s market share beginning in the late-1970s. AT&T, free to begin competing after January 2, 1982, would take until 1983 before introducing their first CBX. The System 85 was designed for large applications: it could support up to 32,000 lines. A year later they introduced the smaller version System 75 that supported a maximum of 800 lines.[17]  They would continue to lose market share as shipping problems compounded already being late-to-market. Not until 1984 was AT&T nominally competitive.[18]
 
 * [3Com](http://www.historyofcomputercommunications.info/Book/8/8.31-3Com.html)
 
@@ -538,19 +432,13 @@ EtherSeries would be a success. 3Com had skirted disaster.
 
 * [Ethernet Chips: Boundless Hope Market Confusion](http://www.historyofcomputercommunications.info/Book/8/8.34-Ethernet%20Chips-,BoundlessHope%20MarketConfusion.html)
 * [InPerspective](http://www.historyofcomputercommunications.info/Book/8/8.35-InPerspective.html)
-
-```
-1981-1982 witnessed the early uncertainties and confusion of a forming market. Given sufficient economic potential in a perceived market, a large number of firms, both existing and new, will attempt to compete successfully for market share. In Networking, up to 200 firms announced products. In another common feature of emerging markets, the largest of firms often have the most difficulty competing. AT&T once meant communications and was on their way to becoming an also ran. AT&T was willing to disband to have the freedom to compete in the computer market, and they will, and they will fail. IBM had unsuspectingly introduced creative destruction with their PC, and yet had a hard time making sense of it. They got into the PBX business, and will get out in the future. They shadowboxed the LAN market into early paralysis, contributing more than their share to mass confusion. Or as DataPro, a respected research firm, wrote in December 1982:
-```
+  > 1981-1982 witnessed the early uncertainties and confusion of a forming market. Given sufficient economic potential in a perceived market, a large number of firms, both existing and new, will attempt to compete successfully for market share. In Networking, up to 200 firms announced products. In another common feature of emerging markets, the largest of firms often have the most difficulty competing. AT&T once meant communications and was on their way to becoming an also ran. AT&T was willing to disband to have the freedom to compete in the computer market, and they will, and they will fail. IBM had unsuspectingly introduced creative destruction with their PC, and yet had a hard time making sense of it. They got into the PBX business, and will get out in the future. They shadowboxed the LAN market into early paralysis, contributing more than their share to mass confusion. Or as DataPro, a respected research firm, wrote in December 1982:
 
 ### 9. Standards: An Enabling Institution 1979 -1984
 
 * [Overview](http://www.historyofcomputercommunications.info/Book/9/9.0-Overview.html)
 * [Standards Making and the OSI Reference Model](http://www.historyofcomputercommunications.info/Book/9/9.1-StandardsMakingAndOSI-ReferenceModel.html)
-
-```
-While most of the history observed in this reconstruction focuses on the emergence of new markets pioneered by new firms, market order does not always coalesce when their exist many new technologies to solve similar problems. The use of institutions to solve such impasses often proves successful. This chapter recounts the histories of how standards were created to bring market order to local area networking and begin a period of explosive growth for Networking. The social entrepreneurs responsible for the creation of new standards-making institutions faced more political than economic challenges. To be successful meant securing the backing of existing authority structures and then leading frequently hostile parties to collective decisions. The two efforts examined most closely are those of the Institute of Electrical and Electronics Engineers (IEEE) Committee 802 and the International Standards Organization Technical Committee (ISO/TC) 97 Subcommittee 16. The former is a United States organization and the latter an international one; albeit both were closely observed and influenced by individuals and organizations regardless of country of origin (See Exhibit 9.0 Standards Organizations). 
-```
+  > While most of the history observed in this reconstruction focuses on the emergence of new markets pioneered by new firms, market order does not always coalesce when their exist many new technologies to solve similar problems. The use of institutions to solve such impasses often proves successful. This chapter recounts the histories of how standards were created to bring market order to local area networking and begin a period of explosive growth for Networking. The social entrepreneurs responsible for the creation of new standards-making institutions faced more political than economic challenges. To be successful meant securing the backing of existing authority structures and then leading frequently hostile parties to collective decisions. The two efforts examined most closely are those of the Institute of Electrical and Electronics Engineers (IEEE) Committee 802 and the International Standards Organization Technical Committee (ISO/TC) 97 Subcommittee 16. The former is a United States organization and the latter an international one; albeit both were closely observed and influenced by individuals and organizations regardless of country of origin (See Exhibit 9.0 Standards Organizations). 
 
 ![](https://imgur.com/nW98VFh.png)
 
@@ -585,10 +473,7 @@ The influence was nominal, primarily because Xerox made it difficult for us to t
 
 * [ISO/OSI (Open Systems Interconnection): 1981- 1982](http://www.historyofcomputercommunications.info/Book/9/9.7_SO-OSI-OpenSystemsInterconnection81-82.html)
 * [TCP/IP and XNS 1981 - 1983](http://www.historyofcomputercommunications.info/Book/9/9.8_TCP-IP-XNS81-83.html)
-
-```
-At year-end 1982, two connection-less, or datagram, communication protocols for LANs did exist: TCP/IP and XNS. Their success would impact the eventual outcome of OSI.
-```
+  > At year-end 1982, two connection-less, or datagram, communication protocols for LANs did exist: TCP/IP and XNS. Their success would impact the eventual outcome of OSI.
 
 * [IEEE Committee 802:  1981 - 1982](http://www.historyofcomputercommunications.info/Book/9/9.9_IEEE-Committee802-81-82.html)
 
@@ -598,17 +483,11 @@ At year-end 1982, two connection-less, or datagram, communication protocols for 
 ```
 
 * [ISO/OSI (Open Systems Interconnection): 1982 - 1983](http://www.historyofcomputercommunications.info/Book/9/9.10_ISO-OSI-OpenSystemsInterconnection82-83.html)
-
-```
-The years 1983-1984 represented a turning point in the history of LANs. The technological-economic dance of chaos and uncertainty shifted into standards resolution and economic growth. The first to benefit were Ethernet vendors. In 1983, Ethernet (CSMA/CD) became an IEEE, ECMA, and effectively an ISO/OSI standard. In addition, the conversion of Arpanet to TCP/IP on January 1, 1983 represented a milestone for DARPA and that TCP/IP had been successfully ported to all the leading computers of the day. By mid-year it would be available for the IBM PC. In contrast, Xerox refused to release more of XNS and, as a consequence, nearly all the LAN start-up’s would engineering their next generation products using TCP/IP not XNS. As for IBM, the lumbering giant, it would not be until 1984 before they make their intentions clear. That same year, the NCC public demonstration of OSI software was an important first step in proving the concept of vendor-independent OSI LAN software; albeit commercial products were still years away. As the finalization of standards became apparent, sales of LAN products soared 141% in 1983. Two years later they reached nearly $1 billion. Here then is a summary of those two critical years.
-```
+  > The years 1983-1984 represented a turning point in the history of LANs. The technological-economic dance of chaos and uncertainty shifted into standards resolution and economic growth. The first to benefit were Ethernet vendors. In 1983, Ethernet (CSMA/CD) became an IEEE, ECMA, and effectively an ISO/OSI standard. In addition, the conversion of Arpanet to TCP/IP on January 1, 1983 represented a milestone for DARPA and that TCP/IP had been successfully ported to all the leading computers of the day. By mid-year it would be available for the IBM PC. In contrast, Xerox refused to release more of XNS and, as a consequence, nearly all the LAN start-up’s would engineering their next generation products using TCP/IP not XNS. As for IBM, the lumbering giant, it would not be until 1984 before they make their intentions clear. That same year, the NCC public demonstration of OSI software was an important first step in proving the concept of vendor-independent OSI LAN software; albeit commercial products were still years away. As the finalization of standards became apparent, sales of LAN products soared 141% in 1983. Two years later they reached nearly $1 billion. Here then is a summary of those two critical years.
 
 * [The Emergence of Technological Order:  1983 - 1984](http://www.historyofcomputercommunications.info/Book/9/9.11_EmergenceTechnologicalOrder-83-84.html)
 * [In Perspective](http://www.historyofcomputercommunications.info/Book/9/9.12_InPerspective.html)
-
-```
-At yearend 1984, the long trek of LAN standards making that began in March of 1978 with the first meeting of ISO/TC97/SC16 reached successful completion and LAN market growth accelerated. With the rules of the game settled, it was time to see what firms could best compete. No longer would compromises, agreements, and votes decide the future of LANs, it would be product offerings, prices and availability. Embraced within the new rules were connectionless, or datagram, protocols that had been dismissed by the powerful CCITT. Technological necessity and individual initiatives had prevailed and overcome the power of the entrenched.
-```
+  > At yearend 1984, the long trek of LAN standards making that began in March of 1978 with the first meeting of ISO/TC97/SC16 reached successful completion and LAN market growth accelerated. With the rules of the game settled, it was time to see what firms could best compete. No longer would compromises, agreements, and votes decide the future of LANs, it would be product offerings, prices and availability. Embraced within the new rules were connectionless, or datagram, protocols that had been dismissed by the powerful CCITT. Technological necessity and individual initiatives had prevailed and overcome the power of the entrenched.
 
 
 ### 10. Networking: Market Order: LANs 1983-1986
