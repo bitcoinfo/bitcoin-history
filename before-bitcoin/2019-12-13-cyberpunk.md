@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Cyberpunks - Phone Phreaks, BBS, Warez, and Cult of the Dead Cow
 header: no
+categories: ["History"]
+tags: ["Before Bitcoin", "Hacker"]
 ---
 
 ## 💀 Cyberpunks

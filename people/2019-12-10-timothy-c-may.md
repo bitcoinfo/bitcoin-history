@@ -4,7 +4,7 @@ header: no
 title: Tim-may
 permalink: /history/people/timothy-c-may/
 categories: ["History","People"]
-tags: ["Cypherpunk"]
+tags: ["Cypherpunk","Before Bitcoin"]
 ---
 
 * [1993-11-09 - (fwd) Clipper and Tipper on Route 666](http://mailing-list-archive.cryptoanarchy.wiki/archive/1993/11/99f4383f9733a2d139b5f7e1055546195e0dcd5b064975b63351b0c358fc704c/) - From: tcmay@netcom.com (Timothy C. May)

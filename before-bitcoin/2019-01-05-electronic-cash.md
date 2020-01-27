@@ -8,11 +8,11 @@ header:
   caption: "[Dec 2013 - History of Virtual Currency](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
   teaser: "https://bitcoin-nerds.xyz/history/assets/img/electronic-cash-2013.png"
   og_image: "https://bitcoin-nerds.xyz/history/assets/img/electronic-cash-2013.png"
-permalink: /before-bitcoin/electronic-cash/
+permalink: /history/before-bitcoin/electronic-cash/
 canonical_url: 'https://bitcoin-nerds.xyz/history//before-bitcoin/electronic-cash/'
 author_profile: false
-redirect_from:
-  - /before-bitcoin/electronic-cash
+categories: ["History","People"]
+tags: ["Cypherpunk","Before Bitcoin"]
 last_modified_at: 2019-05-27T13:22:33-23:00
 ---
 

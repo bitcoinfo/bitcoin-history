@@ -1,19 +1,20 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline:  "From the MIT AI Intelligence Lab and the Hacker Ethic to Phone Phreaking, Computer Hacking and the Anarchists Cookbook."
 title:  "History of Hacker Culture."
 teaser: ""
 categories:
-    - design
+    - History
 tags:
-    - design
-    - background color
-    - header
+    - Hacker
+    - Before Bitcoin
 header: no
 image:
     title: http://opentranscripts.org/wp-content/uploads/2016/12/allison-parrish-programming-forgetting-15-768x576.png
     caption: 'Programming is Forgetting: Toward a New Hacker Ethic'
     caption_url: http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
+categories: ["History"]
+tags: ["Before Bitcoin"]
 ---
 
 

@@ -6,8 +6,11 @@ excerpt: "Phil Zimmermann was a key player in this period. The PGP software he a
 header:
   image: "_posts/history/assets/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
   caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
-permalink: /history/cypherpunks/
+permalink: /history/before-bitcoin/cypherpunks/
 last_modified_at: 2019-05-27T13:22:33-23:00
+categories: ["History"]
+tags: ["Cypherpunk","Before Bitcoin"]
+
 ---
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>

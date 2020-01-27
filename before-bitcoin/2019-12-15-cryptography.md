@@ -1,6 +1,9 @@
 ---
 layout: page-fullwidth
 title: 📚 Cryptography
+categories: ["History"]
+tags: ["Before Bitcoin","Cryptography"]
+permalink: /history/before-bitcoin/cryptography/
 ---
 
 * [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025)

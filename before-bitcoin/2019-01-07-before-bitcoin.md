@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: page-fullwidth
 title: Before Bitcoin
 description: For related history preceeding the development of Bitcoin.
 excerpt: >
@@ -14,6 +14,8 @@ permalink: "before-bitcoin"
 canonical_url: 'https://bitcoin-nerds.xyz/history/before-bitcoin'
 redirect_from: "before-bitcoin/"
 last_modified_at: 2019-05-27T13:22:33-23:00
+categories: ["History"]
+tags: ["Before Bitcoin"]
 
 ---
 
