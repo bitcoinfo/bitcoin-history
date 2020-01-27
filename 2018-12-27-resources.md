@@ -85,14 +85,11 @@ By now, I've made a start at organizing bitcoin's history by year.. tho I haven'
 
 In this paper, we introduce investors to the socio-economic factors that led to the development of Bitcoin, and which will shape its future.
 
-
-
 [What a Bitcoin Evangelist Thinks About Cryptocurrency’s Terrible...](https://slate.com/technology/2018/12/bitcoin-price-cryptocurrency-bubble-burst.html?wpsrc=sh_all_dt_tw_ru)
   > “Actually, it was a year of tremendous innovation in the space because all of the loud speculative voices went away.”
 
 * [Michel Rauchs (@mrauchs)](https://twitter.com/mrauchs/status/950366745663025152) 
   > My Master's thesis (2016) visualising the evolution of the #Bitcoin business ecosystem from 2009-2015 is now also available on SSRN. Network graphs are based on a unique dataset of 500+ Bitcoin companies and projects. [https://t.co/uBoGDe5Jod](https://t.co/uBoGDe5Jod)
-
 
 [Do Libertarians Dream Of Electric Coins? The Material Embeddedness Of Bitcoin](https://archive.org/stream/DoLibertariansDreamOfElectricCoinsTheMaterialEmbeddednessOfBitcoin/Do%2520libertarians%2520dream%2520of%2520electric%2520coins?%2520The%2520material%2520embeddedness%2520of%2520Bitcoin_djvu.txt) 
 
@@ -179,8 +176,6 @@ In this paper, we introduce investors to the socio-economic factors that led to 
 * CryptoQuikRead_089 - [Bitcoin Magazine’s Week in Review: Looking to the Past and the Future](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_089---Bitcoin-Magazines-Week-in-Review-Looking-to-the-Past-and-the-Future-e2ndrt)
 * CryptoQuikRead_180 - [Bitcoin at 10](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_180---Bitcoin-at-10-e2ndoo)
 
-
-
 * [The Original 'I AM HODLING' Bitcointalk Post](https://bitcointalk.org/index.php?topic=375643.0)
   >"I type d that tyitle twice because I knew it was wrong the first time.  Still wrong.  w/e.  GF's out at a lesbian bar, BTC crashing WHY AM I HOLDING? I'LL TELL YOU WHY.  It's because I'm a bad trader and I KNOW I'M A BAD TRADER.  Yeah you good traders can spot the highs and the lows pit pat piffy wing wong wang just like that and make a millino bucks sure no problem bro.  Likewise the weak hands are like OH NO IT'S GOING DOWN I'M GONNA SELL he he he and then they're like OH GOD MY ASSHOLE when the SMART traders who KNOW WHAT THE FUCK THEY'RE DOING buy back in but you know what?  I'm not part of that group.  When the traders buy back in I'm already part of the market capital so GUESS WHO YOU'RE CHEATING day traders NOT ME~!  Those taunt threads saying \"OHH YOU SHOULD HAVE SOLD\" YEAH NO SHIT.  NO SHIT I SHOULD HAVE SOLD.  I SHOULD HAVE SOLD MOMENTS BEFORE EVERY SELL AND BOUGHT MOMENTS BEFORE EVERY BUY BUT YOU KNOW WHAT NOT EVERYBODY IS AS COOL AS YOU.  You only sell in a bear market if you are a good day trader or an illusioned noob.  The people inbetween hold.  In a zero-sum game such as this, traders can only take your money if you sell."
 
@@ -200,7 +195,6 @@ In this paper, we introduce investors to the socio-economic factors that led to 
 * [Bitcoin Stumble Shows Bitmain a Ghost of Crises Past](https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past)
   > "A look at Bitmain Technologies Ltd.’s financials reveal the Chinese company sold a lot of shovels during the crypto gold rush of the past two years. Its mistake was to take digital gold as payment instead of cash. \n\nBut there are two other items that could make matters worse for Bitmain and others in the crypto-mining ecosystem, adding to pressure on the balance sheet."
 
-
 * [Bitcoin’s Constitutional Crisis & Why I Support the UASF](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6)
 Description = "It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end of the tunnel in this round of the bitcoin scaling debate. Thank god.\n\nThe impending activation of BIP 148, AKA bitcoin’s “user activated soft fork”, due to take effect on August 1, would ensure that SegWit, an optimization feature that increases block capacity, gets activated without strings attached."
 
@@ -213,17 +207,33 @@ Description = "It took three years and the emergence of serious (and perhaps per
 * [Satoshi on Anonymous Transactions - bitcointalk](https://twitter.com/notgrubles/status/1043569394901602304) [[**ϟ**](https://bitcointalk.org/index.php?topic=770.msg9074)
   > "As some might have noticed, one of the things that bugs me about bitcoin is that the entire history of transactions is completely public. I totally understand the benefits of how this simplifies things and makes it easy for everyone to prove coins are valid. So this is not a suggestion for a change to bitcoin. Rather it is a question about what could be possible, and what couldn't be possible."
 
-
 * [@BitcoinErrorLog on the original Bitcoin Foundation](https://twitter.com/BitcoinErrorLog/status/1044207811603943425)
   > "I was a paying member of the original Bitcoin Foundation. They were mostly a train wreck. I attended their annual meeting at a conference in Amsterdam and met with their accounting person to ask some hard questions. She was actually pretty savvy. /1"
   
 * [Bitcorati Interview Series : Vitalik Buterin - Head Writer, Bitcoin Magazine](https://www.youtube.com/watch?v=EkeCapBOQQ0)
   > "Vitalik Buterin is a former computer science student who dropped out of college to focus on bitcoin projects full-time. He was a very early bitcoin adopter and is currently the head writer at Bitcoin Magazine. Listen as Vitalik discusses his background, how he got involved in bitcoin and why he thinks bitcoin has the potential to change the world! This interview is one in a series captured at the Media Bistro Inside Bitcoins Conference in Las Vegas, Nevada, December 10th and 11th, 2013"
 
-
 * [The Bitcoin Knowledge Podcast — Legendary](https://www.bitcoin.kn/legendary/) "These are interviews with legendary guests from the Bitcoin world. Trace Mayer asks Nick Szabo what the highest priority should be for hiring Bitcoin. A Week With Adam Back in September 2015"
 * [A finite monetary supply for Bitcoin](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
   > "Although it is widely believed that Satoshi was an inflation-hating goldbug he never said this, and in fact programmed Bitcoin's money supply to grow indefinitely, forever. He modeled the monetary supply as 4 gold mines being discovered per mibillenium (1024 years), with equal intervals between them, each one being depleted over the course of 140 years. This poses obvious problems, however. Prominent among them is the discussion on what to call 1 billion Bitcoin, which symbol color to use for it, and when wallet clients should switch to it by default. To combat this, this document proposes a controversial change: making Bitcoin's monetary supply finite."
+
+## Literature
+
+    [Book review: The Truth Machine](https://www.ofnumbers.com/2018/12/03/book-review-the-truth-machine/)
+    A friend of mine sent me a copy of The Truth Machine which was published in February 2018. Its co-authors are Michael Casey and Paul Vigna, who also previously co-wrote The Age of Cryptocurrency a…
+
+        
+    [Bitcoin's Academic Pedigree - ACM Queue](https://queue.acm.org/detail.cfm?id=3136559)
+
+    [1992 Cynthia Dwork and Moni Naor, "Pricing via Processing or Combatting Junk Mail"](http://www.hashcash.org/papers/pvp.pdf) 
+    
+    [1995 Markus Jakobsson, "Ripping coins for a fair exchange"](https://link.springer.com/content/pdf/10.1007%252F3-540-49264-X_18.pdf) 
+
+        
+    [http://osaka.law.miami.edu/~froomkin/articles/oceanno.htm](http://osaka.law.miami.edu/~froomkin/articles/oceanno.htm)
+
+    [http://osaka.law.miami.edu/~froomkin/seminar/papers/bortner.htm](http://osaka.law.miami.edu/~froomkin/seminar/papers/bortner.htm)
+
 
 ### Resources
 
