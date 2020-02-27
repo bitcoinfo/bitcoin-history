@@ -43,6 +43,8 @@ By now, I've made a start at organizing bitcoin's history by year.. tho I haven'
 * [Bitcoin History: Timeline, Origins and Founder](https://www.thestreet.com/investing/bitcoin/bitcoin-history-14686578)
   > "The history of Bitcoin has been a turbulent one to say the least, and right now we're in one of the most turbulent periods in its history, as it has spent the entirety of 2018 falling further and further from its peak value of nearly $20,000 in December 2017.\n\nBut something as uncertain as Bitcoin (and cryptocurrency in general) was never going to be smooth sailing. Many tried a cryptographed digital currency before it, and they weren't able to fully crack it. Since Bitcoin became a reality nearly a decade ago, there have been some high highs and some low lows. For some Bitcoin owners, that's part of the appeal.\n\nBut how did we get to where we are today with Bitcoin? How did it begin, what were its forebearers, and what have been the unexpected turns of the Bitcoin journey? Let's take a walk through the timeline and find out."
 
+
+
 [twan (@dantwany)](https://twitter.com/dantwany/status/939987392496365569) 
   > Bitcoin is sometimes compared Netscape and it's said some other will dethrone it. There have been many digital currency systems created that failed. Bitcoin is where it's today because it's a success. Payment mechanisms designed for the Internet (1996) [https://t.co/6bNPXuT](https://t.co/6bNPXuT)...
 
@@ -237,6 +239,9 @@ Description = "It took three years and the emergence of serious (and perhaps per
 
 ### Resources
 
+[![](http://i.imgur.com/Px8q878.png)](https://www.youtube.com/watch?v=apYieuvnUaE)
+
+* [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE) - Blockchain at Berkeley - 2016
 * [https://en.bitcoinwiki.org/wiki/Bitcoin_history](https://en.bitcoinwiki.org/wiki/Bitcoin_history)
 * [Blockchain Libarary - Reading Lists - Bitcoin History](https://blockchainlibrary.org/category/reading-lists/bitcoin-history/)
 * [Bitcoin History - OXT](https://oxt.me/history) - "This page lists a set of 'famous' events or lesser-known facts which are all part of the history of Bitcoin. Each event is illustrated with data extracted from the blockchain.
@@ -250,7 +255,6 @@ Description = "It took three years and the emergence of serious (and perhaps per
   * [Complete Writings of Satoshi Nakamoto](https://satoshi.nakamotoinstitute.org/)
   * [Original Announcement Email Thread](https://www.mail-archive.com/search?l=cryptography%40metzdowd.com&q=subject:%22Bitcoin+P2P+e%5C-cash+paper%22&o=oldest&f=1)
   * [Historical Literature](http://nakamotoinstitute.org/literature/) (work that preceded Bitcoin)
-  * [History from Cypherpunks to JP Morgan](https://www.youtube.com/watch?v=apYieuvnUaE)
   * [History Timeline](http://historyofbitcoin.org/)
   * [Bryan Bishop's Bitcoin Event Transcripts](http://diyhpl.us/wiki/transcripts/)
   * [Premature Obituaries](https://99bitcoins.com/bitcoinobituaries/)
@@ -258,3 +262,4 @@ Description = "It took three years and the emergence of serious (and perhaps per
 * [Visions of Bitcoin – Nic Carter](https://medium.com/@nic__carter/visions-of-bitcoin-4b7b7cbcd24c) - How major Bitcoin narratives changed over time
 * [SLP23 – Economic Eras of Bitcoin, and Lightning Development, wit...](https://stephanlivera.com/2018/09/20/slp23-economic-eras-of-bitcoin-and-lightning-development-with-rusty-russell-of-blockstream/)
   >Rusty Russell, a well known and respected Bitcoin Lightning developer at Blockstream  joins me in this episode. We talk about his article, The Three Economic Eras of Bitcoin, and discuss the Lightn…
+
