@@ -18,36 +18,19 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 
 
 
-[A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
-
-[Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
-
-[Lecture 12 — History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
-
-[Digital Cash and Monetary Freedom](http://web.archive.org/web/19971210185701/http://info.isoc.org:80/HMP/PAPER/136/abst.html) 
-
+* [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
+* [Lecture 12 — History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
+  > For the accompanying textbook, including the free draft version, see: [http://bitcoinbook.cs.princeton](http://bitcoinbook.cs.princeton/)
+* [Digital Cash and Monetary Freedom](http://web.archive.org/web/19971210185701/http://info.isoc.org:80/HMP/PAPER/136/abst.html) (1996)
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b)
-
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) 
-
 * [@FidelityDigitalAssets - The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
-
 * [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
-
 * [Eric Turner (@ericturnr)](https://twitter.com/ericturnr/status/1037095399868297217)
   > Looking for recommendations: History of digital money and history of crypto Any suggestions?
-
-* [Adam Back (@adam3us)](https://twitter.com/adam3us/status/1160121980542234624?s=20)
-  > @BobMcElrath part is to pose interesting new questions. Could ecash be decentralised? (Yes, clearly desirable, post digicash SPOF failure.) Could it be mined (yes, occured to many from hashcash). Could you control inflation? (Proposals with some human/market input with bit...
-
-* [https://cryptome.org/jya/bis_emoney.html](https://cryptome.org/jya/bis_emoney.html)
-  >  BANK FOR INTERNATIONAL SETTLEMENTS IMPLICATIONS FOR CENTRAL BANKS OF THE DEVELOPMENT OF ELECTRONIC MONEY October 1996
-
-* [https://cryptome.org/jya/nsamint.htm](https://cryptome.org/jya/nsamint.htm)
-  > HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH Laurie Law, Susan Sabett, Jerry Solinas National Security Agency 18 June 1996 
-
-* [https://cryptome.org/jya/lawdno.txt](https://cryptome.org/jya/lawdno.txt)
-
+* [BANK FOR INTERNATIONAL SETTLEMENTS IMPLICATIONS FOR CENTRAL BANKS OF THE DEVELOPMENT OF ELECTRONIC MONEY](https://cryptome.org/jya/bis_emoney.html) - October 1996
+* [HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH](https://cryptome.org/jya/nsamint.htm) Laurie Law, Susan Sabett, Jerry Solinas National Security Agency 18 June 1996 
+* [Cybercash at risk/Money laws lacking](https://cryptome.org/jya/lawdno.txt)
 
 ### DigiCash 
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
@@ -162,6 +145,7 @@ An early clickworking site that rewarded users with its own digital currency.
 * [2005 - Bit Gold Proposal](https://unenumerated.blogspot.com/2005/12/bit-gold.html) [[**ϟ**](https://web.archive.org/web/20140406003811/http://szabo.best.vwh.net/bitgold.html)]
 * [Bit Gold and Bitcoin](https://medium.com/@insearchofsatoshi/bit-gold-and-bitcoin-9357176cd420)
 * [The History of Bitcoin - Part 2 - Bit Gold](https://btcmanager.com/the-history-of-bitcoin-part-2-bit-gold/)
+  > In the initial days of the crypto-anarchy and cypherpunk movement, where bitcoin was eventually born, researchers were determined to create a community that would be free of the control from centralized authorities. I...
 * [Genesis Files: Bit Gold - Szabo was Inches Away from Inventing Bitcoin](https://bitcoinmagazine.com/articles/genesis-files-bit-gold-szabo-was-inches-away-inventing-bitcoin/) - [CryptoQuikRead_111](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_111---Genesis-Files---With-Bit-Gold--Nick-Szabo-Was-Inches-From-Inventing-Bitcoin-e2ndr5)
 * [Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
 * [Re: They want to delete the Wikipedia article](https://bitcointalk.org/index.php?topic=342.msg4508#msg4508) - satoshi
@@ -169,20 +153,37 @@ An early clickworking site that rewarded users with its own digital currency.
 * [What is Bit Gold? The Brainchild of Blockchain Pioneer - Nick Szabo](https://coincentral.com/what-is-bit-gold-the-brainchild-of-blockchain-pioneer-nick-szabo/)
 * [‎Show The Cryptoconomy Podcast, Ep CryptoQuikRead_275 - Bit Gold - Jul 25, 2019](https://podcasts.apple.com/us/podcast/the-cryptoconomy-podcast/id1359544516?i=1000445320562)
 
-
 ### Liberty Reserve 
 
-* https://www.aol.com/on/digital-currency-liberty-reserve-money-laundering/
-* https://www.bbc.com/news/technology-36247289
-* https://www.justice.gov/opa/pr/founder-liberty-reserve-pleads-guilty-laundering-more-250-million-through-his-digital
-* https://www.reuters.com/article/net-us-cybercrime-digital-currency-idUSBRE9780GM20130809
+* [Digital Currency Liberty Reserve Busted for Money Laundering](https://www.aol.com/on/digital-currency-liberty-reserve-money-laundering/)
+  > About 1 million users worldwide, including 200,000 in the U.S.; 55 million transactions; and $6 billion in ill-gotten gains.
+  > 
+  > Those are the numbers defining the case of Liberty Reserve, a digital currency and online payment service incorporated in Costa Rica in 2006. On Tuesday, an indictment was unsealed showing that seven men have been charged with running the unlicensed Liberty Reserve as a "bank of choice for the criminal underworld." According to The Wall Street Journal, "The system allegedly was designed to give criminals a way to move money earned from credit-card fraud, online Ponzi schemes, child pornography and other crimes without being detected by law enforcement." Five of the seven men are in custody, having been arrested on Friday in Spain, Costa Rica and Brooklyn, N.Y. Extradition will be sought for the suspects who are overseas; the other two remain at large.
+  > 
+  > For the first time, officials invoked the post-9/11 Patriot Act to shut down a virtual currency when they cut off Liberty Reserve from the U.S. financial system. The drastic measure comes at a time when digital alternatives to traditional currencies such as Bitcoin are drawing wider interest from the public.
+* [Liberty Reserve digital cash chief jailed for 20 years](https://www.bbc.com/news/technology-36247289)
+  > The founder of the digital currency service Liberty Reserve has been sentenced to 20 years in prison.
+  > Arthur Budovsky had pleaded guilty to conspiring to commit money laundering.
+  > The online facility, shut down in 2013, had operated out of Costa Rica.
+  > Prosecutors in New York said many of its clients had been cybercriminals who had sought to move funds anonymously.
+  > Two other men involved in the business were sentenced to shorter jail terms.
+  > Two more people will be sentenced on 13 May.
+  > The authorities are still trying to locate a further two suspects.
+* [Founder of Liberty Reserve Pleads Guilty to Laundering More Than $250 Million through His Digital Currency Business](https://www.justice.gov/opa/pr/founder-liberty-reserve-pleads-guilty-laundering-more-250-million-through-his-digital)
+  > The founder of Liberty Reserve, a virtual currency once used by cybercriminals around the world to launder the proceeds of their illegal activity, pleaded guilty today to running a massive money laundering enterprise, announced Assistant Attorney General Leslie R. Caldwell of the Justice Department’s Criminal Division and U.S. Attorney Preet Bharara of the Southern District of New York.
+  > 
+  > Arthur Budovsky, 42, pleaded guilty to one count of conspiring to commit money laundering before U.S. District Judge Denise L. Cote of the Southern District of New York.  He is scheduled to be sentenced on May 6, 2016.
+* [Hackers switch to new digital currency after Liberty Reserve](https://www.reuters.com/article/net-us-cybercrime-digital-currency-idUSBRE9780GM20130809)
+  > NEW YORK (Reuters) - Three months after a team of international law enforcement officials raided the digital currency firm Liberty Reserve, cyber experts say criminals are increasingly turning to another online currency called Perfect Money.
+  >
+  > Idan Aharoni, the head of cyber intelligence at EMC Corp’s RSA security division, said that some online scam artists and thieves are using Perfect Money’s digital currency to launder money and conceal profits in much the same way they allegedly did with Liberty Reserve’s currency.
 
 
 ## 💰 Karma
 
--KARMA : A Secure Economic Framework for Peer-to-Peer Resource Sharing [http://www.cs.cornell.edu/people/egs/papers/karma.pdf](http://www.cs.cornell.edu/people/egs/papers/karma.pdf) Peer-to-peer systems are typically designed around the assumption that all peers will willingly contribute resources to a global pool. They thus suffer from freeloaders, that is, participants who consume many more resources than they contribute. In this paper, we propose a general economic framework for avoiding freeloaders in peer-to-peer systems. Our system works by keeping track of the resource consumption and resource contribution of each participant. The overall standing of eachparticipant in the system is represented by a single scalar value, called their karma. A set of nodes, called a bankset, keeps track of each node’s karma, increasing it as resources are contributed, and decreasing it as they are consumed. Our framework is resistant to malicious attemptsby the resource provider, consumer, and a fraction of the members of the bank set. We illustrate the application of this framework to a peer-to-peer filesharing application
-
-[A Brief History with Professor Emin Gün Sirer - Dec 3, 2017](https://podcasts.apple.com/us/podcast/020-bitcoin-is-at-%2410-000-heres-brief-history-professor/id1238906492?i=1000395583146)
+* [Karma: Secure Economic Framework for Peer-to-Peer Resource Sharing](http://www.cs.cornell.edu/people/egs/papers/karma.pdf)   
+> Peer-to-peer systems are typically designed around the assumption that all peers will willingly contribute resources to a global pool. They thus suffer from freeloaders, that is, participants who consume many more resources than they contribute. In this paper, we propose a general economic framework for avoiding freeloaders in peer-to-peer systems. Our system works by keeping track of the resource consumption and resource contribution of each participant. The overall standing of eachparticipant in the system is represented by a single scalar value, called their karma. A set of nodes, called a bankset, keeps track of each node’s karma, increasing it as resources are contributed, and decreasing it as they are consumed. Our framework is resistant to malicious attemptsby the resource provider, consumer, and a fraction of the members of the bank set. We illustrate the application of this framework to a peer-to-peer filesharing application
+* [A Brief History with Professor Emin Gün Sirer - Dec 3, 2017](https://podcasts.apple.com/us/podcast/020-bitcoin-is-at-%2410-000-heres-brief-history-professor/id1238906492?i=1000395583146)
 
 
 ### Resources 

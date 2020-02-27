@@ -37,8 +37,6 @@ tags: ["Before Bitcoin"]
 * [Julien Guitton, Bitcoiner 🕶️🍸🍿📈🌕 (@weedcoder)](https://twitter.com/weedcoder/status/1154789187855486976?s=12)
   > ![](https://pbs.twimg.com/media/EAaio4AXsAEYW8y?format=jpg&name=large)
 
-* [Nick Szabo 🔑 (@NickSzabo4)](https://twitter.com/NickSzabo4/status/1032449901802614784)
-  > Inventors of the most important technologies in Bitcoin: digital signatures and Merkle trees (Merkle), elliptic curve crypto (Koblitz), malicious-fault-tolerant consensus (Lamport), elliptic curve crypto (independent inventor: Miller).
 
 * [Giacomo Zucco [I identify as a bubble collection] (@giacomozucco)](https://twitter.com/giacomozucco/status/1162644802275594240?s=12)
   > How to spot a crypto-charlatan: somebody posting this 1996 paper as evidence that somebody at NSA was thoroughly describing Bitcoin 12 years earlier (when indeed they were just superficially describing Chaum's bank-based Ecash 6 years later) [https://t.co/hJ5ISK5YFA](https://t.co/hJ5ISK5YFA)
@@ -61,26 +59,6 @@ tags: ["Before Bitcoin"]
 * [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
 * [Bitcoin and Markets - Bitcoin History](https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History) - Timeline of important research and events since 1970.
 
-
-### 💲 History of Money
-
-
-* [Blockchain's Secret 1,000 Year History](https://www.forbes.com/sites/oliversmith/2018/03/23/blockchains-secret-1000-year-history/)
-  > Far from a modern idea, Blockchain, in fact, has a long history tracing all the way back to the tribal villages of the tiny island of Yap in 500AD.
-* [Bezant Denier (@bezantdenier)](https://twitter.com/bezantdenier/status/1165613209270833152?s=12)
-  > 1.) Published: “Tales of Soft Money — Oceans of Wealth” This article provides eyewitness accounts on the use of seashell money in Africa and in Asia, and also on the logical conclusion of such monetary systems in the face of economic forces. [https://t.co/gDDfimILMd](https://t.co/gDDfimILMd)
-* [Blockchain Mama (@EvolutionCrypto)](https://twitter.com/evolutioncrypto/status/981901294850854912?s=12)
-  > April 5th, 1933, federal reserve confiscated all the gold from US citizens. Interesting..
-* CryptoQuikRead_075 - [Homo Sapiens, Evolution, Money & Bitcoin](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_075---Homo-Sapiens--Evolution--Money--Bitcoin-e2nds7)
-
-[![](https://imgur.com/WLwOn7F.png)](https://nakamotoinstitute.org/shelling-out/)
-* Shelling Out - [The Origins of Money](https://anchor.fm/thecryptoconomy/episodes/Shelling-Out---The-Origins-of-Money-e2ndom)
-* CryptoQuikRead_176 - [Shelling Out - The Origins of Money [Part 1]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_176---Shelling-Out---The-Origins-of-Money-Part-1-e2ndor)
-* CryptoQuikRead_177 - [Shelling Out - The Origins of Money [Part 2]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_177---Shelling-Out---The-Origins-of-Money-Part-2-e2ndoq)
-* CryptoQuikRead_178 - [Shelling Out - The Origins of Money [Part 3]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_178---Shelling-Out---The-Origins-of-Money-Part-3-e2ndos)
-* CryptoQuikRead_179 - [Shelling Out - The Origins of Money [Part 4]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_179---Shelling-Out---The-Origins-of-Money-Part-4-e2ndop)
-* CryptoQuikRead_262 - [The Island of Stone Money](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_262---The-Island-of-Stone-Money-e4d6m0)
-* GuysTake_18 - [A Story About Booms & Busts](https://anchor.fm/thecryptoconomy/episodes/GuysTake_18---A-Story-About-Booms--Busts-e4aflh)
 
 
 

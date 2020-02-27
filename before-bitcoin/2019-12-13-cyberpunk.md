@@ -93,7 +93,6 @@ Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ 
 * [Cult of the Dead Cow: the untold story of the hacktivist group that presaged everything great and terrible about the internet](https://boingboing.net/2019/06/25/hacker-zelig.html)
   > Back in 1984, a lonely, weird kid calling himself Grandmaster Ratte' formed a hacker group in Lubbock, Texas. called the Cult of the Dead Cow, a name inspired by a nearby slaughterhouse. In the decades to come, cDc would become one of the dominant forces on the BBS scene and then the internet -- endlessly inventive, funny and prankish, savvy and clever, and sometimes reckless and foolish -- like punk-rock on a floppy disk.
 
-
 ### 📚 BBS
 
 * [This is the Modem World: The sinister side of the '80s BBS](https://www.engadget.com/2013/07/31/the-sinister-side-of-the-80s-bbs/)
@@ -116,3 +115,5 @@ Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ 
   > The author was an angry teenager when he began research on the book, which outlined weapon use, bomb-building techniques and drug manufacturing.
 * [I wrote the Anarchist Cookbook in 1969. Now I see its premise as f...](https://www.theguardian.com/commentisfree/2013/dec/19/anarchist-cookbook-author-william-powell-out-of-print)
   > William Powell: When I penned the book, I was angry and alienated. Today I realize that violence can't be used to prevent violence
+* [The Anarchist's Cookbook Written by: The Jolly Roger](http://index-of.co.uk/Tutorials-2/The%2520Proper%2520Anarchists%2520Cookbook.pdf)
+* [Read the FBI’s review of ‘The Anarchist Cookbook’](https://theoutline.com/post/6285/read-the-fbis-review-of-the-anarchist-cookbook?zd=1&zi=77ew2zqy) 

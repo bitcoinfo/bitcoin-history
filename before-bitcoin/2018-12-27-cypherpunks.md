@@ -34,23 +34,25 @@ tags: ["Cypherpunk","Before Bitcoin"]
 * [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
 * [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
+* [Computer Security Act of 1987](https://en.wikipedia.org/wiki/Computer_Security_Act_of_1987)
+  > The Computer Security Act of 1987, Public Law No. 100-235 (H.R. 145), (Jan. 8, 1988), was a United States federal law enacted in 1987. It was intended to improve the security and privacy of sensitive information in federal computer systems and to establish minimally acceptabl...
 * [Code Wars — How 'Ultra' and 'Magic' Led to Allied Victory](https://www.overdrive.com/media/900802/code-wars)
   > When the top secret code breaking activities at Bletchley Park were revealed in the 1970s, much of the history of the Second World War had to be rewritten. Code Wars examines the role of ULTRA (the intelligence derived from breaking secret enemy signals) on major events of the Second World War. It examines how it influenced the outcome of key battles such as D-Day, El Alamein, Crete, key naval battles, the controversy surrounding Churchill and Coventry, the shadowing of Hitler's V1 pilotless aircraft and the V2 rocket.
 * [U.S. Export Controls on Encryption Technology](https://dspace.mit.edu/bitstream/handle/1721.1/28754/59822564-MIT.pdf?sequence=2) by Shirley K. Hung A.B. Government Harvard College, 2000
 * [Mark Miller and the Decades long quest for Smart Contracts](https://sourcecrypto.pub/posts/transcripts/mark-miller-agoric-epicenter/) mark miller tells of fighting for the freedom of RSA paper 
 * [Export of cryptography from the United States](https://en.wikipedia.org/wiki/Export_of_cryptography_from_the_United_States)
   > The export of cryptographic technology and devices from the United States was severely restricted by U.S. law until 1992, but was gradually eased until 2000; some restrictions still remain. Since World War II, many governments, including the U.S. and its NATO allies, have reg...    
-* [Statement of Louis J. Freeh, Director FBI](https://www.epic.org/crypto/legislation/freeh_797.html) - Before the Senate Judiciary Committee July 9, 1997
-  > The looming spectre of the widespread use of robust, virtually uncrackable encryption is one of the most difficult problems confronting law enforcement as the next century approaches.
-* [https://cryptome.org/cryptome-2016-1996.htm](https://cryptome.org/cryptome-2016-1996.htm)
+* [Statement of Louis J. Freeh, Director - Federal Bureau of Investigation](https://www.epic.org/crypto/legislation/freeh_797.html) Before the Senate Judiciary Committee July 9, 1997
+  > Mr. Chairman and members of the committee, I appreciate the opportunity to discuss the issue of encryption and I applaud your willingness to deal with this vital public safety issue.
+  > 
+  > The looming spectre of the widespread use of robust, virtually uncrackable encryption is one of the most difficult problems confronting law enforcement as the next century approaches. At stake are some of our most valuable and reliable investigative techniques, and the public safety of our citizens. We believe that unless a balanced approach to encryption is adopted that includes a viable key management infrastructure, the ability of law enforcement to investigate and sometimes prevent the most serious crimes and terrorism will be severely impaired. Our national security will also be jeopardized.
+* [Cryptome 2016 - 1996](https://cryptome.org/cryptome-2016-1996.htm)
 * [Matt Blaze's Technical Papers](http://www.mattblaze.org/papers)
   > Many of my technical papers are available here. Newer papers are usually in Adobe PDF format; like it or not, PDF is the de facto standard format for scientific papers these days. Most of the older papers are in PostScript format; you'll need a PostScript printer or viewer (such as GhostView) to read them. Most of these files have also been converted to Adobe PDF format (using ps2pdf) and can be viewed or printed with a PDF viewer such as Acrobat, acroread4, or xpdf. If you have a choice, you'll probably find the PostScript version looks and works better than the PDF version does (ps2pdf doesn't do particularly well with some of the fonts). A few papers are available as plain ASCII text or LaTeX source.
-* [Attorney General will ask Zuckerberg to halt plans for end-to-end encryption | Hacker News](https://news.ycombinator.com/item?id=21149744)
+* [Attorney General will ask Zuckerberg to halt plans for end-to-end encryption](https://www.buzzfeednews.com/article/ryanmac/bill-barr-facebook-letter-halt-encryption) - [Hacker News](https://news.ycombinator.com/item?id=21149744)
 * [Eva (@evacide)](https://twitter.com/evacide/status/1179825144748920832?s=12)
   > I do not want your encryption backdoors I do not want them in a box I do not want them with a fox I do not want them here or there I do not want them anywhere
-* [Encryption Export Controls: International Traffic in Arms Regulations (ITAR)](https://research.ncsu.edu/sparcs/compliance/export-controls/exports-tree/exports-tree-encrypt-itar/)
-* [Clipper Chick](https://www.wired.com/1996/09/denning/)
-  > Changing sides in the government's war against piracy, Dorothy Denning went from hacker hero to one of the most hated people on the Net.
+* [Encryption Export Controls: International Traffic in Arms Regulations (ITAR) : Sponsored Programs and Regulatory Compliance Services](https://research.ncsu.edu/sparcs/compliance/export-controls/exports-tree/exports-tree-encrypt-itar/)
 * [An Interview with MARTIN HELLMAN](https://conservancy.umn.edu/bitstream/handle/11299/107353/oh375mh.pdf)
   > Leading cryptography scholar Martin Hellman begins by discussing his developing interest in cryptography, factors underlying his decision to do academic research in this area, and the circumstances and fundamental insights of his invention of public key cryptography with collaborators Whitfield Diffie and Ralph Merkle at Stanford University in the mid-1970s. He also relates his subsequent work in cryptography with Steve Pohlig (the Pohlig-Hellman system) and others. Hellman addresses his involvement with and the broader context of the debate about the federal government’s cryptography policy—regarding to the National Security Agency’s (NSA) early efforts to contain and discourage academic work in the field, the Department of Commerce’s encryption export restrictions (under the International Traffic of Arms Regulation, or ITAR), and key escrow (the so-called Clipper chip). He also touches on the commercialization of cryptography with RSA Data Security and VeriSign, as well as indicates some important individuals in academe and industry who have not received proper credit for their accomplishments in the field of cryptography.
 * [NSA Backdoor Key from Lotus-Notes](http://www.cypherspace.org/adam/hacks/lotus-nsa-key.html)
@@ -90,6 +92,23 @@ tags: ["Cypherpunk","Before Bitcoin"]
   > In agonizing over what to include in my 8 or 10 minutes of talking, and my handful of pages here, I realized it would be best to concentrate on a specific example rather than speak in generalities or try to educate folks about what digital cash is, how it works, how regulators and law enforcement types will try to control it, etc. I use an experimental--and controversial--experiment I released on the Net several years ago, BlackNet, as this example.
 * [Today In Infosec (@todayininfosec)](https://twitter.com/todayininfosec/status/1171152789986140160?s=12)
   > 1994: Code for the RC4 stream cipher, previously a trade secret, was anonymously posted to the Cypherpunks mailing list.
+* [S.266 - 102nd Congress (1991-1992): Comprehensive Counter-Terrorism Act of 1991](https://www.congress.gov/bill/102nd-congress/senate-bill/266)
+  > Subtitle B: Electronic Communications - Expresses the sense of the Congress that providers of electronic communications services and manufacturers of electronic communications service equipment should ensure that communications systems permit the Government to obtain the plain text contents of voice, data, and other communications when appropriately authorized by law.
+* [18. International Traffic In Arms Regulations](https://www.justice.gov/jm/criminal-resource-manual-18-international-traffic-arms-regulations)
+
+['Crypto Wars' topic on VICE](https://www.vice.com/en_us/topic/crypto-wars) 
+* [Steven Levy - WIRED](https://www.wired.com/author/steven-levy/page/36/) 
+  * [Cypher Wars](https://www.wired.com/1994/11/cypher-wars/) - Pretty Good Privacy Gets Pretty Legal
+  * [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/)
+  > It's the FBIs, NSAs, and Equifaxes of the world versus a swelling movement of Cypherpunks, civil libertarians, and millionaire hackers. At stake: Whether privacy will exist in the 21st century.
+  * [Wisecrackers](https://www.wired.com/1996/03/crackers/)
+  > If you're putting your faith in cryptography to protect your privacy, we have some garage-band hackers - who have been famously cracking, not creating, crypto - that we'd like you to meet.
+  * [Anonymously Yours -- How to Launder Your E-mail](https://www.wired.com/1994/06/anonymous-2/)
+  > You don't have to wait for cryptography to secure complete anonymity on the Net. All you need is the address of a remailer. You say you don't want to be identified?
+  * [The Open Secret](https://www.wired.com/1999/04/crypto/)
+  > Public key cryptography – the breakthrough that revolutionized email and ecommerce – was first discovered by American geeks. Right? Wrong. The story of the invention of public key cryptography is a cypherpunk sacred text: In 1976, an iconoclastic young hacker named Whitfi...
+  * [Clipper Chick](https://www.wired.com/1996/09/denning/)
+  > Changing sides in the government's war against piracy, Dorothy Denning went from hacker hero to one of the most hated people on the Net.
 
 ### Modern Crypto Wars 
 
@@ -97,6 +116,8 @@ tags: ["Cypherpunk","Before Bitcoin"]
 * [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/) ('13)
 * [The NSA is Making Us All Less Safe](https://www.eff.org/deeplinks/2013/10/nsa-making-us-less-safe)
 * [A complete guide to the new ‘Crypto Wars’](https://www.dailydot.com/layer8/encryption-crypto-wars-backdoors-timeline-security-privacy/)
+* [Patently Absurd](https://www.wired.com/1994/07/patents-2)
+  > One of the best-known patents in the computer industry is patent Number 4,405,829, "Cryptographic Communications System and Method," the patent on RSA public-key cryptography. This patent, which expires on September 20, 2000, covers every implementation of RSA encryption in the United States. Because the algorithm is patented, it is a violation of US law for a company to write its own implementation of the RSA algorithm and use it without a license from Public Key Partners, the company that has an exclusive license to the patent from the Massachusetts Institute of Technology, the university where the algorithm was developed. It's even illegal for a public-spirited citizen to write his or her own implementation of RSA and give it away.
 
 
 ## Cypherpunk Mailinglist 
@@ -251,13 +272,6 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
   > I just helped Neal Stephenson, author of Cryptonomicon, setup his first Bitcoin wallet thanks to @blockchain
 * [The Cypherpunks and Bitcoin. The years before bitcointalk.](https://bitcointalk.org/index.php?topic=4356808.0)
 
-## Assorted Articles
-
-* ['Crypto Wars' topic on VICE](https://www.vice.com/en_us/topic/crypto-wars) 
-* [Steven Levy | WIRED](https://www.wired.com/author/steven-levy/page/36/) 
-  * [Cypher Wars](https://www.wired.com/1994/11/cypher-wars/) - Pretty Good Privacy Gets Pretty Legal
-  * [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/)
-  > It's the FBIs, NSAs, and Equifaxes of the world versus a swelling movement of Cypherpunks, civil libertarians, and millionaire hackers. At stake: Whether privacy will exist in the 21st century.
 
 ## Video \ Audio
 
