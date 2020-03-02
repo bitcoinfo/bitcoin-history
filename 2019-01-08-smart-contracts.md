@@ -172,7 +172,7 @@ The short version is that Vitalik started Ethereum after a few attempts to integ
   * via [reddit](https://www.reddit.com/r/btc/comments/7umljb/vitalik_buterin_tried_to_develop_ethereum_on_top/)
 
 
-{% include video id="u-i_mTwL-FI" provider="youtube" %}
+<!--{% include video id="u-i_mTwL-FI" provider="youtube" %}-->
 
 * [Crypto Bites - A Chat with Ethereum Founder](https://www.abra.com/blog/crypto-bites-a-chat-with-ethereum-founder-vitalik-buterin/)
   >So what actually happened was that back in maybe October 2013, I spent some time working on projects like colored coins and Mastercoin, so these were the existing layer twos that were trying to kind of extend Bitcoin with more advanced functionality, and at one point I realized that, hey, you could replace these five features with one other feature by just basically having a programming language instead of these five specific different transaction types. And it kind of came over time.
