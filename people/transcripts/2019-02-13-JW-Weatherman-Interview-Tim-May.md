@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: "JW Weatherman Inverviews Cypherpunk Legend"
 description: "Transcript of interview with Tim May - Crypto Origin Stories."
 excerpt: >

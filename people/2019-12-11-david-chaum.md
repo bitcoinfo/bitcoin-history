@@ -1,6 +1,6 @@
 ---
 title: "Father of Digital Cryptography - David Chaum"
-layout: page
+layout: page-fullwidth
 permalink: /history/people/david-chaum/
 categories: ["History","People"]
 tags: ["Cypherpunk","Before Bitcoin","Cryptography"]

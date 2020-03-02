@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Hal Finney
 permalink: /history/people/hal-finney/
 categories: ["History","People"]

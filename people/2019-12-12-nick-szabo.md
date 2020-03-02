@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 subheadline:  "Cypherpunk Extroidenaire"
 title:  "Nick Szabo"
 teaser: ""

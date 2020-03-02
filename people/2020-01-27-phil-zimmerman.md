@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page-fullwidth
 title: Phil Zimmerman
 permalink: /history/people/phil-zimmerman/
 categories: ["History","People"]
