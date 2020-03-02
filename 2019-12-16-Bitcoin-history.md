@@ -13,9 +13,6 @@ image:
 last_modified_at: 2020-02-02T13:22:33-23:00
 ---
 
-* [Julien Guitton, Bitcoiner 🕶️🍸🍿📈🌕 (@weedcoder)](https://twitter.com/weedcoder/status/1154789187855486976?s=12)
-  > ![](https://pbs.twimg.com/media/EAaio4AXsAEYW8y?format=jpg&name=large)
-
 * [Bitcoin P2P e-cash paper](https://satoshi.nakamotoinstitute.org/emails/cryptography/threads/1/)
 * [Satoshi's Forum Posts](https://satoshi.nakamotoinstitute.org/posts/)
   * [P2P Foundation](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/) ([Threads](https://satoshi.nakamotoinstitute.org/posts/?view=threads))
