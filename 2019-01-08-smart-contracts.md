@@ -11,8 +11,8 @@ tags: ["Early Internet"]
 
 header: no
 image:
-  thumb: "_posts/history/assets/elems10.png"
-  title: "_posts/history/assets/elems10.png"
+  thumb: "history/elems10.png"
+  title: "history/elems10.png"
   caption: "erights.org '98 - CapTP Ops: provideFor()"
   caption_url: http://www.erights.org/elib/distrib/captp/provideFor.html
 

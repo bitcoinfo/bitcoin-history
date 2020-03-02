@@ -8,8 +8,8 @@ excerpt: >
 categories: ["History"]
 header: no
 image:
-  thumb: "_posts/history/assets/chancellor-brink-bailout-banks-teaser.png"
-  title: "_posts/history/assets/chancellor-brink-bailout-banks.png"
+  thumb: "history/chancellor-brink-bailout-banks-teaser.png"
+  title: "history/chancellor-brink-bailout-banks.png"
   caption: "The Times 03/Jan/2009 Chancellor on brink of second bailout for banks"
   caption_url: https://breakermag.com/ten-years-later-reflections-on-the-second-bailout/
 permalink: "/history/"

@@ -6,8 +6,8 @@ permalink: /history/bitcoin/
 categories: ["History"]
 header: no
 image:
-  thumb: "_posts/history/assets/bitcoin-prehistory.jpeg"
-  title: "_posts/history/assets/bitcoin-prehistory.jpeg"
+  thumb: "history/bitcoin-prehistory.jpeg"
+  title: "history/bitcoin-prehistory.jpeg"
   caption: "Bitcoin&Markets"
   caption_url: https://bitcoinandmarkets.com
 last_modified_at: 2020-02-02T13:22:33-23:00
