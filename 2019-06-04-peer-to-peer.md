@@ -2,11 +2,10 @@
 layout: post
 title: "Evolution of P2P Applications"
 description: ""
-date:   2019-06-04
-category: history 
-tags: [Internet, P2P]
+categories: History 
 subtitle: Description of the participating organizations at the decentralized-web summit.
-permalink: /p2p/
+permalink: /peer-to-peer/
+last_modified_at: 2020-03-02T11:22:33-23:00
 ---
 
 

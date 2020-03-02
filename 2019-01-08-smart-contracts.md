@@ -1,12 +1,13 @@
 ---
-layout: single
+layout: page-fullwidth
+
 title: Smart Contract History and Related Resources
 description: From Szabo and E Lang - to Ethereum, the DAO, Smart Signatures, and the Cambrian Explosion.
 excerpt: >
   The capability paradigm is about access control. When a system, such as an OS or a website, is presented with a request for a service it provides, it needs to decide if it should actually do what the requestor is asking for. 
 
 categories: ["History"]
-tags: ["Smart Contracts"]
+tags: ["Early Internet"]
 
 header: no
 image:

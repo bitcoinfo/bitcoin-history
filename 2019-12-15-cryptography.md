@@ -1,9 +1,10 @@
 ---
 layout: page-fullwidth
-title: 📚 Cryptography
+title: Cryptography
 categories: ["History"]
-tags: ["Before Bitcoin","Cryptography"]
-permalink: /history/before-bitcoin/cryptography/
+tags: ["Before Bitcoin","Cryptography", "Early Internet"]
+permalink: /history/cryptography/
+last_modified_at: 2020-02-02T13:22:33-23:00
 ---
 
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)

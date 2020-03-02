@@ -3,7 +3,11 @@ layout: page-fullwidth
 title: Cyberpunks - Phone Phreaks, BBS, Warez, and Cult of the Dead Cow
 header: no
 categories: ["History"]
-tags: ["Before Bitcoin", "Hacker"]
+tags: ["Early Internet", "Hacker"]
+categories: History 
+permalink: "/history/early-internet/cyberpunk/"
+last_modified_at: 2020-03-02T11:22:33-23:00
+
 ---
 
 ## 💀 Cyberpunks
@@ -47,7 +51,7 @@ tags: ["Before Bitcoin", "Hacker"]
   > 
   > Yet now the company that Gates and Allen founded is selling operating systems like Gillette sells razor blades. New releases of operating systems are launched as if they were Hollywood blockbusters, with celebrity endorsements, talk show appearances, and world tours. The market for them is vast enough that people worry about whether it has been monopolized by one company. Even the least technically-minded people in our society now have at least a hazy idea of what operating systems do; what is more, they have strong opinions about their relative merits. It is commonly understood, even by technically unsophisticated computer users, that if you have a piece of software that works on your Macintosh, and you move it over onto a Windows machine, it will not run. That this would, in fact, be a laughable and idiotic mistake, like nailing horseshoes to the tires of a Buick.
 
-#### Books
+## Cyberpunk Books
 
 [![](https://i.imgur.com/XW3Cbqz.png)](https://www.goodreads.com/book/show/22332.Cyberpunk_and_Cyberculture)
 Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ Really excellent literary review!
@@ -72,7 +76,7 @@ Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ 
 * [Snow Crash Revisited: Grokking a Satire of Mimesis](https://hackernoon.com/snow-crash-revisited-grokking-a-satire-of-mimesis-23de3ac05f47)
   > The other day, I found myself in an intense conversation about the potential of shared virtual reality with a senior engineer at one of the largest tech companies in Silicon Valley. I say a “conversation,” but if I were to be more frank, I would have to admit that for long stretches I was on the receiving end of a rant. My interlocutor’s argument was impassioned, utterly contrarian, and possibly correct. One thing he said in passing struck me as hyperbolic but nonetheless apt: “Never trust an engineer who isn’t fond of Snow Crash.”
 
-### The Phone Phreaks and 'Computer Hacking'
+## The Phone Phreaks and 'Computer Hacking'
 
 * [.:: Phrack Magazine ::.](http://phrack.org/issues/7/3.html)
 * [Teenage hackers motivated by morality not money, study finds](https://www.theguardian.com/society/2017/apr/21/teenage-hackers-motivated-moral-crusade-money-cybercrime)
@@ -93,7 +97,7 @@ Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ 
 * [Cult of the Dead Cow: the untold story of the hacktivist group that presaged everything great and terrible about the internet](https://boingboing.net/2019/06/25/hacker-zelig.html)
   > Back in 1984, a lonely, weird kid calling himself Grandmaster Ratte' formed a hacker group in Lubbock, Texas. called the Cult of the Dead Cow, a name inspired by a nearby slaughterhouse. In the decades to come, cDc would become one of the dominant forces on the BBS scene and then the internet -- endlessly inventive, funny and prankish, savvy and clever, and sometimes reckless and foolish -- like punk-rock on a floppy disk.
 
-### 📚 BBS
+## 📚 BBS
 
 * [This is the Modem World: The sinister side of the '80s BBS](https://www.engadget.com/2013/07/31/the-sinister-side-of-the-80s-bbs/)
 * [A 1985 Essay from a Bulletin Board System Admin Eerily Foretold Our Future](https://www.vice.com/en_us/article/jp5y84/a-1985-essay-from-a-bulletin-board-system-admin-eerily-foretold-our-future)

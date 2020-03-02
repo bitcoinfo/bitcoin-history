@@ -6,13 +6,15 @@ teaser: ""
 categories:
     - History
 tags:
-    - Hacker
-    - Before Bitcoin
+    - Hacking
+    - Early Internet
 header: no
 image:
     title: http://opentranscripts.org/wp-content/uploads/2016/12/allison-parrish-programming-forgetting-15-768x576.png
     caption: 'Programming is Forgetting: Toward a New Hacker Ethic'
     caption_url: http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
+last_modified_at: 2020-02-02T13:22:33-23:00
+permalink: /history/hacker-culture/
 ---
 
 

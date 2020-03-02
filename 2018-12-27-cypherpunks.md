@@ -10,7 +10,7 @@ header:
   caption: EVhAck_-_Cypherpunk
   caption_url: https://sindominio.net/xabier/textos/evhack/cypherpunk/
 categories: ["History"]
-tags: ["Cypherpunk","Before Bitcoin"]
+tags: ["Cypherpunk","Early Internet"]
 permalink: /history/before-bitcoin/cypherpunks/
 last_modified_at: 2020-02-02T13:22:33-23:00
 ---

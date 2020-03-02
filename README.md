@@ -4,9 +4,12 @@ Now I've learned a bit about using git, github, jamstack, I figured that I will 
 
 so that information is not obscured by the workings of its website.
 
-This is a copy of `2019-12-16-Bitcoin-History.md`... a loosely sorted list of links ranging through the history of Bitcoin.  Shortly I'll be diving deeper into the history of bitcoin itself. Thusfar, I've been circling around it, so to speak. 
+This is a copy of `2019-12-16-Bitcoin-history.md`... a loosely sorted list of links ranging through the history of Bitcoin.  Shortly I'll be diving deeper into the history of bitcoin itself. Thusfar, I've been circling around it, so to speak. 
 
 I've been gathering all of the necessary background research, before I could do justice to the story of Bitcoin itself. 
+
+* [Julien Guitton, Bitcoiner 🕶️🍸🍿📈🌕 (@weedcoder)](https://twitter.com/weedcoder/status/1154789187855486976?s=12)
+  > ![](https://pbs.twimg.com/media/EAaio4AXsAEYW8y?format=jpg&name=large)
 
 * [Bitcoin P2P e-cash paper](https://satoshi.nakamotoinstitute.org/emails/cryptography/threads/1/)
 * [Satoshi's Forum Posts](https://satoshi.nakamotoinstitute.org/posts/)
@@ -78,7 +81,6 @@ An Independent Exchange Service for the Bitcoin P2P Anonymous Digital Currency
 * [A question (I hope this in the right place)](https://bitcointalk.org/index.php?topic=333.0)
   > Would anyone be interested in purchasing online game currencies (WoW gold, EQ1 Plat, EQ2 Plat, Eve ISK, YPP PoE, etc.) for bitcoins? If so I can start working out (rough) exchange rates (If anyone knows a good place to FIND a community agreed upon exchange rate that would be even better.)
 * [Has someone made a "buy with bitcoins" button?](http://web.archive.org/web/20100814042311/http:/www.bitcoin.org/smf/index.php?topic=517.0)
-Has someone made a "buy with bitcoins" button?
 * [Defending Bitcoin against interventionists](http://web.archive.org/web/20100729114144/http:/www.bitcoin.org/smf/index.php?topic=251.0)
 * [Pizza for bitcoins?](https://bitcointalk.org/index.php?topic=137.0)
 * [http://eclipse.heliacal.net/~solar/bitcoin/pizza/](http://eclipse.heliacal.net/~solar/bitcoin/pizza/)
@@ -89,8 +91,8 @@ Scalability and transaction rate
 * [Bitcoin MasterCard: Followup Interview With Charlie Shrem - Coding...](https://web.archive.org/web/20121029120924/http:/codinginmysleep.com/bitcoin-mastercard-followup-interview-with-charlie-shrem/)
   > I Interview Charlie Shrem, co-founder of BitInstant, about the upcoming release of his Bitcoin MasterCard product and discuss Bitcoin in general.
 * [Satoshi dumped Bitcoin right after Gavin announced he was going to...](https://bitcointalk.org/index.php?topic=113609.0)
-Satoshi dumped Bitcoin right after Gavin announced he was going to the CIA.
-
+* [Satoshi on Anonymous Transactions - bitcointalk](https://twitter.com/notgrubles/status/1043569394901602304) [[**ϟ**](https://bitcointalk.org/index.php?topic=770.msg9074)
+  > "As some might have noticed, one of the things that bugs me about bitcoin is that the entire history of transactions is completely public. I totally understand the benefits of how this simplifies things and makes it easy for everyone to prove coins are valid. So this is not a suggestion for a change to bitcoin. Rather it is a question about what could be possible, and what couldn't be possible."
 
 ### 2011 - 2012
 
@@ -131,43 +133,36 @@ Satoshi dumped Bitcoin right after Gavin announced he was going to the CIA.
   > **2011-1-1 - Now Beta Testing**
   > The top priorities... Hunting down possible exploits, check input validation, fix basic bugs, and enhance the user interface. If you'd like to help, contact us directly or ask another member for an invitation.
 * [Freelancer Directory](https://bitcointalk.org/index.php?topic=2885.0)
-Freelancer Directory
 * [How I can buy weapons and ammunition for bitcoins?](https://bitcointalk.org/index.php?topic=3974.0)
-How I can buy weapons and ammunition for bitcoins?
+  > How I can buy weapons and ammunition for bitcoins?
 * [For those long time holders of BTC. Back in the day 2010, '11, '12...](https://www.reddit.com/r/Bitcoin/comments/6hvo8a/for_those_long_time_holders_of_btc_back_in_the/)
 * [Bitcoin down the rabbit hole — Online drama and unsolved mysteri...](https://blog.goodaudience.com/bitcoin-down-the-rabbit-hole-online-drama-and-unsolved-mysteries-in-bitcoins-earliest-years-3b8ee227471b)
-May 2011 — Ubitex — Failed IPO, owner disappears with 1,100 Bitcoin
+  > May 2011 — Ubitex — Failed IPO, owner disappears with 1,100 Bitcoin
 * [Satoshi dumped Bitcoin right after Gavin announced he was going to the CIA.](https://bitcointalk.org/index.php?topic=113609.0)
 * [Gavin will visit the CIA](https://bitcointalk.org/index.php?topic=6652.580)
-Gavin will visit the CIA
-627141550098612224
 * [The Bitcoin Show - Episode 003](https://www.youtube.com/watch?v=MUfKOIU_K1I&list=PL7A7844F28DBED26A&index=53)
   > Gavin Andresen, Technical Lead of the Bitcoin free open source software project, is "De-Briefed" by Bruce Wagner of the daily "The Bit...
 
 
 ## 2013
 
-[https://github.com/bitcoin/bitcoin/issues/3203#issuecomment-30380658](https://github.com/bitcoin/bitcoin/issues/3203#issuecomment-30380658) 
-
 * [BIP 16 analysis from a miner's point of view](https://bitcointalk.org/index.php?topic=61575.0)
-BIP 16 analysis from a miner's point of view
 * [Rebrand client to 'Bitcoin Core' · Issue #3203 · bitcoin/bitcoin](https://github.com/bitcoin/bitcoin/issues/3203)
-To remove the confusion between the Bitcoin network and the reference client implementation that we maintain in this repository, both confusingly named &#39;bitcoin&#39;, we&#39;d like ...
+  > To remove the confusion between the Bitcoin network and the reference client implementation that we maintain in this repository, both confusingly named &#39;bitcoin&#39;, we&#39;d like ...
 * [Y Combinator-backed Coinbase now selling over $1M Bitcoins per month](https://venturebeat.com/2013/02/08/coinbase-bitcoin/)
-Customers of Coinbase, a platform for buying and selling digital currency Bitcoin, have bought or sold more than $1 million worth of Bitcoin in the past 30 days.
+  > Customers of Coinbase, a platform for buying and selling digital currency Bitcoin, have bought or sold more than $1 million worth of Bitcoin in the past 30 days.
 * [Major glitch in Bitcoin network sparks sell-off; price temporarily...](https://arstechnica.com/information-technology/2013/03/major-glitch-in-bitcoin-network-sparks-sell-off-price-temporarily-falls-23/)
-It hit a low of $37 as developers scrambled to fix the problem.
+  > It hit a low of $37 as developers scrambled to fix the problem.
 * [DEA undertakes first ever seizure of bitcoins by US law enforcemen...](https://www.pri.org/stories/2013-07-08/dea-undertakes-first-ever-seizure-bitcoins-us-law-enforcement-officials)
-In connection with an alleged violation of the controlled substances act, the DEA has become the first-ever US law enforcement agency to seize bitcoins. Does that make them legit?
+  > In connection with an alleged violation of the controlled substances act, the DEA has become the first-ever US law enforcement agency to seize bitcoins. Does that make them legit?
 * [Federal judge: Bitcoin, “a currency,” can be regulated under A...](https://arstechnica.com/tech-policy/2013/08/federal-judge-bitcoin-a-currency-can-be-regulated-under-american-law/)
-Bitcoin Savings and Trust's founder has been accused of running a Ponzi scheme.
+  > Bitcoin Savings and Trust's founder has been accused of running a Ponzi scheme.
 * [Securities and Exchange Commission v. Shavers et al](https://www.docketalarm.com/cases/Texas_Eastern_District_Court/4--13-cv-00416/Securities_and_Exchange_Commission_v._Shavers_et_al/) Filed July 23, 2013
 * [Bitcoin sinks after Chinese action](https://www.bbc.co.uk/news/technology-25428866)
-China restricts local Bitcoin exchanges from being able to receive yuan-based deposits, causing "panic selling" of the virtual currency.
+  > China restricts local Bitcoin exchanges from being able to receive yuan-based deposits, causing "panic selling" of the virtual currency.
 * [Bitcoin sinks after Chinese action](https://www.bbc.co.uk/news/technology-25428866)
-China restricts local Bitcoin exchanges from being able to receive yuan-based deposits, causing "panic selling" of the virtual currency.
+  > China restricts local Bitcoin exchanges from being able to receive yuan-based deposits, causing "panic selling" of the virtual currency.
 * [Bitcoins To Be Accepted By Baidu, Sparking Rally To $200](https://gir.pub/deepdotweb/2013/10/22/bitcoins-to-be-accepted-by-baidu-sparking-rally-to-200/)
-Posted by: DeepDotWeb October 22, 2013
 * [Uyen T Nguyen: The Powerful Young Woman Behind the Alleged 'Satoshi Affair'](https://news.bitcoin.com/uyen-t-nguyen-the-powerful-young-woman-behind-the-alleged-satoshi-affair/)
   > Within many of the Kleiman v. Wright lawsuit documents submitted over the last year, lots of them involve a mysterious woman named Uyen T Nguyen.
 * [‎‎Untold Stories, Jered Kenna – An Ex-Marine Talks Early Bitcoin Mining & What Really Happens When Exchanges Fail ](https://podcasts.apple.com/us/podcast/untold-stories/id1462346183?i=1000438199043) - May 16, 2019
@@ -180,23 +175,22 @@ Posted by: DeepDotWeb October 22, 2013
 * [Small Business Owners Say Bitcoins Better Than Credit Cards](https://www.foxbusiness.com/features/small-business-owners-say-bitcoins-better-than-credit-cards) FOX Business, Small Business Center (12 April 2013). 
 * '[Why Some Merchants Accept Bitcoin Despite the Risks](https://www.paymentssource.com/news/why-some-merchants-accept-bitcoin-despite-the-risks),’ Payments Source (21 May 2013). 
 * [A Guide to Bitcoin Mining: Why Someone Bought a $1,500 Bitcoin Min...](https://www.vice.com/en_us/article/nzzg9q/a-guide-to-bitcoin-mining-why-someone-bought-a-1500-bitcoin-miner-on-ebay-for-20600)
-There are bitcoin-savvy folks betting that paying 13 times the price of a machine will actually pay off.
+  > There are bitcoin-savvy folks betting that paying 13 times the price of a machine will actually pay off.
 * [Geeks Love The Bitcoin Phenomenon Like They Loved The Internet In 1995](https://www.businessinsider.com/how-bitcoins-are-mined-and-used-2013-4)
 * [bitcoin_2013_schedule_satsun_4-12-13.pdf](http://web.archive.org/web/20130418114108/http://www.bitcoin2013.com/uploads/1/4/9/4/14946598/bitcoin_2013_schedule_satsun_4-12-13.pdf)
-* [I AM HODLING](https://bitcointalk.org/index.php?topic=375643)
-
+* [The Original 'I AM HODLING' Bitcointalk Post](https://bitcointalk.org/index.php?topic=375643.0)
+  > "I type d that tyitle twice because I knew it was wrong the first time.  Still wrong.  w/e.  GF's out at a lesbian bar, BTC crashing WHY AM I HOLDING? I'LL TELL YOU WHY.  It's because I'm a bad trader and I KNOW I'M A BAD TRADER.  Yeah you good traders can spot the highs and the lows pit pat piffy wing wong wang just like that and make a millino bucks sure no problem bro.  Likewise the weak hands are like OH NO IT'S GOING DOWN I'M GONNA SELL he he he and then they're like OH GOD MY ASSHOLE when the SMART traders who KNOW WHAT THE FUCK THEY'RE DOING buy back in but you know what?  I'm not part of that group.  When the traders buy back in I'm already part of the market capital so GUESS WHO YOU'RE CHEATING day traders NOT ME~!  Those taunt threads saying \"OHH YOU SHOULD HAVE SOLD\" YEAH NO SHIT.  NO SHIT I SHOULD HAVE SOLD.  I SHOULD HAVE SOLD MOMENTS BEFORE EVERY SELL AND BOUGHT MOMENTS BEFORE EVERY BUY BUT YOU KNOW WHAT NOT EVERYBODY IS AS COOL AS YOU.  You only sell in a bear market if you are a good day trader or an illusioned noob.  The people inbetween hold.  In a zero-sum game such as this, traders can only take your money if you sell."
 
 ## Mt Gox
 
 * [https://bitcointalk.org/index.php?topic=4187.0](https://bitcointalk.org/index.php?topic=4187.0)
 * [Mtgox is changing owners](https://bitcointalk.org/index.php?topic=4187.0)
-Mtgox is changing owners
 * [https://techcrunch.com/2014/02/10/whats-going-on-with-bitcoin-exchange-mt-gox/](https://techcrunch.com/2014/02/10/whats-going-on-with-bitcoin-exchange-mt-gox/) [https://blockchainlibrary.org/2017/11/most-cited-mt-gox-publications/](https://blockchainlibrary.org/2017/11/most-cited-mt-gox-publications/)
 * [John Biggs](https://techcrunch.com/author/john-biggs/)
 * [What’s Going On With Bitcoin Exchange Mt. Gox? – TechCrunch](https://techcrunch.com/2014/02/10/whats-going-on-with-bitcoin-exchange-mt-gox/)
-Mt. Gox, one of the original Bitcoin trading sites, has shut down its withdrawals system, citing problems related to transaction malleability (more on that shortly). Mt. Gox wrote on their site that this problem has forced them to shut down their withdrawal services: “We ap...
+  > Mt. Gox, one of the original Bitcoin trading sites, has shut down its withdrawals system, citing problems related to transaction malleability (more on that shortly). Mt. Gox wrote on their site that this problem has forced them to shut down their withdrawal services: “We ap...
 * [Most Cited Mt Gox Publications](https://blockchainlibrary.org/2017/11/most-cited-mt-gox-publications/)
-Last updated November 4th, 2017. “Equilibrium capillary surfaces”. R Finn. 2012. books.google.com . 904 cites. “Bitcoin: An innovative alternative digital currency”. R Grinb…
+  > Last updated November 4th, 2017. “Equilibrium capillary surfaces”. R Finn. 2012. books.google.com . 904 cites. “Bitcoin: An innovative alternative digital currency”. R Grinb…
 * [‎Untold Stories: J. Maurice "Wiz" – The Real Story of Mt. Gox & How to Become a Self-Sovereign Bitcoin Miner](https://podcasts.apple.com/us/podcast/untold-stories/id1462346183?i=1000438199046) - May 16, 2019
 * [Roger Ver on MTGOX Bitcoin exchange](https://www.youtube.com/watch?v=UP1YsMlrfF0)
   > This video was made 7 months before the collapse of MTGOX. At that time, MTGOX was experi...
@@ -213,42 +207,42 @@ Last updated November 4th, 2017. “Equilibrium capillary surfaces”. R Finn. 2
 * [Next level Bitcoin stress test -- June 29-30 13:00 GMT 2015](https://bitcointalk.org/index.php?topic=1098263.0)
 * [The Megatransaction: Why Does It Take 25 Seconds?](https://rusty.ozlabs.org/?p=522)
 * [Las Vegas casinos adopt new form of currency: Bitcoins](https://www.usatoday.com/story/dispatches/2014/01/21/las-vegas-casinos-accepting-bitcoins/4713243/)
-Who needs poker chips? There's a new currency coming to Las Vegas casinos, and it's called Bitcoin. Starting Wednesday, the D Las Vegas Casino Hotel and Golden Gate Hotel & Casino will begin collecting the
+  > Who needs poker chips? There's a new currency coming to Las Vegas casinos, and it's called Bitcoin. Starting Wednesday, the D Las Vegas Casino Hotel and Golden Gate Hotel & Casino will begin collecting the
 * [r/Bitcoin - We've just reached 10 petahash per second!](https://www.reddit.com/r/Bitcoin/comments/1tbln1/weve_just_reached_10_petahash_per_second/)
-114 votes and 70 comments so far on Reddit
 * [Coinbrief](https://99bitcoins.com/author/coinbrief/)
 * [Unprecedented: Bitcoin Mining Network Exceeds 100 PH/s](https://99bitcoins.com/bitcoin-exceeds-100/)
-The power of the Bitcoin mining network has broken through 100 petahashes per second (PH/s) for the first time in the cryptocurrency’s five years of life.
+  > The power of the Bitcoin mining network has broken through 100 petahashes per second (PH/s) for the first time in the cryptocurrency’s five years of life.
 * [Microsoft now accepts Bitcoin to buy Xbox games and Windows apps](https://www.theverge.com/2014/12/11/7375771/microsoft-supports-bitcoin-payments)
   > Microsoft is now accepting Bitcoin as a payment option to download digital content. The software maker quietly started supporting the digital currency earlier this week, months after adding a B...
 * [Japan OKs recognizing virtual currencies as similar to real money ...](http://www.japantimes.co.jp/news/2016/03/04/business/tech/japan-oks-recognizing-virtual-currencies-similar-real-money/)
-The Cabinet on Friday approved a set of bills to help banking groups expand their information technology businesses and to recognize virtual currencies as
+  > The Cabinet on Friday approved a set of bills to help banking groups expand their information technology businesses and to recognize virtual currencies as
 * [The Evolution of the Bitcoin Economy: Extracting and Analyzing the...](https://ssrn.com/abstract=2808762)
-In this paper, we gather together the minimum units of Bitcoin identity (the individual addresses), and group them into approximations of business entities, wha
+  > In this paper, we gather together the minimum units of Bitcoin identity (the individual addresses), and group them into approximations of business entities, wha
 * [Uber Switches to Bitcoin in Argentina After Govt Blocks Uber Credi...](https://cointelegraph.com/news/uber-switches-to-bitcoin-in-argentina-after-govt-blocks-uber-credit-cards)
-The Argentinian government blocked credit card companies from dealing with Uber, causing the ridesharing company’s national branch to use Bitcoin instead.
+  > The Argentinian government blocked credit card companies from dealing with Uber, causing the ridesharing company’s national branch to use Bitcoin instead.
 * [Megabank Joins Coinbase's Record $75 Million Funding Round](http://www.coindesk.com/coinbases-75-million-series-c/)
-Coinbase has raised $75m from investors including the New York Stock Exchange, USAA, BBVA and telcom giant DoCoMo.
+  > Coinbase has raised $75m from investors including the New York Stock Exchange, USAA, BBVA and telcom giant DoCoMo.
 * [Bitcoin exchange Bitstamp suspends service after security breach](https://www.reuters.com/article/2015/01/06/us-bitstamp-cybersecurity-idUSKBN0KF0UH20150106)
-Bitstamp, one of the largest exchanges for trading the digital bitcoin currency,...
+  > Bitstamp, one of the largest exchanges for trading the digital bitcoin currency,...
 * [Bitcoin Hash Rate exceeds 1 EH/s For the First Time - Bitcoinist.com](http://bitcoinist.com/bitcoin-hash-rate-exceeds-1-ehs-for-the-first-time/)
-The Bitcoin mining network has reached 1 Exa Hash per second, has become the largest and most powerful distributed supercomputer on the planet.
+  > The Bitcoin mining network has reached 1 Exa Hash per second, has become the largest and most powerful distributed supercomputer on the planet.
 * [Bitcoin now accepted by 100,000 merchants worldwide](http://www.ibtimes.co.uk/bitcoin-now-accepted-by-100000-merchants-worldwide-1486613)
-More than 100,000 merchants now accept bitcoin, including Microsoft, Expedia and Twitch.
+  > More than 100,000 merchants now accept bitcoin, including Microsoft, Expedia and Twitch.
 * [Kyle Torpey (@kyletorpey)](https://twitter.com/kyletorpey/status/1068624115366539265)
   > No, that isn't Satoshi posting from his P2P Foundation account today. However, this email from 2015 may have been his last public message: [https://t.co/FDMdUIYNs4](https://t.co/FDMdUIYNs4)
 Twitter
 * [All-Star Panel: Ed Moy, Joseph VaughnPerling, Trace Mayer, Nick Sz...](https://www.youtube.com/watch?v=LdvQTwjVmrE&feature=youtu.be) - Presented at Bitcoin Investor Conference - Las Vegas, NV Oct. 29 - 30, 2015
+* [Bitcoin’s PR challenges](https://www.ofnumbers.com/2014/08/12/bitcoins-pr-challenges/)
 
 
 ## Bitcoin Foundation
 * [bitcoinfoundation.org](https://bitcoinfoundation.org/)
-* [John Carvalho (@BitcoinErrorLog)](https://twitter.com/BitcoinErrorLog/status/1044207811603943425) 
-  > I was a paying member of the original Bitcoin Foundation. They were mostly a train wreck. I attended their annual meeting at a conference in Amsterdam and met with their accounting person to ask some hard questions. She was actually pretty savvy. /1
 * [Bitcoin Foundation – Supporting Education, Adoption and Developm...](https://bitcoinfoundation.org/)
   > The Bitcoin Foundation is a nonprofit organization aiming to make Bitcoin a globally accepted method of exchanging and storing value without third parties.
 * [BitMEX Research (@BitMEXResearch)](https://twitter.com/BitMEXResearch/status/1168852448485761025?s=20)
-The Bitcoin Foundation We take a nostalgic look back at the history of Bitcoin, focusing on "The Bitcoin Foundation", once one of the most prominent organisations in the ecosystem. We examine its failings, which ultimately lead to a loss of legitimacy [https://t.co/AO49eE](https://t.co/AO49eE)...
+  > The Bitcoin Foundation We take a nostalgic look back at the history of Bitcoin, focusing on "The Bitcoin Foundation", once one of the most prominent organisations in the ecosystem. We examine its failings, which ultimately lead to a loss of legitimacy [https://t.co/AO49eE](https://t.co/AO49eE)...
+* [@BitcoinErrorLog on the original Bitcoin Foundation](https://twitter.com/BitcoinErrorLog/status/1044207811603943425)
+  > "I was a paying member of the original Bitcoin Foundation. They were mostly a train wreck. I attended their annual meeting at a conference in Amsterdam and met with their accounting person to ask some hard questions. She was actually pretty savvy. /1"
 
 
 ## 2016
@@ -270,56 +264,55 @@ The Bitcoin Foundation We take a nostalgic look back at the history of Bitcoin, 
   > '*Bitcoin companies serve users, and we should not lose track of that.*'
   > Of course we serve users. That's why we know the current situation is untenable and our collective inaction has done them a great dis-service. We've collected 100,000's (nearly a million) data points that show our users rate bitcoin for its fast, cheap and reliable transactions first and secondly (a close second), as a store of value. On these metrics, bitcoin has severely underperformed relative to its potential and the rest of the market for the last two years. I'd imagine Coinbase's data is quite  similar, as is every other consumer service I've spoken with (nearly all of them fwiw. It is *because *our users that I feel we must act. If anything, I feel the weight of that responsibility heavily -- not listening to users is a luxury that I don't have, as opposed to some companies which do not have any actual bitcoin customers.
 * [Samourai + OXT - samouraiwallet](https://blog.samouraiwallet.com/post/168785913782/samourai-oxt)
-Today we have an announcement that is a little bit different than our usual wallet updates, but we hope you’ll share in our excitement. We are very happy to announce that Samourai has finalized the acquisition of the blockchain explorer, visualization tool, and analysis pla...
+  > Today we have an announcement that is a little bit different than our usual wallet updates, but we hope you’ll share in our excitement. We are very happy to announce that Samourai has finalized the acquisition of the blockchain explorer, visualization tool, and analysis pla...
 * [Bitcoin value rises over $1 billion as Japan, Russia move to legit...](https://www.cnbc.com/2017/04/12/bitcoin-price-rises-japan-russia-regulation.html)
-Bitcoin is up nearly $100 in the past week, hitting levels not seen since mid-March after Japan legalized the cryptocurrency as a payment method.
+  > Bitcoin is up nearly $100 in the past week, hitting levels not seen since mid-March after Japan legalized the cryptocurrency as a payment method.
 * [Poloniex - Crypto Asset Exchange](https://poloniex.com/press-releases/2017.05.16-Industry-growth-and-its-effect-on-Poloniex/)
-Buy and sell 60+ assets on the OG crypto exchange.
 * [Jonas Schnelli (@_jonasschnelli_)](https://twitter.com/_jonasschnelli_/status/951193828446191616)
   > Bitcoin Core Git Stats 2017: - Total pull requests created: 1'843 (~5 per day) - Merged pull requests: 1'195 (~3.27 per day) - GitHub comments/reviews: 21'153 (~57.95 per day) - Commits: 3'277 (~8.98 per day) - Git contributors (merged code): 161 - GitHub contributor...
 * [Will This Battle For The Soul Of Bitcoin Destroy It?](https://www.forbes.com/sites/laurashin/2017/10/23/will-this-battle-for-the-soul-of-bitcoin-destroy-it/)
-The cypherpunks who created Bitcoin face off against the Silicon Valley CEOs who popularized it. But could the battle doom the original cryptocurrency itself?
+  > The cypherpunks who created Bitcoin face off against the Silicon Valley CEOs who popularized it. But could the battle doom the original cryptocurrency itself?
 By NATHANIEL POPPER
 * [Some Bitcoin Backers Are Defecting to Create a Rival Currency](https://www.nytimes.com/2017/07/25/business/dealbook/bitcoin-cash-split.html)
-Bitcoin Cash, to be available Aug. 1, sprang from a feud over how to govern a decentralized, open-source technology with no one set of leaders or owners.
+  > Bitcoin Cash, to be available Aug. 1, sprang from a feud over how to govern a decentralized, open-source technology with no one set of leaders or owners.
 * [Battle for ‘True’ Bitcoin Is Just Getting Started](https://www.bloomberg.com/news/articles/2017-12-04/battle-for-true-bitcoin-is-just-getting-started-quicktake-q-a)
   > In August, the bitcoin world split in two when bitcoin cash broke away from bitcoin. It was the culmination of years of growing tension about how to improve the world’s most popular cryptocurrency. The divide has set up a battle over which is the “true” bitcoin, pitting rivals whose combined market value has eclipsed that of Citigroup Inc. and Coca-Cola Co.
 * [Bitcoin loses a quarter of its value in one day's trading](https://www.theguardian.com/technology/2017/dec/22/bitcoin-price-plunges-2000-12-hours-year-end-rally-fizzles-out)
-Cryptocurrency’s year-end rally fails as its investors are ‘finally introduced to the law of financial gravity’
+  > Cryptocurrency’s year-end rally fails as its investors are ‘finally introduced to the law of financial gravity’
 * [Steam Announces It Is 'No Longer Supporting Bitcoin'](https://motherboard.vice.com/en_us/article/vbzdb3/steam-announces-it-is-no-longer-supporting-bitcoin)
-"It has become untenable to support Bitcoin as a payment option."
+  > "It has become untenable to support Bitcoin as a payment option."
 * [James McCue (@jamestmccue)](https://twitter.com/jamestmccue/status/1129525034408644608?s=20) 
   > Erik you know if I’m right about what I might have misread but - was segwit resisted because it broke a model of ASICS that Jihan had warehouses full of? And forking to BCH was the fallback plan so Jihan could sell the miners he’d made? I read that somewhere. Straighten me out.
 * [‎Unchained: What Bitcoin's History Says About Its Future](https://podcasts.apple.com/us/podcast/unchained-your-no-hype-resource-for-all-things-crypto/id1123922160?i=1000394784032)
 * [Peter Smith, CEO of Blockchain, on Its Dark Pool, Crypto Lending Operation and Intention to Go Public - ‎Unchained: Ep.122](https://podcasts.apple.com/us/podcast/unchained-your-no-hype-resource-for-all-things-crypto/id1123922160?i=1000440570945) - Jun 4, 2019
 * [‎Epicenter - Ep Nick Morgan: The DAO, the SEC and the ICO Boom - Aug 29, 2017](https://podcasts.apple.com/us/podcast/epicenter-learn-about-blockchain-ethereum-bitcoin-distributed/id792338939?i=1000437366901)
 * [UASF/bitcoin](https://github.com/UASF/bitcoin)
-Bitcoin Core UASF BIP148. Download:. Contribute to UASF/bitcoin development by creating an account on GitHub.
+  > Bitcoin Core UASF BIP148. Download:. Contribute to UASF/bitcoin development by creating an account on GitHub.
 * [The Long Road to SegWit: How Bitcoin’s Biggest Protocol Upgrade...](https://bitcoinmagazine.com/articles/long-road-segwit-how-bitcoins-biggest-protocol-upgrade-became-reality/)
-Segregated Witness (SegWit) has activated on Bitcoin. But activation did not come easy, and it did not come fast. This is a look back at the long road to SegWit.
+  > Segregated Witness (SegWit) has activated on Bitcoin. But activation did not come easy, and it did not come fast. This is a look back at the long road to SegWit.
 * [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x...](https://cryptoanarchy.wiki/events/bitcoin-scaling)
 * [Lone Bitcoin Whale Likely Fueled 2017 Price Surge, Study Says](https://news.ycombinator.com/item?id=21440549)
-
-## No2x
-
+* [Bitcoin’s Constitutional Crisis & Why I Support the UASF](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6)
+Description = "It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end of the tunnel in this round of the bitcoin scaling debate. Thank god.\n\nThe impending activation of BIP 148, AKA bitcoin’s “user activated soft fork”, due to take effect on August 1, would ensure that SegWit, an optimization feature that increases block capacity, gets activated without strings attached."
+* [@francispouliot Looking back on UASF](https://twitter.com/francispouliot_/status/1037379672282152960) [[**ϟ**](https://twitter.com/francispouliot_/status/1037358649029668864)]
+  > 1/ Full text of the article: 'After the one year anniversary of Bitcoin’s iconic User Activated Soft Fork, we had the pleasure of speaking with Francis Pouliot, CEO of Bylls, a major proponent in the campaign to keep Bitcoin under its users’ control.
 * [#NO2X - JOIN THE WAR!](https://bitcointalk.org/index.php?topic=2236682.60)
-#NO2X - JOIN THE WAR!
 * [r/Bitcoin - [Segwit2x attack] Here Jeff Garzik is trying to hide 2...](https://www.reddit.com/r/Bitcoin/comments/72xig6/segwit2x_attack_here_jeff_garzik_is_trying_to/)
 * [Jeff Garzik SegWit2x Bitcoin ‘Upgrade’ Comments Spark Trolling...](https://cointelegraph.com/news/jeff-garzik-segwit2x-bitcoin-upgrade-comments-spark-trolling-campaign) - Jeff Garzik has gained his own imitation account criticizing his support of SegWit2x.
 * [Bitcoin Scaling Agreement at Consensus 2017](https://medium.com/@DCGco/bitcoin-scaling-agreement-at-consensus-2017-133521fe9a77)
 * [2x or NO2X: Why Some Want to Hard Fork Bitcoin — and Why Others ...](https://bitcoinmagazine.com/articles/2x-or-no2x-why-some-want-hard-fork-bitcoin-november-and-why-others-dont)
-SegWit2x is highly controversial. Here are some of the arguments for and against in this latest debate over the Bitcoin protocol.
+  > SegWit2x is highly controversial. Here are some of the arguments for and against in this latest debate over the Bitcoin protocol.
 * [Jeff Garzik (@jgarzik)](https://twitter.com/jgarzik/status/914647007326867456?lang=en)
   > The paid "[no2x]" astroturfing campaign: [https://t.co/u2mz01oNMh](https://t.co/u2mz01oNMh)
 
 ## 2018
 
 * [Bitcoin’s Tech Trends of 2018: What This Year Brought Us (Part 1)](https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-1/)
-Where 2017’s dizzying price highs embedded “hodl” into the public consciousness, 2018 was the year in which “buidl" became a trend in the crypto-industry — and Bitcoin was no exception.
+  > Where 2017’s dizzying price highs embedded “hodl” into the public consciousness, 2018 was the year in which “buidl" became a trend in the crypto-industry — and Bitcoin was no exception.
 * [Bitcoin’s Tech Trends of 2018: What This Year Brought Us (Part 2)](https://bitcoinmagazine.com/articles/bitcoins-tech-trends-2018-what-year-brought-us-part-2/)
-Bitcoin technologies made great progress in 2018. In part two of our series, we look at advances in privacy, sidechains and Schnorr signatures.
+  > Bitcoin technologies made great progress in 2018. In part two of our series, we look at advances in privacy, sidechains and Schnorr signatures.
 * [Bitcoin By the Numbers: 2018 Recap](https://medium.com/@lopp/bitcoin-by-the-numbers-2018-recap-68a91789d804)
-I’ve always been fascinated with the raw numbers relating to the operational status and growth of Bitcoin, especially as we ride the…
+  > I’ve always been fascinated with the raw numbers relating to the operational status and growth of Bitcoin, especially as we ride the…
 * [Baltic Honeybadger 2018 Bitcoin conference, Riga, day 1](https://youtu.be/66ZoGUAnY9s)
   > Timestamp: 35:48 - The Reserve Currency Fallacy by Eric Voskuil 1:05:34 - Trustlessness, Scalability, and Directions in Security Models by Matt Corallo 1:41:...
 * [Who Will Steal Satoshi’s Bitcoins?](https://medium.com/@nopara73/stealing-satoshis-bitcoins-cc4d57919a2b) 
@@ -332,21 +325,17 @@ I’ve always been fascinated with the raw numbers relating to the operational s
   > "Looking Back at UASF" My interview with @MattoshiN in @21Cryptos magazine, short historical article on Bitcoin's most critical juncture. I depict the events from my point of view and what it meant for me. #UASF was a game of chicken between users and the Bitmain cartel. ...
 * [Bitcoin’s Constitutional Crisis & Why I Support the UASF](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6)
   > It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end…
-* [Samourai Wallet](https://blog.samouraiwallet.com/)
 * [Full bech32 support, introducing Boltzmann and... - samouraiwallet](https://blog.samouraiwallet.com/post/173544815052/full-bech32-support-introducing-boltzmann-and)
   > We are very happy to announce the release of Samourai 0.98.5 available to update via Google Play for existing testers, install from Google Play for new testers, or build from source on Github. This update is filled with new functionality and improvements, so let’s get right...
 * [The Prophets of Cryptocurrency Survey the Boom and Bust](https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust)
 Inside the ongoing argument over whether Bitcoin, Ethereum, and the blockchain are transforming the world.
 * [eToro (@eToro)](https://twitter.com/eToro/status/1054394978925973504)
   > Today begins the countdown to Bitcoin’s birthday on 31 October! Over the next 10 days, we’ll take a look at what some of the most prominent names in big tech have to say about crypto… #bitcoin10 #happybdaybitcoin #btcbirthday
-Twitter
 * [Bitcoin's January fall wipes off $44bn in value](https://www.theguardian.com/technology/2018/feb/01/bitcoins-january-fall-wipes-off-44bn-in-value)
   > US investigation into boom stokes fears of impending bust as cryptocurrency records steepest monthly slide in its history
 * [When It Comes to Volatility, Tech Stocks Are the New Bitcoin](https://www.bloomberg.com/news/articles/2018-10-26/tech-stocks-are-the-new-bitcoin-when-it-comes-to-volatility) 
 * [Bitcoin continues to tumble, briefly breaking below $6,000](https://www.cnbc.com/2018/02/05/bitcoin-drops-more-than-14-percent-to-below-7000.html)
-With Monday's declines, bitcoin has now lost more than 50 percent for the year so far.
-* [The 2019 Crypto Crystal Ball - Token Daily](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
-  > Looking in the rear-view mirror of 2018 not only offers us a moment of reflection, but shows us what’s plausible for the year ahead.
+  > With Monday's declines, bitcoin has now lost more than 50 percent for the year so far.
 * [Larry Cermak (@lawmaster)](https://twitter.com/lawmaster/status/1124778871553974272?s=12)
   > To all the Bitfinex/Tether apologists - please read this fucking document. It's a really good read that explains the whole situation and how Bitfinex facilitated what NY AG claims is fraud. [https://t.co/loDto7hLeO](https://t.co/loDto7hLeO)
 * [Bitcoin Optech Newsletter #27: 2018 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2018/12/28/)
@@ -354,7 +343,10 @@ With Monday's declines, bitcoin has now lost more than 50 percent for the year s
 * [RIP “crypto” – TechCrunch](https://techcrunch.com/2018/07/07/rip-crypto/)
   > RIP “crypto”. You had a good run. This week veteran cryptographer Matt Blaze, finally gave in — to what must have been a near-constant, low-level drone of ‘CAn Buy Crypto.com???$$$$!’ spam — and sold the pithy domain name he registered in 1993, in the midst of th…
 * [Bitcoin Core Bug CVE-2018–17144: An Analysis](https://hackernoon.com/bitcoin-core-bug-cve-2018-17144-an-analysis-f80d9d373362)
-
+* [Bitcoin Stumble Shows Bitmain a Ghost of Crises Past](https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past)
+  > "A look at Bitmain Technologies Ltd.’s financials reveal the Chinese company sold a lot of shovels during the crypto gold rush of the past two years. Its mistake was to take digital gold as payment instead of cash. \n\nBut there are two other items that could make matters worse for Bitmain and others in the crypto-mining ecosystem, adding to pressure on the balance sheet."
+* [The 2019 Crypto Crystal Ball - Token Daily](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
+  > Looking in the rear-view mirror of 2018 not only offers us a moment of reflection, but shows us what’s plausible for the year ahead.
 
 ## 2019
 

@@ -163,7 +163,6 @@ last_modified_at: 2020-02-02T13:22:33-23:00
 <a href="https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency"><img src="https://i.imgur.com/Cth8HLz.png"/><br/><sup>https://github.com/peercoin/peercoin/wiki/history-of-cryptocurrency<sup></a>
 
 * [Hobbes' Blockchain Timeline 0.1](https://www.zakon.org/robert/blockchain/timeline/) — Blockchain, Bitcoin, Distributed Ledgers, Smart Contracts and Cryptocurrencies
-* [Bitcoin's Academic Pedigree](https://queue.acm.org/detail.cfm?id=3136559)
 * [Bitcoin and Markets - Bitcoin History](https://github.com/Bitcoin-and-Markets/resources/wiki/Bitcoin-History) - Timeline of important research and events since 1970.
 
 ## Literature 
@@ -177,6 +176,23 @@ last_modified_at: 2020-02-02T13:22:33-23:00
   - Written in 1996, References two articles written by "Tatsuaki Okamoto" from 1991. [[**ϟ**](https://twitter.com/Thrillmex/status/1061583930724253697)] -  [Tatsuaki References](https://cryptographersworld.com/a.php?a=21)
 * [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf) - 2013 Princeton University
   * Crypto-history starting from the 80s
+* [1992 Cynthia Dwork and Moni Naor, "Pricing via Processing or Combatting Junk Mail"](http://www.hashcash.org/papers/pvp.pdf) 
+* [1995 Markus Jakobsson, "Ripping coins for a fair exchange"](https://link.springer.com/content/pdf/10.1007%252F3-540-49264-X_18.pdf) 
+* [Flood Control on the Information Ocean: Living With Anonymity, Digital Cash, and Distributed Databases - A. Michael Froomkin{*}](http://osaka.law.miami.edu/~froomkin/articles/oceanno.htm)
+* [Cyberlaundering: Anonymous Digital Cash and Money Laundering](http://osaka.law.miami.edu/~froomkin/seminar/papers/bortner.htm) R. Mark Bortner
+* [Book review: The Truth Machine](https://www.ofnumbers.com/2018/12/03/book-review-the-truth-machine/)
+* DLT Rico 16-Aug-19 06:49 PM
+  > Let’s improve this list with some essentials.
+  > 
+  > For devs primarily but a must for your crypto bookshelf. Andres is great and his collaborators are The Who’s Who of the Crypto community world wide. (edited)
+  > 
+  > Mastering Bitcoin [https://www.amazon.com/dp/1491954388/ref=cm_sw_r_oth_api_MhaXBbFQ6EPPM](https://www.amazon.com/dp/1491954388/ref=cm_sw_r_oth_api_MhaXBbFQ6EPPM)
+  > 
+  > IMHO.. The Truth Machine is a solid book as well but more for general business folks or non techies. A good balance is required. Another solid book to give your friends or family who are curious about this crypto passion that has kid napped their family member/friend is The Blockchain Revolution.
+  > 
+  > Blockchain Revolution: Alex Tapscott Don Tapscott, Jeff Cummings: 0191091263877: Amazon.com: Books [https://www.amazon.com/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/151135769X](https://www.amazon.com/Blockchain-Revolution-Technology-Cryptocurrencies-Changing/dp/151135769X)
+  > 
+  > The Tapscott’s are great for the crypto community like Andres is. Reducing friction with the general population by making the complex simple is what they are all about and something I strive for daily.
 
 ## Video-Audio 
 
