@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page-fullwidth
 title: "Evolution of P2P Applications"
 description: ""
 categories: History 
