@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-title: Bitcoin History
+title: Bitcoin History - Assorted Info and Resources
 description: >
   An assorted open-source collection of resources on the history of Bitcoin.
 excerpt: >

@@ -11,7 +11,7 @@ header:
   caption_url: https://sindominio.net/xabier/textos/evhack/cypherpunk/
 categories: ["History"]
 tags: ["Cypherpunk","Early Internet"]
-permalink: /history/before-bitcoin/cypherpunks/
+permalink: /history/cypherpunks/
 last_modified_at: 2020-02-02T13:22:33-23:00
 ---
 

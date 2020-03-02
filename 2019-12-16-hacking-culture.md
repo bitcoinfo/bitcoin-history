@@ -14,7 +14,7 @@ image:
     caption: 'Programming is Forgetting: Toward a New Hacker Ethic'
     caption_url: http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
 last_modified_at: 2020-02-02T13:22:33-23:00
-permalink: /history/hacker-culture/
+permalink: /history/early-internet/hacker-culture/
 ---
 
 
