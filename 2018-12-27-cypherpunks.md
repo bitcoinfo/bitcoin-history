@@ -3,17 +3,25 @@ layout: page-fullwidth
 title: Cypherpunks and the Crypto Wars
 description: Open-Source Resource for learning about the Cypherpunk Movement
 excerpt: "Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments."
+image:
+  thumb: "_posts/history/assets/Cypherpunk-bitcoinwiki.jpeg"
 header:
-  image: "_posts/history/assets/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
-  caption: "[EVhAck_-_Cypherpunk](https://sindominio.net/xabier/textos/evhack/cypherpunk/)"
-permalink: /history/before-bitcoin/cypherpunks/
-last_modified_at: 2019-05-27T13:22:33-23:00
+  image_fullwidth: "_posts/history/assets/EVhAck_-_Cypherpunk_-_CC-by-sa-1.png"
+  caption: EVhAck_-_Cypherpunk
+  caption_url: https://sindominio.net/xabier/textos/evhack/cypherpunk/
 categories: ["History"]
 tags: ["Cypherpunk","Before Bitcoin"]
-
+permalink: /history/before-bitcoin/cypherpunks/
+last_modified_at: 2020-02-02T13:22:33-23:00
 ---
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>
+
+
+* [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
+  > The cypherpunk movement begins its story during the Cold War era, when the US and its allies kept a tight grip over the development and export of cryptography. During the ’70s, independent civilian researchers including Ralph Merkle, Whitfield Diffie, and Martin Hellman re-invented public key cryptography, evading the strictures of the NSA. In the early ’80s, David Chaum pioneered the fields of anonymous digital communication, pseudonymous reputation systems, and untraceable digital payments. In 1990, Chaum founded DigiCash to provide secure anonymous digital payments. By this time, a community of cryptographers and internet activists had begun to form around ideas found in his papers, including Security without Identification: Transaction Systems to make Big Brother Obsolete.
+* [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
+  > In 1992, Tim May, Eric Hughes, and John Gilmore hosted the first meeting of the Cypherpunks, and the mailing was created early in the proceedings. Coincidentally this meeting occurred the same week as PGP 2.0 was released. Soon after, Tim May re-published “The Crypto Anarchist Manifesto,” for historical purposes; originally circulated in ’88. The following year, Eric Hughes published A Cypherpunks Manifesto:
 
 ## Crypto Wars and PGP
 
@@ -21,7 +29,7 @@ tags: ["Cypherpunk","Before Bitcoin"]
   > Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world.
   > 
   > If two parties have some sort of dealings, then each has a memory of their interaction. Each party can speak about their own memory of this; how could anyone prevent it? One could pass laws against it, but the freedom of speech, even more than privacy, is fundamental to an open society; we seek not to restrict any speech at all. If many parties speak together in the same forum, each can speak to all the others and aggregate together knowledge about individuals and other parties. The power of electronic communications has enabled such group speech, and it will not go away merely because we might want it to.
-* [Birth of Cypherpunks: Short](http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
+* [Birth of Cypherpunks: Short](http://web.archive.org/web/20190317033032/http://coinfeed.com/blog/2019/01/02/birth-of-cypherpunk-movement/)
 * [Open Rights Group wiki - Crypto Wars](https://wiki.openrightsgroup.org/wiki/Crypto_Wars)
   > For several decades, individuals and organizations concerned with protecting their personal privacy and corporate secrets have been engaged in a heated battle with government officials to gain the right to freely employ encryption techniques and technologies to safeguard their information.
 * [wikipedia.org/wiki/Crypto_Wars](https://en.wikipedia.org/wiki/Crypto_Wars)
@@ -29,9 +37,9 @@ tags: ["Cypherpunk","Before Bitcoin"]
   - Phil Zimmerman creates PGP('91), the first publicly available encryption allowing people to communicate using 128-bit encryption and Diffie-Hellman for key management. Zimmerman published PGP code in book form to strengthen its case as freedom ofspeech. 
   - Open Source software development
   - Peer to peer sharing
-* [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars)
+* [Crypto Wars, Phil Zimmermann and PGP](https://cryptoanarchy.wiki/events/90s-crypto-wars) - cryptoanarchy.wiki
   > Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments. At this time the US government was also pushing for specialised key-escrowed chips that would perform encryption, but make the plaintext readable to NSA if necessary. This was rightly considered a gross violation of privacy, rights, and a huge security hole by the cypherpunks.
-* [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html)
+* [Why I Wrote PGP -Part of the Original 1991 PGP User's Guide](https://www.philzimmermann.com/EN/essays/WhyIWrotePGP.html) - [CryptoQuikRead_150](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_150---Why-I-wrote-PGP-e2ndpp)
 * [Bernstein vs US Dept of Justice](https://www.eff.org/cases/bernstein-v-us-dept-justice) (Decided in '96)
   >While a graduate student at the University of California at Berkeley, Bernstein completed the development of an encryption equation (an "algorithm") he calls "Snuffle." Bernstein wishes to publish a) the algorithm (b) a mathematical paper describing and explaining the algorithm and (c) the "source code" for a computer program that incorporates the algorithm. Bernstein also wishes to discuss these items at mathematical conferences, college classrooms and other open public meetings. The Arms Export Control Act and the International Traffic in Arms Regulations (the ITAR regulatory scheme) required Bernstein to submit his ideas about cryptography to the government for review, to register as an arms dealer, and to apply for and obtain from the government a license to publish his ideas. Failure to do so would result in severe civil and criminal penalties. Bernstein believes this is a violation of his First Amendment rights and has sued the government.
 * [Computer Security Act of 1987](https://en.wikipedia.org/wiki/Computer_Security_Act_of_1987)
@@ -95,20 +103,26 @@ tags: ["Cypherpunk","Before Bitcoin"]
 * [S.266 - 102nd Congress (1991-1992): Comprehensive Counter-Terrorism Act of 1991](https://www.congress.gov/bill/102nd-congress/senate-bill/266)
   > Subtitle B: Electronic Communications - Expresses the sense of the Congress that providers of electronic communications services and manufacturers of electronic communications service equipment should ensure that communications systems permit the Government to obtain the plain text contents of voice, data, and other communications when appropriately authorized by law.
 * [18. International Traffic In Arms Regulations](https://www.justice.gov/jm/criminal-resource-manual-18-international-traffic-arms-regulations)
-
-['Crypto Wars' topic on VICE](https://www.vice.com/en_us/topic/crypto-wars) 
+* ['Crypto Wars' topic on VICE](https://www.vice.com/en_us/topic/crypto-wars) 
 * [Steven Levy - WIRED](https://www.wired.com/author/steven-levy/page/36/) 
   * [Cypher Wars](https://www.wired.com/1994/11/cypher-wars/) - Pretty Good Privacy Gets Pretty Legal
   * [Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/)
-  > It's the FBIs, NSAs, and Equifaxes of the world versus a swelling movement of Cypherpunks, civil libertarians, and millionaire hackers. At stake: Whether privacy will exist in the 21st century.
+    > It's the FBIs, NSAs, and Equifaxes of the world versus a swelling movement of Cypherpunks, civil libertarians, and millionaire hackers. At stake: Whether privacy will exist in the 21st century.
   * [Wisecrackers](https://www.wired.com/1996/03/crackers/)
-  > If you're putting your faith in cryptography to protect your privacy, we have some garage-band hackers - who have been famously cracking, not creating, crypto - that we'd like you to meet.
+    > If you're putting your faith in cryptography to protect your privacy, we have some garage-band hackers - who have been famously cracking, not creating, crypto - that we'd like you to meet.
   * [Anonymously Yours -- How to Launder Your E-mail](https://www.wired.com/1994/06/anonymous-2/)
-  > You don't have to wait for cryptography to secure complete anonymity on the Net. All you need is the address of a remailer. You say you don't want to be identified?
+    > You don't have to wait for cryptography to secure complete anonymity on the Net. All you need is the address of a remailer. You say you don't want to be identified?
   * [The Open Secret](https://www.wired.com/1999/04/crypto/)
-  > Public key cryptography – the breakthrough that revolutionized email and ecommerce – was first discovered by American geeks. Right? Wrong. The story of the invention of public key cryptography is a cypherpunk sacred text: In 1976, an iconoclastic young hacker named Whitfi...
+    > Public key cryptography – the breakthrough that revolutionized email and ecommerce – was first discovered by American geeks. Right? Wrong. The story of the invention of public key cryptography is a cypherpunk sacred text: In 1976, an iconoclastic young hacker named Whitfi...
   * [Clipper Chick](https://www.wired.com/1996/09/denning/)
-  > Changing sides in the government's war against piracy, Dorothy Denning went from hacker hero to one of the most hated people on the Net.
+    > Changing sides in the government's war against piracy, Dorothy Denning went from hacker hero to one of the most hated people on the Net.
+* [S1 E1: Donald McIntyre on Bitcoin, The Teachings of Tim May, Nick Szabo, and the History of Money](https://bitcoin-takeover.com/s1-e1-donald-mcintyre-on-bitcoin-the-teachings-of-tim-may-and-nick-szabo-and-the-history-of-money/)
+  > In this season premiere, Donald McIntyre talks about the anthropological and historical elements that led to the creation of Bitcoin, and reveals his admiration and affinity for the works of Tim Ma…
+* [Bitcoin, The Untold History](https://medium.com/@Petri.basson/the-untold-history-of-blockchain-30238a89be5d) - [CryptoQuikRead_161](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_161---Bitcoin--The-Untold-History-e2ndpe)
+* [Patently Absurd](https://www.wired.com/1994/07/patents-2)
+  > One of the best-known patents in the computer industry is patent Number 4,405,829, "Cryptographic Communications System and Method," the patent on RSA public-key cryptography. This patent, which expires on September 20, 2000, covers every implementation of RSA encryption in the United States. Because the algorithm is patented, it is a violation of US law for a company to write its own implementation of the RSA algorithm and use it without a license from Public Key Partners, the company that has an exclusive license to the patent from the Massachusetts Institute of Technology, the university where the algorithm was developed. It's even illegal for a public-spirited citizen to write his or her own implementation of RSA and give it away.
+
+<a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="https://i.imgur.com/RZafVvV.png" align="right"></a>
 
 ### Modern Crypto Wars 
 
@@ -116,8 +130,6 @@ tags: ["Cypherpunk","Before Bitcoin"]
 * [Crypto Wars: The Tech World vs. the NSA](https://storiesbywilliams.com/2013/10/12/hacker-wars-tech-world-verus-the-nsa/) ('13)
 * [The NSA is Making Us All Less Safe](https://www.eff.org/deeplinks/2013/10/nsa-making-us-less-safe)
 * [A complete guide to the new ‘Crypto Wars’](https://www.dailydot.com/layer8/encryption-crypto-wars-backdoors-timeline-security-privacy/)
-* [Patently Absurd](https://www.wired.com/1994/07/patents-2)
-  > One of the best-known patents in the computer industry is patent Number 4,405,829, "Cryptographic Communications System and Method," the patent on RSA public-key cryptography. This patent, which expires on September 20, 2000, covers every implementation of RSA encryption in the United States. Because the algorithm is patented, it is a violation of US law for a company to write its own implementation of the RSA algorithm and use it without a license from Public Key Partners, the company that has an exclusive license to the patent from the Massachusetts Institute of Technology, the university where the algorithm was developed. It's even illegal for a public-spirited citizen to write his or her own implementation of RSA and give it away.
 
 
 ## Cypherpunk Mailinglist 
@@ -243,7 +255,7 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
   > • RPOW, then BitGold were the "store of value + payments" (which are inseparable). The latter were the correct models and Bitcoin is designed afte...
 * [Nick Szabo 🔑 @NickSzabo4](https://twitter.com/NickSzabo4/status/1165334657170165761)
   > The whole idea of having an independent currency, rather than just more private or censorship resistant payments for existing currencies, didn't exist among either cypherpunks or academic cryptographers until libertarian futurists introduced it.
-* [Early Cypherpunks](https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks)
+* [Early Cypherpunks](https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks) - cryptoanarchy.wiki
   > - Adam Back - 90s Cypherpunk, Inventor of HashCash, CEO of Blockstream
   > - David D. Friedman - Son of Milton, Anarcho-Capitalist theorist, Not a Cypherpunk but "Crypto-Anarchy" draws a lot from his work
   > - Eric Hughes - Founding member of the Cypherpunk Mailing List,
@@ -379,12 +391,12 @@ What follows is a list of books that were influential upon early cypherpunks. As
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
   > "This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note."
-* [cryptoanarchy.wiki](https://cryptoanarchy.wiki/)
+* [cryptoanarchy.wiki](https://cryptoanarchy.wiki/) - cryptoanarchy.wiki
   > Encryption, digital money, anonymous networks, digital pseudonyms, zero knowledge, reputations, information markets, black markets, collapse of governments. - Timothy C. May
 * [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) "Cypherpunks write code."
   * [activism.net/cypherpunk/crypto-anarchy.html](https://www.activism.net/cypherpunk/crypto-anarchy.html)
 * [cypherpunks.to - archive](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to) a center for research and development of cypherpunk projects such as remailers, anonymous peer-to-peer services, secure network tunnels, mobile voice encryption, untraceable electronic cash, secure operating environments, etc.
-* [bitcoinwiki.org/wiki/Cypherpunk](https://en.m.bitcoinwiki.org/wiki/Cypherpunk)
+* [bitcoinwiki.org/wiki/Cypherpunk](https://en.bitcoinwiki.org/wiki/Cypherpunk)
 * [citizendium.org/wiki/Cypherpunk](http://en.citizendium.org/wiki/Cypherpunk)
 * [Mirror of Cypherpunkd radio series](https://www.organicdesign.com.br/files/cypherpunkd/index.php)
 * [nakamotoinstitute.org/literature/](https://nakamotoinstitute.org/literature/) 
@@ -401,3 +413,14 @@ What follows is a list of books that were influential upon early cypherpunks. As
 
 * [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
 
+
+## Distributed Systems 
+
+* [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
+  * FLP Impossibility (1985)
+  * CAP Theorem (1999)
+  * Paxos (1989)
+  * Practical BFT (1999)
+  * Byzantine Paxos (2010)
+  * Raft (2014)
+  * PoW - Bitcoin

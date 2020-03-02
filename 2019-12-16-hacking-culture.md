@@ -110,9 +110,18 @@ Project Xanadu was the first hypertext project, founded in 1960 by Ted Nelson. A
 [http://www.xanadu.com/](http://www.xanadu.com/)
 
 
+## 📚 Silicon Valley
+
+[Steve Blank Secret History of Silicon Valley](https://steveblank.com/category/secret-history-of-silicon-valley/)
+
+[https://vimeo.com/15992737](https://vimeo.com/15992737)
+
 ## ETC
 
 * [A New Digital Manifesto](https://anewdigitalmanifesto.com) -[newsycombinator comments](https://news.ycombinator.com/item?id=21443755)
 [DEF CON and Stack Overflow: What Our Traffic Says About Cybersecurity](https://stackoverflow.blog/2019/08/08/def-con-stack-overflow-traffic-data-trends/?cb=1) - [Hacker News](https://news.ycombinator.com/item?id=20661311)
   > Today is the first day of DEF CON 27, arguably the world’s best known hacker convention. Each year, thousands of people interested in security (and/or the hacking thereof) travel to Las Vegas to learn and gather with like-minded community. Some also attend Black Hat, a related conference which is typically scheduled right before DEF CON, also in Las Vegas. Not everyone who identifies as a hacker or is part of hacker culture writes code or uses Stack Overflow, but we would expect a significant proportion to do so. Well over 25,000 people attended DEF CON in 2018, all located in Las Vegas. Can we see any differences in traffic to Stack Overflow during the days of DEF CON? What can we learn about the hacker community from traffic during that time?
-
+* [Birth of a Digital Nation](https://www.wired.com/1997/04/netizen-3/)
+  > And perhaps the toughest questions of all: Can we build a new kind of politics? Can we construct a more civil society with our powerful technologies? Are we extending the evolution of freedom among human beings? Or are we nothing more than a great, wired babble pissing into the digital wind?
+  > 
+  > Where freedom is rarely mentioned in mainstream media anymore, it is ferociously defended - and exercised daily - on the Net.

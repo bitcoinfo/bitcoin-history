@@ -1,8 +1,66 @@
 ---
 title: Darknet Market History
-published: false
 ---
-# Darknet Markets
+
+* [Darknet](https://en.wikipedia.org/wiki/Darknet)
+  > Dark Net (or Darknet) is an umbrella term describing the portions of the Internet purposefully not open to public view or hidden networks whose architecture is superimposed on that of the Internet. "Darknet" is often associated with the encrypted part of the Internet called T...
+* [The Darknet and the Future of Content Protection](https://link.springer.com/chapter/10.1007/978-3-540-44993-5_10)
+  > We investigate the darknet – a collection of networks and technologies used to share digital content. The darknet is not a separate physical network but an application and protocol layer riding on...
+* [The DarkNet Markets](https://www.deepweb-sites.com/darknet-markets-links/)
+  > Know about the DarkNet and the facts behind DarkNetMarkets. Also, read about DarkNet History, DarkNet Myths, DarkNet Levels and get software to access it.
+* [Darknet • r/darknet](https://www.reddit.com/r/darknet/)
+  > Welcome to r/darknet we are deep web enthusiasts who want to help others. Please use the search function before posting, posts that can be...
+* [Anonymous Marketplace](https://wiki.p2pfoundation.net/Anonymous_Marketplace)
+* [SamSara Market - DarknetLive](https://darknetlive.com/samsara-market/)
+  > SamSara Market is a re-branded version of Dream Market that launched after Dream Market shutdown in 2019. This page contains details about Samsara Market as well as mirrors and alternative Samsara …
+* [https://darknetlive.com/dnmbible.pdf](https://darknetlive.com/dnmbible.pdf)
+* [DREAM MARKET IS BACK ,NEW DREAM MARKET SAMSARA MARKET DEEP WEB](https://www.youtube.com/watch?v=gkzLfvo7OWA)
+  > samsaraccrn2jmin.onion/?ai=8120931 The SamSara Market is the new version of the Dream Market that recently got shut down. Not many changes have been seen tho...
+* [How Dutch Police Took Over Hansa, a Top Dark Web Market](https://www.wired.com/story/hansa-dutch-police-sting-operation/)
+  > Dutch police detail for the first time how they secretly hijacked Hansa, Europe's most popular dark web market.
+* [SamSara Market - DarknetLive/#samsara-announcement](https://darknetlive.com/samsara-market/#samsara-announcement)
+  > SamSara Market is a re-branded version of Dream Market that launched after Dream Market shutdown in 2019. This page contains details about Samsara Market as well as mirrors and alternative Samsara …
+* [New Report Shows More People Buying Illegal Drugs Online](https://www.occrp.org/en/daily/8055-new-report-shows-more-people-buying-illegal-drugs-online)
+  > An increasing amount of people are ordering drugs over the dark web, according to a Global Drug Survey report released Wednesday.
+* [Caleb (@5auth)](https://twitter.com/5auth/status/1131511806843916289?s=20)
+  > Libertas Market might be the first mainstream darkweb marketplace to turn to I2P as a solution to the .onion DOS attacks. [https://t.co/wBo5GLmJtt](https://t.co/wBo5GLmJtt)
+* [Darkweb Vendors and the Basic Opsec Mistakes They Keep Making](https://medium.com/@c5/darkweb-vendors-and-the-basic-opsec-mistakes-they-keep-making-e54c285a488c)
+  > A brief overview of the investigations into darkweb vendors who utterly failed to keep their identity private.
+* [Updated Information About the Investigation into DeepDotWeb](https://medium.com/@c5/what-do-we-know-about-the-deepdotweb-seizure-98ca45de9987)
+  > Information about the end of an era and the arrest of the man behind DeepDotWeb.
+* [An Interview with the Creator of the Darknet Search Engine “Fres...](https://medium.com/@c5/always-use-a-trusted-source-for-darknet-market-links-189de792bb39)
+  > In light of the $365,000 in Bitcoin phishing scheme, I thought this conversation with the owner of Fresh Onions would be fitting. The…
+* [‎Uncommon: #076: How Eileen Ormsby unpacked the Darkest Web on A...](https://podcasts.apple.com/us/podcast/076-how-eileen-ormsby-unpacked-the-darkest-web/id1207699448?i=1000416487091)
+  > ‎Show Uncommon, Ep #076: How Eileen Ormsby unpacked the Darkest Web - Jul 23, 2018
+* [‎Peor Caso - Ciencia, Historia, Cultura, Horror y Ficcion en Esp...](https://podcasts.apple.com/us/podcast/27-dark-web-darknet-invension-internet-onion-router/id1286966918?i=1000406830326)
+  > ‎Show Peor Caso - Ciencia, Historia, Cultura, Horror y Ficcion en Español, Ep 27 - Dark Web - Darknet, Invension de Internet, onion router, Deep Web, Silkroad, Shadow Web, Red Rooms, Tor, Tails, Marianas Web - Mar 19, 2018
+* [dark web](https://www.occrp.org/en/component/tags/tag/dark-web)
+
+
+## Drugs online
+
+* [*What the Dormouse Said*](http://www.conspiracyschool.com/sites/default/files/resources/John%2520Markoff%2520-%2520What%2520the%2520Dormouse%2520Said%2520-%2520How%2520the%2520Sixties%2520Counterculture%2520Shaped%2520the%2520Personal%2520Computer%2520Industry.pdf)
+  > "Before Amazon, before eBay, the seminal act of e-commerce was a drug deal." 
+
+* [Narcotics: Just a Click Away?](https://www.wired.com/2001/02/narcotics-just-a-click-away/)
+  > It all started when Dan Parsons typed the keywords "buy narcotics" into the MSN search engine. Parsons, vice president of the Better Business Bureau of Metropolitan Houston, was surfing the Web last October when he decided to do a little investigating into whether it was poss...
+* [A Seductive Drug Culture Flourishes on the Internet](https://www.nytimes.com/1997/06/20/us/a-seductive-drug-culture-flourishes-on-the-internet.html)
+  > Internet has become virtual do-it-yourself guide to drug use at time when adolescents' experimenting with drugs is on rise; drug messages on Internet come from sources like High Times, magazine that has celebrated marijuana culture for over two decades and has created popular...
+* [1994-04-14 - Soldier of Fortune magazine.](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/04/d1c3b280b6b8ba2c4cbcb28e26056512017c933d3b1d641c0cb197d8e264d4e1/)
+  > From: "Gary Jeffers" <CCGARY@MIZZOU1.missouri.edu>
+  > To: cypherpunks@toad.com
+  >
+  > Gun control is people control.
+  > The War on Drugs is the War on Citizens.
+  >
+  >  I would like to suggest that some of our more knowledgeable & eloquent Ccypherpunks such as May, Hughes, Frissell or others consider approaching Soldier of Fortune magazine about a series of articles or a regular column on encryption & privacy. SOF may seem to be a childish publication to some of us but it has a readership many times that of Ccypherpunks & we would not be preaching to the converted (I know there are other purposes to cypherpunks as well).
+* [Breaking News, Analysis, Politics, Blogs, News Photos, Video, Tech...](http://content.time.com/time/nation/article/0,8599,213425,00.html)
+* [https://monicabarratt.net/page/6/](http://web.archive.org/web/20170705030730/https://monicabarratt.net/page/6/)
+* [Postman pot: Drug users turn to the web](https://www.news.com.au/national/postman-pot/news-story/d913e6390a81267632d0b7403eaa73fc)
+  > POT smokers usually grow marijuana in their backyards or buy from their dealer mates. But now for many Australians, it's their postie delivering them the stuff from overseas.
+* [Netflix’s ‘How to Sell Drugs Online (Fast)’s’ Creators on ...](https://variety.com/2019/tv/festivals/netflix-how-to-sell-drugs-online-fasts-creators-new-german-original-1203182436/)
+  > CANNES — Netflix’s “How to Sell Drugs Online (Fast)” kicks off with a police special unit, automatic rifles trained, moving in silently for asking. The target, a buff teen drug dealer, at wo…
+
 ## Farmers Market
 
 * [Feds Bust 'Farmer's Market' For Online Drugs](http://www.darkreading.com/attacks-and-breaches/feds-bust-farmers-market-for-online-drugs/d/d-id/1103901?)
@@ -50,26 +108,24 @@ published: false
 ## Tor-Onion
 
 * [The Tor Project - The Tor Project](https://www.torproject.org/about/history/)
-Defend yourself against tracking and surveillance. Circumvent censorship.
-
+  > Defend yourself against tracking and surveillance. Circumvent censorship.
 * [Privacy on the Internet](https://www.onion-router.net/Publications/INET-1997.html)
-The World Wide Web is rapidly becoming an important tool for modern day communication and electronic commerce. But electronic messages sent over the Internet can be easily snooped and tracked, revealing who is talking to whom and what they are talking about. Is privacy important, and how can it be guaranteed? This paper describes how a freely available system, onion routing, can be used to provide privacy for a wide variety of Internet services, including Virtual Private Networks, Web browsing, e-mail, remote login, and electronic cash.
-
-**References** 
-1 The Anonymizer. [http://www.anonymizer.com](http://www.anonymizer.com/) 
-2 L. J. Camp, M. Harkavey, B. Yee, J. D. Tygar, `Anonymous Atomic Transactions'', Second USENIX Workshop on Electronic Commerce, 1996. 
-3 D. Chaum. Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms, Communications of the ACM, v. 24, n. 2, Feb. 1981, pages 84-88. 
-4 L. Cottrell. Mixmaster and Remailer Attacks, http://obscura.obscura.com/ loki/remailer/remailer-essay.html 
-5 R. Fielding, J. Gettys, J. Mogul, H. Frystyk, T. Berner-Lee. Hypertext Transfer Protocol - HTTP/1.1, ftp://ds.internic.net/rfc/rfc2068.txt 
-6 M. Franklin and M. Reiter, `Fair Exchange with a Semi-Trusted Third Party'', Fourth ACM Conference on Computer and Communications Security, Zurich, April 1997. 
-7 D. Goldschlag, M. Reed, and P. Syverson. Protocols using Anonymous Connections: Mobile Applications, 1997 Security Protocols Workshop, Paris, France, April 1997. Postscript 
-8 D. Goldschlag, M. Reed, and P. Syverson. Hiding Routing Information, Information Hiding, R. Anderson (editor), Spring-Verlag LLNCS 1174, 1996, pages 137-150. Postscript 
-9 C. Gülcü and G. Tsudik. Mixing Email with Babel, 1996 Symposium on Network and Distributed System Security, San Diego, February 1996. 
-10 Internet Engineering Task Force. [http://www.ietf.org/](http://www.ietf.org/) 
-11 M. Reed, P. Syverson, D. Goldschlag. Proxies for Anonymous Routing, 12th Annual Computer Security Applications Conference, San Diego, CA, December, 1996. Postscript 
-12 P. Syverson, D. Goldschlag, and M. Reed. Anonymous Connections and Onion Routing, Proceedings of the Symposium on Security and Privacy, Oakland, CA, May 1997. Postscript 
-13 Peter Wayner. Digital Cash: Commerce on the Net, AP Professional, Chestnut Hill, Mass., 1996
-    
+  > The World Wide Web is rapidly becoming an important tool for modern day communication and electronic commerce. But electronic messages sent over the Internet can be easily snooped and tracked, revealing who is talking to whom and what they are talking about. Is privacy important, and how can it be guaranteed? This paper describes how a freely available system, onion routing, can be used to provide privacy for a wide variety of Internet services, including Virtual Private Networks, Web browsing, e-mail, remote login, and electronic cash.
+  > 
+  > **References** 
+  > 1 The Anonymizer. [http://www.anonymizer.com](http://www.anonymizer.com/) 
+  > 2 L. J. Camp, M. Harkavey, B. Yee, J. D. Tygar, `Anonymous Atomic Transactions'', Second USENIX Workshop on Electronic Commerce, 1996. 
+  > 3 D. Chaum. Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms, Communications of the ACM, v. 24, n. 2, Feb. 1981, pages 84-88. 
+  > 4 L. Cottrell. Mixmaster and Remailer Attacks, http://obscura.obscura.com/ loki/remailer/remailer-essay.html 
+  > 5 R. Fielding, J. Gettys, J. Mogul, H. Frystyk, T. Berner-Lee. Hypertext Transfer Protocol - HTTP/1.1, ftp://ds.internic.net/rfc/rfc2068.txt 
+  > 6 M. Franklin and M. Reiter, `Fair Exchange with a Semi-Trusted Third Party'', Fourth ACM Conference on Computer and Communications Security, Zurich, April 1997. 
+  > 7 D. Goldschlag, M. Reed, and P. Syverson. Protocols using Anonymous Connections: Mobile Applications, 1997 Security Protocols Workshop, Paris, France, April 1997. Postscript 
+  > 8 D. Goldschlag, M. Reed, and P. Syverson. Hiding Routing Information, Information Hiding, R. Anderson (editor), Spring-Verlag LLNCS 1174, 1996, pages 137-150. Postscript 
+  > 9 C. Gülcü and G. Tsudik. Mixing Email with Babel, 1996 Symposium on Network and Distributed System Security, San Diego, February 1996. 
+  > 10 Internet Engineering Task Force. [http://www.ietf.org/](http://www.ietf.org/) 
+  > 11 M. Reed, P. Syverson, D. Goldschlag. Proxies for Anonymous Routing, 12th Annual Computer Security Applications Conference, San Diego, CA, December, 1996. Postscript 
+  > 12 P. Syverson, D. Goldschlag, and M. Reed. Anonymous Connections and Onion Routing, Proceedings of the Symposium on Security and Privacy, Oakland, CA, May 1997. Postscript 
+  > 13 Peter Wayner. Digital Cash: Commerce on the Net, AP Professional, Chestnut Hill, Mass., 1996
 * [http://www.syverson.org/](http://www.syverson.org/)
 * [https://www.onion-router.net/Publications.html](https://www.onion-router.net/Publications.html)
 * [https://www.onion-router.net/History.html](https://www.onion-router.net/History.html)
@@ -97,6 +153,9 @@ The World Wide Web is rapidly becoming an important tool for modern day communic
   > Darknet Definition - The darknet refers to networks that are not indexed by search engines
 * [The People Who Risk Jail to Maintain the Tor Network](https://www.vice.com/en_us/article/5394ax/the-operators)
   > Some of the volunteers who keep the Tor network running are raided for their services. "Richard" was one of them.
+* [A Survey of Anonymous Communication Channels](https://www.microsoft.com/en-us/research/wp-content/uploads/2008/02/tr-2008-35.pdf) - 2008
+  > We present an overview of the field of anonymous communications, from its establishment in 1981 from David Chaum to today. Key systems are presented categorized according to their underlying principles: semi-trusted relays, mix systems, remailers, onion routing, and systems to provide robust mixing. We include extended discussions of the threat models and usage models that different schemes provide, and the trade-offs between the security properties offered and the communication characteristics different systems support.
+* UNITED NATIONS COMMISSION ON SCIENCE AND TECHNOLOGY FOR DEVELOPMENT - 17-21 May 2010, Geneva, Switzerland:  
 
 ## Ross Ulbricht
 
@@ -214,7 +273,7 @@ I've been selling prescription Adderall (an amphetamine salt based prescription 
 * [Your Sloppy Bitcoin Drug Deals Will Haunt You for Years](https://www.wired.com/story/bitcoin-drug-deals-silk-road-blockchain/)
 Scouring the blockchain, researchers found years-old evidence tying Silk Road transaction to users' public accounts.
 
-## Silk Road 11
+### Silk Road 11
 
 * [Silk Road 1: Theory & Practice](https://www.gwern.net/Silk-Road) 
   > The website Silk Road 1 (SR1), a drug marketplace operating in public, needs little introduction at this point, after Gawker’s 2011 article went viral, drawing fire from the likes of US federal Senators Schumer & Manchin. It was probably the single most famous commercial enterprise using Bitcoins; some speculated that demand from SR patrons single-handedly pushed the exchange rate up by $5 the weekend of the Gawker article. It then flourished until its bust in 2 October 2013.
@@ -261,7 +320,7 @@ Scouring the blockchain, researchers found years-old evidence tying Silk Road tr
 * [Underground Website Lets You Buy Any Drug Imaginable](https://www.wired.com/2011/06/silkroad-2/)
   > Making small talk with your pot dealer sucks. Buying cocaine can get you shot. What if you could buy and sell drugs online like books or light bulbs? Now you can: Welcome to Silk Road.
 
-## Silk Road 12
+### Silk Road 12
 * [Study estimates $2 million a month in Bitcoin drug sales](https://arstechnica.com/tech-policy/2012/08/study-estimates-2-million-a-month-in-bitcoin-drug-sales/)
   > Revenues of the drug marketplace Silk Road have doubled since March.
 * [What the hell’s going on at Silk Road?](https://allthingsvice.com/2012/11/16/what-the-hells-going-on-at-silk-road/)
@@ -285,7 +344,7 @@ Scouring the blockchain, researchers found years-old evidence tying Silk Road tr
   > More Australians are buying illegal drugs from internet websites and having them delivered by regular post straight to their door.
 * [Anything is possible on the Silk Road](https://monicabarratt.net/anything-is-possible-on-the-silk-road/)
 
-## Silk Road 13
+### Silk Road 13
 
 * [Most Cited Silk Road Publications](https://blockchainlibrary.org/2017/11/most-cited-silk-road-publications/)
   > These publications relate to the “Silk Road” darknet market which was in operation from 2011 to 2013. Bitcoin was the payment type of choice for settlement. US Federal Marshals seized 1…
@@ -333,10 +392,10 @@ Scouring the blockchain, researchers found years-old evidence tying Silk Road tr
 * [Read the Transcript of Silk Road's Boss Ordering 5 Assassinations](https://www.wired.com/2015/02/read-transcript-silk-roads-boss-ordering-5-assassinations/)
   > Many of the ideological supporters of the Silk Road have described its sprawling online black market for drugs as an experiment in victimless crime and a nonviolent alternative to the bloody turf wars of the streets. But prosecutors in the trial of Ross Ulbricht, the 30-year-...
 
-## Silk Road 14
+### Silk Road 14
 * [Silk Road 2.0: Lost Escrow Funds returned!](https://gir.pub/deepdotweb/2014/01/05/silk-road-2-0-lost-escrow-funds-returned/)
 
-## Silk Road 15
+### Silk Road 15
 * [Bitcoin Belle on the Ulbricht Case and the Silk Road - YMB Podcast...](https://youmeandbtc.com/bitcoin-podcast/ymb-podcast-e56-bitcoin-belle-ulbricht-case-silk-road/)
   > Michele Seven, also known as Bitcoin Belle, joins us to chat about the Ross Ulbricht case. She'll share some news and tell some powerful personal stories.
 
@@ -369,22 +428,13 @@ Scouring the blockchain, researchers found years-old evidence tying Silk Road tr
 * [https://www.europol.europa.eu/sites/default/files/documents/drugs_and_the_darknet_-_td0417834enn.pdf](https://www.europol.europa.eu/sites/default/files/documents/drugs_and_the_darknet_-_td0417834enn.pdf)
 * [Before DarkNetMarkets Were Mainstream](https://web.archive.org/web/20150630144459/https:/www.deepdotweb.com/2015/01/05/darknetmarkets-mainstream/)
   > 10 years ago, before there was TOR, before using PGP was something we all thought of as a baseline m...
-* [Darknet](https://en.wikipedia.org/wiki/Darknet)
-  > Dark Net (or Darknet) is an umbrella term describing the portions of the Internet purposefully not open to public view or hidden networks whose architecture is superimposed on that of the Internet. "Darknet" is often associated with the encrypted part of the Internet called T...
-* [The Darknet and the Future of Content Protection](https://link.springer.com/chapter/10.1007/978-3-540-44993-5_10)
-  > We investigate the darknet – a collection of networks and technologies used to share digital content. The darknet is not a separate physical network but an application and protocol layer riding on...
-* [The DarkNet Markets | Links | History | Softwares - The DarkNet Markets | Links | History | Softwares](https://www.deepweb-sites.com/darknet-markets-links/)
-  > Know about the DarkNet and the facts behind DarkNetMarkets. Also, read about DarkNet History, DarkNet Myths, DarkNet Levels and get software to access it.
-* [Darknet • r/darknet](https://www.reddit.com/r/darknet/)
-  > Welcome to r/darknet we are deep web enthusiasts who want to help others. Please use the search function before posting, posts that can be...
-* [Anonymous Marketplace](https://wiki.p2pfoundation.net/Anonymous_Marketplace)
 
-## Darkmarkets 12
+### Darkmarkets 12
 
 * [Postman pot: Drug users turn to the web](https://www.news.com.au/national/postman-pot/news-story/d913e6390a81267632d0b7403eaa73fc)
   > POT smokers usually grow marijuana in their backyards or buy from their dealer mates. But now for many Australians, it's their postie delivering them the stuff from overseas.
 
-## Darkmarkets 13
+### Darkmarkets 13
 * [List Hidden Marketplaces 18.10.13](https://gir.pub/deepdotweb/2013/10/18/list-hidden-marketplaces-18-10-13/)
 * [Agora](https://thehiddenwiki.com/Agora)
 * [Sheep Marketplace](https://thehiddenwiki.com/Sheep_Marketplace)
@@ -396,45 +446,29 @@ Scouring the blockchain, researchers found years-old evidence tying Silk Road tr
 * [Buying Guns and Drugs on the Deep Web (Documentary)](https://www.youtube.com/watch?v=HJOSm9Bg7WY)
   > We used the deep web to find out just how easy it was to buy guns, drugs, and other contraband online. WATCH NEXT: Who Killed the Smart Gun? - [http://bit.ly/](http://bit.ly/)...
 
-## Darkmarkets 14
+### Darkmarkets 14
 * [Evolution](https://thehiddenwiki.com/Evolution)
 * [You Can Download the Darknet Market That Disappeared Without a Trace](https://www.vice.com/en_us/article/z4mkdj/you-can-download-the-darknet-market-that-disappeared-without-a-trace)
   > Evolution is back, but only as a torrent.
 * [Inside the 'DarkMarket' Prototype, a Silk Road the FBI Can Never Seize](https://www.wired.com/2014/04/darkmarket/)
   > The Silk Road, for all its clever uses of security protections like Tor and Bitcoin to protect the site's lucrative drug trade, still offered its enemies a single point of failure. When the FBI seized the server that hosted the market, the billion-dollar drug bazaar came cras...
 
-## Darkmarkets 15
+### Darkmarkets 15
 * [The Dark Net: Policing the Internet’s Underworld](https://worldpolicy.org/2015/12/09/the-dark-net-policing-the-internets-underworld/)
 
-## Darkmarket 16-17
+### Darkmarket 16-17
 * [‎Darknet Diaries: Ep 24: Operation Bayonet on Apple Podcasts](https://podcasts.apple.com/us/podcast/darknet-diaries/id1296350485?i=1000421826214)
 * [Operation Bayonet (darknet)](https://en.wikipedia.org/wiki/Operation_Bayonet_(darknet))
   > Operation Bayonet was a multinational law enforcement operation culminating in 2017 targeting the AlphaBay and Hansa darknet markets. Many other darknet markets were also shut down.
 
+## UNODC
 
-## Darknet Markets
+![](https://i.imgur.com/VepSTMG.png)
 
-* [SamSara Market - DarknetLive](https://darknetlive.com/samsara-market/)
-  > SamSara Market is a re-branded version of Dream Market that launched after Dream Market shutdown in 2019. This page contains details about Samsara Market as well as mirrors and alternative Samsara …
-* [https://darknetlive.com/dnmbible.pdf](https://darknetlive.com/dnmbible.pdf)
-* [DREAM MARKET IS BACK ,NEW DREAM MARKET SAMSARA MARKET DEEP WEB](https://www.youtube.com/watch?v=gkzLfvo7OWA)
-  > samsaraccrn2jmin.onion/?ai=8120931 The SamSara Market is the new version of the Dream Market that recently got shut down. Not many changes have been seen tho...
-* [How Dutch Police Took Over Hansa, a Top Dark Web Market](https://www.wired.com/story/hansa-dutch-police-sting-operation/)
-  > Dutch police detail for the first time how they secretly hijacked Hansa, Europe's most popular dark web market.
-* [SamSara Market - DarknetLive/#samsara-announcement](https://darknetlive.com/samsara-market/#samsara-announcement)
-  > SamSara Market is a re-branded version of Dream Market that launched after Dream Market shutdown in 2019. This page contains details about Samsara Market as well as mirrors and alternative Samsara …
-* [New Report Shows More People Buying Illegal Drugs Online](https://www.occrp.org/en/daily/8055-new-report-shows-more-people-buying-illegal-drugs-online)
-  > An increasing amount of people are ordering drugs over the dark web, according to a Global Drug Survey report released Wednesday.
-* [Caleb (@5auth)](https://twitter.com/5auth/status/1131511806843916289?s=20)
-  > Libertas Market might be the first mainstream darkweb marketplace to turn to I2P as a solution to the .onion DOS attacks. [https://t.co/wBo5GLmJtt](https://t.co/wBo5GLmJtt)
-* [Darkweb Vendors and the Basic Opsec Mistakes They Keep Making](https://medium.com/@c5/darkweb-vendors-and-the-basic-opsec-mistakes-they-keep-making-e54c285a488c)
-  > A brief overview of the investigations into darkweb vendors who utterly failed to keep their identity private.
-* [Updated Information About the Investigation into DeepDotWeb](https://medium.com/@c5/what-do-we-know-about-the-deepdotweb-seizure-98ca45de9987)
-  > Information about the end of an era and the arrest of the man behind DeepDotWeb.
-* [An Interview with the Creator of the Darknet Search Engine “Fres...](https://medium.com/@c5/always-use-a-trusted-source-for-darknet-market-links-189de792bb39)
-  > In light of the $365,000 in Bitcoin phishing scheme, I thought this conversation with the owner of Fresh Onions would be fitting. The…
-* [‎Uncommon: #076: How Eileen Ormsby unpacked the Darkest Web on A...](https://podcasts.apple.com/us/podcast/076-how-eileen-ormsby-unpacked-the-darkest-web/id1207699448?i=1000416487091)
-  > ‎Show Uncommon, Ep #076: How Eileen Ormsby unpacked the Darkest Web - Jul 23, 2018
-* [‎Peor Caso - Ciencia, Historia, Cultura, Horror y Ficcion en Esp...](https://podcasts.apple.com/us/podcast/27-dark-web-darknet-invension-internet-onion-router/id1286966918?i=1000406830326)
-  > ‎Show Peor Caso - Ciencia, Historia, Cultura, Horror y Ficcion en Español, Ep 27 - Dark Web - Darknet, Invension de Internet, onion router, Deep Web, Silkroad, Shadow Web, Red Rooms, Tor, Tails, Marianas Web - Mar 19, 2018
-* [dark web](https://www.occrp.org/en/component/tags/tag/dark-web)
+* 5/17 — [UNODC launches training to tackle cryptocurrency-enabled Organized Crime](https://www.unodc.org/unodc/en/frontpage/2017/May/unodc-launches-training-to-tackle-money-laundering-and-bitcoin-banking-fraud.html)
+* 11/17 — [Training on Investigation of Money Laundering with Cryptocurrencies and Money Transfer Systems and Electronic Money](https://www.unodc.org/rpanc/en/Sub-programme-2/training-on-investigation-of-money-laundering-with-cryptocurrencies-and-money-transfer-systems-and-electronic-money.html)
+* 11/17 — [Corruption and Economic Crime in Cyberspace](https://www.unodc.org/documents/treaties/UNCAC/COSP/session7/SpecialEvents/IACA-INTERPOL_side_event_on_Corruption_and_Cyberspace-_Nov_2017.pdf)
+* 4/18 — [Workshop on Darknet and Cryptocurrency Investigations](https://www.unodc.org/ropan/en/workshop-on-darknet-and-cryptocurrency-investigations.html)
+* 11/18 — [Embracing digitalization: how can anti-corruption agencies in ASEAN apply innovative tools in the fight against corruption?](https://www.unodc.org/southeastasiaandpacific/en/what-we-do/anti-corruption/topics/27-embracing-digitalization_-how-can-anti-corruption-agencies-in-asean-apply-innovative-tools-in-the-fight-against-corruption.html)
+* 12/18 — [UN Partnership to Roll Out Blockchain-Based Telemedicine, Telepsychology in East Africa](https://cointelegraph.com/news/un-partnership-to-roll-out-blockchain-based-telemedicine-telepsychology-in-east-africa)
+  >The United Nations Office on Drugs and Crime (UNODC) will reportedly partner with blockchain-based telemedicine and telepsychology firm doc.com to expand free basic healthcare services across Eastern Africa. News of the partnership was shared with Cointelegraph in an email on Dec. 26.

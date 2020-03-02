@@ -31,6 +31,15 @@ The events through the 1980s expose the need for an all-encompassing internet ro
   > 
   >The basic idea of P2P networking has been around since 1969, when the Internet Engineering Task Force pusblished its first Request for Comments.[[4]](http://tools.ietf.org/html/rfc1) However, the first dial-up P2P network was created in 1980 in the form of Usenet, which was a worldwide Internet discussion system. The difference between other web forums and Usenet was that Usenet did not depend on a central server or administrator-- it was distributed among a constantly changing group of servers that stored and forwarded messages to one another in bursts called news feeds. Individual users could read messages from and post messages to a local server, which would then send posted messages around the world.[[5]](http://en.wikipedia.org/wiki/Usenet) 
 
+* [Larry Roberts Calls Himself the Founder of the Internet. Who Are You to Argue?](https://www.wired.com/2012/09/larry-roberts/)
+* [Larry Roberts was a Networking Legend - High Tech Forum](https://hightechforum.org/larry-roberts-was-a-networking-legend/)
+  > Networking legend Larry Roberts has died, and the most laudatory obits don't recognize half of his contributions. I miss him already.
+
+
+<div class="flex-video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/qkD4HVRnGJE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 
 ## Overview: History Computer Communications 1968-1988
 

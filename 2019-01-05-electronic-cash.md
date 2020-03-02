@@ -3,34 +3,44 @@ layout: page-fullwidth
 title: Electronic Cash, Before Bitcoin
 description: An arrangement of resources related to the quest for digital cash, before Bitcoin.
 excerpt: "Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person."
-header: 
-  image: "https://bitcoin-nerds.xyz/history/assets/img/2013-Virtual-Currency-Infographic.png"
-  caption: "[Dec 2013 - History of Virtual Currency](https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf)"
-  teaser: "https://bitcoin-nerds.xyz/history/assets/img/electronic-cash-2013.png"
-  og_image: "https://bitcoin-nerds.xyz/history/assets/img/electronic-cash-2013.png"
-permalink: /history/before-bitcoin/electronic-cash/
-canonical_url: 'https://bitcoin-nerds.xyz/history//before-bitcoin/electronic-cash/'
-author_profile: false
-categories: ["History","People"]
-tags: ["Cypherpunk","Before Bitcoin"]
+
+header: no
+image:
+  thumb: "electronic-cash-2013.png"
+  title: "2013-Virtual-Currency-Infographic.png"
+  caption: "Dec 2013 - History of Virtual Currency"
+  caption_url: https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf
+
+permalink: /history/electronic-cash/
+
+categories: ["History"]
+tags: ["Before Bitcoin"]
 last_modified_at: 2019-05-27T13:22:33-23:00
 ---
 
 
-
+* [The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
+  > "The emergence of digital assets, such as bitcoin, signals a fundamental change in the way value is transferred globally. The concepts of money and value transfer have been evolving since primitive societies adopted shells and stones for monetary exchange, but the concept of digital money has been sought after for as long as there’s been an internet and peer-to-peer networking capabilities to drive its development."
+  > * DigiCash (1989)
+  > * Hashcash (1997)
+  > * B-money proposal (1998)
+  > * The Bit Gold proposal (1998)
+  > * Reusable Proof of Work (2004)
+* [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
+* [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
 * [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
 * [Lecture 12 — History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
   > For the accompanying textbook, including the free draft version, see: [http://bitcoinbook.cs.princeton](http://bitcoinbook.cs.princeton/)
 * [Digital Cash and Monetary Freedom](http://web.archive.org/web/19971210185701/http://info.isoc.org:80/HMP/PAPER/136/abst.html) (1996)
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b)
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) 
-* [@FidelityDigitalAssets - The Evolution of Digital Cash](https://medium.com/@FidelityDigitalAssets/the-evolution-of-digital-cash-da19b06aa58e)
 * [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
 * [Eric Turner (@ericturnr)](https://twitter.com/ericturnr/status/1037095399868297217)
   > Looking for recommendations: History of digital money and history of crypto Any suggestions?
 * [BANK FOR INTERNATIONAL SETTLEMENTS IMPLICATIONS FOR CENTRAL BANKS OF THE DEVELOPMENT OF ELECTRONIC MONEY](https://cryptome.org/jya/bis_emoney.html) - October 1996
 * [HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH](https://cryptome.org/jya/nsamint.htm) Laurie Law, Susan Sabett, Jerry Solinas National Security Agency 18 June 1996 
 * [Cybercash at risk/Money laws lacking](https://cryptome.org/jya/lawdno.txt)
+
 
 ### DigiCash 
 * [Digicash enables First Electronic Payment](https://www.chaum.com/ecash/articles/1994/05-27-94%20-%20World_s%20first%20electronic%20cash%20payment%20over%20computer%20networks.pdf) - 1994
@@ -43,9 +53,7 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 * [Privacy/Online Commerce - Digital Money & Transactions - Digicash Announce](http://web.archive.org/web/20110406225453/https://w2.eff.org/Privacy/Digital_money/?f=digicash.announce.txt):
 * [1994-05-03 - Re: Virtual Cash](http://mailing-list-archive.cryptoanarchy.wiki/archive/1994/05/fedd4c390e542fb17285e25d9f056916858b1da0a7f161886e8edb52877ba057/) 
 
-
-from Buniskey's Cryptoassets 
-
+from [Buniskey's Cryptoassets](https://www.goodreads.com/en/book/show/36197082-cryptoassets): 
 > "One of Bitcoin’s most famous ancestors was pioneered by a company called DigiCash, led by David Chaum, who remains one of the most famous cryptographers in crypto­ asset history. In 1993, prior to Marc Andressen founding Netscape, Chaum invented the digital payment system called ecash. This allowed secure and anonymous payments across the Internet, no matter the amount. 3 Clearly, Chaum’s timing could not have been better given the tech boom that followed through the mid- to late-1990s, and his company, DigiCash, had several opportunities for growth, any of which might have made it a household name. However, while Chaum was widely regarded as a technical genius, as a businessperson he left much to be desired. Bill Gates approached Chaum about integrating ecash into Windows 95, which would have immediately given it global distribution, but Chaum refused what was rumored to be a $100 million offer. Similarly, Netscape made initial inquiries about a relation- ship, but management was quickly turned off by Chaum’s attitude. In 1996, Visa wanted to invest $40 million into the company but were dissuaded when Chaum demanded $75 million (if these reports are correct, it’s clear that the potential price for Chaum’s creation was dropping). 4 If all had gone well, DigiCash’s ecash would have been integrated into all our web browsers at the ground floor, serving as the global Internet payment mechanism and potentially removing the need for credit cards in online payments. Sadly, mismanagement ultimately ran DigiCash into the ground, and in 1998 it declared bankruptcy. While DigiCash failed to become a household name, some players will resurface in our story, such as Nick Szabo, the father of “smart contracts,” and Zooko Wilcox, the founder of Zcash, both of whom worked at DigiCash for a time. 5: 
 
 

@@ -4,12 +4,17 @@ title: Bitcoin History
 subtitle: An assortment of links across the decade of Bitcoin's History
 permalink: /history/bitcoin/
 categories: ["History"]
-
-published: true
+header: no
+image:
+  thumb: "_posts/history/assets/bitcoin-prehistory.jpeg"
+  title: "_posts/history/assets/bitcoin-prehistory.jpeg"
+  caption: "Bitcoin&Markets"
+  caption_url: https://bitcoinandmarkets.com
+last_modified_at: 2020-02-02T13:22:33-23:00
 ---
 
-This is a long loosely sorted list of links ranging through the history of Bitcoin.
-
+* [Julien Guitton, Bitcoiner 🕶️🍸🍿📈🌕 (@weedcoder)](https://twitter.com/weedcoder/status/1154789187855486976?s=12)
+  > ![](https://pbs.twimg.com/media/EAaio4AXsAEYW8y?format=jpg&name=large)
 
 * [Bitcoin P2P e-cash paper](https://satoshi.nakamotoinstitute.org/emails/cryptography/threads/1/)
 * [Satoshi's Forum Posts](https://satoshi.nakamotoinstitute.org/posts/)
@@ -91,6 +96,9 @@ Scalability and transaction rate
 * [Bitcoin MasterCard: Followup Interview With Charlie Shrem - Coding...](https://web.archive.org/web/20121029120924/http:/codinginmysleep.com/bitcoin-mastercard-followup-interview-with-charlie-shrem/)
   > I Interview Charlie Shrem, co-founder of BitInstant, about the upcoming release of his Bitcoin MasterCard product and discuss Bitcoin in general.
 * [Satoshi dumped Bitcoin right after Gavin announced he was going to...](https://bitcointalk.org/index.php?topic=113609.0)
+* [Satoshi on Anonymous Transactions - bitcointalk](https://twitter.com/notgrubles/status/1043569394901602304) [[**ϟ**](https://bitcointalk.org/index.php?topic=770.msg9074)
+  > "As some might have noticed, one of the things that bugs me about bitcoin is that the entire history of transactions is completely public. I totally understand the benefits of how this simplifies things and makes it easy for everyone to prove coins are valid. So this is not a suggestion for a change to bitcoin. Rather it is a question about what could be possible, and what couldn't be possible."
+
 
 
 ### 2011 - 2012
@@ -177,8 +185,8 @@ Scalability and transaction rate
   > There are bitcoin-savvy folks betting that paying 13 times the price of a machine will actually pay off.
 * [Geeks Love The Bitcoin Phenomenon Like They Loved The Internet In 1995](https://www.businessinsider.com/how-bitcoins-are-mined-and-used-2013-4)
 * [bitcoin_2013_schedule_satsun_4-12-13.pdf](http://web.archive.org/web/20130418114108/http://www.bitcoin2013.com/uploads/1/4/9/4/14946598/bitcoin_2013_schedule_satsun_4-12-13.pdf)
-* [I AM HODLING](https://bitcointalk.org/index.php?topic=375643)
-
+* [The Original 'I AM HODLING' Bitcointalk Post](https://bitcointalk.org/index.php?topic=375643.0)
+  > "I type d that tyitle twice because I knew it was wrong the first time.  Still wrong.  w/e.  GF's out at a lesbian bar, BTC crashing WHY AM I HOLDING? I'LL TELL YOU WHY.  It's because I'm a bad trader and I KNOW I'M A BAD TRADER.  Yeah you good traders can spot the highs and the lows pit pat piffy wing wong wang just like that and make a millino bucks sure no problem bro.  Likewise the weak hands are like OH NO IT'S GOING DOWN I'M GONNA SELL he he he and then they're like OH GOD MY ASSHOLE when the SMART traders who KNOW WHAT THE FUCK THEY'RE DOING buy back in but you know what?  I'm not part of that group.  When the traders buy back in I'm already part of the market capital so GUESS WHO YOU'RE CHEATING day traders NOT ME~!  Those taunt threads saying \"OHH YOU SHOULD HAVE SOLD\" YEAH NO SHIT.  NO SHIT I SHOULD HAVE SOLD.  I SHOULD HAVE SOLD MOMENTS BEFORE EVERY SELL AND BOUGHT MOMENTS BEFORE EVERY BUY BUT YOU KNOW WHAT NOT EVERYBODY IS AS COOL AS YOU.  You only sell in a bear market if you are a good day trader or an illusioned noob.  The people inbetween hold.  In a zero-sum game such as this, traders can only take your money if you sell."
 
 ## Mt Gox
 
@@ -231,16 +239,17 @@ Scalability and transaction rate
   > No, that isn't Satoshi posting from his P2P Foundation account today. However, this email from 2015 may have been his last public message: [https://t.co/FDMdUIYNs4](https://t.co/FDMdUIYNs4)
 Twitter
 * [All-Star Panel: Ed Moy, Joseph VaughnPerling, Trace Mayer, Nick Sz...](https://www.youtube.com/watch?v=LdvQTwjVmrE&feature=youtu.be) - Presented at Bitcoin Investor Conference - Las Vegas, NV Oct. 29 - 30, 2015
+* [Bitcoin’s PR challenges](https://www.ofnumbers.com/2014/08/12/bitcoins-pr-challenges/)
 
 
 ## Bitcoin Foundation
 * [bitcoinfoundation.org](https://bitcoinfoundation.org/)
-* [John Carvalho (@BitcoinErrorLog)](https://twitter.com/BitcoinErrorLog/status/1044207811603943425) 
-  > I was a paying member of the original Bitcoin Foundation. They were mostly a train wreck. I attended their annual meeting at a conference in Amsterdam and met with their accounting person to ask some hard questions. She was actually pretty savvy. /1
 * [Bitcoin Foundation – Supporting Education, Adoption and Developm...](https://bitcoinfoundation.org/)
   > The Bitcoin Foundation is a nonprofit organization aiming to make Bitcoin a globally accepted method of exchanging and storing value without third parties.
 * [BitMEX Research (@BitMEXResearch)](https://twitter.com/BitMEXResearch/status/1168852448485761025?s=20)
   > The Bitcoin Foundation We take a nostalgic look back at the history of Bitcoin, focusing on "The Bitcoin Foundation", once one of the most prominent organisations in the ecosystem. We examine its failings, which ultimately lead to a loss of legitimacy [https://t.co/AO49eE](https://t.co/AO49eE)...
+* [@BitcoinErrorLog on the original Bitcoin Foundation](https://twitter.com/BitcoinErrorLog/status/1044207811603943425)
+  > "I was a paying member of the original Bitcoin Foundation. They were mostly a train wreck. I attended their annual meeting at a conference in Amsterdam and met with their accounting person to ask some hard questions. She was actually pretty savvy. /1"
 
 
 ## 2016
@@ -290,9 +299,10 @@ By NATHANIEL POPPER
   > Segregated Witness (SegWit) has activated on Bitcoin. But activation did not come easy, and it did not come fast. This is a look back at the long road to SegWit.
 * [Bitcoin Scaling Battles (Big vs Small Blockers: SegWit vs SegWit2x...](https://cryptoanarchy.wiki/events/bitcoin-scaling)
 * [Lone Bitcoin Whale Likely Fueled 2017 Price Surge, Study Says](https://news.ycombinator.com/item?id=21440549)
-
-## No2x
-
+* [Bitcoin’s Constitutional Crisis & Why I Support the UASF](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6)
+Description = "It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end of the tunnel in this round of the bitcoin scaling debate. Thank god.\n\nThe impending activation of BIP 148, AKA bitcoin’s “user activated soft fork”, due to take effect on August 1, would ensure that SegWit, an optimization feature that increases block capacity, gets activated without strings attached."
+* [@francispouliot Looking back on UASF](https://twitter.com/francispouliot_/status/1037379672282152960) [[**ϟ**](https://twitter.com/francispouliot_/status/1037358649029668864)]
+  > 1/ Full text of the article: 'After the one year anniversary of Bitcoin’s iconic User Activated Soft Fork, we had the pleasure of speaking with Francis Pouliot, CEO of Bylls, a major proponent in the campaign to keep Bitcoin under its users’ control.
 * [#NO2X - JOIN THE WAR!](https://bitcointalk.org/index.php?topic=2236682.60)
 * [r/Bitcoin - [Segwit2x attack] Here Jeff Garzik is trying to hide 2...](https://www.reddit.com/r/Bitcoin/comments/72xig6/segwit2x_attack_here_jeff_garzik_is_trying_to/)
 * [Jeff Garzik SegWit2x Bitcoin ‘Upgrade’ Comments Spark Trolling...](https://cointelegraph.com/news/jeff-garzik-segwit2x-bitcoin-upgrade-comments-spark-trolling-campaign) - Jeff Garzik has gained his own imitation account criticizing his support of SegWit2x.
@@ -322,7 +332,6 @@ By NATHANIEL POPPER
   > "Looking Back at UASF" My interview with @MattoshiN in @21Cryptos magazine, short historical article on Bitcoin's most critical juncture. I depict the events from my point of view and what it meant for me. #UASF was a game of chicken between users and the Bitmain cartel. ...
 * [Bitcoin’s Constitutional Crisis & Why I Support the UASF](https://medium.com/tbis-weekly-bits/bitcoins-constitutional-crisis-why-i-support-the-uasf-5b0ab325d8b6)
   > It took three years and the emergence of serious (and perhaps permanent) crypto rivals, but there finally seems to be some light at the end…
-* [Samourai Wallet](https://blog.samouraiwallet.com/)
 * [Full bech32 support, introducing Boltzmann and... - samouraiwallet](https://blog.samouraiwallet.com/post/173544815052/full-bech32-support-introducing-boltzmann-and)
   > We are very happy to announce the release of Samourai 0.98.5 available to update via Google Play for existing testers, install from Google Play for new testers, or build from source on Github. This update is filled with new functionality and improvements, so let’s get right...
 * [The Prophets of Cryptocurrency Survey the Boom and Bust](https://www.newyorker.com/magazine/2018/10/22/the-prophets-of-cryptocurrency-survey-the-boom-and-bust)
@@ -334,8 +343,6 @@ Inside the ongoing argument over whether Bitcoin, Ethereum, and the blockchain
 * [When It Comes to Volatility, Tech Stocks Are the New Bitcoin](https://www.bloomberg.com/news/articles/2018-10-26/tech-stocks-are-the-new-bitcoin-when-it-comes-to-volatility) 
 * [Bitcoin continues to tumble, briefly breaking below $6,000](https://www.cnbc.com/2018/02/05/bitcoin-drops-more-than-14-percent-to-below-7000.html)
   > With Monday's declines, bitcoin has now lost more than 50 percent for the year so far.
-* [The 2019 Crypto Crystal Ball - Token Daily](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
-  > Looking in the rear-view mirror of 2018 not only offers us a moment of reflection, but shows us what’s plausible for the year ahead.
 * [Larry Cermak (@lawmaster)](https://twitter.com/lawmaster/status/1124778871553974272?s=12)
   > To all the Bitfinex/Tether apologists - please read this fucking document. It's a really good read that explains the whole situation and how Bitfinex facilitated what NY AG claims is fraud. [https://t.co/loDto7hLeO](https://t.co/loDto7hLeO)
 * [Bitcoin Optech Newsletter #27: 2018 Year-in-Review Special](https://bitcoinops.org/en/newsletters/2018/12/28/)
@@ -343,7 +350,10 @@ Inside the ongoing argument over whether Bitcoin, Ethereum, and the blockchain
 * [RIP “crypto” – TechCrunch](https://techcrunch.com/2018/07/07/rip-crypto/)
   > RIP “crypto”. You had a good run. This week veteran cryptographer Matt Blaze, finally gave in — to what must have been a near-constant, low-level drone of ‘CAn Buy Crypto.com???$$$$!’ spam — and sold the pithy domain name he registered in 1993, in the midst of th…
 * [Bitcoin Core Bug CVE-2018–17144: An Analysis](https://hackernoon.com/bitcoin-core-bug-cve-2018-17144-an-analysis-f80d9d373362)
-
+* [Bitcoin Stumble Shows Bitmain a Ghost of Crises Past](https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past)
+  > "A look at Bitmain Technologies Ltd.’s financials reveal the Chinese company sold a lot of shovels during the crypto gold rush of the past two years. Its mistake was to take digital gold as payment instead of cash. \n\nBut there are two other items that could make matters worse for Bitmain and others in the crypto-mining ecosystem, adding to pressure on the balance sheet."
+* [The 2019 Crypto Crystal Ball - Token Daily](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
+  > Looking in the rear-view mirror of 2018 not only offers us a moment of reflection, but shows us what’s plausible for the year ahead.
 
 ## 2019
 

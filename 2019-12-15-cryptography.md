@@ -6,12 +6,49 @@ tags: ["Before Bitcoin","Cryptography"]
 permalink: /history/before-bitcoin/cryptography/
 ---
 
-* [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025)
+* [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
+* [EFF - Crypto Is For Everyone—and American History Proves It](https://www.eff.org/deeplinks/2015/10/crypto-everyone-and-american-history-proves-it)
+* ["GET READY FOR A WORLD CURRENCY"](http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf)
+  Get Ready for the Phoenix- Economist; 01/9/88, Vol. 306, pp 9-10
+* [Before Babylon, Beyond Bitcoin: From Money that We Understand to Money that Understands Us](https://the-eye.eu/public/concen.org/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29%20%28Pdf%29%20Gooner/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29.pdf)
+* [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
+* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
+* [Cryptographic Hash Functions](https://archive.is/UgiJ9)
+* [Zero Knowledge Proofs](https://archive.is/6k10u)
+* [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
+
+## Digital Cryptography 
+
+* [The Code Book: The Science of Secrecy from Ancient Egypt to Quantum Cryptography](https://www.amazon.com/Code-Book-Science-Secrecy-Cryptography/dp/0385495323) [[**ϟ**](https://simonsingh.net/cryptography/crypto-cd-rom/)]
+  > "Simon Singh offers the first sweeping history of encryption, tracing its evolution and revealing the dramatic effects codes have had on wars, nations, and individual lives. From Mary, Queen of Scots, trapped by her own code, to the Navajo Code Talkers who helped the Allies win World War II, to the incredible (and incredibly simple) logisitical breakthrough that made Internet commerce secure, The Code Book tells the story of the most powerful intellectual weapon ever known: secrecy."
+
+**Hash Algorithms**
+* [History of Hash Algo's - StackExchange](https://crypto.stackexchange.com/questions/56404/what-was-the-first-hash-and-what-problem-was-it-supposed-to-solve)
+* [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) '76
+* [DATA ENCRYPTION STANDARD (DES)](http://www.cs.haifa.ac.il/~orrd/IntroToCrypto/online/fips46-3.pdf) approved as a federal standard in ['76](https://en.wikipedia.org/wiki/Data_Encryption_Standard#History_of_DES)
+
+**Public Key Cryptography**
+* <a href="http://www.merkle.com/1974/">Publishing a new idea
+by Ralph C. Merkle</a>
+  >In the Fall of 1974, as an undergraduate, I enrolled in CS244, the Computer Security course offered at UC Berkeley and taught by Lance Hoffman. We were required to submit two project proposals, one of which we would complete for the course. I submitted a proposal for what would eventually become known as Public Key Cryptography -- which Hoffman rejected. I dropped the course, but kept working on the idea.
+* [Part 1](https://www.youtube.com/watch?v=_ZTWLAqYf9c) — [Part 2](https://www.youtube.com/watch?v=oR0_LPbWxe4) about the development of public-key cryptography.<br/>
+<a href="https://www.youtube.com/watch?v=_ZTWLAqYf9c"><img src="https://i.imgur.com/hIMMThY.png"/></a> 
+<br/> For a more complete version, read:
+* <a href="https://www.goodreads.com/book/show/984428.Crypto">CRYPTO— how the code rebels beat the government— saving privacy in the digital age</a> -Steven Levy 
+* [THE OPEN SECRET](https://www.wired.com/1999/04/crypto/) 
+  —Public key cryptography - the breakthrough that revolutionized email and ecommerce - was first discovered by American geeks. Right? Wrong.
+  > The story of the invention of public key cryptography is a cypherpunk sacred text: In 1976, an iconoclastic young hacker named Whitfield Diffie hooked up with Stanford professor Martin Hellman, and together they devised what experts hailed as the most important development in crypto since the invention of polyalphabetic ciphers during the Renaissance. The duo produced a system that allowed an unlimited number of people to communicate with total privacy.
+
+
+<a href="https://twitter.com/NickSzabo4/status/1032449901802614784"><img src="https://i.imgur.com/cH9VMNn.png"/></a>
+
+* [How to Time-Stamp a Digital Document](https://link.springer.com/content/pdf/10.1007%2F3-540-38424-3_32.pdf) 1991
+* [The Eureka Moment That Made Bitcoin Possible](https://www.wsj.com/articles/the-eureka-moment-that-made-bitcoin-possible-1527268025) [[**ϟ**](https://www.facebook.com/flx/warn/?u=https%3A%2F%2Fwww.wsj.com%2Farticles%2Fthe-eureka-moment-that-made-bitcoin-possible-1527268025&h=AT01z4enWp-C1obtu-eTYF1yxmB7LWM9N9GM5vFGWJOuHVW9xuis-tFhcHpSMOshOHAMVWzS8XSPquk_VkFphpN7G5irj39Kp1dzgWurvz5Am_8)]
   > A key insight for the technology came to a physicist almost three decades ago at a Friendly’s restaurant in New Jersey.
 * [Why I wrote PGP](https://philzimmermann.com/EN/essays/index.html) - [CryptoQuikRead_150](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_150---Why-I-wrote-PGP-e2ndpp)
   > “If we do nothing, new technologies will give the government new automatic surveillance capabilities that Stalin could never have dreamed of. The only way to hold the line on privacy in the information age is strong cryptography.” -Phil Zimmerman Explore this article & ...
 * [𝓡𝓪𝓶𝓹𝓪𝓰𝓮 🦍 (@Thrillmex)](https://twitter.com/Thrillmex/status/1061583930724253697)
-NSA: HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH References two articles written by "Tatsuaki Okamoto" from 1991. Titled; An Efficient Divisible Electronic Cash Scheme Universal Electronic Cash Is this the OG Satoshi Nakamoto? 
+  > NSA: HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH References two articles written by "Tatsuaki Okamoto" from 1991. Titled; An Efficient Divisible Electronic Cash Scheme Universal Electronic Cash Is this the OG Satoshi Nakamoto? 
 * [bitrawr⚡🦖 (@bitrawr)](https://twitter.com/bitrawr/status/1135130717724250113)
   > #Bitcoin’s building blocks. All hail #Satoshi
   > 🌿 1979: Hash trees
