@@ -380,9 +380,6 @@ Inside the ongoing argument over whether Bitcoin, Ethereum, and the blockchain
   > Arthur Hayes, CEO of BitMEX and Professor Nouriel Roubini debate the merits of cryptocurrencies at the Asia Blockchain Summit in Taipei, Taiwan
 * [[ Romano ] (@RNR_0)](https://twitter.com/rnr_0/status/1146379507659681792?s=12)
   > I just uploaded the recoding so you can download/listen to it. [https://t.co/BnkWGJbmky](https://t.co/BnkWGJbmky) 
-
-![](https://pbs.twimg.com/media/D-iyQwxUYAAFFrm?format=jpg&name=medium)
-
 * [http://bitcoinsnippets.com/bitcoin-news-june-2019/](http://bitcoinsnippets.com/bitcoin-news-june-2019/)
 
 
