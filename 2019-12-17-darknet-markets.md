@@ -480,5 +480,6 @@ Scouring the blockchain, researchers found years-old evidence tying Silk Road tr
 ---
 
 {% include _improve_content.html %}
+### Related Content
 
-{% include list-posts category='History' %}
+{% include list-posts entries='5'  category='History' %}

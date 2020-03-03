@@ -239,5 +239,6 @@ The short version is that Vitalik started Ethereum after a few attempts to integ
 ---
 
 {% include _improve_content.html %}
+### Related Content
 
-{% include list-posts category='History' %}
+{% include list-posts entries='5'  category='History' %}

@@ -124,5 +124,6 @@ Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ 
 ---
 
 {% include _improve_content.html %}
+### Related Content
 
-{% include list-posts category='History' %}
+{% include list-posts entries='5'  category='History' %}
