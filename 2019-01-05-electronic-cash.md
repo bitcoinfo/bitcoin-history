@@ -226,7 +226,7 @@ An early clickworking site that rewarded users with its own digital currency.
 
 ---
 
-{% include _improve_content.html %}
+{% include _improve_history.html %}
 ### Related Content
 
 {% include list-posts entries='5'  category='History' %}

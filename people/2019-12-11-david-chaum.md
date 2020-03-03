@@ -117,7 +117,7 @@ Election protocols embodying robustness, verifiability of returns by voters, and
 
 ---
 
-{% include _improve_content.html %}
+{% include _improve_history.html %}
 ### Related Content
 
 {% include list-posts entries='5'  category='People' %}

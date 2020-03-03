@@ -24,7 +24,7 @@ tags: ["Cypherpunk","Before Bitcoin"]
 
 ---
 
-{% include _improve_content.html %}
+{% include _improve_history.html %}
 ### Related Content
 
 {% include list-posts entries='5'  category='People' %}

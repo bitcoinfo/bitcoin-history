@@ -448,7 +448,7 @@ What follows is a list of books that were influential upon early cypherpunks. As
 
 ---
 
-{% include _improve_content.html %}
+{% include _improve_history.html %}
 ### Related Content
 
 {% include list-posts entries='5'  category='History' %}

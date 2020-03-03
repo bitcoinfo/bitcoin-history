@@ -412,7 +412,7 @@ Inside the ongoing argument over whether Bitcoin, Ethereum, and the blockchain
 
 ---
 
-{% include _improve_content.html %}
+{% include _improve_history.html %}
 ### Related Content
 
 {% include list-posts entries='5'  category='History' %}
