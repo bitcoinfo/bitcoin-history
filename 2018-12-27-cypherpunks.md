@@ -17,6 +17,26 @@ last_modified_at: 2020-02-02T13:22:33-23:00
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>
 
+* [Early Cypherpunks](https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks) - cryptoanarchy.wiki
+  > - Adam Back - 90s Cypherpunk, Inventor of HashCash, CEO of Blockstream
+  > - David D. Friedman - Son of Milton, Anarcho-Capitalist theorist, Not a Cypherpunk but "Crypto-Anarchy" draws a lot from his work
+  > - Eric Hughes - Founding member of the Cypherpunk Mailing List,
+  > - Gregory Maxwell - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
+  > - Hal Finney - 90s Cypherpunk, Received first Bitcoin transaction (from Satoshi), Strong candidate for Satoshi
+  > - Ian Grigg - 90s Cypherpunk, Inventor of Ricardian Contracts
+  > - Jim Bell - 90s Cypherpunk, Crypto-anarchist, Author of Assassination Politics
+  > - John Gilmore - Co-founder of the Cypherpunk Mailing List and the Electronic Frontier Foundation
+  > - John Perry Barlow - 90s Cypherpunk, Author of "A Declaration of the Independence of Cyberspace"
+  > - Julian Assange - Founder of Wikileaks, Member of Cypherpunk Mailing List in its heyday
+  > - Nick Szabo - 90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for Satoshi
+  > - Paul Calder Le Roux - Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody
+  > - Phil Zimmermann - Author of the Pretty Good Privacy (PGP) Public key encryption software
+  > - Pieter Wuille - Bitcoin Core Developer, Holds the number 2 spot on the bitcoin/bitcoin contributors list (2018-05-28), Blockstream co-founder
+  > - Satoshi Nakamoto - Pseudonymous Founder of Bitcoin, May be a person or group, Many people put forward as possible candidates, Very probably the alias of a 90s Cypherpunk
+  > - Timothy C. May - Founding member of Cypherpunk Mailing List, writer of "The Crypto-Anarchist Manifesto" and the "Cyphernomicon" (mailing list FAQ)
+  > - Vinay Gupta - 90s Cypherpunk, Inventor of the Hexayurt, Resilience Guru, Involved with Ethereum
+  > - Wei Dai - 90s Cypherpunk, Cryptographer, Creator of Bitcoin-precursor B-Money
+
 
 ## Crypto Wars and PGP
 
