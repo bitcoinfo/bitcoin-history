@@ -41,3 +41,10 @@ tags: ["Cypherpunk"]
 * [Hal Finney Memorial ALS Donation Drive (@bitcoin4als)](https://twitter.com/bitcoin4als/status/1123209833375850496?s=12)
   > 1/ "Bitcoin And Me" By Hal Finney Posted in @bitcointalk on 3/19/2013 "I thought I'd write about the last four years, an eventful time for Bitcoin and me. For those who don't know me, I'm Hal Finney.
 
+
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='People' %}

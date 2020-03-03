@@ -11,3 +11,9 @@ published: false
   >Since writing the PGP encryption software in the 1990s, Phil Zimmermann has been a key figure in the internet privacy debate. With that argument heating up again, his perspective is more relevant than ever.
 * [Phil Zimmermann on PGP](https://philzimmermann.com/EN/essays/index.html)
 * [Cypher Wars](https://www.wired.com/1994/11/cypher-wars/) - Pretty Good Privacy Gets Pretty Legal
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='People' %}

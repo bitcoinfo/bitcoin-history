@@ -215,3 +215,9 @@ https://github.com/OpenBazaar/openbazaar-go
 [![](https://cdn-images-1.medium.com/max/800/0*QDJ26V1pEdCBssOI.)](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2)
 [Caught Between the Intranet and the Decentralized Web](https://hackernoon.com/outgrowing-our-internet-caught-between-the-intranet-and-the-decentralized-web-707c532abbe2) - 2017
 
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}

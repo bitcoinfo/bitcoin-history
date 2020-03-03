@@ -56,3 +56,9 @@ permalink: /history/people/nick-szabo/
 * CryptoQuikRead_216 - [Formalizing & Securing Network Relationships [Part 3]](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_216---Formalizing--Securing-Network-Relationships-Part-3-e3ejnd)
 * CryptoQuikRead_261 - [The God Protocols](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_261---The-God-Protocols-e4cstb)
 * CryptoQuikRead_233 - [Exit & Freedom](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_233---Exit--Freedom-e3nleo)
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='People' %}

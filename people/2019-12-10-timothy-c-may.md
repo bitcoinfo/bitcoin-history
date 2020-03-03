@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 header: no
-title: Tim-may
+title: "Timothy C May - Chief Instigator: Cypherpunks"
 permalink: /history/people/timothy-c-may/
 categories: ["History","People"]
 tags: ["Cypherpunk","Before Bitcoin"]
@@ -21,3 +21,9 @@ tags: ["Cypherpunk","Before Bitcoin"]
 * [Untraceable Digital Cash, Information Markets, and BlackNet](http://osaka.law.miami.edu/~froomkin/articles/tcmay.htm) - "Governmental and Social Implications of Digital Money" panel at CFP '97
 * [Timothy C. May - Thirty Years of Crypto Anarchy | HCPP16](https://youtu.be/TdmpAy1hI8g)
 * [Tim May, Father of 'Crypto Anarchy,' Passes Away](https://www.indybay.org/newsitems/2018/12/23/18819945.php)
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='People' %}

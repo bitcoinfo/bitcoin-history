@@ -439,3 +439,10 @@ A next surge in data communication growth would arrive in the mid-1970s, caused 
 ### 12. Internetworking: Emergence 1985-1988
 
 * [Local Area Networks and Wide Area Networks](http://www.historyofcomputercommunications.info/Book/12/12-Overview.html)
+
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}

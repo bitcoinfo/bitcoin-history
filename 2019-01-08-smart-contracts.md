@@ -234,3 +234,10 @@ The short version is that Vitalik started Ethereum after a few attempts to integ
   >A certification process can provide participants in smart contracts with greater assurances they won't lose their money (see: the DAO). But in distributed systems, the true test of security comes when software is released into the wild.
 * [Most Cited Smart Contracts Publications](https://blockchainlibrary.org/2017/10/most-cited-smart-contracts-publications/)
 
+
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}

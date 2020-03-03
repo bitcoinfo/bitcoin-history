@@ -10,8 +10,6 @@ last_modified_at: 2020-03-02T11:22:33-23:00
 
 ---
 
-## 💀 Cyberpunks
-
 * [A Cyberpunk Manifesto: 20 Years Later – Neon Dystopia](https://www.neondystopia.com/cyberpunk-fashion-lifestyle/a-cyberpunk-manifesto-20-years-later/)
   > It was Valentine’s Day in 1997. Many of us were already cemented in our love of cyberpunk and cyber-culture was in full swing. Then came A Cyberpunk Manifesto by Kristiyan Kirchev. I was only just discovering the genre at this time and reading this document during my format...
 * [A Cyberpunk Manifesto](http://project.cyberpunk.ru/idb/cyberpunk_manifesto.html) By Christian As. Kirtchev
@@ -121,3 +119,10 @@ Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ 
   > William Powell: When I penned the book, I was angry and alienated. Today I realize that violence can't be used to prevent violence
 * [The Anarchist's Cookbook Written by: The Jolly Roger](http://index-of.co.uk/Tutorials-2/The%2520Proper%2520Anarchists%2520Cookbook.pdf)
 * [Read the FBI’s review of ‘The Anarchist Cookbook’](https://theoutline.com/post/6285/read-the-fbis-review-of-the-anarchist-cookbook?zd=1&zi=77ew2zqy) 
+
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}

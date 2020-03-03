@@ -17,8 +17,15 @@ last_modified_at: 2020-02-02T13:22:33-23:00
 * [Satoshi's Forum Posts](https://satoshi.nakamotoinstitute.org/posts/)
   * [P2P Foundation](https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/) ([Threads](https://satoshi.nakamotoinstitute.org/posts/?view=threads))
   * [BitcoinTalk](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/threads/) ([Threads](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/))
+* [A Week of Satoshi Pt. 3: Big Bitcoin Moments (2008 – 2013)](https://btcmanager.com/a-week-of-satoshi-big-bitcoin-moments-2008-2013/)
+  > The Cambrian explosion of cryptocurrencies has behaved much in the same way as in biology. What wasn’t weeded out by a stronger species, didn’t navigate its way through a myriad of natural challenges and establish itself as antifragile, placed itself in league with other ...
+* [Michel Rauchs (@mrauchs)](https://twitter.com/mrauchs/status/950366745663025152) 
+  > My Master's thesis (2016) visualising the evolution of the #Bitcoin business ecosystem from 2009-2015 is now also available on SSRN. Network graphs are based on a unique dataset of 500+ Bitcoin companies and projects. [https://t.co/uBoGDe5Jod](https://t.co/uBoGDe5Jod)
 
-* [http://newlibertystandard.wikifoundry.com/](http://newlibertystandard.wikifoundry.com/) 
+## 2009-2010
+
+* [Genesis Block Newspaper](https://www.thetimes03jan2009.com/) 
+  > "The only two remaining verified complete copies of this newspaper were acquired from the London National Archives on January 14, 2014. The newspapers come in a complete set with both the cover and the entire newspaper included. 
 * [newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate](http://newlibertystandard.wikifoundry.com/page/2009+Exchange+Rate) -[web.archive](https://web.archive.org/web/20091229132610/http://newlibertystandard.wetpaint.com/page/Exchange+Rate)
   > Exchange RateThis is a featured page We Sell 1,578.76 Bitcoins for $1.00 USD Plus PayPal Transaction Fee. We Buy1,578.78 Bitcoins for $1.00 USD Minus PayPal Transaction Fee. $100.00 USD Available 15,100.00 Bitcoins Available
 * [New Liberty Standard](http://web.archive.org/web/20091229132559/http://newlibertystandard.wetpaint.com/)
@@ -28,7 +35,6 @@ last_modified_at: 2020-02-02T13:22:33-23:00
   >
   > Try using bitcoins the next time you need to send or receive a payment over the Internet. First, download the Bitcoin software. Once Bitcoin is running, click 'Generate Coins' which will pay you bitcoins in exchange for your computer working to validate bitcoin transactions. Check the exchange rate to calculate how many bitcoins need to be sent. The payer can purchase additional bitcoins if needed. The payer's previously generated bitcoins allow for a lower out of pocket payment. The payer then sends the bitcoins to the receiver using the Bitcoin software. The receiver can then sell their bitcoins for dollars. The receiver's previously generated bitcoins allow a higher dollar payout.
 * [Bitcoin IRC Channel Guidelines](https://en.bitcoin.it/wiki/Bitcoin_IRC_Channel_Guidelines) 
-* [https://en.bitcoin.it/wiki/Laszlo_Hanyecz](https://en.bitcoin.it/wiki/Laszlo_Hanyecz) 
 * [https://thebitcoinnews.com/bitcoin-history-part-1-in-the-beginning/](https://thebitcoinnews.com/bitcoin-history-part-1-in-the-beginning/) 
 * [mt gox channel dump - Pastebin.com](http://pastebin.com/d7vp06hL)
 * [About That Orange B... The History of Bitcoin’s Logos - CoinDesk](https://www.coindesk.com/about-that-orange-b-the-history-of-bitcoins-logos)
@@ -47,8 +53,6 @@ last_modified_at: 2020-02-02T13:22:33-23:00
   > Accidentally discovered a mind-blowing artefact of Bitcoin history. I had heard rumors of its existence. I give you: the pre-release source code of Bitcoin! [https://t.co/VeEFHglz2J](https://t.co/VeEFHglz2J) Confirmation by Satoshi many had access to code when he mined Genesis: [https://t.co/reEQ8](https://t.co/reEQ8)...
 * [Constructive Direct Action Against Censorship](https://www.eff.org/deeplinks/2010/12/constructive-direct-action-against-censorship)
   > The past few weeks have highlighted the vulnerability of centralized information systems to censorship: online speech is only as strong as the weakest intermediary. Sites hosting legitimate speech were caught up in an anti-counterfeiting raid by the Department of Homeland Sec...
-* [Wikileaks Bitcoin Fundraiser](https://bitcointalk.org/?topic=2132.0;wap2)
-  > hachacha: Anyone have any ideas for raising money for wikileaks? Some governments have frozens Julian Assange's bank accounts, paypal, and credit cards. I think Bitcoin would be a great way for them to get donations. Anyone think its a good idea? I would like to start accepting donations for wikileaks but I don't know who to contact at wikileaks about getting them to accept bitcoin donations.
 * [An Analysis of Anonymity in the Bitcoin System](https://users.encs.concordia.ca/~clark/biblio/bitcoin/Reid%25202011.pdf) - Fergal Reid University College Dublin, Ireland Martin Harrigan University College Dublin, Ireland
   > Anonymity in Bitcoin, a peer-to-peer electroniccurrency system, is a complicated issue. Within the system,users are identified by public-keys only. An attacker wishingto de-anonymize its users will attempt to construct the one-to-many mapping between users and public-keys and associateinformation external to the system with the users. Bitcoinfrustrates this attack by storing the mapping of a user to hisor her public-keys on that user’s node only and by allowingeach user to generate as many public-keys as required. In thispaper we consider the topological structure of two networksderived from Bitcoin’s public transaction history. We showthat the two networks have a non-trivial topological structure,provide complementary views of the Bitcoin system and haveimplications for anonymity. We combine these structures withexternal information and techniques such as context discoveryand flow analysis to investigate an alleged theft of Bitcoins, which,at the time of the theft, had a market value of approximatelyhalf a million U.S. dollars.
 * [Could the Wikileaks Scandal Lead to New Virtual Currency?](https://www.pcworld.com/article/213230/could_wikileaks_scandal_lead_to_new_virtual_currency.html)
@@ -61,16 +65,15 @@ last_modified_at: 2020-02-02T13:22:33-23:00
   > Other ideas? Just ask! We want your business as we want money to flow so that the Bitcoin economy reaches critical mass!
 * [BitcoinFX - BitcoinFX](http://web.archive.org/web/20100429153403/http:/www.bitcoinfx.cz.cc/)
 An Independent Exchange Service for the Bitcoin P2P Anonymous Digital Currency
-* [https://satoshi.nakamotoinstitute.org/posts/bitcointalk/488/](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/488/)
+* [Re: Tor connections not working reliably, many seednodes offline](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/488/) 2010-10-06
 * [Pirate DNS Could Hatch a Lawless Darknet](https://www.pcworld.com/article/212263/pirate_dns_could_hatch_a_lawless_darknet.html)
   > The Pirate Bay wants a new DNS system that will be impossible to censor, but also impossible to police. Would it be worthwhile?
 * [Could the Wikileaks Scandal Lead to New Virtual Currency?](https://www.pcworld.com/article/213230/could_wikileaks_scandal_lead_to_new_virtual_currency.html)
   > The Wikileaks fiasco is shaking the foundations of the Internet and might be boosting the popularity of a virtual currency system that’s impossible to police.
-* [2010 discussion on tor](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/threads/234/#4) 
 * [proposal for a semi-automated Escrow mechanism](https://satoshi.nakamotoinstitute.org/posts/bitcointalk/threads/151/#10)
 * [Re: Repost: How anonymous are bitcoins? – Satoshi Nakamoto](http://satoshinakamoto.me/2009/11/25/re-repost-how-anonymous-are-bitcoins/)
   > Bitcoin is an innovative payment network and a new kind of money created by Satoshi Nakamoto. His legacy is preserved on SatoshiNakamoto.me
-* [bitcointalk - What would you buy or sell in exchange for bitcoins?](https://bitcointalk.org/index.php?topic=24.0;wap2)
+* [bitcointalk - What would you buy or sell in exchange for bitcoins?](https://bitcointalk.org/index.php?topic=24.0)
   > NewLibertyStandard: Here's what I will buy if the price is right.
   > 
   > Paper bowls, about 10 ounces (295 ml), no more than 50 count factory sealed.
@@ -85,8 +88,10 @@ An Independent Exchange Service for the Bitcoin P2P Anonymous Digital Currency
 * [Has someone made a "buy with bitcoins" button?](http://web.archive.org/web/20100814042311/http:/www.bitcoin.org/smf/index.php?topic=517.0)
 * [Defending Bitcoin against interventionists](http://web.archive.org/web/20100729114144/http:/www.bitcoin.org/smf/index.php?topic=251.0)
 * [Pizza for bitcoins?](https://bitcointalk.org/index.php?topic=137.0)
+* [en.bitcoin.it/wiki/Laszlo_Hanyecz](https://en.bitcoin.it/wiki/Laszlo_Hanyecz) 
 * [http://eclipse.heliacal.net/~solar/bitcoin/pizza/](http://eclipse.heliacal.net/~solar/bitcoin/pizza/)
-* [New exchange (Bitcoin Market)](https://bitcointalk.org/index.php?topic=20.0)
+* [New exchange (Bitcoin Market)](https://bitcointalk.org/index.php?topic=20.0) January 15, 2010
+  > Hi everyone.  I'm in the process of building an exchange.  I have big plans for it, but I still have a lot of work to do.  It will be a real market where people will be able to buy and sell Bitcoins with each other.  In the coming weeks I should have a website with a basic framework set up.  Please bear with me.
 * [Scalability and transaction rate](https://bitcointalk.org/index.php?topic=532.msg6306)
 Scalability and transaction rate
 * [Gavin will visit the CIA](https://bitcointalk.org/index.php?topic=6652.0)
@@ -95,8 +100,8 @@ Scalability and transaction rate
 * [Satoshi dumped Bitcoin right after Gavin announced he was going to...](https://bitcointalk.org/index.php?topic=113609.0)
 * [Satoshi on Anonymous Transactions - bitcointalk](https://twitter.com/notgrubles/status/1043569394901602304) [[**ϟ**](https://bitcointalk.org/index.php?topic=770.msg9074)
   > "As some might have noticed, one of the things that bugs me about bitcoin is that the entire history of transactions is completely public. I totally understand the benefits of how this simplifies things and makes it easy for everyone to prove coins are valid. So this is not a suggestion for a change to bitcoin. Rather it is a question about what could be possible, and what couldn't be possible."
-
-
+* [Wikileaks Bitcoin Fundraiser](https://bitcointalk.org/?topic=2132.0;wap2)
+  > hachacha: Anyone have any ideas for raising money for wikileaks? Some governments have frozens Julian Assange's bank accounts, paypal, and credit cards. I think Bitcoin would be a great way for them to get donations. Anyone think its a good idea? I would like to start accepting donations for wikileaks but I don't know who to contact at wikileaks about getting them to accept bitcoin donations.
 
 ### 2011 - 2012
 
@@ -222,6 +227,8 @@ Scalability and transaction rate
   > The Cabinet on Friday approved a set of bills to help banking groups expand their information technology businesses and to recognize virtual currencies as
 * [The Evolution of the Bitcoin Economy: Extracting and Analyzing the...](https://ssrn.com/abstract=2808762)
   > In this paper, we gather together the minimum units of Bitcoin identity (the individual addresses), and group them into approximations of business entities, wha
+* [A finite monetary supply for Bitcoin](https://github.com/bitcoin/bips/blob/master/bip-0042.mediawiki)
+  > "Although it is widely believed that Satoshi was an inflation-hating goldbug he never said this, and in fact programmed Bitcoin's money supply to grow indefinitely, forever. He modeled the monetary supply as 4 gold mines being discovered per mibillenium (1024 years), with equal intervals between them, each one being depleted over the course of 140 years. This poses obvious problems, however. Prominent among them is the discussion on what to call 1 billion Bitcoin, which symbol color to use for it, and when wallet clients should switch to it by default. To combat this, this document proposes a controversial change: making Bitcoin's monetary supply finite."
 * [Uber Switches to Bitcoin in Argentina After Govt Blocks Uber Credi...](https://cointelegraph.com/news/uber-switches-to-bitcoin-in-argentina-after-govt-blocks-uber-credit-cards)
   > The Argentinian government blocked credit card companies from dealing with Uber, causing the ridesharing company’s national branch to use Bitcoin instead.
 * [Megabank Joins Coinbase's Record $75 Million Funding Round](http://www.coindesk.com/coinbases-75-million-series-c/)
@@ -254,7 +261,9 @@ Twitter
 * [Bitcoin Roundtable Consensus](https://medium.com/@bitcoinroundtable/bitcoin-roundtable-consensus-266d475a61ff)
   > On February 21st, 2016, in Hong Kong’s Cyberport, representatives from the bitcoin industry and members of the development community have…
 * [The resolution of the Bitcoin experiment](https://blog.plan99.net/the-resolution-of-the-bitcoin-experiment-dabb30201f7)
-  > I’ve spent more than 5 years being a Bitcoin developer. The software I’ve written has been used by millions of users, hundreds of…
+  > From the start, I’ve always said the same thing: Bitcoin is an experiment and like all experiments, it can fail. So don’t invest what you can’t afford to lose. I’ve said this in interviews, on stage at conferences, and over email. So have other well known developers like Gavin Andresen and Jeff Garzik.
+  > 
+  > But despite knowing that Bitcoin could fail all along, the now inescapable conclusion that it has failed still saddens me greatly. The fundamentals are broken and whatever happens to the price in the short term, the long term trend should probably be downwards. I will no longer be taking part in Bitcoin development and have sold all my coins.
 * [Tuur Demeester (@TuurDemeester)](https://twitter.com/TuurDemeester/status/1188279053863866368?s=20)
   > I'm sure it'll be of interest to historians how contemporary news outlets repeated Hearn's erroneous narrative with virtually no critical sidenotes. [https://t.co/zedrsNEcgC](https://t.co/zedrsNEcgC)
 * [Tuur Demeester (@TuurDemeester)](https://twitter.com/TuurDemeester/status/1188278223173554182?s=20)
@@ -349,6 +358,11 @@ Inside the ongoing argument over whether Bitcoin, Ethereum, and the blockchain
 * [Bitcoin Core Bug CVE-2018–17144: An Analysis](https://hackernoon.com/bitcoin-core-bug-cve-2018-17144-an-analysis-f80d9d373362)
 * [Bitcoin Stumble Shows Bitmain a Ghost of Crises Past](https://www.bloomberg.com/view/articles/2018-09-18/bitcoin-stumble-shows-bitmain-a-ghost-of-crises-past)
   > "A look at Bitmain Technologies Ltd.’s financials reveal the Chinese company sold a lot of shovels during the crypto gold rush of the past two years. Its mistake was to take digital gold as payment instead of cash. \n\nBut there are two other items that could make matters worse for Bitmain and others in the crypto-mining ecosystem, adding to pressure on the balance sheet."
+* [Sizhao Yang (@zaoyang)](https://twitter.com/zaoyang/status/1074634081713971200) 
+  > 1/ What are the experiments from crypto in 2015 to 2018? What are the underlying beliefs and thesis that were validated or invalidated? Feel free to add your own. [https://t.co/bYdVngUvvY](https://t.co/bYdVngUvvY)
+* [Bitcoin Pioneer Who Gave Away Over $100 Million Has No Regrets](https://www.bloomberg.com/news/articles/2018-11-08/bitcoin-pioneer-who-gave-away-over-100-million-has-no-regrets) 
+* [What a Bitcoin Evangelist Thinks About Cryptocurrency’s Terrible 2018](https://slate.com/technology/2018/12/bitcoin-price-cryptocurrency-bubble-burst.html?wpsrc=sh_all_dt_tw_ru)
+  > “Actually, it was a year of tremendous innovation in the space because all of the loud speculative voices went away.”
 * [The 2019 Crypto Crystal Ball - Token Daily](https://www.tokendaily.co/blog/the-2019-crypto-crystal-ball)
   > Looking in the rear-view mirror of 2018 not only offers us a moment of reflection, but shows us what’s plausible for the year ahead.
 
@@ -397,3 +411,10 @@ Inside the ongoing argument over whether Bitcoin, Ethereum, and the blockchain
 * [‎Show Zero Knowledge, Ep Episode 73: J. Ayo Akinyele Talks Lightning Network & Building Bolt - Apr 17, 2019](https://podcasts.apple.com/us/podcast/zero-knowledge/id1326503043?i=1000435148680)
 * [Bitcoin News - June 2019](http://bitcoinsnippets.com/bitcoin-news-june-2019/)
   > This month Bitcoin passed 1M daily active addresses again, like during the all-time price high in 2017, there was a lot of educational content, some new research proposals for layer 2 protocols and the Lightning Network, and the ₿ symbol gets adopted by Apple, Google & Micr...
+
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}

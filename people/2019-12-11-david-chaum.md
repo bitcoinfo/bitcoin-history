@@ -114,3 +114,9 @@ Election protocols embodying robustness, verifiability of returns by voters, and
 * Wallet Databases with Observers, D. Chaum & T.P. Pedersen, Advances in Cryptology CRYPTO '92, Ernest F. Brickell (Ed), Springer-Verlag, pp. 1-14 
 * Zero Information Circuits with DES, D. Chaum & B. den Boer. Unpublished. 
 * Prepaird Smart Card Techniques. A Brief Introduction and Comparison ., D.Chaum, 1993. 
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='People' %}

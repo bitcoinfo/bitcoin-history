@@ -26,12 +26,18 @@ last_modified_at: 2019-05-27T13:22:33-23:00
   > * B-money proposal (1998)
   > * The Bit Gold proposal (1998)
   > * Reusable Proof of Work (2004)
+* [Till Antonio Mahler (@mahler_till)](https://twitter.com/mahler_till/status/1075356512732803072) - thread
+  * [’82 - The Birth Of Digital Cash](https://medium.com/blockwhat/82-the-birth-of-digital-cash-ea08b53379d8)
+  * [’96 - Oncologist + Gold = Revolution?](https://medium.com/blockwhat/96-oncologist-gold-revolution-c08a8dc26880)
+  * [’97 - Anybody interested in some hash(cash)?](https://medium.com/blockwhat/97-anybody-interested-in-some-hash-cash-7fd422dc5e79)
+  * [’98 - Wei Dai — Who dat?](https://medium.com/blockwhat/98-wei-dai-who-dat-f93c4e4bcfc9)
+  * [’98 - Make It Rain (Bit) Gold!](https://medium.com/blockwhat/98-make-it-rain-bit-gold-dc1bd896827b)
+  * [’03 - It’s Karma](https://medium.com/blockwhat/03-it-s-karma-484fdc2d8657)
+  * [’04 - Use me baby, one more time](https://medium.com/blockwhat/04-use-me-baby-one-more-time-d0dd599c8357) (RPoW)
 * [A three part story of the tech that paved the way for Bitcoin](https://cryptodaddyshop.com/blogs/news/in-the-ashes-of-financial-ruin-cypherpunks-and-the-birth-of-bitcoin) — eCash (DigiCash), HashCash, Bit Gold.
 * [Pre-Blockchain Digital Currencies](https://cointelegraph.com/news/bitcoin-history-pre-blockchain-digital-currencies) — Digicash, eGold, Beenz, Flooz, Internetcash.
-* [A Brief History of Digital Currencies](https://ebrary.net/7927/education/brief_history_digital_currencies)
 * [Lecture 12 — History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B)
   > For the accompanying textbook, including the free draft version, see: [http://bitcoinbook.cs.princeton](http://bitcoinbook.cs.princeton/)
-* [Digital Cash and Monetary Freedom](http://web.archive.org/web/19971210185701/http://info.isoc.org:80/HMP/PAPER/136/abst.html) (1996)
 * [The Amazing Story of Cryptocurrencies Before Bitcoin](https://hackernoon.com/the-amazing-story-of-cryptocurrencies-before-bitcoin-fe1b0e55155b)
 * [Bitcoin and Cryptocurrency Technologies](https://d28rh4a8wq0iu5.cloudfront.net/bitcointech/readings/princeton_bitcoin_book.pdf) 
 * [Bitcoin and Cryptocurrency Technologies Online Course](https://www.youtube.com/channel/UCNcSSleedtfyDuhBvOQzFzQ)
@@ -40,6 +46,8 @@ last_modified_at: 2019-05-27T13:22:33-23:00
 * [BANK FOR INTERNATIONAL SETTLEMENTS IMPLICATIONS FOR CENTRAL BANKS OF THE DEVELOPMENT OF ELECTRONIC MONEY](https://cryptome.org/jya/bis_emoney.html) - October 1996
 * [HOW TO MAKE A MINT: THE CRYPTOGRAPHY OF ANONYMOUS ELECTRONIC CASH](https://cryptome.org/jya/nsamint.htm) Laurie Law, Susan Sabett, Jerry Solinas National Security Agency 18 June 1996 
 * [Cybercash at risk/Money laws lacking](https://cryptome.org/jya/lawdno.txt)
+* [twan (@dantwany)](https://twitter.com/dantwany/status/939987392496365569) 
+  > Bitcoin is sometimes compared Netscape and it's said some other will dethrone it. There have been many digital currency systems created that failed. Bitcoin is where it's today because it's a success. [Payment mechanisms designed for the Internet (1996)](http://web.archive.org/web/19961130160745/http://ganges.cs.tcd.ie:80/mepeirce/Project/oninternet.html)
 
 
 ### DigiCash 
@@ -215,3 +223,10 @@ An early clickworking site that rewarded users with its own digital currency.
   * E-Bullion
   * E-Gold
   * Dexit
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}
+

@@ -475,3 +475,10 @@ Scouring the blockchain, researchers found years-old evidence tying Silk Road tr
 * 11/18 — [Embracing digitalization: how can anti-corruption agencies in ASEAN apply innovative tools in the fight against corruption?](https://www.unodc.org/southeastasiaandpacific/en/what-we-do/anti-corruption/topics/27-embracing-digitalization_-how-can-anti-corruption-agencies-in-asean-apply-innovative-tools-in-the-fight-against-corruption.html)
 * 12/18 — [UN Partnership to Roll Out Blockchain-Based Telemedicine, Telepsychology in East Africa](https://cointelegraph.com/news/un-partnership-to-roll-out-blockchain-based-telemedicine-telepsychology-in-east-africa)
   >The United Nations Office on Drugs and Crime (UNODC) will reportedly partner with blockchain-based telemedicine and telepsychology firm doc.com to expand free basic healthcare services across Eastern Africa. News of the partnership was shared with Cointelegraph in an email on Dec. 26.
+
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}

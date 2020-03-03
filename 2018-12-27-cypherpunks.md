@@ -18,11 +18,6 @@ last_modified_at: 2020-02-02T13:22:33-23:00
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>
 
 
-* [The Birth of the Cypherpunks](https://archive.is/Hi9JQ)
-  > The cypherpunk movement begins its story during the Cold War era, when the US and its allies kept a tight grip over the development and export of cryptography. During the ’70s, independent civilian researchers including Ralph Merkle, Whitfield Diffie, and Martin Hellman re-invented public key cryptography, evading the strictures of the NSA. In the early ’80s, David Chaum pioneered the fields of anonymous digital communication, pseudonymous reputation systems, and untraceable digital payments. In 1990, Chaum founded DigiCash to provide secure anonymous digital payments. By this time, a community of cryptographers and internet activists had begun to form around ideas found in his papers, including Security without Identification: Transaction Systems to make Big Brother Obsolete.
-* [The Rise of the Cypherpunks](https://archive.is/z0wEZ)
-  > In 1992, Tim May, Eric Hughes, and John Gilmore hosted the first meeting of the Cypherpunks, and the mailing was created early in the proceedings. Coincidentally this meeting occurred the same week as PGP 2.0 was released. Soon after, Tim May re-published “The Crypto Anarchist Manifesto,” for historical purposes; originally circulated in ’88. The following year, Eric Hughes published A Cypherpunks Manifesto:
-
 ## Crypto Wars and PGP
 
 * [A Cypherpunk's Manifesto by Eric Hughes](https://www.activism.net/cypherpunk/manifesto.html) - [CryptoQuikread 163](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/) - [CryptoQuikRead_163](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_163---A-Cypherpunks-Manifesto-e2ndpc)
@@ -121,6 +116,8 @@ last_modified_at: 2020-02-02T13:22:33-23:00
 * [Bitcoin, The Untold History](https://medium.com/@Petri.basson/the-untold-history-of-blockchain-30238a89be5d) - [CryptoQuikRead_161](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_161---Bitcoin--The-Untold-History-e2ndpe)
 * [Patently Absurd](https://www.wired.com/1994/07/patents-2)
   > One of the best-known patents in the computer industry is patent Number 4,405,829, "Cryptographic Communications System and Method," the patent on RSA public-key cryptography. This patent, which expires on September 20, 2000, covers every implementation of RSA encryption in the United States. Because the algorithm is patented, it is a violation of US law for a company to write its own implementation of the RSA algorithm and use it without a license from Public Key Partners, the company that has an exclusive license to the patent from the Massachusetts Institute of Technology, the university where the algorithm was developed. It's even illegal for a public-spirited citizen to write his or her own implementation of RSA and give it away.
+* [What Happened to the Crypto Dream?, Part 1](http://randomwalker.info/publications/crypto-dream-part1.pdf) - [part 2](http://randomwalker.info/publications/crypto-dream-part2.pdf) - 2013 Princeton University
+  > Steven Levy’s fascinating 2001 book Crypto has the subtitle *How the Code Rebels Beat the Government, Saving Privacy in the Digital Age*. The “code rebels”—a loose coalition of academics, hobbyists, and civil-liberties organizations—did indeed beat the government, causing the earlier restrictions on distribution of cryptographic tools to be largely abandoned. However, this victory seems to have done miserably little to save privacy. In fact, you might look at the early 2000s as the years when digital privacy took a nosedive. Why did Levy and many other observers get it so wrong back then?
 
 <a href="http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf"><img src="https://i.imgur.com/RZafVvV.png" align="right"></a>
 
@@ -345,6 +342,8 @@ What follows is a list of books that were influential upon early cypherpunks. As
   >The best history of digital cash is Cryptocurrency: How Bitcoin and the Blockchain Are Challenging the Global Economic Order by Michael J. Casey and Paul Vigna. Sadly that book; which appeared in 2015 is already dated, but it is still an eye opener.
   >
   >There are many excellent books about cryptography and codebreaking in World War II. One of the best is Code Girls by Liza Mundy, which explores the origins of the NSA and American cryptography. Still worth reading is Ronald Lewin’s Ultra Goes to War: The Secret Story; which first publicized the role encryption played in World War II back in 1977.
+* [Eric Meltzer (@wheatpond)](https://twitter.com/wheatpond/status/1031921153110159360)
+  > Must read scifi for crypto people, will add to this (and please reply with your own recs!) William Gibson: Sprawl trilogy and Bridge Trilogy Neal Stephenson: Diamond Age, Snow Crash, Cryptonomicon Bruce Sterling: Mirrorshades shorts collection
 
 [Cypherpunk books - goodreads](https://www.goodreads.com/shelf/show/cypherpunk) 
 
@@ -387,6 +386,23 @@ What follows is a list of books that were influential upon early cypherpunks. As
   * This Machine Kills Secrets: How WikiLeakers, Cypherpunks, and Hacktivists Aim to Free the World's Information, by Andy Greenberg '12
 
 
+## Distributed Systems
+
+> Leslie Lamport, one of the fathers of the field of distributed systems, once famously said,
+> 
+> A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+> This quote encapsulates why it is so difficult to design distributed systems. Each node in the system is part of the larger network and relies on communicating with other nodes in order to get something done. The abundance of moving pieces makes these systems some of the hardest to develop. However, the benefits of being able to use the power of many computers linked together motivated decades of computer scientists to research ways to overcome these challenges.
+
+* [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
+  * FLP Impossibility (1985)
+  * CAP Theorem (1999)
+  * Paxos (1989)
+  * Practical BFT (1999)
+  * Byzantine Paxos (2010)
+  * Raft (2014)
+  * PoW - Bitcoin
+
+
 ## Resources
 
 * [cypherpunk—research](https://github.com/tombusby/cypherpunk-research)
@@ -406,21 +422,13 @@ What follows is a list of books that were influential upon early cypherpunks. As
 * [activism.net/cypherpunk/manifesto.html](https://www.activism.net/cypherpunk/manifesto.html) -[Crypto Quickread](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
 * [tombusby/cypherpunk-research#technical-](https://github.com/tombusby/cypherpunk-research#technical-) 
   > This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.
+* [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
 * [cypherpunksbr/cypherpunks.com.br](https://github.com/cypherpunksbr/cypherpunks.com.br)
   > Repositório do site cypherpunks.com.br. Contribute to cypherpunksbr/cypherpunks.com.br development by creating an account on GitHub.
 
-## Non-English 
+---
 
-* [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
+{% include _improve_content.html %}
 
+{% include list-posts category='History' %}
 
-## Distributed Systems 
-
-* [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
-  * FLP Impossibility (1985)
-  * CAP Theorem (1999)
-  * Paxos (1989)
-  * Practical BFT (1999)
-  * Byzantine Paxos (2010)
-  * Raft (2014)
-  * PoW - Bitcoin

@@ -127,3 +127,10 @@ Project Xanadu was the first hypertext project, founded in 1960 by Ted Nelson. A
   > And perhaps the toughest questions of all: Can we build a new kind of politics? Can we construct a more civil society with our powerful technologies? Are we extending the evolution of freedom among human beings? Or are we nothing more than a great, wired babble pissing into the digital wind?
   > 
   > Where freedom is rarely mentioned in mainstream media anymore, it is ferociously defended - and exercised daily - on the Net.
+
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}

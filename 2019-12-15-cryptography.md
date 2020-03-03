@@ -148,3 +148,10 @@ by Ralph C. Merkle</a>
   > The system I called the ax1x2 system in this paper has since become known as Diffie-Hellman key exchange. While that system was first described in a paper by Diffie and me, it is a public key distribution system, a concept developed by Merkle, and hence should be called "Diffie-Hellman-Merkle key exchange" if names are to be associated with it. I hope this small pulpit might help in that endeavor to recognize Merkle's equal contribution to the invention of public key cryptography. Space does not permit an explanation of the quirk of fate that seems to have deprived Merkle of the credit he deserves, but a quirk it is.
 * [Nick Szabo 🔑 (@NickSzabo4)](https://twitter.com/NickSzabo4/status/1032449901802614784)
   > Inventors of the most important technologies in Bitcoin: digital signatures and Merkle trees (Merkle), elliptic curve crypto (Koblitz), malicious-fault-tolerant consensus (Lamport), elliptic curve crypto (independent inventor: Miller).
+
+
+---
+
+{% include _improve_content.html %}
+
+{% include list-posts category='History' %}
