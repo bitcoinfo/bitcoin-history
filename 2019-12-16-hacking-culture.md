@@ -80,7 +80,7 @@ permalink: /history/early-internet/hacker-culture/
   >1968: The movie "Hot Millions" was released. It was the first hacker movie. Disagree? Fight me. Social engineering. Defeating security systems. Mucking with a mainframe for profit. [https://t.co/iJ8jH4bmx6](https://t.co/iJ8jH4bmx6)
 
 
-## 📚 Open Source
+## Open Source
 
 
 [http://www.catb.org/esr/writings/homesteading/homesteading/](http://www.catb.org/esr/writings/homesteading/homesteading/)
@@ -89,7 +89,7 @@ permalink: /history/early-internet/hacker-culture/
 
 [https://www.gnu.org/gnu/gnu.html](https://www.gnu.org/gnu/gnu.html)
 
-## 📚 Linux
+## Linux
 
 [http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
 
@@ -97,7 +97,7 @@ permalink: /history/early-internet/hacker-culture/
 
 "Revolution OS" tells the inside story of the hackers who rebelled against Microsoft and created GNU/Linux and the Open Source movement. Microsoft fears GNU/Linux, and rightly so. GNU/Linux and the Open Source & Free Software movements arguably represent the greatest threat to Microsoft's way of life.
 
-## 📚 Xanadu
+## Xanadu
 
 [https://www.w3.org/Xanadu.html](https://www.w3.org/Xanadu.html)
 
@@ -112,7 +112,7 @@ Project Xanadu was the first hypertext project, founded in 1960 by Ted Nelson. A
 [http://www.xanadu.com/](http://www.xanadu.com/)
 
 
-## 📚 Silicon Valley
+## Silicon Valley
 
 [Steve Blank Secret History of Silicon Valley](https://steveblank.com/category/secret-history-of-silicon-valley/)
 

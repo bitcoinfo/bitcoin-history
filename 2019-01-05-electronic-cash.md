@@ -195,7 +195,7 @@ An early clickworking site that rewarded users with its own digital currency.
   > Idan Aharoni, the head of cyber intelligence at EMC Corp’s RSA security division, said that some online scam artists and thieves are using Perfect Money’s digital currency to launder money and conceal profits in much the same way they allegedly did with Liberty Reserve’s currency.
 
 
-## 💰 Karma
+## Karma
 
 * [Karma: Secure Economic Framework for Peer-to-Peer Resource Sharing](http://www.cs.cornell.edu/people/egs/papers/karma.pdf)   
 > Peer-to-peer systems are typically designed around the assumption that all peers will willingly contribute resources to a global pool. They thus suffer from freeloaders, that is, participants who consume many more resources than they contribute. In this paper, we propose a general economic framework for avoiding freeloaders in peer-to-peer systems. Our system works by keeping track of the resource consumption and resource contribution of each participant. The overall standing of eachparticipant in the system is represented by a single scalar value, called their karma. A set of nodes, called a bankset, keeps track of each node’s karma, increasing it as resources are contributed, and decreasing it as they are consumed. Our framework is resistant to malicious attemptsby the resource provider, consumer, and a fraction of the members of the bank set. We illustrate the application of this framework to a peer-to-peer filesharing application

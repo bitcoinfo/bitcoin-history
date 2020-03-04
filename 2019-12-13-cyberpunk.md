@@ -95,7 +95,7 @@ Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ 
 * [Cult of the Dead Cow: the untold story of the hacktivist group that presaged everything great and terrible about the internet](https://boingboing.net/2019/06/25/hacker-zelig.html)
   > Back in 1984, a lonely, weird kid calling himself Grandmaster Ratte' formed a hacker group in Lubbock, Texas. called the Cult of the Dead Cow, a name inspired by a nearby slaughterhouse. In the decades to come, cDc would become one of the dominant forces on the BBS scene and then the internet -- endlessly inventive, funny and prankish, savvy and clever, and sometimes reckless and foolish -- like punk-rock on a floppy disk.
 
-## 📚 BBS
+## BBS
 
 * [This is the Modem World: The sinister side of the '80s BBS](https://www.engadget.com/2013/07/31/the-sinister-side-of-the-80s-bbs/)
 * [A 1985 Essay from a Bulletin Board System Admin Eerily Foretold Our Future](https://www.vice.com/en_us/article/jp5y84/a-1985-essay-from-a-bulletin-board-system-admin-eerily-foretold-our-future)
