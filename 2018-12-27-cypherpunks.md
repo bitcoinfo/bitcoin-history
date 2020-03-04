@@ -13,6 +13,7 @@ categories: ["History"]
 tags: ["Cypherpunk","Early Internet"]
 permalink: /history/cypherpunks/
 last_modified_at: 2020-02-02T13:22:33-23:00
+directory: 2018-12-27-cypherpunks.md
 ---
 
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>

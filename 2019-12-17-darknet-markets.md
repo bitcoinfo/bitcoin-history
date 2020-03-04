@@ -3,6 +3,8 @@ title: Darknet Market History
 last_modified_at: 2020-02-02T13:22:33-23:00
 permalink: /history/darknet-markets/
 categories: ["History"]
+directory: 2019-12-17-darknet-markets.md
+
 ---
 
 * [Darknet](https://en.wikipedia.org/wiki/Darknet)

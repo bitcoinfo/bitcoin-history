@@ -14,6 +14,8 @@ image:
   caption_url: https://breakermag.com/ten-years-later-reflections-on-the-second-bailout/
 permalink: "/history/"
 last_modified_at: 2020-02-02T13:22:33-23:00
+directory: 2018-12-27-resources.md
+
 ---
 
 * [Bitcoin History — p2pfoundation](http://wiki.p2pfoundation.net/Bitcoin#History)

@@ -15,6 +15,7 @@ image:
     caption_url: http://opentranscripts.org/transcript/programming-forgetting-new-hacker-ethic/
 last_modified_at: 2020-02-02T13:22:33-23:00
 permalink: /history/early-internet/hacker-culture/
+directory: 2019-12-16-hacking-culture.md
 ---
 
 

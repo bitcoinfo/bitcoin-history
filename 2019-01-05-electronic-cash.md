@@ -16,6 +16,8 @@ permalink: /history/electronic-cash/
 categories: ["History"]
 tags: ["Early Internet"]
 last_modified_at: 2019-05-27T13:22:33-23:00
+directory: 2019-01-05-electronic-cash.md
+
 ---
 
 

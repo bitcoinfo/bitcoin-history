@@ -5,6 +5,8 @@ categories: ["History"]
 tags: ["Before Bitcoin","Cryptography", "Early Internet"]
 permalink: /history/cryptography/
 last_modified_at: 2020-02-02T13:22:33-23:00
+directory: 2019-12-15-cryptography.md
+
 ---
 
 * [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)

@@ -6,6 +6,8 @@ categories: History
 subtitle: Description of the participating organizations at the decentralized-web summit.
 permalink: /peer-to-peer/
 last_modified_at: 2020-03-02T11:22:33-23:00
+directory: 2019-06-04-peer-to-peer.md
+
 ---
 
 

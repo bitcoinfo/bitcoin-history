@@ -5,6 +5,7 @@ permalink: /history/people/phil-zimmerman/
 categories: ["History","People"]
 tags: ["Cypherpunk"]
 published: false
+directory: people/2020-01-27-phil-zimmerman.md
 ---
 
 * [Defending the last missing pixels: Phil Zimmermann speaks out on encryption, privacy, and avoiding a surveillance state](https://www.techrepublic.com/article/defending-the-last-missing-pixels-phil-zimmermann/)

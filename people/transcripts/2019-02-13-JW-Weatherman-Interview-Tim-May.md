@@ -16,6 +16,7 @@ cannonical_url: 'https://sourcecrypto.pub/posts/transcripts/JW-Weatherman-Interv
 permalink: /history/people/timothy-c-may/weatherman-interview/
 categories: ["History","People"]
 tags: ["Cypherpunk","Tim May"]
+directory: people/transcripts/2019-02-13-JW-Weatherman-Interview-Tim-May.md
 ---
 
 Much appreciation to JW Weatherman for arranging the interview, and Tim May for helping to get this all started. I decided to get this in text form, because there are so many things\books\people that May references, I would like to be able to gather.

@@ -3,6 +3,7 @@ title: "David Chaum - The Forefather of Cryptocurrencies and the Cypherpunk Move
 permalink: /history/people/david-chaum/epicenter-transcript/
 categories: ["History","People"]
 tags: ["Cypherpunk","David Chaum"]
+directory: people/transcripts/2019-11-13-chaum-forefather-cryptocurrencies-cypherpunk-movement.md
 
 ----
 

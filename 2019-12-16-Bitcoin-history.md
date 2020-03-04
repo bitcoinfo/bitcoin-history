@@ -11,6 +11,8 @@ image:
   caption: "Bitcoin&Markets"
   caption_url: https://bitcoinandmarkets.com
 last_modified_at: 2020-02-02T13:22:33-23:00
+directory: 2019-12-16-Bitcoin-history.md
+
 ---
 
 * [Bitcoin P2P e-cash paper](https://satoshi.nakamotoinstitute.org/emails/cryptography/threads/1/)

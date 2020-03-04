@@ -7,6 +7,7 @@ header: no
 categories: ["History","People"]
 tags: ["Cypherpunk","Nick Szabo"]
 permalink: /history/people/nick-szabo/
+directory: people/2019-12-12-nick-szabo.md
 ---
 
 

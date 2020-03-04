@@ -7,6 +7,7 @@ tags: ["Early Internet", "Hacker"]
 categories: History 
 permalink: "/history/early-internet/cyberpunk/"
 last_modified_at: 2020-03-02T11:22:33-23:00
+directory: 2019-12-13-cyberpunk.md
 
 ---
 
