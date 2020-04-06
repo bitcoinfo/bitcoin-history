@@ -1,10 +1,10 @@
 ---
 layout: page-fullwidth
-title: Cyberpunks - Phone Phreaks, BBS, Warez, and Cult of the Dead Cow
+title: History — Cyberpunks 
+teaser: Phone Phreaks, BBS, Warez, and Cult of the Dead Cow
 header: no
 categories: ["History"]
 tags: ["Early Internet", "Hacker"]
-categories: History 
 permalink: "/history/early-internet/cyberpunk/"
 last_modified_at: 2020-03-02T11:22:33-23:00
 directory: 2019-12-13-cyberpunk.md

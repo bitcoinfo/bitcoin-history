@@ -1,7 +1,8 @@
 ---
 layout: page-fullwidth
-title: Bitcoin History
+title: History — Bitcoin
 subtitle: An assortment of links across the decade of Bitcoin's History
+teaser: It's all Bitcoin's History.
 permalink: /history/bitcoin/
 categories: ["History"]
 header: no

@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Evolution of P2P Applications"
-description: ""
+title: "History — Evolution P2P Application"
+teaser: "Napster, Limewire, Bittorrent, IPFS, Freenet, Open Bazaar etc."
 categories: History 
 subtitle: Description of the participating organizations at the decentralized-web summit.
 permalink: /peer-to-peer/

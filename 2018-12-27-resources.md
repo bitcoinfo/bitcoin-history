@@ -1,8 +1,7 @@
 ---
 layout: page-fullwidth
-title: Bitcoin History - Assorted Info and Resources
-description: >
-  An assorted open-source collection of resources on the history of Bitcoin.
+title: History — Resources and Timelines
+teaser: 
 excerpt: >
   "The first recorded claim of bitcoin’s demise was in 2010, on a little-known blog that found itself posted on a record of 'bitcoin obituaries' collected by 99Bitcoins, a bitcoin information site."
 categories: ["History"]
@@ -104,7 +103,7 @@ directory: 2018-12-27-resources.md
 
 [![](http://i.imgur.com/Px8q878.png)](https://www.youtube.com/watch?v=apYieuvnUaE)
 
-* [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE)
+* [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE) 
 * [History of Cryptocurrencies [Bonus lecture]](https://www.youtube.com/watch?v=1VYs_zZsorU&t=0s&index=13&list=PLQIX_E46U4XYE5GR6029FpnaX9aBXbt0B) 
 
 ### Death of Bitcoin

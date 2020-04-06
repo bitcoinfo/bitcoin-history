@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Early History: Internet Communication"
-description: "The History of Computer Communications website grew out to understand the emergence and evolution of computer communications between 1968 and 1988."
+title: "Early History — Internet Communication"
+teaser: "Emergence and evolution of computer communications between 1968 and 1988."
 categories: History 
 tags: ["Early Internet"]
 permalink: "/history/early-internet/"

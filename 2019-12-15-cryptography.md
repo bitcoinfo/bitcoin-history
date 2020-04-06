@@ -1,24 +1,18 @@
 ---
 layout: page-fullwidth
-title: Cryptography
+title: History — Digital Cryptography
 categories: ["History"]
 tags: ["Before Bitcoin","Cryptography", "Early Internet"]
 permalink: /history/cryptography/
 last_modified_at: 2020-02-02T13:22:33-23:00
 directory: 2019-12-15-cryptography.md
-
+teaser: Hash Algorithms, Public Key Crypto, and Digital Signatures, oh my!
 ---
 
-* [Pre-Digital Cryptography](https://medium.com/@infominer33/pre-digital-cryptography-48ae999f1a00)
 * [EFF - Crypto Is For Everyone—and American History Proves It](https://www.eff.org/deeplinks/2015/10/crypto-everyone-and-american-history-proves-it)
 * ["GET READY FOR A WORLD CURRENCY"](http://altcoopsys.org/wp-content/uploads/2017/01/ArticleEconomist1988GetReadyforthePhoenix_001.pdf)
   Get Ready for the Phoenix- Economist; 01/9/88, Vol. 306, pp 9-10
 * [Before Babylon, Beyond Bitcoin: From Money that We Understand to Money that Understands Us](https://the-eye.eu/public/concen.org/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29%20%28Pdf%29%20Gooner/Before%20Babylon%2C%20Beyond%20Bitcoin%20%282017%29.pdf)
-* [What's a Cryptographic Primitive?](https://archive.is/Fmjv5)
-* [Proof of Work in a Nutshell](https://archive.is/dkV0Z)
-* [Cryptographic Hash Functions](https://archive.is/UgiJ9)
-* [Zero Knowledge Proofs](https://archive.is/6k10u)
-* [David Chaum - The Father of Digital Cash](https://archive.is/lxKiU)
 
 ## Digital Cryptography 
 

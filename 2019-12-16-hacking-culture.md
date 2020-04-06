@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
 subheadline:  "MIT AI Intelligence Lab, the Hacker Ethic and Beyond"
-title:  "History of Hacker Culture."
-teaser: ""
+title:  "History — Hacking and Hacker Culture."
+teaser: "You should probably just read Stephen Levy."
 categories:
     - History
 tags:
