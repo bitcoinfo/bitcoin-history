@@ -8,7 +8,7 @@ excerpt: "Each RPOW or POW token can only be used once but since it gives birth 
 header: no
 image:
   thumb: "electronic-cash-2013.png"
-  title: "2013-Virtual-Currency-Infographic.png"
+  title: "history/2013-Virtual-Currency-Infographic.png"
   caption: "Dec 2013 - History of Virtual Currency"
   caption_url: https://www.course5i.com/blogs/wp-content/uploads/2013/12/virtual-currency_infographics_new2.pdf
 
