@@ -1,13 +1,13 @@
 ---
 layout: page-fullwidth
-subheadline: "History — "
+subheadline: "Bitcoin History"
 title: Digital Cryptography
+teaser: Hash Algorithms, Public Key Crypto, and Digital Signatures, oh my!
 categories: ["History"]
 tags: ["Before Bitcoin","Cryptography", "Early Internet"]
 permalink: /history/cryptography/
 last_modified_at: 2020-02-02T13:22:33-23:00
 directory: 2019-12-15-cryptography.md
-teaser: Hash Algorithms, Public Key Crypto, and Digital Signatures, oh my!
 ---
 
 * [EFF - Crypto Is For Everyone—and American History Proves It](https://www.eff.org/deeplinks/2015/10/crypto-everyone-and-american-history-proves-it)

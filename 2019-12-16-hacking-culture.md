@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline:  "MIT AI Intelligence Lab, the Hacker Ethic and Beyond"
-title:  "History — Hacking and Hacker Culture."
-teaser: "You should probably just read Stephen Levy."
+subheadline: "Bitcoin History"
+title: "Hacking and Hacker Culture."
+teaser: "MIT AI Intelligence Lab, the Hacker Ethic and Beyond (you should probably just read Stephen Levy)."
 categories:
     - History
 tags:

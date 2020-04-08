@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "History — "
+subheadline: "Bitcoin History"
 title: Electronic Cash, Before Bitcoin
 teaser: "Digicash, Liberty Reserve, Bit Gold, Hashcash, RPoW, and more" 
 excerpt: "Each RPOW or POW token can only be used once but since it gives birth to a new one, it is as though the same token can be handed from person to person."

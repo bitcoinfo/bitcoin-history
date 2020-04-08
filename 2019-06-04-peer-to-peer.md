@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
-title: "History — Evolution P2P Application"
+subheadline: "Bitcoin History"
+title: "Evolution P2P Application"
 teaser: "Napster, Limewire, Bittorrent, IPFS, Freenet, Open Bazaar etc."
 categories: History 
 subtitle: Description of the participating organizations at the decentralized-web summit.

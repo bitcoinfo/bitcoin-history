@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "History — "
+subheadline: "Bitcoin History"
 title: Bitcoin
 subtitle: An assortment of links across the decade of Bitcoin's History
 teaser: It's all Bitcoin's History.

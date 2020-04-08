@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
-title: "Early History — Internet Communication"
+subheadline: "Early History"
+title: "Internet Communication"
 teaser: "Emergence and evolution of computer communications between 1968 and 1988."
 categories: History 
 tags: ["Early Internet"]
