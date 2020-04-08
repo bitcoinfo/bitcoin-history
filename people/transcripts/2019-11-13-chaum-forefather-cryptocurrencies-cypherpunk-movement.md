@@ -7,7 +7,7 @@ categories: ["History","People"]
 tags: ["Cypherpunk","David Chaum"]
 directory: people/transcripts/2019-11-13-chaum-forefather-cryptocurrencies-cypherpunk-movement.md
 
-----
+---
 
 #### [Epicenter Podcast #304](https://epicenter.tv/episode/304/)** *Under [Creative Commons](http://creativecommons.org/licenses/by-nc-sa/4.0/) license by Epicenter Media ltd*
 
