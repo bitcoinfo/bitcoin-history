@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
-title: History — Cyberpunks 
+subheadline: "History — "
+title: Cyberpunks 
 teaser: Phone Phreaks, BBS, Warez, and Cult of the Dead Cow
 header: no
 categories: ["History"]

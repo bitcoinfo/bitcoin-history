@@ -1,5 +1,6 @@
 ---
-title: History — Darknet Markets
+subheadline: "History — "
+title: Darknet Markets
 teaser: "The Onion Router, Ross Ulbricht, the Silk Road, and related history."
 last_modified_at: 2020-02-02T13:22:33-23:00
 permalink: /history/darknet-markets/

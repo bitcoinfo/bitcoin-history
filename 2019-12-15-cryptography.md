@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
-title: History — Digital Cryptography
+subheadline: "History — "
+title: Digital Cryptography
 categories: ["History"]
 tags: ["Before Bitcoin","Cryptography", "Early Internet"]
 permalink: /history/cryptography/

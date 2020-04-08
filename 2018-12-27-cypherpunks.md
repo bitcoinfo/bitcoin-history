@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
-title: History — Cypherpunks and the Crypto Wars
+subheadline: "History — "
+title: Cypherpunks and the Crypto Wars
 teaser: Eric Hughes, John Gilmore, John Perry Barlow, 
 excerpt: "Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments."
 image:
@@ -16,32 +17,12 @@ last_modified_at: 2020-02-02T13:22:33-23:00
 directory: 2018-12-27-cypherpunks.md
 ---
 
+
 <a href="https://twitter.com/lopp/status/1026139157125640192"><img src="https://i.imgur.com/2d44hTP.png"/></a>
-
-* [Early Cypherpunks](https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks) - cryptoanarchy.wiki
-  > - Adam Back - 90s Cypherpunk, Inventor of HashCash, CEO of Blockstream
-  > - David D. Friedman - Son of Milton, Anarcho-Capitalist theorist, Not a Cypherpunk but "Crypto-Anarchy" draws a lot from his work
-  > - Eric Hughes - Founding member of the Cypherpunk Mailing List,
-  > - Gregory Maxwell - Bitcoin Core Developer, Blockstream CTO, Controversial figure to the Big Block political faction
-  > - Hal Finney - 90s Cypherpunk, Received first Bitcoin transaction (from Satoshi), Strong candidate for Satoshi
-  > - Ian Grigg - 90s Cypherpunk, Inventor of Ricardian Contracts
-  > - Jim Bell - 90s Cypherpunk, Crypto-anarchist, Author of Assassination Politics
-  > - John Gilmore - Co-founder of the Cypherpunk Mailing List and the Electronic Frontier Foundation
-  > - John Perry Barlow - 90s Cypherpunk, Author of "A Declaration of the Independence of Cyberspace"
-  > - Julian Assange - Founder of Wikileaks, Member of Cypherpunk Mailing List in its heyday
-  > - Nick Szabo - 90s Cypherpunk, Creator of Bitcoin Precursor BitGold, Prolific writer of many important papers, Strong candidate for Satoshi
-  > - Paul Calder Le Roux - Author of E4M disk-encryption software, Suspected author of TrueCrypt, Former criminal empire boss (in a very Crypto-Anarchist sense), DEA informant, Currently in US Custody
-  > - Phil Zimmermann - Author of the Pretty Good Privacy (PGP) Public key encryption software
-  > - Pieter Wuille - Bitcoin Core Developer, Holds the number 2 spot on the bitcoin/bitcoin contributors list (2018-05-28), Blockstream co-founder
-  > - Satoshi Nakamoto - Pseudonymous Founder of Bitcoin, May be a person or group, Many people put forward as possible candidates, Very probably the alias of a 90s Cypherpunk
-  > - Timothy C. May - Founding member of Cypherpunk Mailing List, writer of "The Crypto-Anarchist Manifesto" and the "Cyphernomicon" (mailing list FAQ)
-  > - Vinay Gupta - 90s Cypherpunk, Inventor of the Hexayurt, Resilience Guru, Involved with Ethereum
-  > - Wei Dai - 90s Cypherpunk, Cryptographer, Creator of Bitcoin-precursor B-Money
-
 
 ## Crypto Wars and PGP
 
-* [A Cypherpunk's Manifesto by Eric Hughes](https://www.activism.net/cypherpunk/manifesto.html) - [CryptoQuikread 163](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/) - [CryptoQuikRead_163](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_163---A-Cypherpunks-Manifesto-e2ndpc)
+* [A Cypherpunk's Manifesto by Eric Hughes](https://www.activism.net/cypherpunk/manifesto.html) ('93) - [CryptoQuikRead_163](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_163---A-Cypherpunks-Manifesto-e2ndpc)
   > Privacy is necessary for an open society in the electronic age. Privacy is not secrecy. A private matter is something one doesn't want the whole world to know, but a secret matter is something one doesn't want anybody to know. Privacy is the power to selectively reveal oneself to the world.
   > 
   > If two parties have some sort of dealings, then each has a memory of their interaction. Each party can speak about their own memory of this; how could anyone prevent it? One could pass laws against it, but the freedom of speech, even more than privacy, is fundamental to an open society; we seek not to restrict any speech at all. If many parties speak together in the same forum, each can speak to all the others and aggregate together knowledge about individuals and other parties. The power of electronic communications has enabled such group speech, and it will not go away merely because we might want it to.
@@ -155,12 +136,7 @@ directory: 2018-12-27-cypherpunks.md
 * [Cypherpunks, Bitcoin & the Myth of Satoshi Nakamoto](http://cybersalon.org/cypherpunk/) ('13)
   >The Cypherpunks began properly in 1992 when Tim May, Eric Hughes and John Gilmore, started the Cypherpunks’ mailing list. But Jim Bell, David Chaum, Phil Zimmerman, Julian Assange, Adam Back, Wei-Dai and Hal Finney are just a few of the ciphers on the mailing list who are just now becoming luminaries, because they’ve all contributed something so uniquely valuable to us through their efforts to protect our privacy in the new information economy, particularly against the encroaching financial surveillance complex (typified by FATCA).\
   >Other names, like Tim-Berners Lee, John Perry Barlow and Nick Szabo also feature in this essay, as ‘Cypherpunks by proxy’ because of their contributions and their philosophy.
-* [The Crypto Anarchist Manifesto](https://www.activism.net/cypherpunk/crypto-anarchy.html) 
-  - A specter is haunting the modern world, the specter of crypto anarchy.\
-  Computer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. -Timothy C. May ('92)
-* [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html) Eric Hughes ('93) - [CRYPTOQUIKREAD_163](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
 * [Wired - Crypto Rebels](https://www.wired.com/1993/02/crypto-rebels/) ('93) - Deep Cut
-* [THE CYPHERNOMICON: Cypherpunks FAQ and More - 1994 - Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)[[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
 * [Today In Infosec (@todayininfosec)](https://twitter.com/todayininfosec/status/1171152789986140160?s=12)
   > 1994: Code for the RC4 stream cipher, previously a trade secret, was anonymously posted to the Cypherpunks mailing list.
 
@@ -207,46 +183,19 @@ directory: 2018-12-27-cypherpunks.md
   > A specter is haunting the modern world, the specter of crypto anarchy.
   > 
   > Computer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner. Two persons may exchange messages, conduct business, and negotiate electronic contracts without ever knowing the True Name, or legal identity, of the other. Interactions over networks will be untraceable, via extensive re- routing of encrypted packets and tamper-proof boxes which implement cryptographic protocols with nearly perfect assurance against any tampering. Reputations will be of central importance, far more important in dealings than even the credit ratings of today. These developments will alter completely the nature of government regulation, the ability to tax and control economic interactions, the ability to keep information secret, and will even alter the nature of trust and reputation.
+* [Crypto Anarchy, Cyberstates, and Pirate Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstates_and_Pirate_Utopias.pdf)
 * [Real Crypto-Anarchy Without Anonymity Oleg Andreev December 28, 2013](https://nakamotoinstitute.org/mempool/real-crypto-anarchy-without-anonymity/)
   > Crypto-anarchy is not some crazy utopian ideology, but a very viable thing that unfolds in front of our eyes this very moment. The Internet and Bitcoin will soon allow people solve social problems in a novel way: instead of ancient formula “the strongest wins and beats the shit out of the loser” we all can achieve a peaceful society where both rich and poor, strong and weak can protect their property and freedom on more equal grounds without relying on violent institutions like governments.
 * [Crypto Anarchy and Virtual Communities - The Art of Not Being Governed](http://web.archive.org/web/20190427171909/www.notbeinggoverned.com/crypto-anarchy-virtual-communities/)
   > The combination of strong, unbreakable public key cryptography and virtual network communities in cyberspace will produce interesting and profound changes in the nature of economic and social systems. Crypto anarchy is the cyberspatial realization of anarcho-capitalism, transcending national boundaries and freeing individuals to make the economic arrangements they wish to make consensually.
   > 
   > Strong cryptography, exemplified by RSA (a public key algorithm) and PGP (Pretty Good Privacy), provides encryption that essentially cannot be broken with all the computing power in the universe. This ensures security and privacy. Public key cryptography is rightly considered to be a revolution.
+* [Cryptosovereignty](http://cryptosovereignty.org/)
+  > Cryptosovereignty is the personal power, economic liberty, and political praxis that exist in bitcoin directly, crypto assets generally, and the internet widely. It is the power of any single human — no matter their station of birth, class of wealth, or creed of faith — to choose to put their economic, social, and political rights into a new digital common-wealth that is inviolable and beyond the power of any and all governments to violate
 
 
 ## Cypherpunks
 
-* [THE CYPHERNOMICON - Tim C. May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt) 
-> - The Cypherpunks have existed since September, 1992. In that time, a vast amount has been written on cryptography, key escrow, Clipper, the Net, the Information Superhighway, cyber terrorists, and crypto anarchy. We have found ourselves (or _placed_ ourselves) at the center of the storm.
-> - This FAQ may help to fill in some gaps about what we're about, what motivates us, and where we're going. And maybe some useful knowledge on crypto, remailers, anonymity, digital cash, and other interesting things.
-* [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) 
-* [Jameson Lopp (@lopp)](https://twitter.com/lopp/status/1026139157125640192)
-  > The cost of maintaining one's privacy continues to rise as the cost of surveillance technology continues to fall. Most folks have neither the time nor the money to properly protect their privacy these days. Cypherpunks are the intolerant minority, the Spartans defending th...
-* [Bitcoin and the Rise of the Cypherpunks - CoinDesk](http://www.coindesk.com/the-rise-of-the-cypherpunks/) - [CryptoQuikRead_034](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_034---Bitcoin-and-the-Rise-of-the-Cypherpunks-e2ndtn)
-  > From bitcoin to blockchain to distributed ledgers, the cryptocurrency space is fast evolving, to the point where it can be difficult to see in which direction it’s headed.
-  > 
-  > But, we’re not without clues. While many of the innovations in the space are new, they’re built on decades of work that led to this point. By tracing this history, we can understand the motivations behind the movement that spawned bitcoin and share its vision for the future.
-* [Cypherpunk Essentials: A Beginner’s Guide to Crypto Privacy](https://thebitcoinnews.com/cypherpunk-essentials-a-beginners-guide-to-crypto-privacy/)
-  > The following op-ed on crypto privacy was written by Reuben Yap. He is the Chief Operations Officer of Zcoin. A corporate lawyer for ten years, specializing in institutional frameworks, Reuben founded one of SE Asia’s top VPN companies, bolehvpn.net. He graduated with a LLB from the University of Nottingham.
-  > 
-  > One of blockchain’s most notable and valued features is its transparency. In the original Bitcoin whitepaper, Satoshi Nakamoto described bitcoin as an ‘electronic coin’ with a ‘chain of digital signatures’, the history of ownership documented permanently and publicly. This idea of globally accessible financial records is a bold move away from the traditional banking system. This is precisely why privacy is an essential topic within the crypto ecosystem. 
-* [The untold history of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1) - [CryptoQuikRead_162](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_162---The-Untold-History-of-Bitcoin--Enter-The-Cypherpunks-e2ndpd) 
-  > In my previous article I addressed the underlying technologies that blockchain runs and the history behind how it all started. The primary focus of that article was the development of PGP encryption by Phil Zimmermann, the wonder of open source software and peer-to-peer networks that are almost impossible to stop.
-  > But how did all the pieces come together to ultimately create what we know today as Bitcoin?
-* [Nick Szabo 🔑 (@NickSzabo4)](https://twitter.com/NickSzabo4/status/1012373493252419584)
-  > My bit gold design in 1998 was 2-layer: bit gold for settlement, Chaumian e-cash for a privacy-enhanced payments layer.  I've always thought of Bitcoin as evolving into a settlements-and-large-payments layer that in the long term needed a layer 2 for consumer payments.
-* [Untold History of Bitcoin: Enter the Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1)
-* [Cypherpunks and the failure of the Centralized Web](https://wiki.p2pfoundation.net/Cypherpunk_Movement)
-* [The Crypto-Anarchists by Brian Zuzga](https://groups.csail.mit.edu/mac/classes/6.805/student-papers/fall94-papers/brian-zuzga.html) ('94)
-* [Privacy-enhancing technologies for the Internet](https://www.cypherpunks.ca/~iang/pubs/privacy-compcon97.pdf) by Ian Goldberg David Wagner Eric Brewer ('96)
-  > The increased use of the Internet for everyday activities is bringing new threats to personal privacy. This paper gives an overview of existing and potential privacy enhancing technologies for the Internet, as well as motivation and challenges for future work in this field
-* [R.I.P. Cypherpunks](https://www.securityfocus.com/news/294) ('01)
-* [Crypto Anarchy, Cyberstates, and Pirate
-Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstates_and_Pirate_Utopias.pdf)
-* [RU Sirius on the history of cypherpunk](https://boingboing.net/2013/03/07/ru-sirius-on-the-history-of-cy.html)
-* [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) ϟ ('15)
-* [An Introduction to the Cypherpunk Tale](https://news.bitcoin.com/introduction-cypherpunk-tale/)
 * [Bitcoin and the rise of the Cypherpunks](https://www.coindesk.com/the-rise-of-the-cypherpunks) by Jameson Lopp ('16) - [CryptoQuikRead_034](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_034---Bitcoin-and-the-Rise-of-the-Cypherpunks-e2ndtn)
   * 1980s, Dr David Chaum 
   * late 1992, Eric Hughes, Timothy C May, and John Gilmore founded cypherpunks
@@ -267,12 +216,6 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
     * Philip Zimmermann: Creator of PGP 1.0
   * In 1997, Dr Adam Back created Hashcash
   * Later in 1998, Wei Dai published a proposal for “b-money”,
-* [Donald McIntyre ☣️🗑️ (@TokenHash)](https://twitter.com/tokenhash/status/1165322032361246720?s=12)
-  > No. There were hundreds of cypherpunks with different goals, ideologies and world views. 
-  > • Digicash was the "payments". 
-  > • RPOW, then BitGold were the "store of value + payments" (which are inseparable). The latter were the correct models and Bitcoin is designed afte...
-* [Nick Szabo 🔑 @NickSzabo4](https://twitter.com/NickSzabo4/status/1165334657170165761)
-  > The whole idea of having an independent currency, rather than just more private or censorship resistant payments for existing currencies, didn't exist among either cypherpunks or academic cryptographers until libertarian futurists introduced it.
 * [Early Cypherpunks](https://cryptoanarchy.wiki/people-and-organisations/early-cypherpunks) - cryptoanarchy.wiki
   > - Adam Back - 90s Cypherpunk, Inventor of HashCash, CEO of Blockstream
   > - David D. Friedman - Son of Milton, Anarcho-Capitalist theorist, Not a Cypherpunk but "Crypto-Anarchy" draws a lot from his work
@@ -292,12 +235,35 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
   > - Timothy C. May - Founding member of Cypherpunk Mailing List, writer of "The Crypto-Anarchist Manifesto" and the "Cyphernomicon" (mailing list FAQ)
   > - Vinay Gupta - 90s Cypherpunk, Inventor of the Hexayurt, Resilience Guru, Involved with Ethereum
   > - Wei Dai - 90s Cypherpunk, Cryptographer, Creator of Bitcoin-precursor B-Money
-* [JW Weatherman - Cypherpunk Interviews - YouTube](https://www.youtube.com/playlist?list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP)
-  > - [The Most Important Man Since Satoshi? JW Interviews Cody Wilson](https://www.youtube.com/watch?v=-9OML5D8RMo&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=2&t=1s)
-  > - [JW Weatherman Interviews Cypherpunk Legend Timothy C May—Author of the Cyphernomicon](https://www.youtube.com/watch?v=MrGLraSiRZk&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=3&t=1165s)
-  > - [Bill Scannell holding a shotgun on a digital safehaven oil rig](https://www.youtube.com/watch?v=gaUBVkysw2k&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=4&t=25s) 
-  > - [Vigilante Justice with Jim Bell](https://www.youtube.com/watch?v=nsbt125pn8I&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=5&t=0s)
-  > - [JW Weatherman Interviews Lyn Ulbricht, Mother of Ross Ulbricht and a True Warrior](https://www.youtube.com/watch?v=6mchvEkfVeg&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=6&t=3717s)
+* [THE CYPHERNOMICON: Cypherpunks FAQ and More - 1994 - Tim May](https://nakamotoinstitute.org/static/docs/cyphernomicon.txt)[[**ϟ**](https://web.archive.org/web/20110514104800/http://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html)]
+  > - The Cypherpunks have existed since September, 1992. In that time, a vast amount has been written on cryptography, key escrow, Clipper, the Net, the Information Superhighway, cyber terrorists, and crypto anarchy. We have found ourselves (or _placed_ ourselves) at the center of the storm.
+  > - This FAQ may help to fill in some gaps about what we're about, what motivates us, and where we're going. And maybe some useful knowledge on crypto, remailers, anonymity, digital cash, and other interesting things.
+* [Activism: Cypherpunks](https://www.activism.net/cypherpunk/) 
+* [Jameson Lopp (@lopp)](https://twitter.com/lopp/status/1026139157125640192)
+  > The cost of maintaining one's privacy continues to rise as the cost of surveillance technology continues to fall. Most folks have neither the time nor the money to properly protect their privacy these days. Cypherpunks are the intolerant minority, the Spartans defending th...
+* [Cypherpunk Essentials: A Beginner’s Guide to Crypto Privacy](https://thebitcoinnews.com/cypherpunk-essentials-a-beginners-guide-to-crypto-privacy/)
+  > The following op-ed on crypto privacy was written by Reuben Yap. He is the Chief Operations Officer of Zcoin. A corporate lawyer for ten years, specializing in institutional frameworks, Reuben founded one of SE Asia’s top VPN companies, bolehvpn.net. He graduated with a LLB from the University of Nottingham.
+  > 
+  > One of blockchain’s most notable and valued features is its transparency. In the original Bitcoin whitepaper, Satoshi Nakamoto described bitcoin as an ‘electronic coin’ with a ‘chain of digital signatures’, the history of ownership documented permanently and publicly. This idea of globally accessible financial records is a bold move away from the traditional banking system. This is precisely why privacy is an essential topic within the crypto ecosystem. 
+* [The Untold History of Bitcoin, Enter The Cypherpunks](https://medium.com/swlh/the-untold-history-of-bitcoin-enter-the-cypherpunks-f764dee962a1) - [CryptoQuikRead_162](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_162---The-Untold-History-of-Bitcoin--Enter-The-Cypherpunks-e2ndpd) 
+  > In my previous article I addressed the underlying technologies that blockchain runs and the history behind how it all started. The primary focus of that article was the development of PGP encryption by Phil Zimmermann, the wonder of open source software and peer-to-peer networks that are almost impossible to stop.
+  > But how did all the pieces come together to ultimately create what we know today as Bitcoin?
+* [Nick Szabo 🔑 (@NickSzabo4)](https://twitter.com/NickSzabo4/status/1012373493252419584)
+  > My bit gold design in 1998 was 2-layer: bit gold for settlement, Chaumian e-cash for a privacy-enhanced payments layer.  I've always thought of Bitcoin as evolving into a settlements-and-large-payments layer that in the long term needed a layer 2 for consumer payments.
+* [Cypherpunks and the failure of the Centralized Web](https://wiki.p2pfoundation.net/Cypherpunk_Movement)
+* [The Crypto-Anarchists by Brian Zuzga](https://groups.csail.mit.edu/mac/classes/6.805/student-papers/fall94-papers/brian-zuzga.html) ('94)
+* [Privacy-enhancing technologies for the Internet](https://www.cypherpunks.ca/~iang/pubs/privacy-compcon97.pdf) by Ian Goldberg David Wagner Eric Brewer ('96)
+  > The increased use of the Internet for everyday activities is bringing new threats to personal privacy. This paper gives an overview of existing and potential privacy enhancing technologies for the Internet, as well as motivation and challenges for future work in this field
+* [R.I.P. Cypherpunks](https://www.securityfocus.com/news/294) ('01)
+* [RU Sirius on the history of cypherpunk](https://boingboing.net/2013/03/07/ru-sirius-on-the-history-of-cy.html)
+* [Cypherpunks Write Code](https://www.americanscientist.org/article/cypherpunks-write-code) ϟ ('15)
+* [An Introduction to the Cypherpunk Tale](https://news.bitcoin.com/introduction-cypherpunk-tale/)
+* [Donald McIntyre ☣️🗑️ (@TokenHash)](https://twitter.com/tokenhash/status/1165322032361246720?s=12)
+  > No. There were hundreds of cypherpunks with different goals, ideologies and world views. 
+  > • Digicash was the "payments". 
+  > • RPOW, then BitGold were the "store of value + payments" (which are inseparable). The latter were the correct models and Bitcoin is designed afte...
+* [Nick Szabo 🔑 @NickSzabo4](https://twitter.com/NickSzabo4/status/1165334657170165761)
+  > The whole idea of having an independent currency, rather than just more private or censorship resistant payments for existing currencies, didn't exist among either cypherpunks or academic cryptographers until libertarian futurists introduced it.
 * [Roger Ver (@rogerkver)](https://twitter.com/rogerkver/status/387000334658183169?s=20)
   > I just helped Neal Stephenson, author of Cryptonomicon, setup his first Bitcoin wallet thanks to @blockchain
 * [The Cypherpunks and Bitcoin. The years before bitcointalk.](https://bitcointalk.org/index.php?topic=4356808.0)
@@ -305,19 +271,21 @@ Utopias](https://monoskop.org/images/4/42/Ludlow_Peter_Crypto_Anarchy_Cyberstate
 
 ## Video \ Audio
 
-* [Blockchain at Berkeley](https://www.youtube.com/channel/UC5sgoRfoSp3jeX4DEqKLwKg)
 * [Bitcoin History: From the Cypherpunk Movement to JPMorgan Chase](https://www.youtube.com/watch?v=apYieuvnUaE) - Cryptocurrency Decal Fall 2016 Lecturers: Andrew Tu and Max Fang
 * [Kimotho Kamau (@kimothokk)](https://twitter.com/kimothokk/status/1070251822814818304)
-@nlw The cypherphunks series by @JWWeatherman_ where he interviews the legendary Timothy C May, author of the Crypto-Anarchist Manifesto. A classic narration of the origins of Bitcoin and other cryptography tools. It surely deserves more than 1.1k views on YT 
-* [Cypherpunk Interviews - YouTube](https://www.youtube.com/playlist?list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP)
-* CryptoQuikRead_162 - [The Untold History of Bitcoin, Enter The Cypherpunks](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_162---The-Untold-History-of-Bitcoin--Enter-The-Cypherpunks-e2ndpd)
-* CryptoQuikRead_163 - [A Cypherpunk's Manifesto](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_163---A-Cypherpunks-Manifesto-e2ndpc)
+  > @nlw The cypherphunks series by @JWWeatherman_ where he interviews the legendary Timothy C May, author of the Crypto-Anarchist Manifesto. A classic narration of the origins of Bitcoin and other cryptography tools. It surely deserves more than 1.1k views on YT 
+* [JW Weatherman - Cypherpunk Interviews - YouTube](https://www.youtube.com/playlist?list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP)
+  > - [The Most Important Man Since Satoshi? JW Interviews Cody Wilson](https://www.youtube.com/watch?v=-9OML5D8RMo&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=2&t=1s)
+  > - [JW Weatherman Interviews Cypherpunk Legend Timothy C May—Author of the Cyphernomicon](https://www.youtube.com/watch?v=MrGLraSiRZk&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=3&t=1165s)
+  > - [Bill Scannell holding a shotgun on a digital safehaven oil rig](https://www.youtube.com/watch?v=gaUBVkysw2k&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=4&t=25s) 
+  > - [Vigilante Justice with Jim Bell](https://www.youtube.com/watch?v=nsbt125pn8I&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=5&t=0s)
+  > - [JW Weatherman Interviews Lyn Ulbricht, Mother of Ross Ulbricht and a True Warrior](https://www.youtube.com/watch?v=6mchvEkfVeg&list=PLxxj-sCQ0oJLQgZcNoTu2LIVbVdLRMQrP&index=6&t=3717s)
 * CryptoQuikRead_174 - [@real_vijay on How Cypherpunks Changed Economics for the Digital Age](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_174---real_vijay-on-How-Cypherpunks-Changed-Economics-for-the-Digital-Age-e2ndou)
 
 
 ## Books
 
-What follows is a list of books that were influential upon early cypherpunks. As time goes on, I'll add more modern material. Also, Cypherpunk is an offshoot of Cyberpunk, as such, there is much overlapp in the culture and cyberpunk literature should be of interest to those trying to delve into the cypherpunk mythos.
+What follows is a list of books that were influential upon early cypherpunks. As time goes on, I'll add more modern material. Also, Cypherpunk is an offshoot of Cyberpunk, as such, there is much overlapp in the culture and cyberpunk literature should be of interest to those delving into the cypherpunk mythos.
 
 [![](https://i.imgur.com/XW3Cbqz.png)](https://www.goodreads.com/book/show/22332.Cyberpunk_and_Cyberculture)
   * Cyberpunk and Cyberculture: Science Fiction and the Work of William Gibson. ^^^ Really excellent literary review!
@@ -412,6 +380,7 @@ What follows is a list of books that were influential upon early cypherpunks. As
 > Leslie Lamport, one of the fathers of the field of distributed systems, once famously said,
 > 
 > A distributed system is one in which the failure of a computer you didn’t even know existed can render your own computer unusable.
+>
 > This quote encapsulates why it is so difficult to design distributed systems. Each node in the system is part of the larger network and relies on communicating with other nodes in order to get something done. The abundance of moving pieces makes these systems some of the hardest to develop. However, the benefits of being able to use the power of many computers linked together motivated decades of computer scientists to research ways to overcome these challenges.
 
 * [The Origin of Blockchains](https://medium.com/blockchains-an-informal-deep-dive/the-origin-of-blockchains-da6c0c5f52) - What is a Distributed System?
@@ -440,12 +409,13 @@ What follows is a list of books that were influential upon early cypherpunks. As
   >Bitcoin was not forged in a vacuum. These works serve to contextualize Bitcoin into the broader story of cryptography and freedom.
 * [reiver/blockchain-reading-list](https://github.com/reiver/blockchain-reading-list) - this list has a bunch of the early essential blockchain reading
 * [Jameson Lopp](https://www.coindesk.com/author/jameson-lopp)
-* [activism.net/cypherpunk/manifesto.html](https://www.activism.net/cypherpunk/manifesto.html) -[Crypto Quickread](https://cryptoconomy.podbean.com/e/cryptoquikread_163-a-cypherpunks-manifesto/)
 * [tombusby/cypherpunk-research#technical-](https://github.com/tombusby/cypherpunk-research#technical-) 
   > This repository is essentially for compiling information about Cypherpunks, the history of the movement, and the people/events of note.
 * [#21MILLIONS - Épisode 1 - Cypherpunk : la préhistoire du Bitcoin (avec Manuel Valente)](https://soundcloud.com/21millions/21millions-episode-1-cypherpunk-la-prehistoire-du-bitcoin-avec-manuel-valente)
 * [cypherpunksbr/cypherpunks.com.br](https://github.com/cypherpunksbr/cypherpunks.com.br)
   > Repositório do site cypherpunks.com.br. Contribute to cypherpunksbr/cypherpunks.com.br development by creating an account on GitHub.
+
+
 
 ---
 

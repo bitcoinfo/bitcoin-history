@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
-title: History — Resources and Timelines
+subheadline: "History — "
+title: Resources and Timelines
 teaser: 
 excerpt: >
   "The first recorded claim of bitcoin’s demise was in 2010, on a little-known blog that found itself posted on a record of 'bitcoin obituaries' collected by 99Bitcoins, a bitcoin information site."

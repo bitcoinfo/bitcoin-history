@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
-title: History — Bitcoin
+subheadline: "History — "
+title: Bitcoin
 subtitle: An assortment of links across the decade of Bitcoin's History
 teaser: It's all Bitcoin's History.
 permalink: /history/bitcoin/
