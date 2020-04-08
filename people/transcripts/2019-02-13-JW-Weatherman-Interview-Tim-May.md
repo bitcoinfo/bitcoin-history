@@ -1,7 +1,8 @@
 ---
 layout: page-fullwidth
+subheadline: Transcript
 title: "JW Weatherman Inverviews Cypherpunk Legend"
-description: "Transcript of interview with Tim May - Crypto Origin Stories."
+teaser: "Interview with Tim May - Crypto Origin Stories."
 excerpt: >
   "As a quick introduction: by the mid 80s Tim was already famous for solving something called the alpha particle problem when he was working at Intel and then in the early nineties he and a few friends founded the cypherpunk movement, and that's responsible for a lot of the freedom that we enjoy today. <br/><br/>
 
@@ -12,7 +13,6 @@ header:
   og_image: https://i.imgur.com/janGoN1.png
 last_modified_at: 2019-04-20T11:22:33-23:00
 cannonical_url: 'https://sourcecrypto.pub/posts/transcripts/JW-Weatherman-Interview-Tim-May/'
-
 permalink: /history/people/timothy-c-may/weatherman-interview/
 categories: ["History","People"]
 tags: ["Cypherpunk","Tim May"]
