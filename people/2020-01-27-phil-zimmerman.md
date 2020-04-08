@@ -1,6 +1,7 @@
 ---
 layout: page-fullwidth
 title: Phil Zimmerman
+teaser: 
 permalink: /history/people/phil-zimmerman/
 categories: ["History","People"]
 tags: ["Cypherpunk"]
