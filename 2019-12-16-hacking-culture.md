@@ -1,8 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: "Bitcoin History"
+subheadline: "Read Stephen Levy"
 title: "Hacking and Hacker Culture."
-teaser: "MIT AI Intelligence Lab, the Hacker Ethic and Beyond (you should probably just read Stephen Levy)."
+teaser: "MIT AI Intelligence Lab, the Hacker Ethic and Beyond."
 categories:
     - History
 tags:
@@ -18,15 +18,6 @@ permalink: /history/early-internet/hacker-culture/
 directory: 2019-12-16-hacking-culture.md
 ---
 
-
-[A Brief History of Hackerdom](http://catb.org/~esr/writings/hacker-history/hacker-history.html#toc3) by Eric S. Raymond
-  * [Prologue: The Real Programmers](http://catb.org/~esr/writings/hacker-history/hacker-history-2.html)
-  * [The Early Hackers](http://catb.org/~esr/writings/hacker-history/hacker-history-3.html)
-  * [The Rise of Unix](http://catb.org/~esr/writings/hacker-history/hacker-history-4.html)
-  * [The End of Elder Days](http://catb.org/~esr/writings/hacker-history/hacker-history-5.html)
-  * [The Proprietary-Unix Era](http://catb.org/~esr/writings/hacker-history/hacker-history-4.html)
-  * [The Early Free Unixes](http://catb.org/~esr/writings/hacker-history/hacker-history-7.html)
-  * [The Great Web Explosion](http://catb.org/~esr/writings/hacker-history/hacker-history-8.html)
 
 * [Thesis - Section II: Historical background on the phenomenon](https://iterative.capital/section-ii/)
   > Section II Historical Background On The Phenomenon Using context to understand why hackers set out to build digital currency systems. “Corporations have neither bodies to be punished, nor souls to be condemned; they therefore do as they li..
@@ -54,7 +45,7 @@ directory: 2019-12-16-hacking-culture.md
   > The Harvard-Yale game had just been hacked.
 * [What the Hack? Tracing the Origins of Hacker Culture and the Hacker Ethic](https://www.channelfutures.com/open-source/what-the-hack-tracing-the-origins-of-hacker-culture-and-the-hacker-ethic)
   >  It is difficult to associate open source with "hacker culture" or "the hacker ethic." Instead, open source values, and projects such as Linux, can be traced to academia.
-[A Short History of “Hack”](https://www.newyorker.com/tech/annals-of-technology/a-short-history-of-hack)
+* [A Short History of “Hack”](https://www.newyorker.com/tech/annals-of-technology/a-short-history-of-hack)
 
 "Before Amazon, before eBay, the seminal act of e-commerce was a drug deal." [*What the Dormouse Said*](http://www.conspiracyschool.com/sites/default/files/resources/John%2520Markoff%2520-%2520What%2520the%2520Dormouse%2520Said%2520-%2520How%2520the%2520Sixties%2520Counterculture%2520Shaped%2520the%2520Personal%2520Computer%2520Industry.pdf)
 
@@ -73,6 +64,7 @@ directory: 2019-12-16-hacking-culture.md
 
 
 ## Hacker Spirit
+
 * [I Like the Noise of the Computer](https://hackernoon.com/i-like-the-noise-of-the-computer-b37f7fd8be28) and I will miss it
 * [Thesis - Section II: Historical background on the phenomenon](https://iterative.capital/section-ii/) - [CryptoQuikRead_187](https://anchor.fm/thecryptoconomy/episodes/CryptoQuikRead_187---The-Cryptocurrency-Phenomenon-Part-2-e2ndoe)
   > Section II Historical Background On The Phenomenon Using context to understand why hackers set out to build digital currency systems. “Corporations have neither bodies to be punished, nor souls to be condemned; they therefore do as they li...
@@ -83,46 +75,46 @@ directory: 2019-12-16-hacking-culture.md
 
 ## Open Source
 
-
-[http://www.catb.org/esr/writings/homesteading/homesteading/](http://www.catb.org/esr/writings/homesteading/homesteading/)
-
-[https://www.gnu.org/philosophy/](https://www.gnu.org/philosophy/)
-
-[https://www.gnu.org/gnu/gnu.html](https://www.gnu.org/gnu/gnu.html)
+* [Homesteading the Noosphere - Eric Steven Raymond](http://www.catb.org/esr/writings/homesteading/homesteading/)
+* [Philosophy of the GNU Project](https://www.gnu.org/philosophy/)
+* [The GNU Operating System](https://www.gnu.org/gnu/gnu.html)
 
 ## Linux
 
-[http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+* [The Cathedral and the Bazaar - Eric Steven Raymond](http://www.catb.org/esr/writings/cathedral-bazaar/cathedral-bazaar/)
+* [Revolution OS (2001) Full movie](https://www.youtube.com/watch?v=-1h4RNetLbg)
+  > "Revolution OS" tells the inside story of the hackers who rebelled against Microsoft and created GNU/Linux and the Open Source movement. Microsoft fears GNU/Linux, and rightly so. GNU/Linux and the Open Source & Free Software movements arguably represent the greatest threat to Microsoft's way of life.
+* [A Brief History of Hackerdom](http://catb.org/~esr/writings/hacker-history/hacker-history.html#toc3) by Eric S. Raymond
+  * [Prologue: The Real Programmers](http://catb.org/~esr/writings/hacker-history/hacker-history-2.html)
+  * [The Early Hackers](http://catb.org/~esr/writings/hacker-history/hacker-history-3.html)
+  * [The Rise of Unix](http://catb.org/~esr/writings/hacker-history/hacker-history-4.html)
+  * [The End of Elder Days](http://catb.org/~esr/writings/hacker-history/hacker-history-5.html)
+  * [The Proprietary-Unix Era](http://catb.org/~esr/writings/hacker-history/hacker-history-4.html)
+  * [The Early Free Unixes](http://catb.org/~esr/writings/hacker-history/hacker-history-7.html)
+  * [The Great Web Explosion](http://catb.org/~esr/writings/hacker-history/hacker-history-8.html)
 
-[Revolution OS (2001) Full movie](https://www.youtube.com/watch?v=-1h4RNetLbg)
-
-"Revolution OS" tells the inside story of the hackers who rebelled against Microsoft and created GNU/Linux and the Open Source movement. Microsoft fears GNU/Linux, and rightly so. GNU/Linux and the Open Source & Free Software movements arguably represent the greatest threat to Microsoft's way of life.
 
 ## Xanadu
 
-[https://www.w3.org/Xanadu.html](https://www.w3.org/Xanadu.html)
 
-[Ted Nelson and the Xanadu Hypertext System](http://scihi.org/ted-nelson-xanadu-hypertext-system/)
-
-On June 17, 1937, American pioneer of information technology, philosopher, and sociologist Theodore Holm "Ted" Nelson was born. Nelson coined the terms hypertext and hypermedia in 1963 and publishe
-
-[Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
-
-Project Xanadu was the first hypertext project, founded in 1960 by Ted Nelson. Administrators of Project Xanadu have declared it an improvement over the World Wide Web, with mission statement: "Today's popular software simulates paper. The World Wide Web (another imitation of...
-
-[http://www.xanadu.com/](http://www.xanadu.com/)
+* [Xanadu.com](http://www.xanadu.com/)
+* [w3.org/Xanadu.html](https://www.w3.org/Xanadu.html)
+* [Ted Nelson and the Xanadu Hypertext System](http://scihi.org/ted-nelson-xanadu-hypertext-system/)
+  > On June 17, 1937, American pioneer of information technology, philosopher, and sociologist Theodore Holm "Ted" Nelson was born. Nelson coined the terms hypertext and hypermedia in 1963 and publishe
+* [Project Xanadu](https://en.wikipedia.org/wiki/Project_Xanadu)
+  > Project Xanadu was the first hypertext project, founded in 1960 by Ted Nelson. Administrators of Project Xanadu have declared it an improvement over the World Wide Web, with mission statement: "Today's popular software simulates paper. The World Wide Web (another imitation of...
 
 
 ## Silicon Valley
 
 [Steve Blank Secret History of Silicon Valley](https://steveblank.com/category/secret-history-of-silicon-valley/)
 
-[https://vimeo.com/15992737](https://vimeo.com/15992737)
+[Tech Talk: Steve Blank — “The Secret History of Silicon Valley: How Stanford & the CIA/NSA Built the Valley We Know Today”](https://vimeo.com/15992737) - VIMEO
 
 ## ETC
 
 * [A New Digital Manifesto](https://anewdigitalmanifesto.com) -[newsycombinator comments](https://news.ycombinator.com/item?id=21443755)
-[DEF CON and Stack Overflow: What Our Traffic Says About Cybersecurity](https://stackoverflow.blog/2019/08/08/def-con-stack-overflow-traffic-data-trends/?cb=1) - [Hacker News](https://news.ycombinator.com/item?id=20661311)
+* [DEF CON and Stack Overflow: What Our Traffic Says About Cybersecurity](https://stackoverflow.blog/2019/08/08/def-con-stack-overflow-traffic-data-trends/?cb=1) - [Hacker News](https://news.ycombinator.com/item?id=20661311)
   > Today is the first day of DEF CON 27, arguably the world’s best known hacker convention. Each year, thousands of people interested in security (and/or the hacking thereof) travel to Las Vegas to learn and gather with like-minded community. Some also attend Black Hat, a related conference which is typically scheduled right before DEF CON, also in Las Vegas. Not everyone who identifies as a hacker or is part of hacker culture writes code or uses Stack Overflow, but we would expect a significant proportion to do so. Well over 25,000 people attended DEF CON in 2018, all located in Las Vegas. Can we see any differences in traffic to Stack Overflow during the days of DEF CON? What can we learn about the hacker community from traffic during that time?
 * [Birth of a Digital Nation](https://www.wired.com/1997/04/netizen-3/)
   > And perhaps the toughest questions of all: Can we build a new kind of politics? Can we construct a more civil society with our powerful technologies? Are we extending the evolution of freedom among human beings? Or are we nothing more than a great, wired babble pissing into the digital wind?

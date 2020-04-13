@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "Bitcoin History"
-title: Digital Cryptography
+subheadline: "All roads lead back to Chaum"
+title: Histories of Digital Cryptography
 teaser: Hash Algorithms, Public Key Crypto, and Digital Signatures, oh my!
 categories: ["History"]
 tags: ["Before Bitcoin","Cryptography", "Early Internet"]

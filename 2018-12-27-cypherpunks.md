@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Bitcoin History"
+subheadline: "Early advocacy for digital sovereignty"
 title: Cypherpunks and the Crypto Wars
 teaser: "Eric Hughes, John Gilmore, John Perry Barlow, Timothy C. May, Julian Assange, Nick Szabo...."
 excerpt: "Phil Zimmermann was a key player in this period. The PGP software he authored was considered as munitions by the US government and subject to export licenses. The US government at this time was keen to avoid strong crypto falling into the hands of civilians and foreign governments."

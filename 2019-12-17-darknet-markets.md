@@ -1,6 +1,6 @@
 ---
-subheadline: "Bitcoin History"
-title: Darknet Markets
+subheadline: "Digital Sovereignty and Direct Action"
+title: Darknet Market Histories
 teaser: "The Onion Router, Ross Ulbricht, the Silk Road, and related history."
 last_modified_at: 2020-02-02T13:22:33-23:00
 permalink: /history/darknet-markets/

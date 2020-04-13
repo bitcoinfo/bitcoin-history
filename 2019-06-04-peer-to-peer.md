@@ -1,10 +1,9 @@
 ---
 layout: page-fullwidth
-subheadline: "Bitcoin History"
-title: "Evolution P2P Application"
+subheadline: "Early examples of P2P technology"
+title: "Peer to Peer rEvolution and Histories"
 teaser: "Napster, Limewire, Bittorrent, IPFS, Freenet, Open Bazaar etc."
 categories: History 
-subtitle: Description of the participating organizations at the decentralized-web summit.
 permalink: /peer-to-peer/
 last_modified_at: 2020-03-02T11:22:33-23:00
 directory: 2019-06-04-peer-to-peer.md

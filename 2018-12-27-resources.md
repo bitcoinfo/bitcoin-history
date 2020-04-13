@@ -1,6 +1,6 @@
 ---
 layout: page-fullwidth
-subheadline: "Bitcoin History"
+subheadline: "Survey of the history surrounding Bitcoin"
 title: Resources and Timelines
 teaser: 
 excerpt: >

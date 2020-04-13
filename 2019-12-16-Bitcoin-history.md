@@ -1,9 +1,8 @@
 ---
 layout: page-fullwidth
-subheadline: "Bitcoin History"
-title: Bitcoin
-subtitle: An assortment of links across the decade of Bitcoin's History
-teaser: It's all Bitcoin's History.
+subheadline: "The actual history of Bitcoin itself"
+title: Bitcoin History Curated
+teaser: Bitcoin's journey through the years
 permalink: /history/bitcoin/
 categories: ["History"]
 header: no

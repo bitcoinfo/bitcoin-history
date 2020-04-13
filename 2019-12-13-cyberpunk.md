@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
-subheadline: "Bitcoin History"
-title: Cyberpunks 
+subheadline: "Information was meant to be free"
+title: Cyberpunk History 
 teaser: Phone Phreaks, BBS, Warez, and Cult of the Dead Cow
 header: no
 categories: ["History"]
